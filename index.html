@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Montgomery County Commercial Permit Tracker</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="page-shell">
+    <header class="hero">
+      <div class="hero-left">
+        <div class="badge">Montgomery County, MD</div>
+        <h1>Commercial Permit Tracker</h1>
+        <p class="subtitle">
+          Daily-updated tracker of commercial permit filings filtered to bioscience,
+          business, industrial, factory, and related use codes.
+        </p>
+      </div>
+
+      <div class="hero-right">
+        <div class="stat-card">
+          <div class="stat-label">Last Updated</div>
+          <div class="stat-value" id="lastUpdated">Loading...</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">Matching Permits</div>
+          <div class="stat-value" id="recordCount">--</div>
+        </div>
+      </div>
+    </header>
+
+    <section class="controls">
+      <div class="control-group">
+        <label for="usecodeFilter">Building Type</label>
+        <select id="usecodeFilter">
+          <option value="ALL">All Building Types</option>
+        </select>
+      </div>
+
+      <div class="control-group">
+        <label for="worktypeFilter">Permit Type</label>
+        <select id="worktypeFilter">
+          <option value="ALL">All Permit Types</option>
+        </select>
+      </div>
+
+      <div class="control-group">
+        <label for="statusFilter">Permit Status</label>
+        <select id="statusFilter">
+          <option value="ALL">All Statuses</option>
+        </select>
+      </div>
+
+      <div class="control-group search-group">
+        <label for="searchInput">Search</label>
+        <input
+          id="searchInput"
+          type="text"
+          placeholder="Search location, description, permut status, building type, or permit status..."
+        />
+      </div>
+
+      <div class="control-group">
+        <label for="valueMin">Min Valuation</label>
+        <input id="valueMin" type="number" min="0" step="1" placeholder="e.g. $10,000" />
+      </div>
+
+      <div class="control-group">
+        <label for="valueMax">Max Valuation</label>
+        <input id="valueMax" type="number" min="0" step="1" placeholder="e.g. $10,000,000" />
+      </div>
+
+      <div class="control-group">
+        <label for="areaMin">Min Building Size (sf)</label>
+        <input id="areaMin" type="number" min="0" step="1" placeholder="e.g. 10,000 sf" />
+      </div>
+
+      <div class="control-group">
+        <label for="areaMax">Max Building Size (sf)</label>
+        <input id="areaMax" type="number" min="0" step="1" placeholder="e.g. 100 sf" />
+      </div>
+
+      <div class="control-group">
+        <label for="sortSelect">Sort</label>
+        <select id="sortSelect">
+          <option value="newest">Newest Added Date</option>
+          <option value="oldest">Oldest Added Date</option>
+          <option value="value_desc">Highest Valuation</option>
+          <option value="value_asc">Lowest Valuation</option>
+          <option value="area_desc">Largest Building Area</option>
+          <option value="area_asc">Smallest Building Area</option>
+        </select>
+      </div>
+
+      <div class="control-group">
+        <button id="resetBtn" class="reset-btn">Reset Filters</button>
+      </div>
+    </section>
+
+    <section class="table-section">
+      <div class="table-wrap">
+        <table id="permitsTable">
+          <thead>
+            <tr>
+              <th>Location</th>
+              <th>Permit Status</th>
+              <th>Building Type</th>
+              <th>Declared Valuation</th>
+              <th>Building Size (sf)</th>
+              <th>Permit Type</th>
+              <th>Description</th>
+              <th>Added Date</th>
+              <th>Issued Date</th>
+              <th>Finaled Date</th>
+            </tr>
+          </thead>
+          <tbody id="permitsTableBody">
+            <tr>
+              <td colspan="10" class="loading-row">Loading permits...</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
