@@ -2,6 +2,7 @@ import csv
 import io
 import json
 import os
+import time
 from datetime import datetime, timezone
 from typing import Any, Dict, List, Optional
 
@@ -27,6 +28,8 @@ TARGET_USECODES = {
 }
 
 REQUEST_TIMEOUT = 60
+MAX_RETRIES = 3
+RETRY_WAIT_SECONDS = 5
 
 
 # --------------------------------------------------
@@ -40,16 +43,30 @@ def fetch_csv_text() -> str:
         "User-Agent": "Mozilla/5.0 PermitTracker/1.0"
     }
 
-    for url in SOURCE_URLS:
-        try:
-            resp = requests.get(url, headers=headers, timeout=REQUEST_TIMEOUT)
-            resp.raise_for_status()
-            if resp.text and "permitno" in resp.text.lower():
-                return resp.text
-        except Exception as exc:
-            last_error = exc
+    for attempt in range(1, MAX_RETRIES + 1):
+        print(f"Fetch attempt {attempt} of {MAX_RETRIES}...")
 
-    raise RuntimeError(f"Failed to fetch dataset from all known endpoints. Last error: {last_error}")
+        for url in SOURCE_URLS:
+            try:
+                print(f"Trying: {url}")
+                resp = requests.get(url, headers=headers, timeout=REQUEST_TIMEOUT)
+                resp.raise_for_status()
+
+                if resp.text and "permitno" in resp.text.lower():
+                    print(f"Successfully fetched data from: {url}")
+                    return resp.text
+
+                last_error = RuntimeError(f"Response did not contain expected permit data from {url}")
+
+            except Exception as exc:
+                last_error = exc
+                print(f"Failed on {url}: {exc}")
+
+        if attempt < MAX_RETRIES:
+            print(f"Waiting {RETRY_WAIT_SECONDS} seconds before retrying...")
+            time.sleep(RETRY_WAIT_SECONDS)
+
+    raise RuntimeError(f"Failed to fetch dataset from all known endpoints after {MAX_RETRIES} attempts. Last error: {last_error}")
 
 
 def clean_text(value: Optional[str]) -> str:
