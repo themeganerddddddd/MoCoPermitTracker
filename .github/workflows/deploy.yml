@@ -3,7 +3,7 @@ name: Update and Deploy Permit Tracker
 on:
   workflow_dispatch:
   schedule:
-    - cron: "15 14 * * *" 
+    - cron: "25 14 * * *" 
 
 permissions:
   contents: write
