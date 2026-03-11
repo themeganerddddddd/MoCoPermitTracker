@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-10T20:55:00.278879+00:00",
+  "last_updated": "2026-03-11T15:08:04.563813+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10508,
+  "record_count": 10509,
   "permits": [
     {
       "location": "4747 BETHESDA AVE\nBETHESDA, MD 20814\n(38.98099, -77.09426)",
@@ -242,7 +242,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "",
+      "location": "2425 REEDIE DR\nSILVER SPRING, MD 20902\n(39.03969, -77.05233)",
       "status": "Open",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$3,000,000",
@@ -300,8 +300,8 @@
       "declaredvaluation_num": 15000.0,
       "buildingarea": "500 sf",
       "buildingarea_num": 500.0,
-      "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,1145150 is parent Building permit to this exterior work.",
+      "worktype": "ADD",
+      "description": "Customer Wants To Use ePlans Interior work only,1145150 is parent Building permit to this exterior work.",
       "addeddate": "2026-03-02T01:03:53.000",
       "issueddate": "",
       "finaleddate": "",
@@ -1297,7 +1297,7 @@
     },
     {
       "location": "7910 WOODMONT AVE\nBETHESDA, MD 20814\n(38.98931, -77.09629)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$300,000",
       "declaredvaluation_num": 300000.0,
@@ -1306,10 +1306,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,EXESTING INTERIOR TENANT FIT OUT THIS PROJECT WILL BE CONSTRUCTED IN (3) PHASES SINCE THE TENANT SPACE WILL BE OCCUPIDE DURING THE RENVOATION NO SYSTEM FURNITURE",
       "addeddate": "2026-01-16T04:01:38.000",
-      "issueddate": "",
+      "issueddate": "2026-03-10T03:03:11.000",
       "finaleddate": "",
       "addeddate_raw": "2026-01-16T04:01:38.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-03-10T03:03:11.000",
       "finaleddate_raw": ""
     },
     {
@@ -1321,7 +1321,7 @@
       "buildingarea": "5,743 sf",
       "buildingarea_num": 5743.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,SUITE 210 - 4,800 SF\nCOMMON AREA - 943 SF\nINTERIOR FIT OUT OF SPEC SUITE WITHIN EXISTING DEMISED WHITEBOX SUITES.  RENOVATION OF CORE RESTROOMS & ELEVATOR LOBBY.  INCLUDES MODIFICATIONS TO EXISTING MEP SYSTEMS.",
+      "description": "Customer Wants To Use ePlans Interior work only,SUITE 210 - 4,800 SF COMMON AREA - 943 SF INTERIOR FIT OUT OF SPEC SUITE WITHIN EXISTING DEMISED WHITEBOX SUITES. RENOVATION OF CORE RESTROOMS &amp; ELEVATOR LOBBY. INCLUDES MODIFICATIONS TO EXISTING MEP SYSTEMS.",
       "addeddate": "2026-01-16T03:01:26.000",
       "issueddate": "",
       "finaleddate": "",
@@ -1331,14 +1331,14 @@
     },
     {
       "location": "4800 HAMPDEN LN\nBETHESDA, MD 20814\n(38.98274, -77.09483)",
-      "status": "Stop Work",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$463,000",
       "declaredvaluation_num": 463000.0,
       "buildingarea": "2,987 sf",
       "buildingarea_num": 2987.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,SUITE 1120 = 2,190 SF\nSUITE 1160 = 797 SF\nTENANT FITOUT OF SPEC SUITES WITHIN EXISTING DEMISED WHITEBOX SUITES.  RENOVATIONS INCLUDE MODIFICATIONS TO EXISTING MEP SYSTEMS.",
+      "description": "Customer Wants To Use ePlans Interior work only,SUITE 1120 = 2,190 SF SUITE 1160 = 797 SF TENANT FITOUT OF SPEC SUITES WITHIN EXISTING DEMISED WHITEBOX SUITES. RENOVATIONS INCLUDE MODIFICATIONS TO EXISTING MEP SYSTEMS.",
       "addeddate": "2026-01-15T05:01:57.000",
       "issueddate": "2026-02-24T11:02:09.000",
       "finaleddate": "",
@@ -2317,7 +2317,7 @@
     },
     {
       "location": "9600 BLACKWELL RD\nROCKVILLE, MD 20850\n(39.10104, -77.19326)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$25,000",
       "declaredvaluation_num": 25000.0,
@@ -2326,10 +2326,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,New Tenant Fitout for Dental office Suite 525, Smiles Made Beautiful Bid Doc. or Cost Valuation is required.",
       "addeddate": "2025-12-02T09:12:17.000",
-      "issueddate": "",
+      "issueddate": "2026-03-10T02:03:57.000",
       "finaleddate": "",
       "addeddate_raw": "2025-12-02T09:12:17.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-03-10T02:03:57.000",
       "finaleddate_raw": ""
     },
     {
@@ -3112,6 +3112,23 @@
       "finaleddate": "",
       "addeddate_raw": "2025-10-29T04:10:09.000",
       "issueddate_raw": "2025-12-31T02:12:40.000",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "5406 WISCONSIN AVE\nCHEVY CHASE, MD 20815\n(38.96126, -77.086)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$240,612",
+      "declaredvaluation_num": 240612.0,
+      "buildingarea": "3,533 sf",
+      "buildingarea_num": 3533.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans Interior work only,DEMISING OF (1) EXISTING VACANT SUITE INTO (2) SMALLER SUITES: STE#D102A WHITE BOX W/ RESTROOMS, JANITOR CLOSET , STE#D102B WHITE BOX Per provided data in the Documents Folder = S304,819",
+      "addeddate": "2025-10-29T02:10:35.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2025-10-29T02:10:35.000",
+      "issueddate_raw": "",
       "finaleddate_raw": ""
     },
     {
@@ -12728,7 +12745,7 @@
       "buildingarea": "44,320 sf",
       "buildingarea_num": 44320.0,
       "worktype": "ALTER",
-      "description": "Revision ,2 - Plans to reflect the relocation of the injector pit and the oil interceptor pit,Customer Wants To Use ePlansRevision ,1 - Owner changes - REV #1,Customer Wants To Use ePlansCustomer Wants To Use ePlans,Renovation of interior spaces, new MEC systems, new sprinkler systems, modifications to existing fa�ade (new doors, window replacement, &amp; new metal panel rain screen fa�ade with decorative screening element). 1079305 � Main permit (Parent) Child 1097413 � Screen Wall. INSPECTIONS: Complex Structures - Structural only;&nbsp;COMB - Mech&amp;Arch/Build.",
+      "description": "Revision ,4 - At your request, Rathgeber/Goss Associates (RGA) has updated plans and details to reflect the relocation of the ejector pit and the oil interceptor pit. Please see below for a summary of updates,Customer Wants To Use ePlans Revision ,2 - Plans to reflect the relocation of the injector pit and the oil interceptor pit,Customer Wants To Use ePlans Revision ,1 - Owner changes - REV #1,Customer Wants To Use ePlans Customer Wants To Use ePlans,Renovation of interior spaces, new MEC systems, new sprinkler systems, modifications to existing fa�ade (new doors, window replacement, &amp; new metal panel rain screen fa�ade with decorative screening element). 1079305 � Main permit (Parent) Child 1097413 � Screen Wall. INSPECTIONS: Complex Structures - Structural only;&nbsp;COMB - Mech&amp;Arch/Build.",
       "addeddate": "2024-07-22T11:07:52.000",
       "issueddate": "2025-05-07T11:05:28.000",
       "finaleddate": "",
