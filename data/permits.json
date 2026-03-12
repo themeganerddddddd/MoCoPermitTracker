@@ -1,8 +1,42 @@
 {
-  "last_updated": "2026-03-11T15:08:04.563813+00:00",
+  "last_updated": "2026-03-12T15:13:43.551092+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10509,
+  "record_count": 10511,
   "permits": [
+    {
+      "location": "4504 WALSH ST\nCHEVY CHASE, MD 20815\n(38.9794, -77.09054)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$5,000",
+      "declaredvaluation_num": 5000.0,
+      "buildingarea": "10 sf",
+      "buildingarea_num": 10.0,
+      "worktype": "RESTORE AND / OR REPAIR",
+      "description": "Customer Wants To Use ePlans,REPLACE EXTERIOR DOOR AND REPAIR DAMAGED STUDS.",
+      "addeddate": "2026-03-11T09:03:25.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-03-11T09:03:25.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "10301 GEORGIA AVE\nSILVER SPRING, MD 20902\n(39.02423, -77.04507)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$129,954",
+      "declaredvaluation_num": 129954.0,
+      "buildingarea": "1,915 sf",
+      "buildingarea_num": 1915.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,TENANT FIT OUT.\n- INTERIOR RENOVATION FOR NEW OFFICE LAYOUT.",
+      "addeddate": "2026-03-11T08:03:50.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-03-11T08:03:50.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "4747 BETHESDA AVE\nBETHESDA, MD 20814\n(38.98099, -77.09426)",
       "status": "Open",
@@ -896,7 +930,7 @@
       "buildingarea": "5,946 sf",
       "buildingarea_num": 5946.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,Suite 3-400. Interior alterations for a new Daycare Facility to include an outdoor play area on the 3rd floor.",
+      "description": "Customer Wants To Use ePlans Interior work only,Suite 3-400. Interior alterations for a new Daycare Facility to include an outdoor play area on the 3rd floor.",
       "addeddate": "2026-02-04T11:02:21.000",
       "issueddate": "",
       "finaleddate": "",
@@ -1739,7 +1773,7 @@
     },
     {
       "location": "7272 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98217, -77.09324)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$102,650",
       "declaredvaluation_num": 102650.0,
@@ -1749,10 +1783,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,FAST TRACK - FURNITURE INSTALLATION ONLY ON THE 15TH FLOOR - FAST TRACK",
       "addeddate": "2025-12-16T11:12:17.000",
       "issueddate": "2026-01-07T07:01:46.000",
-      "finaleddate": "",
+      "finaleddate": "2026-03-11T12:03:03.000",
       "addeddate_raw": "2025-12-16T11:12:17.000",
       "issueddate_raw": "2026-01-07T07:01:46.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-03-11T12:03:03.000"
     },
     {
       "location": "7901 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.99004, -77.09518)",
@@ -2096,7 +2130,7 @@
     },
     {
       "location": "7272 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98217, -77.09324)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$259,400",
       "declaredvaluation_num": 259400.0,
@@ -2106,10 +2140,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,FURNITURE ONLY - FLOORS 16 THROUGH 19 - FURNITURE INSTALLATION ONLY",
       "addeddate": "2025-12-04T12:12:59.000",
       "issueddate": "2026-01-09T10:01:39.000",
-      "finaleddate": "",
+      "finaleddate": "2026-03-11T12:03:25.000",
       "addeddate_raw": "2025-12-04T12:12:59.000",
       "issueddate_raw": "2026-01-09T10:01:39.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-03-11T12:03:25.000"
     },
     {
       "location": "17501 REDLAND RD\nROCKVILLE, MD 20855\n(39.1438, -77.1441)",
@@ -3252,7 +3286,7 @@
     },
     {
       "location": "3161 AUTOMOBILE BLVD\nSILVER SPRING, MD 20904\n(39.07761, -76.94621)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$150,000",
       "declaredvaluation_num": 150000.0,
@@ -3261,10 +3295,10 @@
       "worktype": "ADD",
       "description": "Customer Wants To Use ePlans,We need to apply for Electrical permit for the �Herb Gordon Subaru, 3161 Automobile Blvd, Silver Spring, MD 20904�. for a new (1) 400A BGE service, CT and new (3) EV Chargers (100A each). No building work included in scope of work. Previously you rejected Application#1114445, and told to add Electrical drawing. Attaching here.",
       "addeddate": "2025-10-21T11:10:50.000",
-      "issueddate": "",
+      "issueddate": "2026-03-11T09:03:05.000",
       "finaleddate": "",
       "addeddate_raw": "2025-10-21T11:10:50.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-03-11T09:03:05.000",
       "finaleddate_raw": ""
     },
     {
@@ -4585,7 +4619,7 @@
       "buildingarea": "2,872 sf",
       "buildingarea_num": 2872.0,
       "worktype": "ALTER",
-      "description": "Revision ,1 - Page E200 was not reviewed in the original submission.,Customer Wants To Use ePlansCustomer Wants To Use ePlans Interior work only,THE SCOPE OF WORK REPRESENTED ON THESE DRAWINGS HAS BEEN PROVIDED IN ORDER TO CONSTRUCT A NEW TENANT SUITE ON THE 6TH FLOOR, APPROXIMATELY 2,872 SQUARE FEET. THE SCOPE OF WORK INCLUDES DEMOLITION OF EXISTING CONDITIONS, NEW PARTITIONS, ELECTRICAL, CEILING/LIGHTING, PLUMBING, FINISHES AND MODIFICATIONS TO THE EXISTING HVAC SYSTEM. GC TO FURNISH LABOR, MATERIALS, TOOLS, EQUIPMENT, AND SERVICES FOR WORK AS INDICATED OR INFERRED BY THE DOCUMENTS TO COMPLETE TO DESIGN INTENT. GC SHALL COMPLETELY COORDINATE WORK AND SHALL ASSUME THE BURDEN OF ADDITIONAL COST IF SEQUENCING RESULTS IN WORK HAVING TO BE REMOVED OR IF HIS COSTS INCREASE BECAUSE OF POOR SEQUENCING OF WORK. CONTRACTOR RESPONSIBLE FOR INCIDENTAL LOCAL JURISDICTION'S INTERPRETATIONS OF INTERNATIONAL BUILDING CODE",
+      "description": "Revision ,1 - Relocating HVAC equipment and  updated\nour drawings to show the new ejector pump under\nthe sink. Also, the sanitary and vent pipe \nrouting has been updated per our conversations.\nRefer to updated drawings for additional\ninformation. ,Customer Wants To Use ePlansRevision ,1 - Page E200 was not reviewed in the original submission.,Customer Wants To Use ePlansCustomer Wants To Use ePlans Interior work only,THE SCOPE OF WORK REPRESENTED ON THESE DRAWINGS HAS BEEN PROVIDED IN ORDER TO CONSTRUCT A NEW TENANT SUITE ON THE 6TH FLOOR, APPROXIMATELY 2,872 SQUARE FEET. THE SCOPE OF WORK INCLUDES DEMOLITION OF EXISTING CONDITIONS, NEW PARTITIONS, ELECTRICAL, CEILING/LIGHTING, PLUMBING, FINISHES AND MODIFICATIONS TO THE EXISTING HVAC SYSTEM. GC TO FURNISH LABOR, MATERIALS, TOOLS, EQUIPMENT, AND SERVICES FOR WORK AS INDICATED OR INFERRED BY THE DOCUMENTS TO COMPLETE TO DESIGN INTENT. GC SHALL COMPLETELY COORDINATE WORK AND SHALL ASSUME THE BURDEN OF ADDITIONAL COST IF SEQUENCING RESULTS IN WORK HAVING TO BE REMOVED OR IF HIS COSTS INCREASE BECAUSE OF POOR SEQUENCING OF WORK. CONTRACTOR RESPONSIBLE FOR INCIDENTAL LOCAL JURISDICTION'S INTERPRETATIONS OF INTERNATIONAL BUILDING CODE",
       "addeddate": "2025-08-26T02:08:08.000",
       "issueddate": "2025-12-23T08:12:53.000",
       "finaleddate": "",
@@ -5241,7 +5275,7 @@
     },
     {
       "location": "6000 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.04763, -77.12033)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$122,000",
       "declaredvaluation_num": 122000.0,
@@ -5251,10 +5285,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,Interior renovation of a previous office suite to NutriHealth office (provides weight loss service).",
       "addeddate": "2025-07-16T03:07:30.000",
       "issueddate": "2025-10-10T03:10:00.000",
-      "finaleddate": "",
+      "finaleddate": "2026-03-11T12:03:21.000",
       "addeddate_raw": "2025-07-16T03:07:30.000",
       "issueddate_raw": "2025-10-10T03:10:00.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-03-11T12:03:21.000"
     },
     {
       "location": "12200 TECH RD\nSILVER SPRING, MD 20904\n(39.05548, -76.96789)",
