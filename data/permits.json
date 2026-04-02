@@ -1,8 +1,59 @@
 {
-  "last_updated": "2026-04-01T16:13:37.982594+00:00",
+  "last_updated": "2026-04-02T16:11:23.784989+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10489,
+  "record_count": 10494,
   "permits": [
+    {
+      "location": "12800 MIDDLEBROOK RD\nGERMANTOWN, MD 20874\n(39.17667, -77.26507)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$155,700",
+      "declaredvaluation_num": 155700.0,
+      "buildingarea": "1,800 sf",
+      "buildingarea_num": 1800.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans  Interior work only,Interior tenant fit-out for a dental office. Suite A and B",
+      "addeddate": "2026-04-01T11:04:00.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-04-01T11:04:00.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "17600 WHEAT FALL DR\nROCKVILLE, MD 20855\n(39.14433, -77.15477)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$0",
+      "declaredvaluation_num": 0,
+      "buildingarea": "0 sf",
+      "buildingarea_num": 0,
+      "worktype": "COMMERCIAL CHANGE OF USE",
+      "description": "Customer Wants To Use ePlans,Change of use to residential-style group living with supportive services.",
+      "addeddate": "2026-04-01T04:04:56.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-04-01T04:04:56.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "4939 ELM ST\nBETHESDA, MD 20814\n(38.98207, -77.09769)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$25,000",
+      "declaredvaluation_num": 25000.0,
+      "buildingarea": "1,616 sf",
+      "buildingarea_num": 1616.0,
+      "worktype": "COMMERCIAL CHANGE OF USE",
+      "description": "Customer Wants To Use ePlans,Interior alteration to existing tenant space for new tenant with change of use, 1616sf",
+      "addeddate": "2026-04-01T01:04:48.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-04-01T01:04:48.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "5534 RANDOLPH RD\nROCKVILLE, MD 20852\n(39.0521, -77.11168)",
       "status": "Open",
@@ -340,6 +391,23 @@
       "issueddate": "",
       "finaleddate": "",
       "addeddate_raw": "2026-03-17T10:03:18.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "425 BARLOW PL\nBETHESDA, MD 20814\n(39.02078, -77.10899)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$219,800",
+      "declaredvaluation_num": 219800.0,
+      "buildingarea": "3,769 sf",
+      "buildingarea_num": 3769.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,Install a 78.39 kW ballast mounted solar system acroos the buildings roof spaces using 134 SEG 585 watt panels and 1 SolarEdge SE50KUS inverter.",
+      "addeddate": "2026-03-16T12:03:43.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-03-16T12:03:43.000",
       "issueddate_raw": "",
       "finaleddate_raw": ""
     },
@@ -4024,7 +4092,7 @@
       "buildingarea": "3,968 sf",
       "buildingarea_num": 3968.0,
       "worktype": "ALTER",
-      "description": "Revision ,01 - REVISION TO UPDATE PLANS PER FIELD CONDITION PER INSPECTORS REQUEST,Customer Wants To Use ePlans Customer Wants To Use ePlans Interior work only,INTERIOR ALTERATION OF AN EXISTING RETAIL SUITE. WORK INCLUDES REFINISH OF EXISTING STOREFRONT SYSTEM. AND CONSTRUCT TEMPORARY BARRICADE TO ISOLATE AND PROTECT CONSTRUCTION. This COMMERCIAL BUILDING application is associated with the following related applications: ELECTRICAL PERMIT 1139476. (RC-12/11/2025)",
+      "description": "Revision ,01 - REVISION TO UPDATE PLANS PER FIELD CONDITION PER INSPECTORS REQUEST,Customer Wants To Use ePlans  Customer Wants To Use ePlans Interior work only,INTERIOR ALTERATION OF AN EXISTING RETAIL SUITE. WORK INCLUDES REFINISH OF EXISTING STOREFRONT SYSTEM. AND CONSTRUCT TEMPORARY BARRICADE TO ISOLATE AND PROTECT CONSTRUCTION. This COMMERCIAL BUILDING application is associated with the following related applications: ELECTRICAL PERMIT 1139476. (RC-12/11/2025)",
       "addeddate": "2025-10-03T01:10:32.000",
       "issueddate": "2025-12-11T03:12:37.000",
       "finaleddate": "",
@@ -4391,7 +4459,7 @@
     },
     {
       "location": "2 BETHESDA METRO CTR\nBETHESDA, MD 20814\n(38.98408, -77.09551)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$550,000",
       "declaredvaluation_num": 550000.0,
@@ -4401,10 +4469,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,SUITE #400= 0 SF, SUITE# 450 = 1,803 SF, SUITE# 460= 1,417 SF, SUITE# 470= 1,791 SF (SPEC SUITES) NEW INTERIOR FIT OUT WITHIN NEWLY DEMISED SPEC SUITES. OFFICE RENOVATION CONSISTING OF NEW RECEPTION, OFFICES, OPEN WORK AREA CONFERENCE RM, BREAK RM, STORAGE RM, MILLWORK, FINISHES &amp; MODS TO EXISTING MEP SYSTEMS.",
       "addeddate": "2025-09-22T09:09:19.000",
       "issueddate": "2025-11-06T02:11:33.000",
-      "finaleddate": "",
+      "finaleddate": "2026-04-01T12:04:15.000",
       "addeddate_raw": "2025-09-22T09:09:19.000",
       "issueddate_raw": "2025-11-06T02:11:33.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-04-01T12:04:15.000"
     },
     {
       "location": "425 GUDE DR\nROCKVILLE, MD 20850\n(39.10544, -77.14783)",
@@ -10902,7 +10970,7 @@
     },
     {
       "location": "7913 MACARTHUR BLVD\nCABIN JOHN, MD 20818\n(38.97486, -77.16208)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$196,000",
       "declaredvaluation_num": 196000.0,
@@ -10912,10 +10980,10 @@
       "description": "Revision 3 - Updating the Life Safety.,Customer Wants To Use ePlans Revision 1 - We have updated the lighting plan with changes to light fixtures and quantity of fixtures. ,Customer Wants To Use ePlans Customer Wants To Use ePlans,Interior remodel of lobby area and office areas. Replace roof and portion of roof structure over lower office area.",
       "addeddate": "2024-10-19T10:10:00.000",
       "issueddate": "2025-05-06T02:05:53.000",
-      "finaleddate": "",
+      "finaleddate": "2026-04-01T12:04:41.000",
       "addeddate_raw": "2024-10-19T10:10:00.000",
       "issueddate_raw": "2025-05-06T02:05:53.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-04-01T12:04:41.000"
     },
     {
       "location": "6801 ROCKLEDGE DR\nBETHESDA, MD 20817\n(39.03051, -77.13953)",
@@ -11411,8 +11479,8 @@
       "finaleddate_raw": "2024-12-24T10:12:34.000"
     },
     {
-      "location": "5331 ZENITH OVLK\nBETHESDA, MD 20816",
-      "status": "Issued",
+      "location": "5331 ZENITH OVLK\nBETHESDA, MD 20816\n(38.9635, -77.10831)",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$0",
       "declaredvaluation_num": 0,
@@ -11422,10 +11490,10 @@
       "description": "Customer Wants To Use ePlans,Temporary Change of Use from R-3 to Business. Temporary Sales Center located at ground floor of existing Townhouse (Lot 19,BLDG#6;Unit 2038.1,PERMIT#1085743). Convert study to Sales Center, Convert powder to accessible powder room. Total occupant Load- 4. Upon Sales Completion, Ground floor will be converted back to study/powder for residential sale of this Unit.",
       "addeddate": "2024-09-18T08:09:44.000",
       "issueddate": "2025-01-09T10:01:03.000",
-      "finaleddate": "",
+      "finaleddate": "2026-04-01T01:04:15.000",
       "addeddate_raw": "2024-09-18T08:09:44.000",
       "issueddate_raw": "2025-01-09T10:01:03.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-04-01T01:04:15.000"
     },
     {
       "location": "15114 BARNESVILLE RD\nBOYDS, MD 20841\n(39.18489, -77.31438)",
@@ -16186,6 +16254,23 @@
       "addeddate_raw": "2024-02-07T01:02:27.000",
       "issueddate_raw": "2024-05-08T03:05:28.000",
       "finaleddate_raw": "2025-01-17T12:01:31.000"
+    },
+    {
+      "location": "16615 DARNESTOWN RD\nBOYDS, MD 20841\n(39.13034, -77.3464)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$685,000",
+      "declaredvaluation_num": 685000.0,
+      "buildingarea": "9,560 sf",
+      "buildingarea_num": 9560.0,
+      "worktype": "CONSTRUCT",
+      "description": "Customer Wants To Use ePlans,Rickman Management LLC is proposing to build a new corporate headquarters in 16615 Darnestown Road, Boyds, Maryland.\nThe facility will be one story in height and 9560 square feet in area. Accommodation will consist of general office space and supporting storage. It will be a steel framed pre-engineered building construction type II.",
+      "addeddate": "2024-02-06T10:02:23.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2024-02-06T10:02:23.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
     },
     {
       "location": "11439 GEORGIA AVE\nSILVER SPRING, MD 20902\n(39.042736012, -77.051520011)",
