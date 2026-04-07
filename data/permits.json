@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T16:01:34.444452+00:00",
+  "last_updated": "2026-04-07T16:18:20.295172+00:00",
   "source_dataset": "i26v-w6bd",
   "record_count": 10500,
   "permits": [
@@ -293,7 +293,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "",
+      "location": "2 BETHESDA METRO CTR\nBETHESDA, MD 20814\n(38.98408, -77.09551)",
       "status": "Open",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$107,000",
@@ -318,7 +318,7 @@
       "buildingarea": "584 sf",
       "buildingarea_num": 584.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,System furniture for new tenant build out (permitted under 1146484).",
+      "description": "Customer Wants To Use ePlans Interior work only,System furniture for new tenant build out (permitted under 1146484).",
       "addeddate": "2026-03-24T11:03:41.000",
       "issueddate": "",
       "finaleddate": "",
@@ -777,7 +777,7 @@
       "buildingarea": "2,562 sf",
       "buildingarea_num": 2562.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,THE WORK CONSISTS OF NEW CONSTRUCTION FOR A NEW OFFICE \nTENANT. THE EXISTING SUITE CONDITION IS A FULLY BUILT OUT \nOFFICE SPACE. NEW WORK WILL INCLUDE COMPLETE \nCONSTRUCTION OF PARTITIONS, CEILINGS AND MILLWORK AS \nSHOWN IN THE PLANS. THE SUITE SHALL RECEIVE NEW FINISHES. \nNEW LIGHTING FIXTURES WILL BE PROVIDED. NEW ELECTRICAL \nWORK WILL BE DONE. NEW PLUMBING WORK SHALL BE DONE. \nEXISTING MECHANICAL SYSTEMS SHALL BE MODIFIED AND NEW \nCOMPONENTS PROVIDED TO SUPPORT THE NEW BUILD-OUT AS \nREQUIRED. EXISTING LIFE SAFETY SYSTEMS SHALL BE MODIFIED \nAND NEW COMPONENTS PROVIDED TO SUPPORT THE NEW BUILD\nOUT AS REQUIRED.",
+      "description": "Customer Wants To Use ePlans,THE WORK CONSISTS OF NEW CONSTRUCTION FOR A NEW OFFICE TENANT. THE EXISTING SUITE CONDITION IS A FULLY BUILT OUT OFFICE SPACE. NEW WORK WILL INCLUDE COMPLETE CONSTRUCTION OF PARTITIONS, CEILINGS AND MILLWORK AS SHOWN IN THE PLANS. THE SUITE SHALL RECEIVE NEW FINISHES. NEW LIGHTING FIXTURES WILL BE PROVIDED. NEW ELECTRICAL WORK WILL BE DONE. NEW PLUMBING WORK SHALL BE DONE. EXISTING MECHANICAL SYSTEMS SHALL BE MODIFIED AND NEW COMPONENTS PROVIDED TO SUPPORT THE NEW BUILD-OUT AS REQUIRED. EXISTING LIFE SAFETY SYSTEMS SHALL BE MODIFIED AND NEW COMPONENTS PROVIDED TO SUPPORT THE NEW BUILD OUT AS REQUIRED.",
       "addeddate": "2026-03-05T10:03:19.000",
       "issueddate": "",
       "finaleddate": "",
@@ -957,7 +957,7 @@
     },
     {
       "location": "7676 STANDISH PL\nROCKVILLE, MD 20855\n(39.11001, -77.15554)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$85,000",
       "declaredvaluation_num": 85000.0,
@@ -966,10 +966,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,new office construction for an existing tenant, minor electrical and mechanical",
       "addeddate": "2026-02-26T01:02:22.000",
-      "issueddate": "",
+      "issueddate": "2026-04-06T12:04:35.000",
       "finaleddate": "",
       "addeddate_raw": "2026-02-26T01:02:22.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-04-06T12:04:35.000",
       "finaleddate_raw": ""
     },
     {
@@ -1008,7 +1008,7 @@
     },
     {
       "location": "7700 WISCONSIN AVE\nCHEVY CHASE, MD 20814\n(38.98679, -77.09474)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$365,000",
       "declaredvaluation_num": 365000.0,
@@ -1017,10 +1017,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,INTERIOR OFFICE TENANT FIT-OUT CONSISTING OF A LEVEL 2 INTERIOR ALTERATION WITHIN AN EXISTING MULTI-TENANT OFFICE FLOOR. NO CHANGE IN USE, OCCUPANCY, OR STRUCTURAL COMPONENTS IS INCLUDED IN THIS PROJECT. THE SCOPE OF WORK INCLUDES: INSTALLATION AND MODIFICATION OF NON-BEARING INTERIOR PARTITIONS, NEW AND MODIFIED ACOUSTICAL CEILINGSYSTEMS, LIGHTING INSTALLATION AND ALTERATIONS, ASSOCIATED ELECTRICAL, MECHANICAL,AND LOW-VOLTAGE WORK NECESSARY TO SUPPORT THE REVISED LAYOUT ALL WORK IS LIMITED TO THE INTERIOR AND DOES NOT IMPACT THE BUILDING�S STRUCTURAL SYSTEMS, LIFE-SAFETY SYSTEMS BEYOND NORMAL DEVICE RELOCATION, OR ANY EXTERIOR COMPONENTS.",
       "addeddate": "2026-02-24T09:02:33.000",
-      "issueddate": "",
+      "issueddate": "2026-04-06T10:04:37.000",
       "finaleddate": "",
       "addeddate_raw": "2026-02-24T09:02:33.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-04-06T10:04:37.000",
       "finaleddate_raw": ""
     },
     {
@@ -1474,7 +1474,7 @@
       "buildingarea": "3,535 sf",
       "buildingarea_num": 3535.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,NEW TENANT LAYOUT FOR A DENTAL OFFICE IN THE EXISTING BUILDING",
+      "description": "Customer Wants To Use ePlans Interior work only,NEW TENANT LAYOUT FOR A DENTAL OFFICE IN THE EXISTING BUILDING",
       "addeddate": "2026-02-06T04:02:06.000",
       "issueddate": "",
       "finaleddate": "",
@@ -3099,7 +3099,7 @@
     },
     {
       "location": "5481 WISCONSIN AVE\nCHEVY CHASE, MD 20815\n(38.9635, -77.08695)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$0",
       "declaredvaluation_num": 0,
@@ -3108,10 +3108,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,INTERIOR ALTERATION TO INCLUDE SOME NEW PARTITIONS, CEILING, NEW LIGHT FIXTURES, PLUMBING, REFRESH FINISHES AND MODIFICATION TO EXISTING MECHANICAL SYSTEM FOR A NEW TENANT TO THE BUILDING. ALL WORK IS TO MEET ADA REQUIREMENTS. LIFE SAFETY TO BE PROVIDED THROUGHOUT.",
       "addeddate": "2025-11-26T06:11:48.000",
-      "issueddate": "",
+      "issueddate": "2026-04-06T10:04:55.000",
       "finaleddate": "",
       "addeddate_raw": "2025-11-26T06:11:48.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-04-06T10:04:55.000",
       "finaleddate_raw": ""
     },
     {
@@ -12405,7 +12405,7 @@
       "buildingarea": "2,095 sf",
       "buildingarea_num": 2095.0,
       "worktype": "COMMERCIAL CHANGE OF USE",
-      "description": "Customer Wants To Use ePlans,Tenant improvement to existing tenant space and change of use from A-2 to M as well as interior alterations. Interior build out for kitchen and bath remodeling store with new finishes. Some demolition to be done.  U/O 405301   Bid Documents / Cost Valuation required.   &nbsp;",
+      "description": "Revision ,1 - Amend plan to show new location of bath door & add small wall between bathroom and existing column,Customer Wants To Use ePlansCustomer Wants To Use ePlans,Tenant improvement to existing tenant space and change of use from A-2 to M as well as interior alterations. Interior build out for kitchen and bath remodeling store with new finishes. Some demolition to be done.  U/O 405301   Bid Documents / Cost Valuation required.   &nbsp;",
       "addeddate": "2024-08-15T05:08:22.000",
       "issueddate": "2024-11-05T11:11:18.000",
       "finaleddate": "",
