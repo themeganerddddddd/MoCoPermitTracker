@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-09T16:43:08.020731+00:00",
+  "last_updated": "2026-04-10T16:07:26.274819+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10504,
+  "record_count": 10503,
   "permits": [
     {
       "location": "8515 PINEY BRANCH RD\nTAKOMA PARK, MD 20912\n(38.99812, -77.00283)",
@@ -250,7 +250,7 @@
       "buildingarea": "2,668 sf",
       "buildingarea_num": 2668.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans Interior work only,Interior renovation / tenant fit-out of an existing retail sales tenant space located on the 1st floor of an existing 2-story building.",
+      "description": "Customer Wants To Use ePlans INTERIOR DEMO ONLY / existing retail sales tenant space located on the 1st floor of an existing 2-story building.",
       "addeddate": "2026-03-31T10:03:26.000",
       "issueddate": "",
       "finaleddate": "",
@@ -345,7 +345,7 @@
     },
     {
       "location": "4920 ELM ST\nBETHESDA, MD 20814\n(38.9821, -77.09712)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$52,300",
       "declaredvaluation_num": 52300.0,
@@ -354,10 +354,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,FURNITURE INSTALL ONLY ON 3RD FLOOR - FURNITURE ONLY",
       "addeddate": "2026-03-27T03:03:32.000",
-      "issueddate": "",
+      "issueddate": "2026-04-09T02:04:07.000",
       "finaleddate": "",
       "addeddate_raw": "2026-03-27T03:03:32.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-04-09T02:04:07.000",
       "finaleddate_raw": ""
     },
     {
@@ -481,7 +481,7 @@
     },
     {
       "location": "4840 WESTERN AVE\nBETHESDA, MD 20816\n(38.95265, -77.09644)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$17,000",
       "declaredvaluation_num": 17000.0,
@@ -490,10 +490,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only, INTERIOR DEMO ONLY OF AN EXISTING UNOCCUPIED BUILDING.",
       "addeddate": "2026-03-18T09:03:53.000",
-      "issueddate": "",
+      "issueddate": "2026-04-09T11:04:47.000",
       "finaleddate": "",
       "addeddate_raw": "2026-03-18T09:03:53.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-04-09T11:04:47.000",
       "finaleddate_raw": ""
     },
     {
@@ -753,7 +753,7 @@
     },
     {
       "location": "1 INVENTA PL\nSILVER SPRING, MD 20910",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$955,000",
       "declaredvaluation_num": 955000.0,
@@ -762,10 +762,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,INTERIOR ALTERATION OF THE 9TH FLOOR TO ADD 4 SPEC SUITES AND 1 WHITE BOX. NO STRUCTURAL WORK.",
       "addeddate": "2026-03-09T10:03:23.000",
-      "issueddate": "",
+      "issueddate": "2026-04-09T11:04:41.000",
       "finaleddate": "",
       "addeddate_raw": "2026-03-09T10:03:23.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-04-09T11:04:41.000",
       "finaleddate_raw": ""
     },
     {
@@ -2266,7 +2266,7 @@
     },
     {
       "location": "734 UNIVERSITY BLVD E\nSILVER SPRING, MD 20903\n(38.99755, -76.99331)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$15,000",
       "declaredvaluation_num": 15000.0,
@@ -2276,10 +2276,10 @@
       "description": "The repair of damaged floor joists under second floor bathroom",
       "addeddate": "2025-12-24T10:12:52.000",
       "issueddate": "2026-01-22T11:01:10.000",
-      "finaleddate": "",
+      "finaleddate": "2026-04-09T11:04:31.000",
       "addeddate_raw": "2025-12-24T10:12:52.000",
       "issueddate_raw": "2026-01-22T11:01:10.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-04-09T11:04:31.000"
     },
     {
       "location": "12255 PROSPERITY DR\nSILVER SPRING, MD 20904\n(39.06134, -76.96049)",
@@ -4323,7 +4323,7 @@
     },
     {
       "location": "12120 PLUM ORCHARD DR\nSILVER SPRING, MD 20904\n(39.05487, -76.95797)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$350,000",
       "declaredvaluation_num": 350000.0,
@@ -4333,10 +4333,10 @@
       "description": "Customer Wants To Use ePlans,Interior finish out in an existing single floor suite. Scope includes HVAC, plumbing, electrical.",
       "addeddate": "2025-09-30T08:09:28.000",
       "issueddate": "2025-12-23T03:12:39.000",
-      "finaleddate": "",
+      "finaleddate": "2026-04-09T11:04:04.000",
       "addeddate_raw": "2025-09-30T08:09:28.000",
       "issueddate_raw": "2025-12-23T03:12:39.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-04-09T11:04:04.000"
     },
     {
       "location": "5454 WISCONSIN AVE\nCHEVY CHASE, MD 20815\n(38.96285, -77.08677)",
@@ -7383,7 +7383,7 @@
     },
     {
       "location": "7019 BROOKVILLE RD\nCHEVY CHASE, MD 20815\n(38.98073, -77.07133)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$25,000",
       "declaredvaluation_num": 25000.0,
@@ -7393,10 +7393,10 @@
       "description": "Customer Wants To Use ePlans,Interior alterations and repair to suite 200 for \"\"Beauty That's Me\"\" salon to include mechanical and electrical work.",
       "addeddate": "2025-05-07T04:05:14.000",
       "issueddate": "2025-09-03T02:09:40.000",
-      "finaleddate": "",
+      "finaleddate": "2026-04-09T02:04:25.000",
       "addeddate_raw": "2025-05-07T04:05:14.000",
       "issueddate_raw": "2025-09-03T02:09:40.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-04-09T02:04:25.000"
     },
     {
       "location": "19142 MONTGOMERY VILLAGE AVE\nMONTGOMERY VILLAGE, MD 20886\n(39.17116, -77.20521)",
@@ -9882,7 +9882,7 @@
     },
     {
       "location": "9150 BROOKVILLE RD\nSILVER SPRING, MD 20910\n(39.00578, -77.04979)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$380,000",
       "declaredvaluation_num": 380000.0,
@@ -9892,10 +9892,10 @@
       "description": "Customer Wants To Use ePlans,Metal Perforated Screen-Wall (parent permit number : 1079305 )",
       "addeddate": "2024-12-17T11:12:32.000",
       "issueddate": "2025-05-07T11:05:33.000",
-      "finaleddate": "",
+      "finaleddate": "2026-04-09T03:04:25.000",
       "addeddate_raw": "2024-12-17T11:12:32.000",
       "issueddate_raw": "2025-05-07T11:05:33.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-04-09T03:04:25.000"
     },
     {
       "location": "7201 WISCONSIN AVE\nCHEVY CHASE, MD 20815",
@@ -13085,7 +13085,7 @@
       "buildingarea": "4,947 sf",
       "buildingarea_num": 4947.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,Parent permit # 1079305. Reno to the interior, new MEC, sprinkler systems, modify to existing fa�ade (new doors, window replacement.",
+      "description": "Customer Wants To Use ePlans, Reno to the interior, new MEC, sprinkler systems, modify to existing fa�ade (new doors, window replacement.",
       "addeddate": "2024-07-22T01:07:41.000",
       "issueddate": "2024-12-12T11:12:32.000",
       "finaleddate": "",
@@ -16424,23 +16424,6 @@
       "addeddate_raw": "2024-02-07T01:02:27.000",
       "issueddate_raw": "2024-05-08T03:05:28.000",
       "finaleddate_raw": "2025-01-17T12:01:31.000"
-    },
-    {
-      "location": "16615 DARNESTOWN RD\nBOYDS, MD 20841\n(39.13034, -77.3464)",
-      "status": "Open",
-      "usecode": "BUSINESS BUILDING",
-      "declaredvaluation": "$685,000",
-      "declaredvaluation_num": 685000.0,
-      "buildingarea": "9,560 sf",
-      "buildingarea_num": 9560.0,
-      "worktype": "CONSTRUCT",
-      "description": "Customer Wants To Use ePlans,Rickman Management LLC is proposing to build a new corporate headquarters in 16615 Darnestown Road, Boyds, Maryland.\nThe facility will be one story in height and 9560 square feet in area. Accommodation will consist of general office space and supporting storage. It will be a steel framed pre-engineered building construction type II.",
-      "addeddate": "2024-02-06T10:02:23.000",
-      "issueddate": "",
-      "finaleddate": "",
-      "addeddate_raw": "2024-02-06T10:02:23.000",
-      "issueddate_raw": "",
-      "finaleddate_raw": ""
     },
     {
       "location": "11439 GEORGIA AVE\nSILVER SPRING, MD 20902\n(39.042736012, -77.051520011)",
