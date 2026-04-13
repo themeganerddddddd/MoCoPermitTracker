@@ -1,8 +1,25 @@
 {
-  "last_updated": "2026-04-12T15:51:53.608411+00:00",
+  "last_updated": "2026-04-13T16:38:46.760213+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10503,
+  "record_count": 10504,
   "permits": [
+    {
+      "location": "7501 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98516, -77.09434)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$65,000",
+      "declaredvaluation_num": 65000.0,
+      "buildingarea": "6,451 sf",
+      "buildingarea_num": 6451.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,THE SCOPE OF WORK REPRESENTED ON THESE DRAWINGS HAS BEEN PROVIDED IN ORDER TO\nEXPAND AN EXISTING TENANT INTO A PORTION OF THE ADJACENT VACANT SUITE AND TO\nRENOVATE THE EXISTING CONFERENCE ROOM AND BREAK ROOM, 6,451 SQUARE FEET. SCOPE OF\nWORK INCLUDES DEMOLITION OF A PORTION OF EXISTING CONDITIONS, NEW PARTITIONS, NEW\nELECTRICAL, NEW SINK AND FAUCET AT THE EXISTING BREAK ROOM, NEW LIGHTING AND FINISHES\nTHROUGHOUT THE SUITE AND MODIFICATIONS TO THE EXISTING HVAC SYSTEM. GC TO FURNISH\nLABOR, MATERIALS, TOOLS, EQUIPMENT, AND SERVICES FOR WORK AS INDICATED OR INFERRED\nBY THE DOCUMENTS TO COMPLETE TO DESIGN INTENT. GC SHALL COMPLETELY COORDINATE\nWORK AND SHALL ASSUME THE BURDEN OF ADDITIONAL COST IF SEQUENCING RESULTS IN WORK\nHAVING TO BE REMOVED OR IF HIS COSTS INCREASE BECAUSE OF POOR SEQUENCING OF WORK.\nCONTRACTOR RESPONSIBLE FOR INCIDENTAL LOCAL JURISDICTION'S INTERPRETATIONS OF\nINTERNATIONAL BUILDING CODE.",
+      "addeddate": "2026-04-10T01:04:30.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-04-10T01:04:30.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "8515 PINEY BRANCH RD\nTAKOMA PARK, MD 20912\n(38.99812, -77.00283)",
       "status": "Open",
@@ -250,7 +267,7 @@
       "buildingarea": "2,668 sf",
       "buildingarea_num": 2668.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans INTERIOR DEMO ONLY / existing retail sales tenant space located on the 1st floor of an existing 2-story building.",
+      "description": "Customer Wants To Use ePlans INTERIOR DEMOLITION ONLY OF EXISTING HAIR SALON SPACE LOCATED ON THE FIRST FLOOR OF AN EXISTING TWO-STORY BUILDING. SCOPE IS LIMITED TO REMOVAL OF NON-STRUCTURAL INTERIOR PARTITIONS, FINISHES, AND SELECTED COMPONENTS AS INDICATED. NO STRUCTURAL, MECHANICAL, ELECTRICAL, OR PLUMBING MODIFICATIONS ARE INCLUDED. DEMOLITION IS PERFORMED IN PREPARATION FOR FUTURE TENANT FIT-OUT UNDER A SEPARATE PERMIT.",
       "addeddate": "2026-03-31T10:03:26.000",
       "issueddate": "",
       "finaleddate": "",
@@ -1858,7 +1875,7 @@
     },
     {
       "location": "5550 FRIENDSHIP BLVD\nCHEVY CHASE, MD 20815\n(38.964038, -77.089536)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$231,693",
       "declaredvaluation_num": 231693.0,
@@ -1867,10 +1884,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,LEVEL 2 INTERIOR ALTERATION OF EXISTING OFFICE TO ACCOMMODATE NEW AMBULATORY HEALTH CARE FACILITY (IBC) / AMBULATORY HEALTH CARE OCCUPANCY (NFPA). NEW PARTITIONS, FINISHES, AND RELATED HVAC, PLUMBING &amp; ELECTRICAL WORK. NO CHANGE IN USE. 5550 FRIENDSHIP BLVD 450 Chevy Chase, MD 20815-725",
       "addeddate": "2026-01-23T11:01:14.000",
-      "issueddate": "",
+      "issueddate": "2026-04-10T11:04:29.000",
       "finaleddate": "",
       "addeddate_raw": "2026-01-23T11:01:14.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-04-10T11:04:29.000",
       "finaleddate_raw": ""
     },
     {
@@ -5003,7 +5020,7 @@
     },
     {
       "location": "915 MEETING ST\nROCKVILLE, MD 20852\n(39.05064, -77.11564)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$3,300,000",
       "declaredvaluation_num": 3300000.0,
@@ -5013,10 +5030,10 @@
       "description": "Customer Wants To Use ePlans,INTERIOR BUILD-OUT OF 12TH FLOOR SUITE. INTERIOR RENOVATION TO INCLUDES PARTITIONS, FINISHES, MECHANICAL, ELECTRICAL, AND PLUMBING WORK. NO STRUCTURAL WORK. SUITE 1200- 12TH FLOOR",
       "addeddate": "2025-09-03T03:09:07.000",
       "issueddate": "2025-12-05T01:12:44.000",
-      "finaleddate": "",
+      "finaleddate": "2026-04-10T01:04:40.000",
       "addeddate_raw": "2025-09-03T03:09:07.000",
       "issueddate_raw": "2025-12-05T01:12:44.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-04-10T01:04:40.000"
     },
     {
       "location": "6720 OLNEY LAYTONSVILLE RD\nGAITHERSBURG, MD 20882\n(39.2029, -77.13794)",
@@ -7111,7 +7128,7 @@
     },
     {
       "location": "1370 LAMBERTON DR\nSILVER SPRING, MD 20902\n(39.04013, -77.03093)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$188,150",
       "declaredvaluation_num": 188150.0,
@@ -7121,10 +7138,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,This work consists interior alterations for an existing office tenant. New work will include demolition, new partitions and mechanical, electrical and plumbing to support new layout. The suite will receive new finishes throughout. Demising walls are existing to remain. The common floor restrooms will be upgraded to meet ADA requirements.",
       "addeddate": "2025-05-16T02:05:23.000",
       "issueddate": "2025-07-31T07:07:46.000",
-      "finaleddate": "",
+      "finaleddate": "2026-04-10T11:04:18.000",
       "addeddate_raw": "2025-05-16T02:05:23.000",
       "issueddate_raw": "2025-07-31T07:07:46.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-04-10T11:04:18.000"
     },
     {
       "location": "4520 EAST WEST HWY\nBETHESDA, MD 20814\n(38.98492, -77.09204)",
@@ -13044,7 +13061,7 @@
     },
     {
       "location": "9150 BROOKVILLE RD\nSILVER SPRING, MD 20910\n(39.00578, -77.04979)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$11,527,390",
       "declaredvaluation_num": 11527390.0,
@@ -13054,10 +13071,10 @@
       "description": "Revision ,4 - At your request, Rathgeber/Goss Associates (RGA) has updated plans and details to reflect the relocation of the ejector pit and the oil interceptor pit. Please see below for a summary of updates,Customer Wants To Use ePlans Revision ,2 - Plans to reflect the relocation of the injector pit and the oil interceptor pit,Customer Wants To Use ePlans Revision ,1 - Owner changes - REV #1,Customer Wants To Use ePlans Customer Wants To Use ePlans,Renovation of interior spaces, new MEC systems, new sprinkler systems, modifications to existing fa�ade (new doors, window replacement, &amp; new metal panel rain screen fa�ade with decorative screening element). 1079305 � Main permit (Parent) Child 1097413 � Screen Wall. INSPECTIONS: Complex Structures - Structural only;&nbsp;COMB - Mech&amp;Arch/Build.",
       "addeddate": "2024-07-22T11:07:52.000",
       "issueddate": "2025-05-07T11:05:28.000",
-      "finaleddate": "",
+      "finaleddate": "2026-04-10T07:04:53.000",
       "addeddate_raw": "2024-07-22T11:07:52.000",
       "issueddate_raw": "2025-05-07T11:05:28.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-04-10T07:04:53.000"
     },
     {
       "location": "915 MEETING ST\nROCKVILLE, MD 20852\n(39.05064, -77.11564)",
