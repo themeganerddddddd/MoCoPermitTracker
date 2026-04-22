@@ -1,8 +1,42 @@
 {
-  "last_updated": "2026-04-21T16:20:22.182342+00:00",
+  "last_updated": "2026-04-22T16:19:06.039298+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10518,
+  "record_count": 10520,
   "permits": [
+    {
+      "location": "12125 VEIRS MILL RD\nSILVER SPRING, MD 20902\n(39.05552, -77.08132)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$15,000",
+      "declaredvaluation_num": 15000.0,
+      "buildingarea": "335 sf",
+      "buildingarea_num": 335.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,Interior Alterations for New Mechanical Closet for Bank HVAC unit, Refinishing Elevator Room and Elevator Lobby.",
+      "addeddate": "2026-04-21T05:04:00.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-04-21T05:04:00.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "10101 LORAIN AVE\nSILVER SPRING, MD 20901\n(39.022, -77.01477)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$8,000",
+      "declaredvaluation_num": 8000.0,
+      "buildingarea": "60 sf",
+      "buildingarea_num": 60.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans  Interior work only,This permit is for a new ADA Ramp and new enter stair in the front of the building. Ther permit # associate to the building interior renovation is\nPermit# 1149444",
+      "addeddate": "2026-04-21T02:04:10.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-04-21T02:04:10.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "7373 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.9835, -77.09371)",
       "status": "Open",
@@ -63,7 +97,7 @@
       "buildingarea": "2,777 sf",
       "buildingarea_num": 2777.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,RENOVATE THE ELEVATOR LOBBY, COMMON CORRIDOR AND RESTROOMS.",
+      "description": "Customer Wants To Use ePlans Interior work only,RENOVATE THE ELEVATOR LOBBY, COMMON CORRIDOR AND RESTROOMS. 7501 WISCONSIN AVE 6TH FL EAST\nBETHESDA, MD 20814",
       "addeddate": "2026-04-14T12:04:23.000",
       "issueddate": "",
       "finaleddate": "",
@@ -114,7 +148,7 @@
       "buildingarea": "14,008 sf",
       "buildingarea_num": 14008.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,FURNITURE INSTALLATION ONLY ON THE 20TH FLOOR",
+      "description": "Customer Wants To Use ePlans Interior work only,FURNITURE INSTALLATION ONLY ON THE 20TH FLOOR",
       "addeddate": "2026-04-14T10:04:16.000",
       "issueddate": "",
       "finaleddate": "",
@@ -906,7 +940,7 @@
     },
     {
       "location": "4504 WALSH ST\nCHEVY CHASE, MD 20815\n(38.9794, -77.09054)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$5,000",
       "declaredvaluation_num": 5000.0,
@@ -915,10 +949,10 @@
       "worktype": "RESTORE AND / OR REPAIR",
       "description": "Customer Wants To Use ePlans,REPLACE EXTERIOR DOOR AND REPAIR DAMAGED STUDS.",
       "addeddate": "2026-03-11T09:03:25.000",
-      "issueddate": "",
+      "issueddate": "2026-04-21T10:04:55.000",
       "finaleddate": "",
       "addeddate_raw": "2026-03-11T09:03:25.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-04-21T10:04:55.000",
       "finaleddate_raw": ""
     },
     {
@@ -4883,8 +4917,8 @@
       "finaleddate_raw": "2026-04-01T12:04:15.000"
     },
     {
-      "location": "425 GUDE DR\nROCKVILLE, MD 20850\n(39.10544, -77.14783)",
-      "status": "Open",
+      "location": "425 GUDE DR\nROCKVILLE, MD 20850\n(39.10512, -77.14793)",
+      "status": "Issued",
       "usecode": "INDUSTRIAL BUILDING",
       "declaredvaluation": "$150,000",
       "declaredvaluation_num": 150000.0,
@@ -4893,10 +4927,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans--Interior renovation of Industrial building for parking and fleet maintenance. Renovation of work and office areas.",
       "addeddate": "2025-09-22T01:09:59.000",
-      "issueddate": "",
+      "issueddate": "2026-04-21T04:04:00.000",
       "finaleddate": "",
       "addeddate_raw": "2025-09-22T01:09:59.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-04-21T04:04:00.000",
       "finaleddate_raw": ""
     },
     {
