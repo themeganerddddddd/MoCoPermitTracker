@@ -1,8 +1,25 @@
 {
-  "last_updated": "2026-04-22T16:19:06.039298+00:00",
+  "last_updated": "2026-04-23T16:52:34.463690+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10520,
+  "record_count": 10521,
   "permits": [
+    {
+      "location": "12266 ROCKVILLE PIKE\nROCKVILLE, MD 20852\n(39.05729, -77.12168)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$1",
+      "declaredvaluation_num": 1.0,
+      "buildingarea": "0 sf",
+      "buildingarea_num": 0,
+      "worktype": "CONSTRUCT",
+      "description": "—",
+      "addeddate": "2026-04-22T11:04:26.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-04-22T11:04:26.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "12125 VEIRS MILL RD\nSILVER SPRING, MD 20902\n(39.05552, -77.08132)",
       "status": "Open",
@@ -46,7 +63,7 @@
       "buildingarea": "6,300 sf",
       "buildingarea_num": 6300.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans Interior work only,SELECTIVE DEMOLITION OF EXISTING OFFICE SPACE AND CONSTRUCTION OF NEW PARTITIONS, FINISHES, LIGHTING, ELECTRICAL, MECHANICAL, AND PLUMBING. 7373 WISCONSIN AVE 750\nBETHESDA, MD 20814",
+      "description": "Customer Wants To Use ePlans Interior work only,SELECTIVE DEMOLITION OF EXISTING OFFICE SPACE AND CONSTRUCTION OF NEW PARTITIONS, FINISHES, LIGHTING, ELECTRICAL, MECHANICAL, AND PLUMBING. 7373 WISCONSIN AVE 750 BETHESDA, MD 20814",
       "addeddate": "2026-04-17T02:04:50.000",
       "issueddate": "",
       "finaleddate": "",
@@ -1110,7 +1127,7 @@
     },
     {
       "location": "6100 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.04708, -77.12343)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$128,000",
       "declaredvaluation_num": 128000.0,
@@ -1119,10 +1136,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,MODIFICATION OF EXISTING VACANT TENANT SPACE. SOME DEMOLITION WORK. SOME NEW PARTITIONS, CEILING, AND ALL NEW LIGHTING. SOME NEW MECHANICAL, ELECTRICAL. ALL NEW FINISHES.",
       "addeddate": "2026-03-06T09:03:54.000",
-      "issueddate": "",
+      "issueddate": "2026-04-22T08:04:38.000",
       "finaleddate": "",
       "addeddate_raw": "2026-03-06T09:03:54.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-04-22T08:04:38.000",
       "finaleddate_raw": ""
     },
     {
@@ -1790,7 +1807,7 @@
     },
     {
       "location": "8401 CONNECTICUT AVE\nCHEVY CHASE, MD 20815\n(38.99423, -77.07606)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$450,000",
       "declaredvaluation_num": 450000.0,
@@ -1799,10 +1816,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,10TH FLOOR SUITE 1000- interior alteration to include new partition layout w/ an added accessible restroom requiring mods to the exiting MEP. No structural scope of work is required.",
       "addeddate": "2026-02-09T08:02:13.000",
-      "issueddate": "",
+      "issueddate": "2026-04-22T10:04:56.000",
       "finaleddate": "",
       "addeddate_raw": "2026-02-09T08:02:13.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-04-22T10:04:56.000",
       "finaleddate_raw": ""
     },
     {
@@ -1984,7 +2001,7 @@
       "buildingarea": "1,250 sf",
       "buildingarea_num": 1250.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,Interior alterations and repair to part of the first floor for the Tech Hill Training Room fit out.",
+      "description": "Customer Wants To Use ePlans Interior work only,Interior alterations and repair to part of the first floor for the Tech Hill Training Room fit out.",
       "addeddate": "2026-01-30T09:01:30.000",
       "issueddate": "",
       "finaleddate": "",
@@ -5547,7 +5564,7 @@
     },
     {
       "location": "9735 TRAVILLE GATEWAY DR\nROCKVILLE, MD 20850\n(39.09157, -77.20367)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$48,000",
       "declaredvaluation_num": 48000.0,
@@ -5557,10 +5574,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,Building of Nonbearing walls and partitions Elimination of walls light electrical light plumbing",
       "addeddate": "2025-08-22T11:08:16.000",
       "issueddate": "2025-12-01T07:12:59.000",
-      "finaleddate": "",
+      "finaleddate": "2026-04-22T12:04:57.000",
       "addeddate_raw": "2025-08-22T11:08:16.000",
       "issueddate_raw": "2025-12-01T07:12:59.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-04-22T12:04:57.000"
     },
     {
       "location": "5272 RIVER RD\nBETHESDA, MD 20816\n(38.96573, -77.10536)",
@@ -6022,8 +6039,8 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "18111 PRINCE PHILIP DR\nOLNEY, MD 20832\n(39.15401, -77.05603)",
-      "status": "Open",
+      "location": "18111 PRINCE PHILIP DR\nOLNEY, MD 20832\n(39.15389, -77.05605)",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$750,000",
       "declaredvaluation_num": 750000.0,
@@ -6032,10 +6049,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,Removing medical imaging equipment and adding an MRI.",
       "addeddate": "2025-07-23T02:07:53.000",
-      "issueddate": "",
+      "issueddate": "2026-04-22T10:04:40.000",
       "finaleddate": "",
       "addeddate_raw": "2025-07-23T02:07:53.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-04-22T10:04:40.000",
       "finaleddate_raw": ""
     },
     {
