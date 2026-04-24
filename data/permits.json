@@ -1,8 +1,25 @@
 {
-  "last_updated": "2026-04-23T16:52:34.463690+00:00",
+  "last_updated": "2026-04-24T16:12:19.750622+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10521,
+  "record_count": 10522,
   "permits": [
+    {
+      "location": "",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$50,000",
+      "declaredvaluation_num": 50000.0,
+      "buildingarea": "6,619 sf",
+      "buildingarea_num": 6619.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans  Interior work only,Construct 2 new offices and a closet. Partial finish replacement, minor electrical and HVAC",
+      "addeddate": "2026-04-23T10:04:19.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-04-23T10:04:19.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "12266 ROCKVILLE PIKE\nROCKVILLE, MD 20852\n(39.05729, -77.12168)",
       "status": "Open",
@@ -862,7 +879,7 @@
       "buildingarea": "6,017 sf",
       "buildingarea_num": 6017.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,Tenant improvement in an existing multi-story, multi-tenant building for a new outpatient mental health clinic.18310 MONTGOMERY VILLAGE AVE 500\nGaithersburg, MD 20879",
+      "description": "Customer Wants To Use ePlans,Tenant improvement in an existing multi-story, multi-tenant building for a new outpatient mental health clinic.18310 MONTGOMERY VILLAGE AVE 500 Gaithersburg, MD 20879",
       "addeddate": "2026-03-16T06:03:04.000",
       "issueddate": "",
       "finaleddate": "",
@@ -2018,7 +2035,7 @@
       "buildingarea": "23,070 sf",
       "buildingarea_num": 23070.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,4th floor common area upgrades, Suites 400 and 450 demolition",
+      "description": "Customer Wants To Use ePlans Interior work only,4th floor common area upgrades, Suites 400 and 450 demolition",
       "addeddate": "2026-01-30T03:01:31.000",
       "issueddate": "",
       "finaleddate": "",
@@ -8811,7 +8828,7 @@
     },
     {
       "location": "6903 ROCKLEDGE DR\nBETHESDA, MD 20817\n(39.02835, -77.14038)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$2,492,930",
       "declaredvaluation_num": 2492930.0,
@@ -8821,10 +8838,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,FULL FLOOR (14TH) INTERIOR FIT OUT OF TENANT SPACE FOR BUSINESS USE WITHIN AN EXISTING OFFICE BUILDING. SCOPE INCLUDES PRIVATE OFFICES, WORKSTATIONS, CONFERENCE ROOMS, SUPPORT SPACES SUCH AS PANTRIES AND PRINT AREAS, AND AN OUTDOOR TERRACEU/O 419154",
       "addeddate": "2025-03-13T10:03:16.000",
       "issueddate": "2025-05-01T07:05:33.000",
-      "finaleddate": "",
+      "finaleddate": "2026-04-23T02:04:45.000",
       "addeddate_raw": "2025-03-13T10:03:16.000",
       "issueddate_raw": "2025-05-01T07:05:33.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-04-23T02:04:45.000"
     },
     {
       "location": "10301 GEORGIA AVE\nSILVER SPRING, MD 20902\n(39.02423, -77.04507)",
@@ -13384,7 +13401,7 @@
     },
     {
       "location": "9200 WARREN ST\nSILVER SPRING, MD 20910\n(39.00624, -77.04992)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$569,494",
       "declaredvaluation_num": 569494.0,
@@ -13394,10 +13411,10 @@
       "description": "Customer Wants To Use ePlans, Reno to the interior, new MEC, sprinkler systems, modify to existing fa�ade (new doors, window replacement.",
       "addeddate": "2024-07-22T01:07:41.000",
       "issueddate": "2024-12-12T11:12:32.000",
-      "finaleddate": "",
+      "finaleddate": "2026-04-23T03:04:40.000",
       "addeddate_raw": "2024-07-22T01:07:41.000",
       "issueddate_raw": "2024-12-12T11:12:32.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-04-23T03:04:40.000"
     },
     {
       "location": "7361 CALHOUN PL\nROCKVILLE, MD 20855\n(39.108855985, -77.151205985)",
