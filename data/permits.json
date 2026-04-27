@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T15:57:13.810262+00:00",
+  "last_updated": "2026-04-27T16:55:32.475108+00:00",
   "source_dataset": "i26v-w6bd",
   "record_count": 10522,
   "permits": [
@@ -165,7 +165,7 @@
       "buildingarea": "4,000 sf",
       "buildingarea_num": 4000.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,Installation of Systems Furniture only on the 8th floor",
+      "description": "Customer Wants To Use ePlans Interior work only,Installation of Systems Furniture only on the 8th floor",
       "addeddate": "2026-04-14T11:04:57.000",
       "issueddate": "",
       "finaleddate": "",
@@ -3378,7 +3378,7 @@
       "buildingarea": "25,637 sf",
       "buildingarea_num": 25637.0,
       "worktype": "ALTER",
-      "description": "Revision ,2 - Revision 02 to 1142363 Structural Field Conditions Modification,Customer Wants To Use ePlansRevision ,1 - Revision to issued permit for coordination of minor owner and field changes.,Customer Wants To Use ePlansCustomer Wants To Use ePlans Interior work only,Tenant Fitout for Berkadia Business Office space.",
+      "description": "Revision ,2 - Revision 02 to Issued permit 1142363 for Structural Design Changes,Customer Wants To Use ePlansRevision ,2 - Revision 02 to 1142363 Structural Field Conditions Modification,Customer Wants To Use ePlansRevision ,1 - Revision to issued permit for coordination of minor owner and field changes.,Customer Wants To Use ePlansCustomer Wants To Use ePlans Interior work only,Tenant Fitout for Berkadia Business Office space.",
       "addeddate": "2025-12-01T03:12:26.000",
       "issueddate": "2026-02-11T07:02:23.000",
       "finaleddate": "",
@@ -4976,7 +4976,7 @@
       "buildingarea": "4,681 sf",
       "buildingarea_num": 4681.0,
       "worktype": "ALTER",
-      "description": "Revision ,,1133385 - Mechanical Revision  ,Customer Wants To Use ePlansCustomer Wants To Use ePlans Interior work only,INTERIOR ALTERATION OF EXESTING SUITE 300. 7220 WISCONSIN AVE 300 BETHESDA, MD 20814",
+      "description": "Revision ,1133385 - INTERIOR MODIFICATIONS TO WALLS, DOORS AND MILLWORK.,Customer Wants To Use ePlansRevision ,,1133385 - Mechanical Revision  ,Customer Wants To Use ePlansCustomer Wants To Use ePlans Interior work only,INTERIOR ALTERATION OF EXESTING SUITE 300. 7220 WISCONSIN AVE 300 BETHESDA, MD 20814",
       "addeddate": "2025-09-19T09:09:01.000",
       "issueddate": "2025-11-03T10:11:10.000",
       "finaleddate": "",
@@ -9916,7 +9916,7 @@
     },
     {
       "location": "9420 KEY WEST AVE\nROCKVILLE, MD 20850\n(39.10335, -77.19382)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$600,000",
       "declaredvaluation_num": 600000.0,
@@ -9926,10 +9926,10 @@
       "description": "Revision ,1 - The design is being modified to remove the previously planned generator and all associated electrical work from the scope.  Child Permit #1112164 is no longer required.,Customer Wants To Use ePlansCustomer Wants To Use ePlans,Interior alteration to expand the space of an existing medical office tenant for new ambulatory surgery center. Build-out includes a new generator. The new generator is required to be under a separate building child permit under the parent permit. CHILD PERMIT IS 1112164",
       "addeddate": "2025-01-17T02:01:19.000",
       "issueddate": "2025-08-07T11:08:30.000",
-      "finaleddate": "",
+      "finaleddate": "2026-04-24T02:04:22.000",
       "addeddate_raw": "2025-01-17T02:01:19.000",
       "issueddate_raw": "2025-08-07T11:08:30.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-04-24T02:04:22.000"
     },
     {
       "location": "7564 STANDISH PL\nROCKVILLE, MD 20855\n(39.10797, -77.15593)",
