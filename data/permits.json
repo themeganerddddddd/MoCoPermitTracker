@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T16:53:14.833493+00:00",
+  "last_updated": "2026-04-30T16:46:53.552869+00:00",
   "source_dataset": "i26v-w6bd",
   "record_count": 10526,
   "permits": [
@@ -1501,7 +1501,7 @@
     },
     {
       "location": "1945 SEMINARY RD\nSILVER SPRING, MD 20910\n(39.00882, -77.04209)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$542,007",
       "declaredvaluation_num": 542007.0,
@@ -1510,10 +1510,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,Project involves mainly alterations to existing restroom, shower, and locker room areas.",
       "addeddate": "2026-02-23T12:02:18.000",
-      "issueddate": "",
+      "issueddate": "2026-04-29T01:04:44.000",
       "finaleddate": "",
       "addeddate_raw": "2026-02-23T12:02:18.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-04-29T01:04:44.000",
       "finaleddate_raw": ""
     },
     {
@@ -4041,7 +4041,7 @@
       "buildingarea": "1,820 sf",
       "buildingarea_num": 1820.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans Interior work only,Interior renovation to convert existing hair salon to a new nail salon.",
+      "description": "Revision ,1 - Revise Architectural plans, Mechanical Plans and Electrical Plans to match with existing condition,Customer Wants To Use ePlansCustomer Wants To Use ePlans Interior work only,Interior renovation to convert existing hair salon to a new nail salon.",
       "addeddate": "2025-11-05T08:11:47.000",
       "issueddate": "2026-02-02T02:02:04.000",
       "finaleddate": "",
