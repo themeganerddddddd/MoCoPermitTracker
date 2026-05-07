@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T16:53:46.160570+00:00",
+  "last_updated": "2026-05-07T17:03:57.011690+00:00",
   "source_dataset": "i26v-w6bd",
   "record_count": 10534,
   "permits": [
@@ -352,7 +352,7 @@
       "buildingarea": "2,777 sf",
       "buildingarea_num": 2777.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans Interior work only,RENOVATE THE ELEVATOR LOBBY, COMMON CORRIDOR AND RESTROOMS. 7501 WISCONSIN AVE 6TH FL EAST\nBETHESDA, MD 20814",
+      "description": "Customer Wants To Use ePlans Interior work only,RENOVATE THE ELEVATOR LOBBY, COMMON CORRIDOR AND RESTROOMS. 7501 WISCONSIN AVE 6TH FL EAST BETHESDA, MD 20814",
       "addeddate": "2026-04-14T12:04:23.000",
       "issueddate": "",
       "finaleddate": "",
@@ -753,7 +753,7 @@
     },
     {
       "location": "5534 RANDOLPH RD\nROCKVILLE, MD 20852\n(39.0521, -77.11168)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$28,000",
       "declaredvaluation_num": 28000.0,
@@ -763,10 +763,10 @@
       "description": "Customer Wants To Use ePlans INTERIOR DEMOLITION ONLY OF EXISTING HAIR SALON SPACE LOCATED ON THE FIRST FLOOR OF AN EXISTING TWO-STORY BUILDING. SCOPE IS LIMITED TO REMOVAL OF NON-STRUCTURAL INTERIOR PARTITIONS, FINISHES, AND SELECTED COMPONENTS AS INDICATED. NO STRUCTURAL, MECHANICAL, ELECTRICAL, OR PLUMBING MODIFICATIONS ARE INCLUDED. DEMOLITION IS PERFORMED IN PREPARATION FOR FUTURE TENANT FIT-OUT UNDER A SEPARATE PERMIT.",
       "addeddate": "2026-03-31T10:03:26.000",
       "issueddate": "2026-04-15T11:04:15.000",
-      "finaleddate": "",
+      "finaleddate": "2026-05-06T07:05:45.000",
       "addeddate_raw": "2026-03-31T10:03:26.000",
       "issueddate_raw": "2026-04-15T11:04:15.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-05-06T07:05:45.000"
     },
     {
       "location": "6720 ROCKLEDGE DR\nROCKVILLE, MD 20817\n(39.02921, -77.13481)",
@@ -3796,7 +3796,7 @@
     },
     {
       "location": "15871 REDLAND RD\nROCKVILLE, MD 20855\n(39.11656, -77.16526)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$0",
       "declaredvaluation_num": 0,
@@ -3805,10 +3805,10 @@
       "worktype": "COMMERCIAL CHANGE OF USE",
       "description": "Customer Wants To Use ePlans,this is a commercial change of use to an auto repair garage The project is change of use from B to S-1, the old/existing Use and Occupancy Certification is M, new Use and Occupancy Certification shall be obtained before occupying the space.",
       "addeddate": "2025-11-20T09:11:01.000",
-      "issueddate": "",
+      "issueddate": "2026-05-06T10:05:25.000",
       "finaleddate": "",
       "addeddate_raw": "2025-11-20T09:11:01.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-05-06T10:05:25.000",
       "finaleddate_raw": ""
     },
     {
@@ -3868,8 +3868,8 @@
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$50,000",
       "declaredvaluation_num": 50000.0,
-      "buildingarea": "8,000 sf",
-      "buildingarea_num": 8000.0,
+      "buildingarea": "1,347.50 sf",
+      "buildingarea_num": 1347.5,
       "worktype": "ADD",
       "description": "Customer Wants To Use ePlans,Demolition of some interior and exterior walls. Alteration adding porches to south and west fa�ades. ADDITION",
       "addeddate": "2025-11-18T03:11:17.000",
@@ -5265,7 +5265,7 @@
       "buildingarea": "8,811 sf",
       "buildingarea_num": 8811.0,
       "worktype": "ALTER",
-      "description": "Revision ,1 - Electrical field revisions and coordination.,Customer Wants To Use ePlansCustomer Wants To Use ePlans Interior work only,INTERIOR ALTERATION AND REPAIR TO AN EXISTING OFFICE SUITE WITHIN A BUSINESS OCCUPANCY BUILDING. SCOPE INCLUDES MODIFICATIONS TO NON-LOAD-BEARING PARTITIONS ONLY. MINOR MECHANICAL AND PLUMBING ALTERATIONS. NO STRUCTURAL WORK IS PROPOSED. THE EXISTING BUILDING USE AND OCCUPANCY CLASSIFICATION WILL REMAIN UNCHANGED.",
+      "description": "Customer Wants To Use ePlans Interior work only,INTERIOR ALTERATION AND REPAIR TO AN EXISTING OFFICE SUITE WITHIN A BUSINESS OCCUPANCY BUILDING. SCOPE INCLUDES MODIFICATIONS TO NON-LOAD-BEARING PARTITIONS ONLY. MINOR MECHANICAL AND PLUMBING ALTERATIONS. NO STRUCTURAL WORK IS PROPOSED. THE EXISTING BUILDING USE AND OCCUPANCY CLASSIFICATION WILL REMAIN UNCHANGED.",
       "addeddate": "2025-09-15T12:09:20.000",
       "issueddate": "2025-12-19T04:12:34.000",
       "finaleddate": "",
@@ -9736,7 +9736,7 @@
       "buildingarea": "100 sf",
       "buildingarea_num": 100.0,
       "worktype": "ALTER",
-      "description": "Revision ,1 - Relocate sink to second floor. Add a sink in office. Replace plumbing fixtures in-kind.,Customer Wants To Use ePlansCustomer Wants To Use ePlans Interior work only,Add a toilet room on first floor. Change of use: from office to retail.",
+      "description": "Revision ,1 - Relocate sink to second floor. Add a sink in office. Replace plumbing fixtures in-kind.,Customer Wants To Use ePlans Customer Wants To Use ePlans Interior work only,Add a toilet room on first floor. Change of use: from office to retail.",
       "addeddate": "2025-02-10T06:02:17.000",
       "issueddate": "2025-04-02T11:04:13.000",
       "finaleddate": "",
@@ -15992,7 +15992,7 @@
       "buildingarea": "2,360 sf",
       "buildingarea_num": 2360.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,Additions to existing building and associated interior alterations to provide Business and Assembly Uses. THIS PERMIT IS ON SAME SET OF PLANS AS THE ADD PERMIT 1036198 U/O 395092============ CODE MOD APPLICATION# 1047142",
+      "description": "Revision ,1064765 - Requesting the inclusion of a 2nd floor, so we can get a U of O for it, while we finish the 1st,Customer Wants To Use ePlansCustomer Wants To Use ePlans,Additions to existing building and associated interior alterations to provide Business and Assembly Uses. THIS PERMIT IS ON SAME SET OF PLANS AS THE ADD PERMIT 1036198 U/O 395092============ CODE MOD APPLICATION# 1047142",
       "addeddate": "2024-03-29T02:03:02.000",
       "issueddate": "2025-06-03T10:06:02.000",
       "finaleddate": "",
