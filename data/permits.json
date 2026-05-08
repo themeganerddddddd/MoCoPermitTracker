@@ -1,8 +1,59 @@
 {
-  "last_updated": "2026-05-07T17:03:57.011690+00:00",
+  "last_updated": "2026-05-08T16:44:59.608159+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10534,
+  "record_count": 10537,
   "permits": [
+    {
+      "location": "12730 TWINBROOK PKWY\nROCKVILLE, MD 20852\n(39.06507, -77.11538)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$100",
+      "declaredvaluation_num": 100.0,
+      "buildingarea": "760 sf",
+      "buildingarea_num": 760.0,
+      "worktype": "COMMERCIAL CHANGE OF USE",
+      "description": "Customer Wants To Use ePlans,change of use from worship to wellness spa. no work done to space",
+      "addeddate": "2026-05-07T11:05:46.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-05-07T11:05:46.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "8455 HELGERMAN CT\nGAITHERSBURG, MD 20877\n(39.13046, -77.17353)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$40,000",
+      "declaredvaluation_num": 40000.0,
+      "buildingarea": "132 sf",
+      "buildingarea_num": 132.0,
+      "worktype": "RESTORE AND / OR REPAIR",
+      "description": "Customer Wants To Use ePlans,Replace existing single pane storefront assembly with new double paned window assembly.",
+      "addeddate": "2026-05-07T11:05:16.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-05-07T11:05:16.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "6010 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.04751, -77.12275)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$14,307",
+      "declaredvaluation_num": 14307.0,
+      "buildingarea": "575 sf",
+      "buildingarea_num": 575.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,Systems Furniture",
+      "addeddate": "2026-05-07T03:05:28.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-05-07T03:05:28.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "1400 SPRING ST\nSILVER SPRING, MD 20910\n(38.99843, -77.03352)",
       "status": "Open",
@@ -80,7 +131,7 @@
       "buildingarea": "2,930 sf",
       "buildingarea_num": 2930.0,
       "worktype": "COMMERCIAL CHANGE OF USE",
-      "description": "Customer Wants To Use ePlans,Assisted living 8 beds",
+      "description": "Customer Wants To Use ePlans,Assisted living 8 beds.  Associated use and occupancy application No. 423880",
       "addeddate": "2026-05-01T02:05:06.000",
       "issueddate": "",
       "finaleddate": "",
@@ -2980,7 +3031,7 @@
     },
     {
       "location": "10628 CONNECTICUT AVE\nKENSINGTON, MD 20895\n(39.03021, -77.07601)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$8,000",
       "declaredvaluation_num": 8000.0,
@@ -2990,14 +3041,14 @@
       "description": "Customer Wants To Use ePlans,Change of use to (Mercantile). Install shelving slat walls and clean floors.",
       "addeddate": "2025-12-16T06:12:51.000",
       "issueddate": "2026-05-01T08:05:38.000",
-      "finaleddate": "",
+      "finaleddate": "2026-05-07T02:05:00.000",
       "addeddate_raw": "2025-12-16T06:12:51.000",
       "issueddate_raw": "2026-05-01T08:05:38.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-05-07T02:05:00.000"
     },
     {
       "location": "3333 OLNEY SANDY SPRING RD\nOLNEY, MD 20832\n(39.15307, -77.06641)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$7,000",
       "declaredvaluation_num": 7000.0,
@@ -3007,10 +3058,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,Interior demo only for new dental office, in preparation of future permit.",
       "addeddate": "2025-12-16T04:12:08.000",
       "issueddate": "2026-01-16T09:01:45.000",
-      "finaleddate": "",
+      "finaleddate": "2026-05-07T01:05:18.000",
       "addeddate_raw": "2025-12-16T04:12:08.000",
       "issueddate_raw": "2026-01-16T09:01:45.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-05-07T01:05:18.000"
     },
     {
       "location": "4600 PARK AVE\nCHEVY CHASE, MD 20815\n(38.96318, -77.09137)",
@@ -4425,7 +4476,7 @@
     },
     {
       "location": "7642 STANDISH PL\nROCKVILLE, MD 20855\n(39.11061, -77.15685)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$25,000",
       "declaredvaluation_num": 25000.0,
@@ -4435,10 +4486,10 @@
       "description": "Revision ,1 - add floor drain sump crock and revise electrical power,Customer Wants To Use ePlansCustomer Wants To Use ePlans Interior work only,Construct a room around an existing sprinkler main with a new separate exterior entry",
       "addeddate": "2025-10-21T12:10:10.000",
       "issueddate": "2026-01-20T10:01:45.000",
-      "finaleddate": "",
+      "finaleddate": "2026-05-07T03:05:34.000",
       "addeddate_raw": "2025-10-21T12:10:10.000",
       "issueddate_raw": "2026-01-20T10:01:45.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-05-07T03:05:34.000"
     },
     {
       "location": "3161 AUTOMOBILE BLVD\nSILVER SPRING, MD 20904\n(39.07761, -76.94621)",
@@ -5258,7 +5309,7 @@
     },
     {
       "location": "11200 ROCKVILLE PIKE\nROCKVILLE, MD 20852\n(39.04104, -77.11056)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$200,000",
       "declaredvaluation_num": 200000.0,
@@ -5268,10 +5319,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,INTERIOR ALTERATION AND REPAIR TO AN EXISTING OFFICE SUITE WITHIN A BUSINESS OCCUPANCY BUILDING. SCOPE INCLUDES MODIFICATIONS TO NON-LOAD-BEARING PARTITIONS ONLY. MINOR MECHANICAL AND PLUMBING ALTERATIONS. NO STRUCTURAL WORK IS PROPOSED. THE EXISTING BUILDING USE AND OCCUPANCY CLASSIFICATION WILL REMAIN UNCHANGED.",
       "addeddate": "2025-09-15T12:09:20.000",
       "issueddate": "2025-12-19T04:12:34.000",
-      "finaleddate": "",
+      "finaleddate": "2026-05-07T03:05:20.000",
       "addeddate_raw": "2025-09-15T12:09:20.000",
       "issueddate_raw": "2025-12-19T04:12:34.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-05-07T03:05:20.000"
     },
     {
       "location": "1 INVENTA PL\nSILVER SPRING, MD 20910",
@@ -15992,7 +16043,7 @@
       "buildingarea": "2,360 sf",
       "buildingarea_num": 2360.0,
       "worktype": "ALTER",
-      "description": "Revision ,1064765 - Requesting the inclusion of a 2nd floor, so we can get a U of O for it, while we finish the 1st,Customer Wants To Use ePlansCustomer Wants To Use ePlans,Additions to existing building and associated interior alterations to provide Business and Assembly Uses. THIS PERMIT IS ON SAME SET OF PLANS AS THE ADD PERMIT 1036198 U/O 395092============ CODE MOD APPLICATION# 1047142",
+      "description": "Customer Wants To Use ePlans,Additions to existing building and associated interior alterations to provide Business and Assembly Uses. THIS PERMIT IS ON SAME SET OF PLANS AS THE ADD PERMIT 1036198 U/O 395092============ CODE MOD APPLICATION# 1047142",
       "addeddate": "2024-03-29T02:03:02.000",
       "issueddate": "2025-06-03T10:06:02.000",
       "finaleddate": "",
