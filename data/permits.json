@@ -1,8 +1,25 @@
 {
-  "last_updated": "2026-05-11T17:30:49.497956+00:00",
+  "last_updated": "2026-05-12T17:22:54.770515+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10540,
+  "record_count": 10541,
   "permits": [
+    {
+      "location": "5600 LITTLE FALLS PKWY\nBETHESDA, MD 20816\n(38.95747, -77.10795)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$7,400,000",
+      "declaredvaluation_num": 7400000.0,
+      "buildingarea": "19,600 sf",
+      "buildingarea_num": 19600.0,
+      "worktype": "ADD",
+      "description": "Customer Wants To Use ePlans,THE PROJECT INCLUDES A 1,400 SF ADDITION TO THE EXISTING SCHOOL AND RENOVATION OF EXISTING SHELL SPACE FOR A NEW MULTIPURPOSE ROOM, A NEW CLASSROOM, KITCHEN/SERVERY, AND AUXILARY MULTIPURPOSE SPACE, ALONG WITH NEW LOBBY SPACES AT LEVEL 1 AND 2, NEW RESTROOMS, RENOVATION OF CLASSROOM AND ADMINISTRATIVE SPACES. CLASSROOMS ON LEVEL 2 WILL BE CONVERTED TO ART ROOMS, AND A TOILET ROOM AND SINKS WILL BE REMOVED ON LEVEL 3. EXISTING CRANE STRUCTURE WILL BE REMOVED. EXTERIOR SECOND FLOOR WINDOWS ARE ADDED. SITE WORK INCLUDES A NEW PEDESTRIAN RAMP AND STAIR ALONG WITH A MODIFIED VEHICULAR DRIVE AISLE. RENOVATION WORK IS CONSIDERED A LEVEL 2 ALTERATION BY IEBC 603. BUILDING USE REMAINS THE SAME AS EXISTING: EDUCATION (E) FOR GRADES PK THROUGH 8.",
+      "addeddate": "2026-05-11T12:05:37.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-05-11T12:05:37.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "8807 COLESVILLE RD\nSILVER SPRING, MD 20910\n(38.99934, -77.02585)",
       "status": "Open",
@@ -413,7 +430,7 @@
     },
     {
       "location": "12210 PLUM ORCHARD DR\nSILVER SPRING, MD 20904\n(39.05757, -76.95738)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$27,000",
       "declaredvaluation_num": 27000.0,
@@ -422,10 +439,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans, REMOVING PARTITIONS, FINISHES, CEILING GRID AND TILE, DIFFUSERS AND RETURNS IN A PORTION OF THE SUITE",
       "addeddate": "2026-04-16T08:04:46.000",
-      "issueddate": "",
+      "issueddate": "2026-05-11T02:05:47.000",
       "finaleddate": "",
       "addeddate_raw": "2026-04-16T08:04:46.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-05-11T02:05:47.000",
       "finaleddate_raw": ""
     },
     {
@@ -1127,7 +1144,7 @@
     },
     {
       "location": "10220 RIVER RD\nPOTOMAC, MD 20854\n(39.01836, -77.20997)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$8,000",
       "declaredvaluation_num": 8000.0,
@@ -1136,10 +1153,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,Construct interior partitions, new ceiling, and finishes.",
       "addeddate": "2026-03-17T11:03:45.000",
-      "issueddate": "",
+      "issueddate": "2026-05-11T10:05:27.000",
       "finaleddate": "",
       "addeddate_raw": "2026-03-17T11:03:45.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-05-11T10:05:27.000",
       "finaleddate_raw": ""
     },
     {
@@ -1253,7 +1270,7 @@
       "buildingarea": "8,543 sf",
       "buildingarea_num": 8543.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,Interior tenant fit-out for behavioral therapy offices including non-structural partition modifications, interior finishes, and associated MEP work. No structural changes.",
+      "description": "Customer Wants To Use ePlans Interior work only,Interior tenant fit-out for behavioral therapy offices including non-structural partition modifications, interior finishes, and associated MEP work. No structural changes.",
       "addeddate": "2026-03-12T08:03:24.000",
       "issueddate": "",
       "finaleddate": "",
@@ -2137,7 +2154,7 @@
       "buildingarea": "2,300 sf",
       "buildingarea_num": 2300.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans Interior work only,New Tenant Fitout for Hammer and Nail Grooming, 2300sf",
+      "description": "Customer Wants To Use ePlans Interior work only,New Tenant Fitout for Hammer and Nail Grooming, 2300sfBid estimate was not submitted when requested.",
       "addeddate": "2026-02-10T02:02:03.000",
       "issueddate": "",
       "finaleddate": "",
