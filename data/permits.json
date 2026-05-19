@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T17:36:26.079712+00:00",
+  "last_updated": "2026-05-19T17:41:33.841791+00:00",
   "source_dataset": "i26v-w6bd",
   "record_count": 10551,
   "permits": [
@@ -311,7 +311,7 @@
     },
     {
       "location": "1400 SPRING ST\nSILVER SPRING, MD 20910\n(38.99843, -77.03352)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$7,500",
       "declaredvaluation_num": 7500.0,
@@ -320,10 +320,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,Life Safety modifications to install new fire rated door &amp; frame, install new exit signs &amp; relocate two existing doors &amp; frames per U&amp;O inspections.",
       "addeddate": "2026-05-05T10:05:51.000",
-      "issueddate": "",
+      "issueddate": "2026-05-18T08:05:33.000",
       "finaleddate": "",
       "addeddate_raw": "2026-05-05T10:05:51.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-05-18T08:05:33.000",
       "finaleddate_raw": ""
     },
     {
@@ -498,7 +498,7 @@
     },
     {
       "location": "4819 ST ELMO AVE\nBETHESDA, MD 20814\n(38.98966, -77.09702)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$16,229",
       "declaredvaluation_num": 16229.0,
@@ -507,10 +507,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,This application is for the demolition of the existing interior conditions of this now vacant retail suite. The interior partitions and ceiling will be removed, a variety of building systems will remain.",
       "addeddate": "2026-04-27T07:04:59.000",
-      "issueddate": "",
+      "issueddate": "2026-05-18T02:05:24.000",
       "finaleddate": "",
       "addeddate_raw": "2026-04-27T07:04:59.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-05-18T02:05:24.000",
       "finaleddate_raw": ""
     },
     {
@@ -1518,7 +1518,7 @@
     },
     {
       "location": "10301 GEORGIA AVE\nSILVER SPRING, MD 20902\n(39.02423, -77.04507)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$129,954",
       "declaredvaluation_num": 129954.0,
@@ -1527,10 +1527,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,TENANT FIT OUT. - INTERIOR RENOVATION FOR NEW OFFICE LAYOUT.",
       "addeddate": "2026-03-11T08:03:50.000",
-      "issueddate": "",
+      "issueddate": "2026-05-18T10:05:38.000",
       "finaleddate": "",
       "addeddate_raw": "2026-03-11T08:03:50.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-05-18T10:05:38.000",
       "finaleddate_raw": ""
     },
     {
@@ -2045,7 +2045,7 @@
     },
     {
       "location": "12266 ROCKVILLE PIKE\nROCKVILLE, MD 20852\n(39.05729, -77.12168)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "INDUSTRIAL BUILDING",
       "declaredvaluation": "$10,000",
       "declaredvaluation_num": 10000.0,
@@ -2054,10 +2054,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,Install a soda fountain machine in the front of house. Run a waste line from soda machine to the back of house above ceiling tiles. Run a water line to soda bib rack (holds soda syrups) in back of house.",
       "addeddate": "2026-02-19T11:02:21.000",
-      "issueddate": "",
+      "issueddate": "2026-05-18T02:05:40.000",
       "finaleddate": "",
       "addeddate_raw": "2026-02-19T11:02:21.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-05-18T02:05:40.000",
       "finaleddate_raw": ""
     },
     {
@@ -3201,7 +3201,7 @@
     },
     {
       "location": "4800 HAMPDEN LN\nBETHESDA, MD 20814\n(38.98274, -77.09483)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$184,798",
       "declaredvaluation_num": 184798.0,
@@ -3211,10 +3211,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,TENANT IN SUITE 200 IS GIVING BACK A PORTION OF THEIR EXISTING SUITE. THE GIVE BACK SPACE WILL BE DEMO'D &amp; DEMISED OFF TO CREATE A COMMON ELEVATOR LOBBY &amp; A VACANT SUITE. THE EXISTING CORE RESTROOMS ARE TO REMAIN &amp; BECOME APART OF THE NEW COMMON CORE AREAS. INCLUDES MODIFICATIONS TO EXISTING MECHANICAL &amp; ELECTRICAL SYSTEMS. SUITE 200 - 10,825 SF, SUITE 210 (VACANT)- 4,800 SF, 943 SF ELEVATOR LOBBY/COMMON CORE AREAS.",
       "addeddate": "2025-12-18T07:12:04.000",
       "issueddate": "2026-02-10T12:02:32.000",
-      "finaleddate": "",
+      "finaleddate": "2026-05-18T11:05:23.000",
       "addeddate_raw": "2025-12-18T07:12:04.000",
       "issueddate_raw": "2026-02-10T12:02:32.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-05-18T11:05:23.000"
     },
     {
       "location": "7272 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98217, -77.09324)",
@@ -12108,7 +12108,7 @@
       "finaleddate_raw": "2025-04-16T11:04:51.000"
     },
     {
-      "location": "9605 MEDICAL CENTER DR\nROCKVILLE, MD 20850\n(39.10338, -77.19638)",
+      "location": "9605 MEDICAL CENTER DR\nROCKVILLE, MD 20850\n(39.10344, -77.19858)",
       "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$2,500,000",
@@ -12116,7 +12116,7 @@
       "buildingarea": "12,050 sf",
       "buildingarea_num": 12050.0,
       "worktype": "ALTER",
-      "description": "Revision ,2 - REVISION #2:  REDUCTION IN SCOPE OF WORK TO MATCH FIELD CONDITIONS.,Customer Wants To Use ePlansRevision ,1 - Revision #1-please refer to Revision Narrative,Customer Wants To Use ePlansCustomer Wants To Use ePlans Interior work only,interior alteration of level 3",
+      "description": "Revision ,2 - REVISION #2: REDUCTION IN SCOPE OF WORK TO MATCH FIELD CONDITIONS.,Customer Wants To Use ePlans Revision ,1 - Revision #1-please refer to Revision Narrative,Customer Wants To Use ePlans Customer Wants To Use ePlans Interior work only,interior alteration of level 3",
       "addeddate": "2024-10-12T01:10:02.000",
       "issueddate": "2025-04-28T03:04:14.000",
       "finaleddate": "",
@@ -60524,8 +60524,8 @@
       "finaleddate_raw": "2019-09-27T06:09:11.000"
     },
     {
-      "location": "8605 CAMERON ST\nSILVER SPRING, MD 20910\n(38.997798, -77.02938)",
-      "status": "Issued",
+      "location": "8605 CAMERON ST\nSILVER SPRING, MD 20910\n(38.99783, -77.02932)",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$175,000",
       "declaredvaluation_num": 175000.0,
@@ -60535,10 +60535,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,Non-structural demo throughout the existing 92,738 SF.",
       "addeddate": "2019-05-20T11:05:06.000",
       "issueddate": "2019-09-17T10:09:11.000",
-      "finaleddate": "",
+      "finaleddate": "2026-05-18T10:05:27.000",
       "addeddate_raw": "2019-05-20T11:05:06.000",
       "issueddate_raw": "2019-09-17T10:09:11.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-05-18T10:05:27.000"
     },
     {
       "location": "6903 ROCKLEDGE DR\nBETHESDA, MD 20817\n(39.028311, -77.138998)",
