@@ -1,8 +1,76 @@
 {
-  "last_updated": "2026-05-20T18:02:02.827024+00:00",
+  "last_updated": "2026-05-21T17:34:28.959035+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10501,
+  "record_count": 10505,
   "permits": [
+    {
+      "location": "6710 ROCKLEDGE DR\nBETHESDA, MD 20817\n(39.02921, -77.13481)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$37,000",
+      "declaredvaluation_num": 37000.0,
+      "buildingarea": "8 sf",
+      "buildingarea_num": 8.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans  Interior work only,installing (6) Level 2 chargers. (4) stations mounted on (2) dual pedestals behind column , protected by column no bollards.  (2) stations mounted on column wall.  Accompanying conduits, cable, panels, breakers, etc to provide a complete installation.",
+      "addeddate": "2026-05-20T12:05:07.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-05-20T12:05:07.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$424,160",
+      "declaredvaluation_num": 424160.0,
+      "buildingarea": "12,942 sf",
+      "buildingarea_num": 12942.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,INTERIOR ALTERATION. WORK CONSISTS OF NON STRUCTURAL DEMOLITION, NON STRUCTURAL CONSTRUCTION, GENERAL PLUMBING, ELECTRICAL, AND MECHANICAL WORK.",
+      "addeddate": "2026-05-20T07:05:36.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-05-20T07:05:36.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "14808 PHYSICIANS LN\nROCKVILLE, MD 20850\n(39.09976, -77.21163)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$15,000",
+      "declaredvaluation_num": 15000.0,
+      "buildingarea": "50 sf",
+      "buildingarea_num": 50.0,
+      "worktype": "RESTORE AND / OR REPAIR",
+      "description": "Customer Wants To Use ePlans,Support column was hit, we need to replace the column",
+      "addeddate": "2026-05-20T01:05:30.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-05-20T01:05:30.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "16615 DARNESTOWN RD\nBOYDS, MD 20841\n(39.13034, -77.3464)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$39,000",
+      "declaredvaluation_num": 39000.0,
+      "buildingarea": "141,058 sf",
+      "buildingarea_num": 141058.0,
+      "worktype": "CONSTRUCT",
+      "description": "Customer Wants To Use ePlans,The Rickman Construction, LLC would like to add a satellite office from their existing main office in Rockville, MD.\nThe building total is 9560 GSF of which 6428 sf will consist of 10 offices for the principals, support staff, superintendents and a small training room. The balance of 3132 sf will be for future expansion or leased as office space.",
+      "addeddate": "2026-05-20T01:05:19.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-05-20T01:05:19.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "10165 NEW HAMPSHIRE AVE\nSILVER SPRING, MD 20903\n(39.02164, -76.97631)",
       "status": "Open",
@@ -702,7 +770,7 @@
     },
     {
       "location": "5404 WISCONSIN AVE\nCHEVY CHASE, MD 20815\n(38.96159, -77.08659)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$25,000",
       "declaredvaluation_num": 25000.0,
@@ -711,10 +779,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,Installation of Systems Furniture only on the 8th floor",
       "addeddate": "2026-04-14T11:04:57.000",
-      "issueddate": "",
+      "issueddate": "2026-05-20T10:05:58.000",
       "finaleddate": "",
       "addeddate_raw": "2026-04-14T11:04:57.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-05-20T10:05:58.000",
       "finaleddate_raw": ""
     },
     {
@@ -1008,7 +1076,7 @@
     },
     {
       "location": "7236 WOODMONT AVE\nBETHESDA, MD 20814\n(38.98155, -77.09583)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$23,400",
       "declaredvaluation_num": 23400.0,
@@ -1018,10 +1086,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,INSTALL SHELVING IN BACK OF HOUSE. NO ELECTRICAL OR MECHANICAL",
       "addeddate": "2026-04-02T01:04:13.000",
       "issueddate": "2026-05-12T09:05:02.000",
-      "finaleddate": "",
+      "finaleddate": "2026-05-20T04:05:33.000",
       "addeddate_raw": "2026-04-02T01:04:13.000",
       "issueddate_raw": "2026-05-12T09:05:02.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-05-20T04:05:33.000"
     },
     {
       "location": "12800 MIDDLEBROOK RD\nGERMANTOWN, MD 20874\n(39.17667, -77.26507)",
@@ -2487,7 +2555,7 @@
     },
     {
       "location": "9055 COMPRINT CT\nGAITHERSBURG, MD 20877\n(39.12049, -77.18664)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$930,000",
       "declaredvaluation_num": 930000.0,
@@ -2496,10 +2564,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,3rd Floor Alterations: remove existing partitions &amp; doors, ceilings &amp; light fixtures, flooring, ductwork &amp; VAV boxes, and other misc. existing tenant improvements and construct new partitions &amp; ceiling assemblies, install new doors, casework, finishes, HVAC ductwork, VAV boxes &amp; air flow devices, light fixtures, switches, receptacles &amp; other devices as shown on the drawings. Modify existing fire alarm and automatic sprinkler heads per approved fire protection system plans",
       "addeddate": "2026-02-04T04:02:30.000",
-      "issueddate": "",
+      "issueddate": "2026-05-20T11:05:29.000",
       "finaleddate": "",
       "addeddate_raw": "2026-02-04T04:02:30.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-05-20T11:05:29.000",
       "finaleddate_raw": ""
     },
     {
@@ -5003,7 +5071,7 @@
     },
     {
       "location": "6720 ROCKLEDGE DR\nROCKVILLE, MD 20817\n(39.02921, -77.13481)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$350,000",
       "declaredvaluation_num": 350000.0,
@@ -5013,10 +5081,10 @@
       "description": "Customer Wants To Use ePlans,RENOVATION OF AN EXISTING TENANT SPACE FOR NEW TENANT.",
       "addeddate": "2025-10-06T09:10:02.000",
       "issueddate": "2026-01-05T03:01:01.000",
-      "finaleddate": "",
+      "finaleddate": "2026-05-20T03:05:45.000",
       "addeddate_raw": "2025-10-06T09:10:02.000",
       "issueddate_raw": "2026-01-05T03:01:01.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-05-20T03:05:45.000"
     },
     {
       "location": "8700 GEORGIA AVE\nSILVER SPRING, MD 20910\n(38.99751, -77.03039)",
@@ -5071,7 +5139,7 @@
     },
     {
       "location": "7236 WOODMONT AVE\nBETHESDA, MD 20814\n(38.98155, -77.09583)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$850,000",
       "declaredvaluation_num": 850000.0,
@@ -5081,10 +5149,10 @@
       "description": "Revision ,01 - REVISION TO UPDATE PLANS PER FIELD CONDITION PER INSPECTORS REQUEST,Customer Wants To Use ePlans  Customer Wants To Use ePlans Interior work only,INTERIOR ALTERATION OF AN EXISTING RETAIL SUITE. WORK INCLUDES REFINISH OF EXISTING STOREFRONT SYSTEM. AND CONSTRUCT TEMPORARY BARRICADE TO ISOLATE AND PROTECT CONSTRUCTION. This COMMERCIAL BUILDING application is associated with the following related applications: ELECTRICAL PERMIT 1139476. (RC-12/11/2025)",
       "addeddate": "2025-10-03T01:10:32.000",
       "issueddate": "2025-12-11T03:12:37.000",
-      "finaleddate": "",
+      "finaleddate": "2026-05-20T04:05:55.000",
       "addeddate_raw": "2025-10-03T01:10:32.000",
       "issueddate_raw": "2025-12-11T03:12:37.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-05-20T04:05:55.000"
     },
     {
       "location": "11300 ROCKVILLE PIKE\nROCKVILLE, MD 20852\n(39.04109, -77.11056)",
@@ -7400,7 +7468,7 @@
     },
     {
       "location": "22416 FREDERICK RD\nCLARKSBURG, MD 20871\n(39.22429, -77.26251)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$90,000",
       "declaredvaluation_num": 90000.0,
@@ -7409,10 +7477,10 @@
       "worktype": "ADD",
       "description": "Customer Wants To Use ePlans,Addition and modifications to the existing Bennett Creek Animal Hospital, located at 22614 Frederick Road in Clarksburg. Dr. Jeffrey Walcoff requests modifications to the existing animal hospital including a 1-story addition, with a basement, creating six additional exam rooms, one larger surgical suite, three administrative offices, one veterinarian office suite, staff break room and additional storage in order to expand services provided at the clinic. The design elements of the addition will be similar to the existing veterinary clinic. U/O 417910 Bid Documents is required.New Addition + Main Floor = Total of 4,833sf Gross Floor Area (GFA)",
       "addeddate": "2025-06-11T08:06:39.000",
-      "issueddate": "",
+      "issueddate": "2026-05-20T09:05:32.000",
       "finaleddate": "",
       "addeddate_raw": "2025-06-11T08:06:39.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-05-20T09:05:32.000",
       "finaleddate_raw": ""
     },
     {
@@ -8403,7 +8471,7 @@
     },
     {
       "location": "3937 FERRARA DR\nSILVER SPRING, MD 20906\n(39.05209, -77.07703)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$30,000",
       "declaredvaluation_num": 30000.0,
@@ -8413,10 +8481,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,Interior alterations for a new medical tenant. Bid estimate was not submitted.",
       "addeddate": "2025-04-30T04:04:11.000",
       "issueddate": "2025-09-02T08:09:47.000",
-      "finaleddate": "",
+      "finaleddate": "2026-05-20T09:05:51.000",
       "addeddate_raw": "2025-04-30T04:04:11.000",
       "issueddate_raw": "2025-09-02T08:09:47.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-05-20T09:05:51.000"
     },
     {
       "location": "20501 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.19563, -77.25914)",
