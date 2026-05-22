@@ -1,8 +1,42 @@
 {
-  "last_updated": "2026-05-21T17:34:28.959035+00:00",
+  "last_updated": "2026-05-22T17:18:29.279222+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10505,
+  "record_count": 10507,
   "permits": [
+    {
+      "location": "5601 FISHERS LN\nROCKVILLE, MD 20852\n(39.06279, -77.11187)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$136,962",
+      "declaredvaluation_num": 136962.0,
+      "buildingarea": "700 sf",
+      "buildingarea_num": 700.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,INTERIOR ALTERATION OF EXISTING FULL FLOOR TENANT. MODIFICATIONS TO\nINCLUDE DEMOLITION OF EXISTING SYSTEMS FURNITURE; AND CONSTRUCTION\nOF NEW DEMOUNTABLE PARTITIONS AND DOORS, AND REPLACEMENT OF\nEXISTING SYSTEMS FURNITURE. NEW ELECTRICAL WORK TO MODIFY POWER TO\nREFLECT NEW PLAN. ALL ELECTRICAL RUNS ARE TO CONNECT TO EXISTING\nBUILDING MAIN ELECTRICAL ROOM. EXISTING DUCTWORK TO REMAIN.\nTHERE IS NO STRUCTURAL WORK IN THIS PROJECT.",
+      "addeddate": "2026-05-21T11:05:29.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-05-21T11:05:29.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "10301 GEORGIA AVE\nSILVER SPRING, MD 20902\n(39.02423, -77.04507)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$252,097",
+      "declaredvaluation_num": 252097.0,
+      "buildingarea": "1,885 sf",
+      "buildingarea_num": 1885.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,THIS PROJECT IS AN INTERIOR ALTERATION TO AN EXESTING BUILDING",
+      "addeddate": "2026-05-21T06:05:46.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-05-21T06:05:46.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "6710 ROCKLEDGE DR\nBETHESDA, MD 20817\n(39.02921, -77.13481)",
       "status": "Open",
@@ -1229,7 +1263,7 @@
     },
     {
       "location": "7600 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98612, -77.09457)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$3,000",
       "declaredvaluation_num": 3000.0,
@@ -1239,10 +1273,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,FURNITURE INSTALLATION ONLY - USING REPURPOSED FURNITURE",
       "addeddate": "2026-03-27T04:03:14.000",
       "issueddate": "2026-04-20T10:04:34.000",
-      "finaleddate": "",
+      "finaleddate": "2026-05-21T12:05:03.000",
       "addeddate_raw": "2026-03-27T04:03:14.000",
       "issueddate_raw": "2026-04-20T10:04:34.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-05-21T12:05:03.000"
     },
     {
       "location": "4920 ELM ST\nBETHESDA, MD 20814\n(38.9821, -77.09712)",
@@ -1364,7 +1398,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "8101 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.99144, -77.09535)",
+      "location": "1040 SPRING ST\nSILVER SPRING, MD 20910\n(38.99927, -77.02808)",
       "status": "Open",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$443,762",
@@ -35381,7 +35415,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "8640 FLOWER AVE\nTAKOMA PARK, MD 20912\n(38.997664004, -77.003814996)",
+      "location": "8640 FLOWER AVE\nTAKOMA PARK, MD 20912\n(38.99769, -77.00345)",
       "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$86,000",
@@ -35389,7 +35423,7 @@
       "buildingarea": "3,700 sf",
       "buildingarea_num": 3700.0,
       "worktype": "RESTORE AND / OR REPAIR",
-      "description": "Revision ,3 - Removal and relocation of exterior stairs.,Customer Wants To Use ePlans Revision ,1 - Bldg 1 framing change, foundation plan; Bldg 2 framing change; additonal details, foundation plan.,Customer Wants To Use ePlans Customer Wants To Use ePlans,ARCHITECTURAL ROUGH-INS. STRUCTURAL REPAIR FROM FIRE AND WATER DAMAGE.&nbsp;Damages&nbsp;to the adjacent building needs a separate permit. sister permit # 994072&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp",
+      "description": "Revision ,4 - Revision to the building analysis information.,Customer Wants To Use ePlansRevision ,3 - Removal and relocation of exterior stairs.,Customer Wants To Use ePlans Revision ,1 - Bldg 1 framing change, foundation plan; Bldg 2 framing change; additonal details, foundation plan.,Customer Wants To Use ePlans Customer Wants To Use ePlans,ARCHITECTURAL ROUGH-INS. STRUCTURAL REPAIR FROM FIRE AND WATER DAMAGE.&nbsp;Damages&nbsp;to the adjacent building needs a separate permit. sister permit # 994072&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp",
       "addeddate": "2022-02-01T05:02:41.000",
       "issueddate": "2022-07-27T02:07:30.000",
       "finaleddate": "",
