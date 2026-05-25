@@ -1,8 +1,42 @@
 {
-  "last_updated": "2026-05-24T16:13:59.384376+00:00",
+  "last_updated": "2026-05-25T17:16:44.776252+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10507,
+  "record_count": 10509,
   "permits": [
+    {
+      "location": "",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$772,532",
+      "declaredvaluation_num": 772532.0,
+      "buildingarea": "5,870 sf",
+      "buildingarea_num": 5870.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,TENANT RENOVATION NEW PARTITIONS & FINISH MATERIALS, NEW LIGHTING & ELECTRICAL, AND NEW MECHANICAL & PLUMBING.",
+      "addeddate": "2026-05-22T03:05:23.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-05-22T03:05:23.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$31,677",
+      "declaredvaluation_num": 31677.0,
+      "buildingarea": "5,870 sf",
+      "buildingarea_num": 5870.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,INTERIOR DEMOLITION ONLY IN PREPARATION OF NEW TENANT.",
+      "addeddate": "2026-05-22T02:05:52.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-05-22T02:05:52.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "5601 FISHERS LN\nROCKVILLE, MD 20852\n(39.06279, -77.11187)",
       "status": "Open",
@@ -1127,7 +1161,7 @@
     },
     {
       "location": "12800 MIDDLEBROOK RD\nGERMANTOWN, MD 20874\n(39.17667, -77.26507)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$155,700",
       "declaredvaluation_num": 155700.0,
@@ -1136,10 +1170,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,Interior tenant fit-out for a dental office. Suite A and B",
       "addeddate": "2026-04-01T11:04:00.000",
-      "issueddate": "",
+      "issueddate": "2026-05-22T10:05:34.000",
       "finaleddate": "",
       "addeddate_raw": "2026-04-01T11:04:00.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-05-22T10:05:34.000",
       "finaleddate_raw": ""
     },
     {
@@ -1824,7 +1858,7 @@
     },
     {
       "location": "6710 ROCKLEDGE DR\nBETHESDA, MD 20817\n(39.02921, -77.13481)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$1,700,000",
       "declaredvaluation_num": 1700000.0,
@@ -1833,10 +1867,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,A PARTIAL FLOOR TENANT FIT-OUT CONSTRUCTED IN AN EXISTING TENANT SUITE ON THE THIRD FLOOR. THE CLINIC SUITE WILL INCLUDE EXAM ROOMS, XRAY ROOM, PHYSICAL THERAPY GYM, AND TYPICAL SUPPORT SPACES.",
       "addeddate": "2026-03-05T09:03:56.000",
-      "issueddate": "",
+      "issueddate": "2026-05-22T08:05:13.000",
       "finaleddate": "",
       "addeddate_raw": "2026-03-05T09:03:56.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-05-22T08:05:13.000",
       "finaleddate_raw": ""
     },
     {
@@ -2572,7 +2606,7 @@
     },
     {
       "location": "7811 MONTROSE RD\nPOTOMAC, MD 20854\n(39.05756, -77.15986)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$52,290",
       "declaredvaluation_num": 52290.0,
@@ -2582,10 +2616,10 @@
       "description": "Customer Wants To Use ePlans,THIS PROJECT INCLUDES A NEW MEDICAL OFFICE IN EXISTING VACANT SUITE 215. DEMOLITION INCLUDES REMOVAL OF FINISHES AND SOME PARTITIONS. NEW WORK INCLUDES NEW PARTITIONS, FINISHES, MILLWORK, ELECTRICAL, MINOR MECHANICAL, PLUMBING AND FIRE ALARM COMPONENTS. LIGHTING IS EXISTING TO REMAIN OR RELOCATED. ALL FIRE ALARM AND SPRINKLER WORK SHALL BE UNDER A SEPARATE PERMIT.",
       "addeddate": "2026-02-04T10:02:22.000",
       "issueddate": "2026-03-17T09:03:02.000",
-      "finaleddate": "",
+      "finaleddate": "2026-05-22T02:05:15.000",
       "addeddate_raw": "2026-02-04T10:02:22.000",
       "issueddate_raw": "2026-03-17T09:03:02.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-05-22T02:05:15.000"
     },
     {
       "location": "9055 COMPRINT CT\nGAITHERSBURG, MD 20877\n(39.12049, -77.18664)",
@@ -4068,7 +4102,7 @@
     },
     {
       "location": "19550 FREDERICK RD\nGERMANTOWN, MD 20876\n(39.17611, -77.23885)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "INDUSTRIAL BUILDING",
       "declaredvaluation": "$12,000",
       "declaredvaluation_num": 12000.0,
@@ -4077,10 +4111,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,Remove existing mulch, vegetation and tonsil within approximately 467 sf and porch 5 inch concrete slab as per plan with existing curb and gutter.Cutting and modification of front eat wall. removing block wall and install store front glass with double glass door. removal of side entrance door and coming off with match CMU.Paint all interior walls and ceiling in workshop area. replace the vinyl tile with porcelain tiles. replace the damaged ceiling tiles in the office and lobby area. 19550 frederick RD B Germantown, MD 20876",
       "addeddate": "2025-11-30T10:11:57.000",
-      "issueddate": "",
+      "issueddate": "2026-05-22T08:05:42.000",
       "finaleddate": "",
       "addeddate_raw": "2025-11-30T10:11:57.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-05-22T08:05:42.000",
       "finaleddate_raw": ""
     },
     {
@@ -7179,7 +7213,7 @@
     },
     {
       "location": "7500 OLD GEORGETOWN RD\nBETHESDA, MD 20814\n(38.98528, -77.09512)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$172,800",
       "declaredvaluation_num": 172800.0,
@@ -7189,10 +7223,10 @@
       "description": "Customer Wants To Use ePlans,DEMOLISH AND WHITE BOX REMAINING SUITE FROM NEW TENANT ON METRO LEVEL. PROVIDE NEW COMMON AREA CORRIDOR TO WHITE BOX SPACE AND EXIT. PROVIDE NEW COMMON AREA RESTROOMS, INCLUDING ONE (1) ADA COMPLIANT TOILET ROOM.",
       "addeddate": "2025-06-30T12:06:22.000",
       "issueddate": "2025-11-26T01:11:29.000",
-      "finaleddate": "",
+      "finaleddate": "2026-05-22T01:05:34.000",
       "addeddate_raw": "2025-06-30T12:06:22.000",
       "issueddate_raw": "2025-11-26T01:11:29.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-05-22T01:05:34.000"
     },
     {
       "location": "1015 SPRING ST\nSILVER SPRING, MD 20910\n(38.99959, -77.0277)",
