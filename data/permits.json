@@ -1,10 +1,61 @@
 {
-  "last_updated": "2026-05-26T18:05:58.174453+00:00",
+  "last_updated": "2026-05-27T18:07:23.581026+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10509,
+  "record_count": 10512,
   "permits": [
     {
-      "location": "",
+      "location": "7920 NORFOLK AVE\nBETHESDA, MD 20814\n(38.98931, -77.09795)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$220,000",
+      "declaredvaluation_num": 220000.0,
+      "buildingarea": "2,012 sf",
+      "buildingarea_num": 2012.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,SUITE# 340\nOFFICE RENOVATION CONSISTING OF COMBINING 2 EXITING SUITES INTO ONE SUITE. MODIFICATIONS TO EXISTING MEP SYSTEMS. NO SYSTEMS FURNITURE.",
+      "addeddate": "2026-05-26T06:05:49.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-05-26T06:05:49.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "1015 SPRING ST\nSILVER SPRING, MD 20910\n(38.99959, -77.0277)",
+      "status": "Open",
+      "usecode": "BIOSCIENCE",
+      "declaredvaluation": "$526,612",
+      "declaredvaluation_num": 526612.0,
+      "buildingarea": "1,377 sf",
+      "buildingarea_num": 1377.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,Replacement of steam generators and humidification module at (2) existing rooftop air handling units and addition of (2) backup rooftop steam generators.  This project does not alter existing occupant loading, door capacity, or travel distances.",
+      "addeddate": "2026-05-26T02:05:52.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-05-26T02:05:52.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "1015 SPRING ST\nSILVER SPRING, MD 20910\n(38.99959, -77.0277)",
+      "status": "Open",
+      "usecode": "BIOSCIENCE",
+      "declaredvaluation": "$269,689",
+      "declaredvaluation_num": 269689.0,
+      "buildingarea": "140 sf",
+      "buildingarea_num": 140.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,Alteration of one room from copy room to IDF room.  Inclusion of one door in existing cased opening with card reader.  This project does not alter existing occupant loading, door capacity, or travel distances.",
+      "addeddate": "2026-05-26T01:05:22.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-05-26T01:05:22.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "20400 OBSERVATION DR\nGERMANTOWN, MD 20876\n(39.19049, -77.24941)",
       "status": "Open",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$772,532",
@@ -617,7 +668,7 @@
     },
     {
       "location": "18050 GEORGIA AVE\nOLNEY, MD 20832\n(39.15254, -77.06722)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "INDUSTRIAL BUILDING",
       "declaredvaluation": "$8,800",
       "declaredvaluation_num": 8800.0,
@@ -626,10 +677,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,Add bathroom to existing building shell space.",
       "addeddate": "2026-04-27T12:04:57.000",
-      "issueddate": "",
+      "issueddate": "2026-05-26T12:05:44.000",
       "finaleddate": "",
       "addeddate_raw": "2026-04-27T12:04:57.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-05-26T12:05:44.000",
       "finaleddate_raw": ""
     },
     {
@@ -923,7 +974,7 @@
     },
     {
       "location": "19873 CENTURY BLVD\nGERMANTOWN, MD 20874\n(39.18267, -77.26419)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$191,900",
       "declaredvaluation_num": 191900.0,
@@ -932,10 +983,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,Partial demolition of existing walls, HVAc, and lighting. Construction of new walls, HVAC, plumbing, and lighting for optometry practice.",
       "addeddate": "2026-04-13T06:04:49.000",
-      "issueddate": "",
+      "issueddate": "2026-05-26T03:05:05.000",
       "finaleddate": "",
       "addeddate_raw": "2026-04-13T06:04:49.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-05-26T03:05:05.000",
       "finaleddate_raw": ""
     },
     {
@@ -1236,7 +1287,7 @@
       "buildingarea": "2,577 sf",
       "buildingarea_num": 2577.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,Interior alteration of existing office shell space for an existing medical office tenant expansion. Demo work for new corridor openings. New work includes new partitions, ceilings, millwork, lighting, and finishes. New electrical and plumbing work throughout. Existing mechanical to be modified and new components to support new build-out.",
+      "description": "Customer Wants To Use ePlans Interior work only,Interior alteration of existing office shell space for an existing medical office tenant expansion. Demo work for new corridor openings. New work includes new partitions, ceilings, millwork, lighting, and finishes. New electrical and plumbing work throughout. Existing mechanical to be modified and new components to support new build-out.",
       "addeddate": "2026-03-31T03:03:17.000",
       "issueddate": "",
       "finaleddate": "",
@@ -2300,7 +2351,7 @@
     },
     {
       "location": "10110 MOLECULAR DR\nROCKVILLE, MD 20850\n(39.09223, -77.20988)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$312,120",
       "declaredvaluation_num": 312120.0,
@@ -2309,10 +2360,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,Interior Suite Renovation of Suite 210",
       "addeddate": "2026-02-17T12:02:21.000",
-      "issueddate": "",
+      "issueddate": "2026-05-26T11:05:31.000",
       "finaleddate": "",
       "addeddate_raw": "2026-02-17T12:02:21.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-05-26T11:05:31.000",
       "finaleddate_raw": ""
     },
     {
@@ -2503,7 +2554,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "8401 CONNECTICUT AVE\nCHEVY CHASE, MD 20815\n(38.99423, -77.07606)",
+      "location": "8401 CONNECTICUT AVE\nCHEVY CHASE, MD 20815\n(38.99414, -77.0764)",
       "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$450,000",
@@ -2511,7 +2562,7 @@
       "buildingarea": "3,300 sf",
       "buildingarea_num": 3300.0,
       "worktype": "ALTER",
-      "description": "Revision ,1 - REVISION #1: ELECTRICAL AND PLUMBING REVISIONS PER FIELD CONDITIONS.,Customer Wants To Use ePlansCustomer Wants To Use ePlans Interior work only,10TH FLOOR SUITE 1000- interior alteration to include new partition layout w/ an added accessible restroom requiring mods to the exiting MEP. No structural scope of work is required.",
+      "description": "Revision ,1 - application 05/14/2026 - &nbsp;REVISION #1: ELECTRICAL AND PLUMBING REVISIONS PER FIELD CONDITIONS.&nbsp;Interior work only,10TH FLOOR SUITE 1000- interior alteration to include new partition layout w/ an added accessible restroom requiring mods to the exiting MEP. No structural scope of work is required.",
       "addeddate": "2026-02-09T08:02:13.000",
       "issueddate": "2026-04-22T10:04:56.000",
       "finaleddate": "",
@@ -2589,7 +2640,7 @@
     },
     {
       "location": "14119 TRAVILAH RD\nROCKVILLE, MD 20850\n(39.08612, -77.21938)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$200,000",
       "declaredvaluation_num": 200000.0,
@@ -2598,10 +2649,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,First Tenant built out of part of the building. New interior walls, doors, ceilings, millwork and finishes. New restrooms. New HVAC and associated electrical and plumbing related to the new layout.",
       "addeddate": "2026-02-04T10:02:27.000",
-      "issueddate": "",
+      "issueddate": "2026-05-26T09:05:59.000",
       "finaleddate": "",
       "addeddate_raw": "2026-02-04T10:02:27.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-05-26T09:05:59.000",
       "finaleddate_raw": ""
     },
     {
@@ -3115,8 +3166,8 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "12601 TWINBROOK PKWY\nROCKVILLE, MD 20852\n(39.06365, -77.11613)",
-      "status": "Open",
+      "location": "12601 TWINBROOK PKWY\nROCKVILLE, MD 20852\n(39.06343, -77.11627)",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$4,374,558",
       "declaredvaluation_num": 4374558.0,
@@ -3125,10 +3176,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,THE PROJECT INCLUDES ALTERATION WORK AT LEVEL 1 OF THE UNITED STATES PHARMACOPEIA HEADQUARTERS BUILDING IN ROCKVILLE, MD. LEVEL 1 MODIFICATION TO LEVEL G &amp; 1: THE SCOPE AT LEVEL 1 INCLUDES RENOVATION OF BBL LAB CONSTRUCTION. NO CORE BUILDING ELEMENTS OR CORRIDORS ARE BEING MODIFIED. EXIT PATHS AND STAIRWELLS ARE NOT BEING ALTERED.",
       "addeddate": "2026-01-06T11:01:16.000",
-      "issueddate": "",
+      "issueddate": "2026-05-26T10:05:41.000",
       "finaleddate": "",
       "addeddate_raw": "2026-01-06T11:01:16.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-05-26T10:05:41.000",
       "finaleddate_raw": ""
     },
     {
