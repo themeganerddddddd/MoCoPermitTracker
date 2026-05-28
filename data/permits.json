@@ -1,8 +1,42 @@
 {
-  "last_updated": "2026-05-27T18:07:23.581026+00:00",
+  "last_updated": "2026-05-28T18:19:55.353340+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10512,
+  "record_count": 10514,
   "permits": [
+    {
+      "location": "1100 WAYNE AVE\nSILVER SPRING, MD 20910\n(38.99451, -77.02863)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$4,450",
+      "declaredvaluation_num": 4450.0,
+      "buildingarea": "2,073 sf",
+      "buildingarea_num": 2073.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,(FAST TRACK) EXPANSION OF EXISTING TENANT INTO ADJACENT TENANT SPACE. 1100 Wayne AVE 1010\nSilver Spring, MD 20910",
+      "addeddate": "2026-05-27T10:05:36.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-05-27T10:05:36.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "1300 SPRING ST\nSILVER SPRING, MD 20910\n(38.99904, -77.03246)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$50,000",
+      "declaredvaluation_num": 50000.0,
+      "buildingarea": "1,204 sf",
+      "buildingarea_num": 1204.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans  Interior work only,INTERIOR RENOVATION OF EXISTING SUITE. SELECTIVE DEMO. NEW PARTITIONS, FINISHES, ELEC. & MECH. DISTRIBUTION",
+      "addeddate": "2026-05-27T02:05:53.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-05-27T02:05:53.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "7920 NORFOLK AVE\nBETHESDA, MD 20814\n(38.98931, -77.09795)",
       "status": "Open",
@@ -72,7 +106,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "",
+      "location": "20400 OBSERVATION DR\nGERMANTOWN, MD 20876\n(39.19049, -77.24941)",
       "status": "Open",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$31,677",
@@ -1280,7 +1314,7 @@
     },
     {
       "location": "6720 ROCKLEDGE DR\nROCKVILLE, MD 20817\n(39.02921, -77.13481)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$226,685",
       "declaredvaluation_num": 226685.0,
@@ -1289,10 +1323,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,Interior alteration of existing office shell space for an existing medical office tenant expansion. Demo work for new corridor openings. New work includes new partitions, ceilings, millwork, lighting, and finishes. New electrical and plumbing work throughout. Existing mechanical to be modified and new components to support new build-out.",
       "addeddate": "2026-03-31T03:03:17.000",
-      "issueddate": "",
+      "issueddate": "2026-05-27T07:05:08.000",
       "finaleddate": "",
       "addeddate_raw": "2026-03-31T03:03:17.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-05-27T07:05:08.000",
       "finaleddate_raw": ""
     },
     {
@@ -3320,7 +3354,7 @@
     },
     {
       "location": "12255 PROSPERITY DR\nSILVER SPRING, MD 20904\n(39.06134, -76.96049)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$8,500",
       "declaredvaluation_num": 8500.0,
@@ -3330,10 +3364,10 @@
       "description": "Revision ,01 - UPDATE PLANS PER FIELD CHANGES - landlord MEP comments added, and&nbsp;interior slab detail, etc,Customer Wants To Use ePlans Customer Wants To Use ePlans Interior work only,INTERIOR TENANT IMPROVEMENTS FOR A NEW TENANT IN AN EXISTING SHELL INCLUDING ADA RESTROOMS, KILN &amp; DIPPING ROOMS, CHECK-IN COUNTER, ETC. WITH U&amp;O",
       "addeddate": "2025-12-23T10:12:07.000",
       "issueddate": "2026-01-09T11:01:29.000",
-      "finaleddate": "",
+      "finaleddate": "2026-05-27T12:05:37.000",
       "addeddate_raw": "2025-12-23T10:12:07.000",
       "issueddate_raw": "2026-01-09T11:01:29.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-05-27T12:05:37.000"
     },
     {
       "location": "20501 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.19563, -77.25914)",
@@ -19571,8 +19605,8 @@
       "finaleddate_raw": "2024-03-20T12:03:35.000"
     },
     {
-      "location": "9055 COMPRINT CT\nGAITHERSBURG, MD 20877\n(39.12074299, -77.186639978)",
-      "status": "Issued",
+      "location": "9055 COMPRINT CT\nGAITHERSBURG, MD 20877\n(39.12049, -77.18664)",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$3,350,000",
       "declaredvaluation_num": 3350000.0,
@@ -19582,10 +19616,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,REMOVE EXISTING PARTITIONS, CEILING ASSEMBLIES, DOORS &amp; FRAMES, INTERIOR WINDOWS, FLOORING, CABINETS, LIGHT FIXTURES, HVAC DEVICES &amp; DISTRIBUTION DUCTWORK, &amp; PLUMBING FIXTURES AND CONSTRUCT NEW PARTITIONS &amp; CEILING ASSEMBLIES &amp; INSTALL NEW DOORS, HOLLOW METAL FRAMES, INTERIOR WINDOWS, OPERABLE PARTITIONS, CABINETS, COUNTERTOPS, FLOORING &amp; WALL TREATMENTS, FOOD SERVICE EQUIPMENT &amp; OTHER SPECIALTY EQUIPMENT AND FURNISHINGS AS SHOWN ON THE DRAWINGS. INSTALL NEW &amp;/OR RELOCATE EXISTING HVAC EQUIPMENT WITH NEW DUCTWORK &amp; NEW HVAC AIR FLOW DEVICES, NEW PLUMBING FIXTURES &amp; PIPING, &amp; NEW ELECTRICAL LIGHT FIXTURES, RECEPTACLES, SWITCHES, &amp; OTHER DEVICES AS SHOWN ON THE DRAWINGS",
       "addeddate": "2023-09-20T09:09:41.000",
       "issueddate": "2023-11-09T10:11:52.000",
-      "finaleddate": "",
+      "finaleddate": "2026-05-27T02:05:06.000",
       "addeddate_raw": "2023-09-20T09:09:41.000",
       "issueddate_raw": "2023-11-09T10:11:52.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-05-27T02:05:06.000"
     },
     {
       "location": "4416 EAST WEST HWY\nBETHESDA, MD 20814\n(38.985068537, -77.090587928)",
