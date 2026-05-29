@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-28T18:19:55.353340+00:00",
+  "last_updated": "2026-05-29T18:16:49.803374+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10514,
+  "record_count": 10513,
   "permits": [
     {
       "location": "1100 WAYNE AVE\nSILVER SPRING, MD 20910\n(38.99451, -77.02863)",
@@ -97,7 +97,7 @@
       "buildingarea": "5,870 sf",
       "buildingarea_num": 5870.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,TENANT RENOVATION NEW PARTITIONS & FINISH MATERIALS, NEW LIGHTING & ELECTRICAL, AND NEW MECHANICAL & PLUMBING.",
+      "description": "Customer Wants To Use ePlans,TENANT RENOVATION NEW PARTITIONS &amp; FINISH MATERIALS, NEW LIGHTING &amp; ELECTRICAL, AND NEW MECHANICAL &amp; PLUMBING.",
       "addeddate": "2026-05-22T03:05:23.000",
       "issueddate": "",
       "finaleddate": "",
@@ -1994,7 +1994,7 @@
     },
     {
       "location": "5268 NICHOLSON LN\nROCKVILLE, MD 20852",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$49,150",
       "declaredvaluation_num": 49150.0,
@@ -2003,10 +2003,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,Interior remodel for existing UPS Store. Use is not changing, no exterior work and no expansion of footprint.",
       "addeddate": "2026-03-03T12:03:47.000",
-      "issueddate": "",
+      "issueddate": "2026-05-28T01:05:53.000",
       "finaleddate": "",
       "addeddate_raw": "2026-03-03T12:03:47.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-05-28T01:05:53.000",
       "finaleddate_raw": ""
     },
     {
@@ -2402,7 +2402,7 @@
     },
     {
       "location": "6710 ROCKLEDGE DR\nBETHESDA, MD 20817\n(39.02921, -77.13481)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$100",
       "declaredvaluation_num": 100.0,
@@ -2411,10 +2411,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,Child permit for generator and exterior work under permit COMBUILD-1149150 in conjunction with interior alterations for ambulatory care facility under the parent permit #1143407",
       "addeddate": "2026-02-17T03:02:23.000",
-      "issueddate": "",
+      "issueddate": "2026-05-28T10:05:22.000",
       "finaleddate": "",
       "addeddate_raw": "2026-02-17T03:02:23.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-05-28T10:05:22.000",
       "finaleddate_raw": ""
     },
     {
@@ -4251,23 +4251,6 @@
       "finaleddate": "",
       "addeddate_raw": "2025-11-26T06:11:48.000",
       "issueddate_raw": "2026-04-06T10:04:55.000",
-      "finaleddate_raw": ""
-    },
-    {
-      "location": "6111 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.04924, -77.12381)",
-      "status": "Open",
-      "usecode": "BUSINESS BUILDING",
-      "declaredvaluation": "$1",
-      "declaredvaluation_num": 1.0,
-      "buildingarea": "0 sf",
-      "buildingarea_num": 0,
-      "worktype": "CONSTRUCT",
-      "description": "HHS Plan Review",
-      "addeddate": "2025-11-25T12:11:57.000",
-      "issueddate": "",
-      "finaleddate": "",
-      "addeddate_raw": "2025-11-25T12:11:57.000",
-      "issueddate_raw": "",
       "finaleddate_raw": ""
     },
     {
@@ -6941,7 +6924,7 @@
     },
     {
       "location": "12200 TECH RD\nSILVER SPRING, MD 20904\n(39.05548, -76.96789)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$100,000",
       "declaredvaluation_num": 100000.0,
@@ -6951,10 +6934,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,interior alterations for a new pilates studio, new partitions, lighting, ceiling and plumbing",
       "addeddate": "2025-07-16T02:07:47.000",
       "issueddate": "2025-10-09T02:10:25.000",
-      "finaleddate": "",
+      "finaleddate": "2026-05-28T12:05:02.000",
       "addeddate_raw": "2025-07-16T02:07:47.000",
       "issueddate_raw": "2025-10-09T02:10:25.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-05-28T12:05:02.000"
     },
     {
       "location": "7959 CESSNA AVE\nGAITHERSBURG, MD 20879\n(39.17298, -77.16299)",
@@ -11174,7 +11157,7 @@
     },
     {
       "location": "10810 CONNECTICUT AVE\nKENSINGTON, MD 20895\n(39.03321, -77.07601)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$2,000,000",
       "declaredvaluation_num": 2000000.0,
@@ -11184,10 +11167,10 @@
       "description": "Revision ,2 - Based upon redefined User needs, the new generator only needs to provide emergency power to the facility for a 4 hour duration.� Based upon this requirement, the new sub-base tank will be sufficient to meet and exceed this need.� Therefore, new, resized fuel lines from the existing underground tanks will not be required.� The existing lines will be extended to the new generator as a means for refueling. Please refer to the revised drawings for the changes to the fuel piping scope,Customer Wants To Use ePlansRevision ,1 - Based upon redefined User needs, the new generator only needs to provide emergency power to the facility for a 4 hour duration.  Based upon this requirement, the new sub-base tank will be sufficient to meet and exceed this need.  Therefore, new, resized fuel lines from the existing underground tanks will not be required.  The existing lines will be extended to the new generator as a means for refueling. Please refer to the revised drawings for the changes to the fuel piping scope.\n\n ,Customer Wants To Use ePlansRevision ,1 - Surface repairs to existing traffic coating and inspection of existing structural slab in those areas,Customer Wants To Use ePlansCustomer Wants To Use ePlans Interior work only,This project consists of the dividing of the existing Electrical Room to provide separated areas for normal and emergency power distribution equipment as well as the rewiring of the existing ATS and associated emergency power/circuits as indicated on the drawings.",
       "addeddate": "2024-12-04T01:12:12.000",
       "issueddate": "2025-07-15T09:07:17.000",
-      "finaleddate": "",
+      "finaleddate": "2026-05-28T12:05:18.000",
       "addeddate_raw": "2024-12-04T01:12:12.000",
       "issueddate_raw": "2025-07-15T09:07:17.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-05-28T12:05:18.000"
     },
     {
       "location": "7620 OLD GEORGETOWN RD\nBETHESDA, MD 20814\n(38.98531, -77.09518)",
