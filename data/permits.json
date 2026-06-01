@@ -1,8 +1,42 @@
 {
-  "last_updated": "2026-05-31T16:36:03.468174+00:00",
+  "last_updated": "2026-06-01T19:58:30.824880+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10513,
+  "record_count": 10515,
   "permits": [
+    {
+      "location": "6909 DAMASCUS RD\nGAITHERSBURG, MD 20882\n(39.25418, -77.13964)",
+      "status": "Open",
+      "usecode": "INDUSTRIAL BUILDING",
+      "declaredvaluation": "$10,000",
+      "declaredvaluation_num": 10000.0,
+      "buildingarea": "320 sf",
+      "buildingarea_num": 320.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans  Interior work only,We are planning to modify a High Cube used cargo container into a food processing facility on-farm. We raise tilapia fish and grow plants (leafy greens, cucumbers, peppers and tomatoes and we want to make value added products from our crops, including fish fillets and \"\"RTE\"\" salad kits. We held a pre-design consultation with DPS representatives and were told that we are exempt from commercial licensing, but still need to get HHS review. That is why I am applying for \"\"HEALTH-ONLY\"\" plan review application. Please let me know if I'm on a right or wrong direction.",
+      "addeddate": "2026-05-31T12:05:15.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-05-31T12:05:15.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "2909 FRIENDLYWOOD WAY\nBURTONSVILLE, MD 20866\n(39.09476, -76.9509)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$60,000",
+      "declaredvaluation_num": 60000.0,
+      "buildingarea": "400 sf",
+      "buildingarea_num": 400.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,Existing assisted living faculty with occupant load of 5 to be increased to 8. Change garage to bedrooms and a bathroom. Minor alteration at the basement level.",
+      "addeddate": "2026-05-29T02:05:11.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-05-29T02:05:11.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "1100 WAYNE AVE\nSILVER SPRING, MD 20910\n(38.99451, -77.02863)",
       "status": "Open",
@@ -29,7 +63,7 @@
       "buildingarea": "1,204 sf",
       "buildingarea_num": 1204.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,INTERIOR RENOVATION OF EXISTING SUITE. SELECTIVE DEMO. NEW PARTITIONS, FINISHES, ELEC. & MECH. DISTRIBUTION",
+      "description": "Customer Wants To Use ePlans Interior work only,INTERIOR RENOVATION OF EXISTING SUITE. SELECTIVE DEMO. NEW PARTITIONS, FINISHES, ELEC. &amp; MECH. DISTRIBUTION",
       "addeddate": "2026-05-27T02:05:53.000",
       "issueddate": "",
       "finaleddate": "",
@@ -80,7 +114,7 @@
       "buildingarea": "140 sf",
       "buildingarea_num": 140.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,Alteration of one room from copy room to IDF room.  Inclusion of one door in existing cased opening with card reader.  This project does not alter existing occupant loading, door capacity, or travel distances.",
+      "description": "Customer Wants To Use ePlans,Alteration of one room from copy room to IDF room. Inclusion of one door in existing cased opening with card reader. This project does not alter existing occupant loading, door capacity, or travel distances.",
       "addeddate": "2026-05-26T01:05:22.000",
       "issueddate": "",
       "finaleddate": "",
@@ -174,7 +208,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "",
+      "location": "7600 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98612, -77.09457)",
       "status": "Open",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$424,160",
@@ -1321,7 +1355,7 @@
       "buildingarea": "2,577 sf",
       "buildingarea_num": 2577.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans Interior work only,Interior alteration of existing office shell space for an existing medical office tenant expansion. Demo work for new corridor openings. New work includes new partitions, ceilings, millwork, lighting, and finishes. New electrical and plumbing work throughout. Existing mechanical to be modified and new components to support new build-out.",
+      "description": "Revision ,1 - Adding (1) single user toilet room.,Customer Wants To Use ePlansCustomer Wants To Use ePlans Interior work only,Interior alteration of existing office shell space for an existing medical office tenant expansion. Demo work for new corridor openings. New work includes new partitions, ceilings, millwork, lighting, and finishes. New electrical and plumbing work throughout. Existing mechanical to be modified and new components to support new build-out.",
       "addeddate": "2026-03-31T03:03:17.000",
       "issueddate": "2026-05-27T07:05:08.000",
       "finaleddate": "",
@@ -3660,7 +3694,7 @@
     },
     {
       "location": "2 BETHESDA METRO CTR\nBETHESDA, MD 20814\n(38.98408, -77.09551)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$522,571",
       "declaredvaluation_num": 522571.0,
@@ -3670,10 +3704,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,RENOVATION OF 2ND GENERATION COMMERCIAL INTERIOR OFFICE SPACE. WORK TO INCLUDE DEMOLTION OF EXISTING OFFICE SPACE AND CONSTRUCTION OF NEW PARTITIONS, FINISHES, LIGHTING, ELECTRICAL, MECHANICAL, AND PLUMBING.",
       "addeddate": "2025-12-09T12:12:24.000",
       "issueddate": "2026-01-09T11:01:14.000",
-      "finaleddate": "",
+      "finaleddate": "2026-05-29T08:05:49.000",
       "addeddate_raw": "2025-12-09T12:12:24.000",
       "issueddate_raw": "2026-01-09T11:01:14.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-05-29T08:05:49.000"
     },
     {
       "location": "7315 WISCONSIN AVE\nCHEVY CHASE, MD 20815",
