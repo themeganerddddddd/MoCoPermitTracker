@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03T18:58:20.516745+00:00",
+  "last_updated": "2026-06-04T17:49:42.600119+00:00",
   "source_dataset": "i26v-w6bd",
   "record_count": 10521,
   "permits": [
@@ -804,7 +804,7 @@
     },
     {
       "location": "1110 SPRING ST\nSILVER SPRING, MD 20910\n(38.99986, -77.02837)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$200,000",
       "declaredvaluation_num": 200000.0,
@@ -813,10 +813,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,LEVEL 2 ALTERATION TO COMBINE TWO EXISTING OFFICES INTO ONE LARGER PRIVATE OFFICE (#701)",
       "addeddate": "2026-04-28T03:04:36.000",
-      "issueddate": "",
+      "issueddate": "2026-06-03T02:06:16.000",
       "finaleddate": "",
       "addeddate_raw": "2026-04-28T03:04:36.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-06-03T02:06:16.000",
       "finaleddate_raw": ""
     },
     {
@@ -2460,7 +2460,7 @@
       "buildingarea": "1,180 sf",
       "buildingarea_num": 1180.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,Parent permit # 1149112  (Elevator /Lobby area 9th FL)",
+      "description": "Customer Wants To Use ePlans,Parent permit # 1149112 (Elevator /Lobby area 9th FL)",
       "addeddate": "2026-02-17T12:02:53.000",
       "issueddate": "",
       "finaleddate": "",
@@ -2562,7 +2562,7 @@
       "buildingarea": "3,992 sf",
       "buildingarea_num": 3992.0,
       "worktype": "COMMERCIAL CHANGE OF USE",
-      "description": "Customer Wants To Use ePlans,TENANT FIT-OUT FOR A CHILDCARE CENTER LESS THAN 24 HOUR OPERATION. USE AND OCCUPANCY PERMIT INFORMATION - APPLICATION# 422558",
+      "description": "Revision ,1 - Remove fire dampers and CO detectors,Customer Wants To Use ePlansCustomer Wants To Use ePlans,TENANT FIT-OUT FOR A CHILDCARE CENTER LESS THAN 24 HOUR OPERATION. USE AND OCCUPANCY PERMIT INFORMATION - APPLICATION# 422558",
       "addeddate": "2026-02-16T10:02:52.000",
       "issueddate": "2026-04-07T10:04:47.000",
       "finaleddate": "",
@@ -4935,7 +4935,7 @@
     },
     {
       "location": "5406 WISCONSIN AVE\nCHEVY CHASE, MD 20815\n(38.96126, -77.086)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$240,612",
       "declaredvaluation_num": 240612.0,
@@ -4945,10 +4945,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,DEMISING OF (1) EXISTING VACANT SUITE INTO (2) SMALLER SUITES: STE#D102A WHITE BOX W/ RESTROOMS, JANITOR CLOSET , STE#D102B WHITE BOX Per provided data in the Documents Folder = S304,819",
       "addeddate": "2025-10-29T02:10:35.000",
       "issueddate": "2026-03-12T12:03:09.000",
-      "finaleddate": "",
+      "finaleddate": "2026-06-03T01:06:21.000",
       "addeddate_raw": "2025-10-29T02:10:35.000",
       "issueddate_raw": "2026-03-12T12:03:09.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-06-03T01:06:21.000"
     },
     {
       "location": "12725 TWINBROOK PKWY\nROCKVILLE, MD 20851\n(39.06466, -77.11441)",
@@ -10987,7 +10987,7 @@
     },
     {
       "location": "22610 GATEWAY CENTER DR\nCLARKSBURG, MD 20871\n(39.23239, -77.28084)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$16,000",
       "declaredvaluation_num": 16000.0,
@@ -10997,10 +10997,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,Alteration of new ADA bathroom and new interior non-rated partitions",
       "addeddate": "2024-12-19T04:12:46.000",
       "issueddate": "2025-03-04T09:03:37.000",
-      "finaleddate": "",
+      "finaleddate": "2026-06-03T12:06:57.000",
       "addeddate_raw": "2024-12-19T04:12:46.000",
       "issueddate_raw": "2025-03-04T09:03:37.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-06-03T12:06:57.000"
     },
     {
       "location": "7501 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98516, -77.09434)",
