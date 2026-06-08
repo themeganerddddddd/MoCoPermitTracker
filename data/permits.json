@@ -1,8 +1,42 @@
 {
-  "last_updated": "2026-06-07T16:43:38.193553+00:00",
+  "last_updated": "2026-06-08T18:07:42.956223+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10522,
+  "record_count": 10524,
   "permits": [
+    {
+      "location": "1000 SPRING ST\nSILVER SPRING, MD 20910\n(38.99924, -77.02688)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$300,000",
+      "declaredvaluation_num": 300000.0,
+      "buildingarea": "2,070 sf",
+      "buildingarea_num": 2070.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,Sixth floor renovations including two new officles and demolish two existing officles to create two new workstation areas including 14 workstations.  Furniture includes new demountable partitions with sliding doors to match existing elsewhere on the floor, modifications to interior finishes, mechanical modifications to an existing chilled beam and thermostats, electrical modifications to light fixtures, power and data, sprinkler head modifications as required by code for the new layout.  Convert existing conference room 630 into an office replacing furniture with new and refreshing interior finishes.",
+      "addeddate": "2026-06-05T10:06:29.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-06-05T10:06:29.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "8316 COLESVILLE RD\nSILVER SPRING, MD 20910\n(38.99287, -77.03394)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$23,700",
+      "declaredvaluation_num": 23700.0,
+      "buildingarea": "55 sf",
+      "buildingarea_num": 55.0,
+      "worktype": "ADD",
+      "description": "Customer Wants To Use ePlans,CONSTRUCTA 55SF SUNROOM ON EXISTING CONCRETE AND UNDER EXISTING ROOF",
+      "addeddate": "2026-06-05T03:06:15.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-06-05T03:06:15.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "9910 BELWARD CAMPUS DR\nROCKVILLE, MD 20850\n(39.10328, -77.20931)",
       "status": "Open",
@@ -1433,7 +1467,7 @@
     },
     {
       "location": "4939 ELM ST\nBETHESDA, MD 20814\n(38.98207, -77.09769)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$25,000",
       "declaredvaluation_num": 25000.0,
@@ -1442,10 +1476,10 @@
       "worktype": "COMMERCIAL CHANGE OF USE",
       "description": "Customer Wants To Use ePlans,Interior alteration to existing tenant space for new tenant with change of use, 1616sf",
       "addeddate": "2026-04-01T01:04:48.000",
-      "issueddate": "",
+      "issueddate": "2026-06-05T02:06:43.000",
       "finaleddate": "",
       "addeddate_raw": "2026-04-01T01:04:48.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-06-05T02:06:43.000",
       "finaleddate_raw": ""
     },
     {
@@ -1705,7 +1739,7 @@
     },
     {
       "location": "9911 BELWARD CAMPUS DR\nROCKVILLE, MD 20850\n(39.10453, -77.21046)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BIOSCIENCE",
       "declaredvaluation": "$5,489,710",
       "declaredvaluation_num": 5489710.0,
@@ -1714,10 +1748,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,THIS PROJECT CONSISTS OF A LEVEL 2 ALTERATION WITHIN THE EXISTING CELLAR LEVEL OF AN EXISTING MANUFACTURING FACILITY. THE SCOPE INCLUDES IN-KIND REPLACEMENT OF AN EXISTING MODULAR ULTRA-LOW TEMPERATURE WALK-IN FREEZER SYSTEM, LIMITED INTERIOR ALTERATIONS TO ACCOMMODATE THE FREEZER INSTALLATION, INCLUDING SELECTIVE DEMOLITION AND REPLACEMENT OF EXISTING SLAB COMPONENTS, AND MINOR MODIFICATIONS WITHIN AN ADJACENT MECHANICAL ROOM TO SUPPORT NEW REFRIGERATION EQUIPMENT AND ASSOCIATED ELECTRICAL PANELS. THE PROJECT DOES NOT CHANGE THE BUILDING OCCUPANCY CLASSIFICATION, CONSTRUCTION TYPE, OR MEANS OF EGRESS.",
       "addeddate": "2026-03-17T11:03:46.000",
-      "issueddate": "",
+      "issueddate": "2026-06-05T09:06:31.000",
       "finaleddate": "",
       "addeddate_raw": "2026-03-17T11:03:46.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-06-05T09:06:31.000",
       "finaleddate_raw": ""
     },
     {
@@ -1875,7 +1909,7 @@
     },
     {
       "location": "7601 LINDBERGH DR\nGAITHERSBURG, MD 20879\n(39.16651, -77.15264)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$383,340",
       "declaredvaluation_num": 383340.0,
@@ -1884,10 +1918,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,INSTALL (478) SEG SOLAR SEG-595-BTA-BG SOLAR MODULES ON FLAT WHITE TPO",
       "addeddate": "2026-03-11T10:03:15.000",
-      "issueddate": "",
+      "issueddate": "2026-06-05T02:06:51.000",
       "finaleddate": "",
       "addeddate_raw": "2026-03-11T10:03:15.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-06-05T02:06:51.000",
       "finaleddate_raw": ""
     },
     {
@@ -2028,7 +2062,7 @@
     },
     {
       "location": "12200 TECH RD\nSILVER SPRING, MD 20904\n(39.05548, -76.96789)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$304,026",
       "declaredvaluation_num": 304026.0,
@@ -2037,15 +2071,15 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,M&amp;T Bank Interior remodel of existing space.",
       "addeddate": "2026-03-09T02:03:52.000",
-      "issueddate": "",
+      "issueddate": "2026-06-05T09:06:23.000",
       "finaleddate": "",
       "addeddate_raw": "2026-03-09T02:03:52.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-06-05T09:06:23.000",
       "finaleddate_raw": ""
     },
     {
       "location": "15771 OLD COLUMBIA PIKE\nBURTONSVILLE, MD 20866\n(39.11459, -76.93298)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$700,000",
       "declaredvaluation_num": 700000.0,
@@ -2054,10 +2088,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,Scope of work includes: � Demolition of existing interior partitions, ceiling systems and associated fixtures, and finishes. � Demolition of any existing rooftop mechanical equipment for the tenant space. � New interior partitions, ceiling systems, and finishes. � New restrooms and plumbing fixtures. � New interior furniture, fixtures, and equipment. � New interior walk-in cooler. � New mechanical equipment within the tenant space. � New mechanical equipment on the roof of the tenant space. � New mechanical equipment within the tenant space, including kitchen hoods, supply diffusers, return grilles, etc. � New electrical panels, conduit, receptacles, switches, etc. within the tenant space � New structural reinforcement for new rooftop mechanical units and interior kitchen hoods. � New structural elements including columns and a beam for structural bracing.",
       "addeddate": "2026-03-08T03:03:53.000",
-      "issueddate": "",
+      "issueddate": "2026-06-05T09:06:13.000",
       "finaleddate": "",
       "addeddate_raw": "2026-03-08T03:03:53.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-06-05T09:06:13.000",
       "finaleddate_raw": ""
     },
     {
@@ -4534,7 +4568,7 @@
       "buildingarea": "1,347.50 sf",
       "buildingarea_num": 1347.5,
       "worktype": "ADD",
-      "description": "Customer Wants To Use ePlans,Demolition of some interior and exterior walls. Alteration adding porches to south and west fa�ades. ADDITION",
+      "description": "Customer Wants To Use ePlans,Demolition of some interior and exterior walls. Exterior alteration and addition of porches to south and west fa�ades.",
       "addeddate": "2025-11-18T03:11:17.000",
       "issueddate": "",
       "finaleddate": "",
