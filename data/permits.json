@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T18:09:24.415867+00:00",
+  "last_updated": "2026-06-11T18:28:01.423656+00:00",
   "source_dataset": "i26v-w6bd",
   "record_count": 10529,
   "permits": [
@@ -379,7 +379,7 @@
     },
     {
       "location": "20400 OBSERVATION DR\nGERMANTOWN, MD 20876\n(39.19049, -77.24941)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$31,677",
       "declaredvaluation_num": 31677.0,
@@ -388,10 +388,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,INTERIOR DEMOLITION ONLY IN PREPARATION OF NEW TENANT.",
       "addeddate": "2026-05-22T02:05:52.000",
-      "issueddate": "",
+      "issueddate": "2026-06-10T05:06:54.000",
       "finaleddate": "",
       "addeddate_raw": "2026-05-22T02:05:52.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-06-10T05:06:54.000",
       "finaleddate_raw": ""
     },
     {
@@ -566,7 +566,7 @@
     },
     {
       "location": "13038 MIDDLEBROOK RD\nGERMANTOWN, MD 20874\n(39.18117, -77.27179)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$25,000",
       "declaredvaluation_num": 25000.0,
@@ -575,10 +575,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,Interior Demo of 2 existing spaces to combine and prepare for future tenant fitout",
       "addeddate": "2026-05-14T03:05:34.000",
-      "issueddate": "",
+      "issueddate": "2026-06-10T02:06:28.000",
       "finaleddate": "",
       "addeddate_raw": "2026-05-14T03:05:34.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-06-10T02:06:28.000",
       "finaleddate_raw": ""
     },
     {
@@ -1780,7 +1780,7 @@
       "buildingarea": "6,898 sf",
       "buildingarea_num": 6898.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,Non-structural interior alteration of existing demised space for new tenant Fit-Out",
+      "description": "Customer Wants To Use ePlans Interior work only,Non-structural interior alteration of existing demised space for new tenant Fit-Out",
       "addeddate": "2026-03-20T02:03:06.000",
       "issueddate": "",
       "finaleddate": "",
@@ -2605,7 +2605,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "",
+      "location": "8515 GEORGIA AVE\nSILVER SPRING, MD 20910\n(38.9949, -77.02701)",
       "status": "Open",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$40,000",
