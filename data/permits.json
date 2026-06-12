@@ -1,8 +1,25 @@
 {
-  "last_updated": "2026-06-11T18:28:01.423656+00:00",
+  "last_updated": "2026-06-12T17:41:45.013581+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10529,
+  "record_count": 10530,
   "permits": [
+    {
+      "location": "6010 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.04751, -77.12275)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$200,000",
+      "declaredvaluation_num": 200000.0,
+      "buildingarea": "1,347 sf",
+      "buildingarea_num": 1347.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans  Interior work only,RENOVATION FOR A SPEC NEW SUITE, INCLUDE SELECTIVE CONSTRUCTION AND\nDEMO OF PARTITIONS, CEILINGS AND MILLWORK. NEW FINISHES,LIGHTING FIXTURES,ELECTRICAL, PLUMBING WORK",
+      "addeddate": "2026-06-11T08:06:04.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-06-11T08:06:04.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "9600 BLACKWELL RD\nROCKVILLE, MD 20850\n(39.10104, -77.19326)",
       "status": "Open",
@@ -1773,7 +1790,7 @@
     },
     {
       "location": "2431 LINDEN LN\nSILVER SPRING, MD 20910\n(39.00986, -77.05226)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$125,000",
       "declaredvaluation_num": 125000.0,
@@ -1782,10 +1799,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,Non-structural interior alteration of existing demised space for new tenant Fit-Out",
       "addeddate": "2026-03-20T02:03:06.000",
-      "issueddate": "",
+      "issueddate": "2026-06-11T10:06:35.000",
       "finaleddate": "",
       "addeddate_raw": "2026-03-20T02:03:06.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-06-11T10:06:35.000",
       "finaleddate_raw": ""
     },
     {
@@ -5394,7 +5411,7 @@
     },
     {
       "location": "6125 MONTROSE RD\nROCKVILLE, MD 20852\n(39.05322, -77.1248)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$250,000",
       "declaredvaluation_num": 250000.0,
@@ -5404,10 +5421,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,The project consists of the interior renovation and reconfiguration of a portion of the existing lower level to create more meeting rooms and update the HVAC System.",
       "addeddate": "2025-10-08T12:10:27.000",
       "issueddate": "2026-01-15T07:01:45.000",
-      "finaleddate": "",
+      "finaleddate": "2026-06-11T12:06:35.000",
       "addeddate_raw": "2025-10-08T12:10:27.000",
       "issueddate_raw": "2026-01-15T07:01:45.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-06-11T12:06:35.000"
     },
     {
       "location": "19548 AMARANTH DR\nGERMANTOWN, MD 20874\n(39.17686, -77.25167)",
