@@ -1,8 +1,42 @@
 {
-  "last_updated": "2026-06-16T18:58:01.551249+00:00",
+  "last_updated": "2026-06-17T17:53:29.428118+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10536,
+  "record_count": 10538,
   "permits": [
+    {
+      "location": "935 PROSE ST\nROCKVILLE, MD 20852\n(39.0516, -77.1172)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$24,200,000",
+      "declaredvaluation_num": 24200000.0,
+      "buildingarea": "99,440 sf",
+      "buildingarea_num": 99440.0,
+      "worktype": "CONSTRUCT",
+      "description": "Customer Wants To Use ePlans,Sediment Control Plan #305691; WSSC Site Utility Permit #SU-6361-2026; Site Plan Amendment #82013012J was approved by Planning Dept. 5/29/2026",
+      "addeddate": "2026-06-16T02:06:11.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-06-16T02:06:11.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "915 MEETING ST\nROCKVILLE, MD 20852\n(39.05064, -77.11564)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$99,550",
+      "declaredvaluation_num": 99550.0,
+      "buildingarea": "309 sf",
+      "buildingarea_num": 309.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,INTERIOR ALTERATION OF EXISTING TENANT FIT-OUT TO INCLUDE ENCLOSED OFFICES, WITH MECHANICAL AND ELECTRICAL WORK.",
+      "addeddate": "2026-06-16T01:06:09.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-06-16T01:06:09.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "7871 BEECHCRAFT AVE\nGAITHERSBURG, MD 20879\n(39.16336, -77.161)",
       "status": "Open",
@@ -413,7 +447,7 @@
     },
     {
       "location": "1300 SPRING ST\nSILVER SPRING, MD 20910\n(38.99904, -77.03246)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$50,000",
       "declaredvaluation_num": 50000.0,
@@ -422,10 +456,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,INTERIOR RENOVATION OF EXISTING SUITE. SELECTIVE DEMO. NEW PARTITIONS, FINISHES, ELEC. &amp; MECH. DISTRIBUTION",
       "addeddate": "2026-05-27T02:05:53.000",
-      "issueddate": "",
+      "issueddate": "2026-06-16T09:06:12.000",
       "finaleddate": "",
       "addeddate_raw": "2026-05-27T02:05:53.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-06-16T09:06:12.000",
       "finaleddate_raw": ""
     },
     {
@@ -1042,7 +1076,7 @@
     },
     {
       "location": "12435 PARK POTOMAC AVE\nPOTOMAC, MD 20854\n(39.05943, -77.15751)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$225,000",
       "declaredvaluation_num": 225000.0,
@@ -1051,10 +1085,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,SUITE #300 ***TO INCLUDE SYSTEMS FURNITURE***",
       "addeddate": "2026-04-30T03:04:55.000",
-      "issueddate": "",
+      "issueddate": "2026-06-16T08:06:53.000",
       "finaleddate": "",
       "addeddate_raw": "2026-04-30T03:04:55.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-06-16T08:06:53.000",
       "finaleddate_raw": ""
     },
     {
@@ -1501,7 +1535,7 @@
     },
     {
       "location": "5454 WISCONSIN AVE\nCHEVY CHASE, MD 20815\n(38.96285, -77.08677)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$122,500",
       "declaredvaluation_num": 122500.0,
@@ -1510,10 +1544,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,The work consists of partial renovation-in-place for an existing medical office tenant. New work will include construction of partitions, ceilings and millwork modifications as shown in the plans. The suite shall receive new finishes, and lighting as shown in the plans. Electrical work will be done as required to support the new layout. Existing mechanical and life-safety systems shall be modified and new components provided to support the new build-out as required.",
       "addeddate": "2026-04-07T05:04:04.000",
-      "issueddate": "",
+      "issueddate": "2026-06-16T02:06:01.000",
       "finaleddate": "",
       "addeddate_raw": "2026-04-07T05:04:04.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-06-16T02:06:01.000",
       "finaleddate_raw": ""
     },
     {
@@ -2623,7 +2657,7 @@
     },
     {
       "location": "6801 ROCKLEDGE DR\nBETHESDA, MD 20817\n(39.03051, -77.13953)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$3,801,984",
       "declaredvaluation_num": 3801984.0,
@@ -2632,10 +2666,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,Renovations on the 3rd fl North, 3rd fl South, and Lower level, total 38000 SF. Removal of existing and construction of new partition walls. MEP, fire protection.",
       "addeddate": "2026-02-20T07:02:42.000",
-      "issueddate": "",
+      "issueddate": "2026-06-16T08:06:04.000",
       "finaleddate": "",
       "addeddate_raw": "2026-02-20T07:02:42.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-06-16T08:06:04.000",
       "finaleddate_raw": ""
     },
     {
@@ -3156,7 +3190,7 @@
       "declaredvaluation_num": 2887090.0,
       "buildingarea": "17,414 sf",
       "buildingarea_num": 17414.0,
-      "worktype": "CONSTRUCT",
+      "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,Scope includes interior alteration of a 17,414 s.f. vacant tenant space into a new Day Care center",
       "addeddate": "2026-02-02T04:02:43.000",
       "issueddate": "",
@@ -3660,7 +3694,7 @@
     },
     {
       "location": "10720 COLUMBIA PIKE\nSILVER SPRING, MD 20901\n(39.0318, -77.00463)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$1,222,076",
       "declaredvaluation_num": 1222076.0,
@@ -3670,10 +3704,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,TENANT FIT-OUT RENOVATIONS FOR A PORTION (LESS THAN 50%) OF THE BUILDING INTO MEDICAL OFFICE SPACE FOR AN INTEGRATED AUTISM THERAPY CENTER FOR CHILDREN AGED 6 AND UNDER. MINOR MODIFICATIONS TO EXISTING WALLS, DOORS AND CEILINGS WILL OCCUR TO ACCOMMODATE THE PROGRAM. NEW FINISHES WILL BE PROVIDED THROUGHOUT.",
       "addeddate": "2025-12-31T01:12:43.000",
       "issueddate": "2026-03-09T08:03:03.000",
-      "finaleddate": "",
+      "finaleddate": "2026-06-16T04:06:51.000",
       "addeddate_raw": "2025-12-31T01:12:43.000",
       "issueddate_raw": "2026-03-09T08:03:03.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-06-16T04:06:51.000"
     },
     {
       "location": "4931 CORDELL AVE\nBETHESDA, MD 20814\n(38.98854, -77.09891)",
@@ -7118,7 +7152,7 @@
       "buildingarea": "900 sf",
       "buildingarea_num": 900.0,
       "worktype": "CONSTRUCT",
-      "description": "Customer Wants To Use ePlans,Site has 5 failing MSE walls.  3 new gravity block walls will go in front of 3 walls.  1 MSE wall will be replaced in kind.  1 short wall will be buried.  Pond modification.",
+      "description": "Customer Wants To Use ePlans,Site has 5 failing MSE walls. 3 new gravity block walls will go in front of 3 walls. 1 MSE wall will be replaced in kind. 1 short wall will be buried. Pond modification.",
       "addeddate": "2025-07-24T10:07:13.000",
       "issueddate": "",
       "finaleddate": "",
