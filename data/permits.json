@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-18T18:10:24.645001+00:00",
+  "last_updated": "2026-06-19T17:26:08.319450+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10540,
+  "record_count": 10539,
   "permits": [
     {
       "location": "9800 MEDICAL CENTER DR\nROCKVILLE, MD 20850\n(39.09623, -77.19735)",
@@ -361,23 +361,6 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "4818 BETHESDA AVE\nBETHESDA, MD 20814\n(38.98094, -77.09659)",
-      "status": "Open",
-      "usecode": "BUSINESS BUILDING",
-      "declaredvaluation": "$58,800",
-      "declaredvaluation_num": 58800.0,
-      "buildingarea": "1,200 sf",
-      "buildingarea_num": 1200.0,
-      "worktype": "RESTORE AND / OR REPAIR",
-      "description": "Customer Wants To Use ePlans,project consists primarily of:\nInterior painting\nCeiling tile replacement\nFlooring Ceramic replacement\nShelving and furniture replacement\nRestroom cosmetic refresh\nEIFS painting\nAwning replacement\nStorefront finish updates",
-      "addeddate": "2026-06-02T08:06:16.000",
-      "issueddate": "",
-      "finaleddate": "",
-      "addeddate_raw": "2026-06-02T08:06:16.000",
-      "issueddate_raw": "",
-      "finaleddate_raw": ""
-    },
-    {
       "location": "17801 GEORGIA AVE\nOLNEY, MD 20832\n(39.14891, -77.06576)",
       "status": "Open",
       "usecode": "BUSINESS BUILDING",
@@ -624,7 +607,7 @@
       "buildingarea": "8 sf",
       "buildingarea_num": 8.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,installing (6) Level 2 chargers. (4) stations mounted on (2) dual pedestals behind column , protected by column no bollards.  (2) stations mounted on column wall.  Accompanying conduits, cable, panels, breakers, etc to provide a complete installation.",
+      "description": "Customer Wants To Use ePlans Interior work only,installing (6) Level 2 chargers. (4) stations mounted on (2) dual pedestals behind column , protected by column no bollards. (2) stations mounted on column wall. Accompanying conduits, cable, panels, breakers, etc to provide a complete installation.",
       "addeddate": "2026-05-20T12:05:07.000",
       "issueddate": "",
       "finaleddate": "",
@@ -957,7 +940,7 @@
     },
     {
       "location": "12730 TWINBROOK PKWY\nROCKVILLE, MD 20852\n(39.06507, -77.11538)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$100",
       "declaredvaluation_num": 100.0,
@@ -966,10 +949,10 @@
       "worktype": "COMMERCIAL CHANGE OF USE",
       "description": "Customer Wants To Use ePlans,change of use from worship to wellness spa. no work done to space",
       "addeddate": "2026-05-07T11:05:46.000",
-      "issueddate": "",
+      "issueddate": "2026-06-18T11:06:35.000",
       "finaleddate": "",
       "addeddate_raw": "2026-05-07T11:05:46.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-06-18T11:06:35.000",
       "finaleddate_raw": ""
     },
     {
