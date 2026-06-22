@@ -1,8 +1,25 @@
 {
-  "last_updated": "2026-06-21T16:54:30.243178+00:00",
+  "last_updated": "2026-06-22T18:52:51.781279+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10539,
+  "record_count": 10540,
   "permits": [
+    {
+      "location": "9708 MEDICAL CENTER DR\nROCKVILLE, MD 20850\n(39.0993, -77.19442)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$85,058",
+      "declaredvaluation_num": 85058.0,
+      "buildingarea": "7,035 sf",
+      "buildingarea_num": 7035.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans  Interior work only,Interior demolition on 1st and 2nd floors in preparation of interior renovations under separate permits.",
+      "addeddate": "2026-06-19T10:06:49.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-06-19T10:06:49.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "9800 MEDICAL CENTER DR\nROCKVILLE, MD 20850\n(39.09623, -77.19735)",
       "status": "Open",
