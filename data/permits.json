@@ -1,8 +1,25 @@
 {
-  "last_updated": "2026-06-23T17:21:43.661669+00:00",
+  "last_updated": "2026-06-24T17:17:11.965387+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10542,
+  "record_count": 10543,
   "permits": [
+    {
+      "location": "8107C FENTON ST\nSILVER SPRING, MD 20910\n(38.99071, -77.0238)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$1",
+      "declaredvaluation_num": 1.0,
+      "buildingarea": "0 sf",
+      "buildingarea_num": 0,
+      "worktype": "CONSTRUCT",
+      "description": "—",
+      "addeddate": "2026-06-23T02:06:25.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-06-23T02:06:25.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "1400 FOREST GLEN RD\nSILVER SPRING, MD 20910\n(39.0161, -77.03385)",
       "status": "Open",
@@ -957,7 +974,7 @@
     },
     {
       "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$365,000",
       "declaredvaluation_num": 365000.0,
@@ -966,10 +983,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,Systems Furniture",
       "addeddate": "2026-05-08T10:05:31.000",
-      "issueddate": "",
+      "issueddate": "2026-06-23T10:06:35.000",
       "finaleddate": "",
       "addeddate_raw": "2026-05-08T10:05:31.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-06-23T10:06:35.000",
       "finaleddate_raw": ""
     },
     {
@@ -2929,7 +2946,7 @@
     },
     {
       "location": "20340 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.1893, -77.25378)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$242,000",
       "declaredvaluation_num": 242000.0,
@@ -2938,10 +2955,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,THE SCOPE OF WORK INCLUDES THE CONFIGURATION OF SPECIALTY EQUIPMENT WITHIN THE EXISTING TENANT SPACE, DEMOLITION OF AN EXISTING DOOR ON A NON-STRUCTURAL WALL, REMOVAL AND REPLACEMENT OF A PORTION OF THE EXISTING ACT CEILING, AND THE REPLACEMENT AND REWORK OF EXISTING MECHANICAL AND ELECTRICAL SYSTEMS. THERE IS NO CHANGE IN OCCUPANCY, MEANS OF EGRESS, OR EGRESS COMPONENTS.",
       "addeddate": "2026-02-16T08:02:08.000",
-      "issueddate": "",
+      "issueddate": "2026-06-23T09:06:51.000",
       "finaleddate": "",
       "addeddate_raw": "2026-02-16T08:02:08.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-06-23T09:06:51.000",
       "finaleddate_raw": ""
     },
     {
