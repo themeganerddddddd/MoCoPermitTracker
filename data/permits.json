@@ -1,8 +1,25 @@
 {
-  "last_updated": "2026-06-24T17:17:11.965387+00:00",
+  "last_updated": "2026-06-25T17:22:36.724880+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10543,
+  "record_count": 10544,
   "permits": [
+    {
+      "location": "20270 GOLDENROD LN\nGERMANTOWN, MD 20876\n(39.18782, -77.25137)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$250,000",
+      "declaredvaluation_num": 250000.0,
+      "buildingarea": "14,370 sf",
+      "buildingarea_num": 14370.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans  Interior work only,MINOR DEMOLITION OF EXISTING TENANTS OFFICE SPACE FOR FUTURE\nRENOVATIONS. THERE ARE NO STRUCTURAL MODIFICATIONS",
+      "addeddate": "2026-06-24T11:06:30.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-06-24T11:06:30.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "8107C FENTON ST\nSILVER SPRING, MD 20910\n(38.99071, -77.0238)",
       "status": "Open",
@@ -6193,7 +6210,7 @@
     },
     {
       "location": "8732 FLOWER AVE\nSILVER SPRING, MD 20901\n(38.9991, -77.00382)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$150,000",
       "declaredvaluation_num": 150000.0,
@@ -6203,10 +6220,10 @@
       "description": "Customer Wants To Use ePlans,INTERIOR RENOVATION OF EXISTING TENANT SPACE. CHANGE OF USE FROM STORAGE TO OFFICE USE.",
       "addeddate": "2025-09-18T09:09:23.000",
       "issueddate": "2026-01-13T12:01:39.000",
-      "finaleddate": "",
+      "finaleddate": "2026-06-24T11:06:26.000",
       "addeddate_raw": "2025-09-18T09:09:23.000",
       "issueddate_raw": "2026-01-13T12:01:39.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-06-24T11:06:26.000"
     },
     {
       "location": "10120 APPLE RIDGE RD\nMONTGOMERY VILLAGE, MD 20886\n(39.18453, -77.20904)",
@@ -8539,7 +8556,7 @@
     },
     {
       "location": "1110 SPRING ST\nSILVER SPRING, MD 20910\n(38.99986, -77.02837)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$400,000",
       "declaredvaluation_num": 400000.0,
@@ -8549,10 +8566,10 @@
       "description": "Replacement of Rooftop emergency generator to include a temporary generator on the existing ground floor slab during construction.",
       "addeddate": "2025-05-20T11:05:59.000",
       "issueddate": "2025-09-12T02:09:48.000",
-      "finaleddate": "",
+      "finaleddate": "2026-06-24T10:06:10.000",
       "addeddate_raw": "2025-05-20T11:05:59.000",
       "issueddate_raw": "2025-09-12T02:09:48.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-06-24T10:06:10.000"
     },
     {
       "location": "9800 MEDICAL CENTER DR\nROCKVILLE, MD 20850\n(39.09621, -77.19735)",
@@ -11215,7 +11232,7 @@
       "buildingarea": "60,000 sf",
       "buildingarea_num": 60000.0,
       "worktype": "ALTER",
-      "description": "Revision ,3 - Page A1.52A was not included in the last revision.,Customer Wants To Use ePlansRevision ,2 - Revision to issued permit, narrative included with detailed work changes.,Customer Wants To Use ePlansRevision ,1 - Modifications to Previously approved plan, specifically electrical.,Customer Wants To Use ePlansRevision ,1 - Uploading plan pages that were missed upon original review. ,Customer Wants To Use ePlansCustomer Wants To Use ePlans Interior work only,Project consists of interior alteration of 2 stories, loading dock, trash enclosure, generator enclosure and exterior fencing. Child Permit 1124582",
+      "description": "Revision ,3 - Page A1.52A was not included in the last revision.,Customer Wants To Use ePlans Revision ,2 - Revision to issued permit, narrative included with detailed work changes.,Customer Wants To Use ePlans Revision ,1 - Modifications to Previously approved plan, specifically electrical.,Customer Wants To Use ePlans Revision ,1 - Uploading plan pages that were missed upon original review. ,Customer Wants To Use ePlans Customer Wants To Use ePlans Interior work only,Project consists of interior alteration of 2 stories, loading dock, trash enclosure, generator enclosure and exterior fencing. Child Permit 1124582  A new Application Form for the �Enclosure Addition� must be completed before the permit can be issued.",
       "addeddate": "2024-12-30T12:12:42.000",
       "issueddate": "2025-08-27T03:08:01.000",
       "finaleddate": "",
@@ -11657,7 +11674,7 @@
       "buildingarea": "1,253 sf",
       "buildingarea_num": 1253.0,
       "worktype": "ALTER",
-      "description": "Revision ,2 - Partition 4 to either 6\"\" or 8\"\" CMU from Shaft wall infill,Customer Wants To Use ePlansRevision ,1 - New opening in CMU wall for equipment access and then infill with shaft wall and regular stud wall.,Customer Wants To Use ePlansCustomer Wants To Use ePlans Interior work only,Interior Alternation of existing medical office, removal of existing walls, new walls and door installation, new finishes. New MRI equipment installation. Associated Mechanical, Plumbing and Electrical work.",
+      "description": "Revision ,2 - Partition 4 to either 6\"\" or 8\"\" CMU from Shaft wall infill,Customer Wants To Use ePlans Revision ,1 - New opening in CMU wall for equipment access and then infill with shaft wall and regular stud wall.,Customer Wants To Use ePlans Customer Wants To Use ePlans Interior work only,Interior Alternation of existing medical office, removal of existing walls, new walls and door installation, new finishes. New MRI equipment installation. Associated Mechanical, Plumbing and Electrical work.",
       "addeddate": "2024-12-04T12:12:11.000",
       "issueddate": "2025-03-17T12:03:45.000",
       "finaleddate": "",
