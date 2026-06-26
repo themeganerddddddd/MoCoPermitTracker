@@ -1,8 +1,25 @@
 {
-  "last_updated": "2026-06-25T17:22:36.724880+00:00",
+  "last_updated": "2026-06-26T17:07:26.787121+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10544,
+  "record_count": 10545,
   "permits": [
+    {
+      "location": "7042 CARROLL AVE\nTAKOMA PARK, MD 20912\n(38.97525, -77.01128)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$38,000",
+      "declaredvaluation_num": 38000.0,
+      "buildingarea": "828 sf",
+      "buildingarea_num": 828.0,
+      "worktype": "COMMERCIAL CHANGE OF USE",
+      "description": "Customer Wants To Use ePlans,Tenant fit-out of an existing retail space for conversion to a beauty salon. Scope includes relocation of existing plumbing fixtures to provide an accessible bathroom, installation of new HVAC equipment, plumbing fixtures, and electrical distribution to serve new salon equipment, construction of new partitions, and replacement of floor and wall finishes.",
+      "addeddate": "2026-06-25T07:06:36.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-06-25T07:06:36.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "20270 GOLDENROD LN\nGERMANTOWN, MD 20876\n(39.18782, -77.25137)",
       "status": "Open",
@@ -46,7 +63,7 @@
       "buildingarea": "6,656 sf",
       "buildingarea_num": 6656.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,Interior demolition of the Ste. 500 of Physician Office Bldg to prepare future tenant shell space.",
+      "description": "Customer Wants To Use ePlans Interior work only,Interior demolition of the Ste. 500 of Physician Office Bldg to prepare future tenant shell space.",
       "addeddate": "2026-06-22T10:06:04.000",
       "issueddate": "",
       "finaleddate": "",
@@ -107,7 +124,7 @@
     },
     {
       "location": "19142 MONTGOMERY VILLAGE AVE\nMONTGOMERY VILLAGE, MD 20886\n(39.17116, -77.20521)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$1",
       "declaredvaluation_num": 1.0,
@@ -116,10 +133,10 @@
       "worktype": "INSTALL",
       "description": "HHS PLAN REVIEW ONLY",
       "addeddate": "2026-06-17T08:06:50.000",
-      "issueddate": "",
+      "issueddate": "2026-06-25T02:06:25.000",
       "finaleddate": "",
       "addeddate_raw": "2026-06-17T08:06:50.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-06-25T02:06:25.000",
       "finaleddate_raw": ""
     },
     {
@@ -2690,7 +2707,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "7700 WISCONSIN AVE\nCHEVY CHASE, MD 20814\n(38.98679, -77.09474)",
+      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$365,000",
@@ -3616,7 +3633,7 @@
       "buildingarea": "5,743 sf",
       "buildingarea_num": 5743.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans Interior work only,SUITE 210 - 4,800 SF COMMON AREA - 943 SF INTERIOR FIT OUT OF SPEC SUITE WITHIN EXISTING DEMISED WHITEBOX SUITES. RENOVATION OF CORE RESTROOMS &amp; ELEVATOR LOBBY. INCLUDES MODIFICATIONS TO EXISTING MEP SYSTEMS.",
+      "description": "Revision ,1 - The plan changes issued under Bulletin #3 - Clouded Delta 3 dated 6/03/26 have been made due to hidden conditions \nfound in the field during construction. They include changes to the Architectural, Mechanical, Electrical Plans.  ,Customer Wants To Use ePlansCustomer Wants To Use ePlans Interior work only,SUITE 210 - 4,800 SF COMMON AREA - 943 SF INTERIOR FIT OUT OF SPEC SUITE WITHIN EXISTING DEMISED WHITEBOX SUITES. RENOVATION OF CORE RESTROOMS &amp; ELEVATOR LOBBY. INCLUDES MODIFICATIONS TO EXISTING MEP SYSTEMS.",
       "addeddate": "2026-01-16T03:01:26.000",
       "issueddate": "2026-03-16T12:03:57.000",
       "finaleddate": "",
@@ -8861,8 +8878,8 @@
       "finaleddate_raw": "2026-06-15T03:06:51.000"
     },
     {
-      "location": "8700 GEORGIA AVE\nSILVER SPRING, MD 20910\n(38.99752, -77.03038)",
-      "status": "Open",
+      "location": "8700 GEORGIA AVE\nSILVER SPRING, MD 20910\n(38.99751, -77.03039)",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$750,000",
       "declaredvaluation_num": 750000.0,
@@ -8871,10 +8888,10 @@
       "worktype": "COMMERCIAL CHANGE OF USE",
       "description": "Customer Wants To Use ePlans,THIS PROJECT IS A 3,690 SQUARE FOOT INTERIOR FIT-OUT GOING INTO AN EXISTING BUILDING IN SILVER SPRING, MARYLAND. THE INTENDED USE GROUP IS \"\"B\"\" BUSINESS. NEW INTERIOR PARTITIONS, CEILINGS, MEP, FINISHES, AND FURNISHINGS ARE PROPOSED AS PART OF THIS ALTERATION. NO CHANGE TO CONSTRUCTION TYPE, BUILDING HEIGHT OR BUILDING AREA.THIS MEDICAL OFFICE DOES NOT MEET THE CRITERIA FOR EITHER AMBULATORY CARE OCCUPANCY OR HEALTH CARE OCCUPANCY AS DEFINED BY NFPA 1 &amp; 101/2021 CHAPTER 9. PATIENTS ARE CAPABLE OF SELF-PRESERVATION UNDER EMERGENCY CONDITIONS. BUILDING IS SPRINKLERED TOTAL OCCUPANT LOAD: 34",
       "addeddate": "2025-05-08T08:05:54.000",
-      "issueddate": "",
+      "issueddate": "2026-06-25T03:06:53.000",
       "finaleddate": "",
       "addeddate_raw": "2025-05-08T08:05:54.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-06-25T03:06:53.000",
       "finaleddate_raw": ""
     },
     {
@@ -11445,7 +11462,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "7700 WISCONSIN AVE\nCHEVY CHASE, MD 20814\n(38.98679, -77.09474)",
+      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$293,046",
@@ -13621,7 +13638,7 @@
       "finaleddate_raw": "2025-01-31T01:01:26.000"
     },
     {
-      "location": "7700 WISCONSIN AVE\nCHEVY CHASE, MD 20814\n(38.98679, -77.09474)",
+      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$96,000",
@@ -14080,7 +14097,7 @@
       "finaleddate_raw": "2024-11-19T01:11:39.000"
     },
     {
-      "location": "7700 WISCONSIN AVE\nCHEVY CHASE, MD 20814\n(38.98679, -77.09474)",
+      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$800,000",
@@ -16783,7 +16800,7 @@
       "finaleddate_raw": "2024-11-20T02:11:33.000"
     },
     {
-      "location": "7700 WISCONSIN AVE\nCHEVY CHASE, MD 20814\n(38.98679, -77.09474)",
+      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$875,000",
@@ -19469,7 +19486,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "7700 WISCONSIN AVE\nCHEVY CHASE, MD 20814\n(38.986780983, -77.095381002)",
+      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$24,000",
@@ -21798,7 +21815,7 @@
       "finaleddate_raw": "2023-11-17T01:11:33.000"
     },
     {
-      "location": "7700 WISCONSIN AVE\nCHEVY CHASE, MD 20814\n(38.986780983, -77.095381002)",
+      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$285,270",
@@ -21951,7 +21968,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "7700 WISCONSIN AVE\nCHEVY CHASE, MD 20814\n(38.986780983, -77.095381002)",
+      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$661,892",
@@ -26456,7 +26473,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "7700 WISCONSIN AVE\nCHEVY CHASE, MD 20814\n(38.986780983, -77.095381002)",
+      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$471,796",
@@ -33681,7 +33698,7 @@
       "finaleddate_raw": "2023-01-13T08:01:51.000"
     },
     {
-      "location": "7529 STANDISH PL\nROCKVILLE, MD 20855\n(39.108118, -77.155028)",
+      "location": "7529 STANDISH PL\nDERWOOD, MD 20855\n(39.10882, -77.15437)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$76,996",
@@ -35755,7 +35772,7 @@
       "finaleddate_raw": "2022-08-31T10:08:49.000"
     },
     {
-      "location": "7700 WISCONSIN AVE\nCHEVY CHASE, MD 20814\n(38.98675, -77.09473)",
+      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$1,400,000",
@@ -49525,7 +49542,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "7700 WISCONSIN AVE\nCHEVY CHASE, MD 20814",
+      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$787,236",
@@ -49644,7 +49661,7 @@
       "finaleddate_raw": "2020-12-31T11:12:06.000"
     },
     {
-      "location": "7700 WISCONSIN AVE\nCHEVY CHASE, MD 20814",
+      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$2,990,160",
@@ -49678,7 +49695,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "7700 WISCONSIN AVE\nCHEVY CHASE, MD 20814",
+      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$1,814,528",
@@ -56920,7 +56937,7 @@
       "finaleddate_raw": "2020-07-16T11:07:59.000"
     },
     {
-      "location": "7700 WISCONSIN AVE\nCHEVY CHASE, MD 20814",
+      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$1,894,144",
@@ -57243,7 +57260,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "7700 WISCONSIN AVE\n,  \n(38.986733, -77.094801)",
+      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$230,000",
@@ -68310,7 +68327,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "5330 WESTERN AVE\nCHEVY CHASE, MD 20815\n(38.960294, -77.086351)",
+      "location": "5330 WESTERN AVE\nCHEVY CHASE, MD 20816\n(38.96049, -77.08611)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$130,000",
@@ -71013,7 +71030,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "7529 STANDISH PL\nROCKVILLE, MD 20855\n(39.108081, -77.154795)",
+      "location": "7529 STANDISH PL\nDERWOOD, MD 20855\n(39.10882, -77.15437)",
       "status": "Open",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$211,372",
@@ -82811,7 +82828,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "7700 WISCONSIN AVE\nCHEVY CHASE, MD 20814",
+      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$45,000",
@@ -83066,7 +83083,7 @@
       "finaleddate_raw": "2017-10-11T01:10:36.000"
     },
     {
-      "location": "7700 WISCONSIN AVE\nCHEVY CHASE, MD 20814",
+      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$70,000",
@@ -83083,7 +83100,7 @@
       "finaleddate_raw": "2017-05-08T08:05:04.000"
     },
     {
-      "location": "7700 WISCONSIN AVE\nCHEVY CHASE, MD 20814\n(38.986733, -77.094801)",
+      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$19,000",
@@ -83338,7 +83355,7 @@
       "finaleddate_raw": "2017-01-24T07:01:12.000"
     },
     {
-      "location": "7700 WISCONSIN AVE\nCHEVY CHASE, MD 20814",
+      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$31,000",
@@ -83882,7 +83899,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "7700 WISCONSIN AVE\nCHEVY CHASE, MD 20814",
+      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$25,000",
@@ -86109,7 +86126,7 @@
       "finaleddate_raw": "2017-04-06T06:04:41.000"
     },
     {
-      "location": "5330 WESTERN AVE\nCHEVY CHASE, MD 20815\n(38.960294, -77.086351)",
+      "location": "5330 WESTERN AVE\nCHEVY CHASE, MD 20816\n(38.96049, -77.08611)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$25,000",
@@ -92161,7 +92178,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "7700 WISCONSIN AVE\nCHEVY CHASE, MD 20814",
+      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$1,100,000",
@@ -105217,7 +105234,7 @@
       "finaleddate_raw": "2014-05-29T07:05:39.000"
     },
     {
-      "location": "7700 WISCONSIN AVE\nCHEVY CHASE, MD 20814",
+      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$725,000",
@@ -105404,7 +105421,7 @@
       "finaleddate_raw": "2014-05-15T10:05:27.000"
     },
     {
-      "location": "7700 WISCONSIN AVE\nCHEVY CHASE, MD 20814",
+      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$550,000",
@@ -112867,7 +112884,7 @@
       "finaleddate_raw": "2014-03-14T07:03:33.000"
     },
     {
-      "location": "7529 STANDISH PL\nROCKVILLE, MD 20855\n(39.108023, -77.153621)",
+      "location": "7529 STANDISH PL\nDERWOOD, MD 20855\n(39.10882, -77.15437)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$16,100",
@@ -112884,7 +112901,7 @@
       "finaleddate_raw": "2013-06-09T07:06:38.000"
     },
     {
-      "location": "7529 STANDISH PL\nROCKVILLE, MD 20855\n(39.108081, -77.154795)",
+      "location": "7529 STANDISH PL\nDERWOOD, MD 20855\n(39.10882, -77.15437)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$52,020",
@@ -112918,7 +112935,7 @@
       "finaleddate_raw": "2013-06-09T07:06:05.000"
     },
     {
-      "location": "7529 STANDISH PL\nROCKVILLE, MD 20855\n(39.108081, -77.154795)",
+      "location": "7529 STANDISH PL\nDERWOOD, MD 20855\n(39.10882, -77.15437)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$37,280",
@@ -112935,7 +112952,7 @@
       "finaleddate_raw": "2013-06-09T07:06:13.000"
     },
     {
-      "location": "7529 STANDISH PL\nROCKVILLE, MD 20855\n(39.108023, -77.153621)",
+      "location": "7529 STANDISH PL\nDERWOOD, MD 20855\n(39.10882, -77.15437)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$42,160",
@@ -112952,7 +112969,7 @@
       "finaleddate_raw": "2013-06-09T07:06:40.000"
     },
     {
-      "location": "7529 STANDISH PL\nROCKVILLE, MD 20855\n(39.108081, -77.154795)",
+      "location": "7529 STANDISH PL\nDERWOOD, MD 20855\n(39.10882, -77.15437)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$43,460",
@@ -112969,7 +112986,7 @@
       "finaleddate_raw": "2013-06-09T07:06:53.000"
     },
     {
-      "location": "7529 STANDISH PL\nROCKVILLE, MD 20855\n(39.108023, -77.153621)",
+      "location": "7529 STANDISH PL\nDERWOOD, MD 20855\n(39.10882, -77.15437)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$19,980",
@@ -112986,7 +113003,7 @@
       "finaleddate_raw": "2013-06-09T07:06:52.000"
     },
     {
-      "location": "7529 STANDISH PL\nROCKVILLE, MD 20855\n(39.108023, -77.153621)",
+      "location": "7529 STANDISH PL\nDERWOOD, MD 20855\n(39.10882, -77.15437)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$19,560",
@@ -113887,7 +113904,7 @@
       "finaleddate_raw": "2014-02-20T07:02:43.000"
     },
     {
-      "location": "7700 WISCONSIN AVE\nCHEVY CHASE, MD 20814",
+      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$3,239",
@@ -118154,7 +118171,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "7529 STANDISH PL\nROCKVILLE, MD 20855\n(39.108023, -77.153621)",
+      "location": "7529 STANDISH PL\nDERWOOD, MD 20855\n(39.10882, -77.15437)",
       "status": "Open",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$19,980",
@@ -118171,7 +118188,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "7529 STANDISH PL\nROCKVILLE, MD 20855\n(39.108023, -77.153621)",
+      "location": "7529 STANDISH PL\nDERWOOD, MD 20855\n(39.10882, -77.15437)",
       "status": "Open",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$19,560",
@@ -118409,7 +118426,7 @@
       "finaleddate_raw": "2012-12-27T12:12:04.000"
     },
     {
-      "location": "7529 STANDISH PL\nROCKVILLE, MD 20855\n(39.108023, -77.153621)",
+      "location": "7529 STANDISH PL\nDERWOOD, MD 20855\n(39.10882, -77.15437)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$50,000",
@@ -129663,7 +129680,7 @@
       "finaleddate_raw": "2011-10-17T09:10:00.000"
     },
     {
-      "location": "7700 WISCONSIN AVE\nCHEVY CHASE, MD 20814",
+      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$185,000",
@@ -146663,7 +146680,7 @@
       "finaleddate_raw": "2008-02-25T07:02:00.000"
     },
     {
-      "location": "7529 STANDISH PL\nROCKVILLE, MD 20855\n(39.108023, -77.153621)",
+      "location": "7529 STANDISH PL\nDERWOOD, MD 20855\n(39.10882, -77.15437)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$25,000",
