@@ -1,8 +1,42 @@
 {
-  "last_updated": "2026-06-28T16:36:27.542907+00:00",
+  "last_updated": "2026-06-29T17:47:25.428189+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10545,
+  "record_count": 10547,
   "permits": [
+    {
+      "location": "8401 CONNECTICUT AVE\nCHEVY CHASE, MD 20815\n(38.99414, -77.0764)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$0",
+      "declaredvaluation_num": 0,
+      "buildingarea": "1,796 sf",
+      "buildingarea_num": 1796.0,
+      "worktype": "COMMERCIAL CHANGE OF USE",
+      "description": "Customer Wants To Use ePlans,This is for  U&O permit . The building permit associated is COMBUILD-1152463",
+      "addeddate": "2026-06-26T08:06:05.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-06-26T08:06:05.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "915 MEETING ST\nROCKVILLE, MD 20852\n(39.05064, -77.11564)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$48,982",
+      "declaredvaluation_num": 48982.0,
+      "buildingarea": "0 sf",
+      "buildingarea_num": 0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,Low Voltage Security Access Control 6 Card Readers / 6 electric locks all allow free egress",
+      "addeddate": "2026-06-26T04:06:50.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-06-26T04:06:50.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "7042 CARROLL AVE\nTAKOMA PARK, MD 20912\n(38.97525, -77.01128)",
       "status": "Open",
@@ -685,7 +719,7 @@
     },
     {
       "location": "10301 GEORGIA AVE\nSILVER SPRING, MD 20902\n(39.02423, -77.04507)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$252,097",
       "declaredvaluation_num": 252097.0,
@@ -694,10 +728,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,THIS PROJECT IS AN INTERIOR ALTERATION TO AN EXESTING BUILDING",
       "addeddate": "2026-05-21T06:05:46.000",
-      "issueddate": "",
+      "issueddate": "2026-06-26T12:06:06.000",
       "finaleddate": "",
       "addeddate_raw": "2026-05-21T06:05:46.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-06-26T12:06:06.000",
       "finaleddate_raw": ""
     },
     {
@@ -1909,7 +1943,7 @@
     },
     {
       "location": "6000 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.04763, -77.12033)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$1,189,500",
       "declaredvaluation_num": 1189500.0,
@@ -1918,10 +1952,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,THIS PROJECT IS FOR THE FIT-OUT OF A MEDICAL OFFICE SUITE. THE WORK WILL INCLUDE PARTITIONS, CEILINGS, LIGHTING, ELECTRICAL, MECHANICAL, PLUMBING, SPRINKLER AND LIFE SAFETY FEATURES AS SHOWN HEREIN. ALL WORK SHALL BE INTERIOR ONLY ON THE SIXTH LEVEL.",
       "addeddate": "2026-03-27T06:03:54.000",
-      "issueddate": "",
+      "issueddate": "2026-06-26T01:06:20.000",
       "finaleddate": "",
       "addeddate_raw": "2026-03-27T06:03:54.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-06-26T01:06:20.000",
       "finaleddate_raw": ""
     },
     {
@@ -1943,7 +1977,7 @@
     },
     {
       "location": "4920 ELM ST\nBETHESDA, MD 20814\n(38.9821, -77.09712)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$52,300",
       "declaredvaluation_num": 52300.0,
@@ -1953,10 +1987,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,FURNITURE INSTALL ONLY ON 3RD FLOOR - FURNITURE ONLY",
       "addeddate": "2026-03-27T03:03:32.000",
       "issueddate": "2026-04-09T02:04:07.000",
-      "finaleddate": "",
+      "finaleddate": "2026-06-26T12:06:41.000",
       "addeddate_raw": "2026-03-27T03:03:32.000",
       "issueddate_raw": "2026-04-09T02:04:07.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-06-26T12:06:41.000"
     },
     {
       "location": "2425 REEDIE DR\nSILVER SPRING, MD 20902\n(39.03969, -77.05233)",
@@ -2554,13 +2588,13 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "2425 REEDIE DR\nSILVER SPRING, MD 20902\n(39.03969, -77.05233)",
+      "location": "2425 REEDIE DR\nSILVER SPRING, MD 20902\n(39.03847, -77.05181)",
       "status": "Open",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$3,000,000",
       "declaredvaluation_num": 3000000.0,
-      "buildingarea": "39,411 sf",
-      "buildingarea_num": 39411.0,
+      "buildingarea": "43,502 sf",
+      "buildingarea_num": 43502.0,
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,Phase 3 � Bonded Overlay Slab",
       "addeddate": "2026-03-03T04:03:34.000",
@@ -3048,7 +3082,7 @@
     },
     {
       "location": "1 INVENTA PL\nSILVER SPRING, MD 20910",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$50,000",
       "declaredvaluation_num": 50000.0,
@@ -3058,10 +3092,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,INTERIOR ALTERATIONS TO 2ND FLOOR COMMON CORRIDOR",
       "addeddate": "2026-02-12T11:02:10.000",
       "issueddate": "2026-04-08T08:04:44.000",
-      "finaleddate": "",
+      "finaleddate": "2026-06-26T10:06:52.000",
       "addeddate_raw": "2026-02-12T11:02:10.000",
       "issueddate_raw": "2026-04-08T08:04:44.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-06-26T10:06:52.000"
     },
     {
       "location": "3860 INTERNATIONAL DR\nSILVER SPRING, MD 20906\n(39.10173, -77.07541)",
@@ -3779,7 +3813,7 @@
     },
     {
       "location": "1 INVENTA PL\nSILVER SPRING, MD 20910",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$1,108,571",
       "declaredvaluation_num": 1108571.0,
@@ -3789,10 +3823,10 @@
       "description": "Revision ,1 - Relocate exg & add new elec baseboard heaters.\nBase Bldg corridor work adj tenant demising walls.,Customer Wants To Use ePlansCustomer Wants To Use ePlans Interior work only,TENANT FIT-OUT RENOVATIONS FOR A PORTION (LESS THAN 50%) OF THE BUILDING INTO MEDICAL OFFICE SPACE FOR AN INTEGRATED AUTISM THERAPY CENTER FOR CHILDREN AGED 6 AND UNDER. MINOR MODIFICATIONS TO EXISTING WALLS, DOORS AND CEILINGS WILL OCCUR TO ACCOMMODATE THE PROGRAM. NEW FINISHES WILL BE PROVIDED THROUGHOUT.",
       "addeddate": "2026-01-05T02:01:56.000",
       "issueddate": "2026-02-25T07:02:22.000",
-      "finaleddate": "",
+      "finaleddate": "2026-06-26T10:06:55.000",
       "addeddate_raw": "2026-01-05T02:01:56.000",
       "issueddate_raw": "2026-02-25T07:02:22.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-06-26T10:06:55.000"
     },
     {
       "location": "12510 PROSPERITY DR\nSILVER SPRING, MD 20904\n(39.06135, -76.96222)",
@@ -3854,7 +3888,7 @@
       "buildingarea": "2,900 sf",
       "buildingarea_num": 2900.0,
       "worktype": "RESTORE AND / OR REPAIR",
-      "description": "Customer Wants To Use ePlans,Smoke damage throughout unit. Replacement of sheetrock walls, ceiling and insulation. Electrical and HVAC repairs.Bid estimate submitted with a value of $259,318.24",
+      "description": "Revision ,1 - The building inspector advised that we need to submit mechanical drawings,Customer Wants To Use ePlansCustomer Wants To Use ePlans,Smoke damage throughout unit. Replacement of sheetrock walls, ceiling and insulation. Electrical and HVAC repairs.Bid estimate submitted with a value of $259,318.24",
       "addeddate": "2025-12-29T12:12:47.000",
       "issueddate": "2026-03-23T08:03:24.000",
       "finaleddate": "",
@@ -4170,7 +4204,7 @@
     },
     {
       "location": "7700 OLD GEORGETOWN RD\nBETHESDA, MD 20814\n(38.98638, -77.09747)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$90,000",
       "declaredvaluation_num": 90000.0,
@@ -4180,10 +4214,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,Interior alteration to create white box space.",
       "addeddate": "2025-12-11T11:12:40.000",
       "issueddate": "2026-03-17T12:03:27.000",
-      "finaleddate": "",
+      "finaleddate": "2026-06-26T01:06:51.000",
       "addeddate_raw": "2025-12-11T11:12:40.000",
       "issueddate_raw": "2026-03-17T12:03:27.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-06-26T01:06:51.000"
     },
     {
       "location": "7910 WOODMONT AVE\nBETHESDA, MD 20814\n(38.98931, -77.09629)",
@@ -4799,7 +4833,7 @@
     },
     {
       "location": "4920 ELM ST\nBETHESDA, MD 20814\n(38.9821, -77.09712)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$380,000",
       "declaredvaluation_num": 380000.0,
@@ -4809,10 +4843,10 @@
       "description": "Customer Wants To Use ePlans,INTERIOR ALTERATION AND EXPANSION OF EXISTING TENANT SUITE INCLUDING DEMOLITION, NEW PARTITIONS, MILLWORK, FINISHES AND MODIFICATIONS TO EXISTING MECHANICAL, ELECTRICAL, AND PLUMBING SYSTEMS. EXTERIOR SIGNAGE OR SYSTEMS FURNITURE NOT INCLUDED IN SCOPE OF WORK.",
       "addeddate": "2025-11-25T09:11:20.000",
       "issueddate": "2026-02-24T12:02:06.000",
-      "finaleddate": "",
+      "finaleddate": "2026-06-26T12:06:19.000",
       "addeddate_raw": "2025-11-25T09:11:20.000",
       "issueddate_raw": "2026-02-24T12:02:06.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-06-26T12:06:19.000"
     },
     {
       "location": "10605 CONCORD ST\nKENSINGTON, MD 20895\n(39.03003, -77.07518)",
@@ -11249,7 +11283,7 @@
       "buildingarea": "60,000 sf",
       "buildingarea_num": 60000.0,
       "worktype": "ALTER",
-      "description": "Revision ,3 - Page A1.52A was not included in the last revision.,Customer Wants To Use ePlans Revision ,2 - Revision to issued permit, narrative included with detailed work changes.,Customer Wants To Use ePlans Revision ,1 - Modifications to Previously approved plan, specifically electrical.,Customer Wants To Use ePlans Revision ,1 - Uploading plan pages that were missed upon original review. ,Customer Wants To Use ePlans Customer Wants To Use ePlans Interior work only,Project consists of interior alteration of 2 stories, loading dock, trash enclosure, generator enclosure and exterior fencing. Child Permit 1124582  A new Application Form for the �Enclosure Addition� must be completed before the permit can be issued.",
+      "description": "Revision ,13 - Relocating duct work, electrical equipment, and plumbing.,Customer Wants To Use ePlansRevision ,3 - Page A1.52A was not included in the last revision.,Customer Wants To Use ePlans Revision ,2 - Revision to issued permit, narrative included with detailed work changes.,Customer Wants To Use ePlans Revision ,1 - Modifications to Previously approved plan, specifically electrical.,Customer Wants To Use ePlans Revision ,1 - Uploading plan pages that were missed upon original review. ,Customer Wants To Use ePlans Customer Wants To Use ePlans Interior work only,Project consists of interior alteration of 2 stories, loading dock, trash enclosure, generator enclosure and exterior fencing. Child Permit 1124582  A new Application Form for the �Enclosure Addition� must be completed before the permit can be issued.",
       "addeddate": "2024-12-30T12:12:42.000",
       "issueddate": "2025-08-27T03:08:01.000",
       "finaleddate": "",
@@ -14862,7 +14896,7 @@
       "finaleddate_raw": "2025-12-04T10:12:25.000"
     },
     {
-      "location": "12751 LAYHILL RD\nSILVER SPRING, MD 20906\n(39.064898015, -77.046289033)",
+      "location": "12751 LAYHILL RD\nSILVER SPRING, MD 20906\n(39.06536, -77.0479)",
       "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$1,700,000",
@@ -14870,7 +14904,7 @@
       "buildingarea": "44,930 sf",
       "buildingarea_num": 44930.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,Exterior window/door replacement, MEP upgrades, select interior renovations and finish replacement.",
+      "description": "Revision ,1 - Mechanical drawing revisions including revised refrigerant calculations and removed ceiling grilles.,Customer Wants To Use ePlansCustomer Wants To Use ePlans,Exterior window/door replacement, MEP upgrades, select interior renovations and finish replacement.",
       "addeddate": "2024-07-02T04:07:00.000",
       "issueddate": "2024-11-04T10:11:12.000",
       "finaleddate": "",
@@ -15560,7 +15594,7 @@
     },
     {
       "location": "7996 GEORGIA AVE\nSILVER SPRING, MD 20910\n(38.98685, -77.0271)",
-      "status": "Finaled",
+      "status": "Stop Work",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$400,000",
       "declaredvaluation_num": 400000.0,
@@ -19324,7 +19358,7 @@
       "buildingarea": "0 sf",
       "buildingarea_num": 0,
       "worktype": "ALTER",
-      "description": "Revision ,3 - Modification to kitchen hood exhaust system and deletion of apparatus bay circulating fan.,Customer Wants To Use ePlansRevision ,2 - Relocated outdoor heat pump units, added a new mini-split system and ceiling bulkhead.,Customer Wants To Use ePlansRevision ,1 - Revised size of kitchen hood system and correct Mechanical System data,Customer Wants To Use ePlansCustomer Wants To Use ePlans Interior work only,Replacement of HVAC system",
+      "description": "Revision ,3 - Modification to kitchen hood exhaust system and deletion of apparatus bay circulating fan.,Customer Wants To Use ePlans Revision ,2 - Relocated outdoor heat pump units, added a new mini-split system and ceiling bulkhead.,Customer Wants To Use ePlans Revision ,1 - Revised size of kitchen hood system and correct Mechanical System data,Customer Wants To Use ePlans Customer Wants To Use ePlans Interior work only,Replacement of HVAC system",
       "addeddate": "2023-11-13T09:11:39.000",
       "issueddate": "2024-03-13T12:03:47.000",
       "finaleddate": "",
@@ -21908,7 +21942,7 @@
       "buildingarea": "850 sf",
       "buildingarea_num": 850.0,
       "worktype": "ALTER",
-      "description": "Revision ,2 - This is a revision to the electrical service location.,Customer Wants To Use ePlansRevision ,1038687 - Revising to add 745 sf of interior renovation on 2nd floor and window replacement,Customer Wants To Use ePlansCustomer Wants To Use ePlans,The scope of work is approx. 850 Sq/ft of interior alterations. New drywall, flooring, upgraded kitchenette and updated ADA bathroom. No structural or load bearing walls will be removed or altered. There will be no change to electrical service or panel. All electrical fixtures are existing unless shown as new in plans. Plumbing fixtures to be removed and replaced in kind.",
+      "description": "Revision ,2 - Revising the cover sheet in the code analysis section to clearly reflect intended plans.,Customer Wants To Use ePlansRevision ,2 - This is a revision to the electrical service location.,Customer Wants To Use ePlansRevision ,1038687 - Revising to add 745 sf of interior renovation on 2nd floor and window replacement,Customer Wants To Use ePlansCustomer Wants To Use ePlans,The scope of work is approx. 850 Sq/ft of interior alterations. New drywall, flooring, upgraded kitchenette and updated ADA bathroom. No structural or load bearing walls will be removed or altered. There will be no change to electrical service or panel. All electrical fixtures are existing unless shown as new in plans. Plumbing fixtures to be removed and replaced in kind.",
       "addeddate": "2023-07-25T04:07:00.000",
       "issueddate": "2024-06-03T02:06:27.000",
       "finaleddate": "",
