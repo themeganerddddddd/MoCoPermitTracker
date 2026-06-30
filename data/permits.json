@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T17:47:25.428189+00:00",
+  "last_updated": "2026-06-30T17:14:58.522600+00:00",
   "source_dataset": "i26v-w6bd",
   "record_count": 10547,
   "permits": [
@@ -58,12 +58,12 @@
       "location": "20270 GOLDENROD LN\nGERMANTOWN, MD 20876\n(39.18782, -77.25137)",
       "status": "Open",
       "usecode": "BUSINESS BUILDING",
-      "declaredvaluation": "$250,000",
-      "declaredvaluation_num": 250000.0,
+      "declaredvaluation": "$15,000",
+      "declaredvaluation_num": 15000.0,
       "buildingarea": "14,370 sf",
       "buildingarea_num": 14370.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,MINOR DEMOLITION OF EXISTING TENANTS OFFICE SPACE FOR FUTURE\nRENOVATIONS. THERE ARE NO STRUCTURAL MODIFICATIONS",
+      "description": "Customer Wants To Use ePlans Interior work only,MINOR DEMOLITION OF EXISTING TENANTS OFFICE SPACE FOR FUTURE RENOVATIONS. THERE ARE NO STRUCTURAL MODIFICATIONS",
       "addeddate": "2026-06-24T11:06:30.000",
       "issueddate": "",
       "finaleddate": "",
@@ -1773,7 +1773,7 @@
     },
     {
       "location": "7501 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98516, -77.09434)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$864,121",
       "declaredvaluation_num": 864121.0,
@@ -1782,10 +1782,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,INTERIOR ALTERATION OF THE PARTIAL 7TH FLOOR. THE WORK CONSISTS OF NON STRUCTURAL DEMOLITION, AND NEW GENERAL PLUMBING, ELECTRICAL, AND MECHANICAL WORK. STRUCTURAL WORK IS REQUIRED. FURNITURE PERMIT WILL BE RUN SEPARATELY. THERE IS NO CHANGE OF USE.",
       "addeddate": "2026-04-02T04:04:04.000",
-      "issueddate": "",
+      "issueddate": "2026-06-29T07:06:34.000",
       "finaleddate": "",
       "addeddate_raw": "2026-04-02T04:04:04.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-06-29T07:06:34.000",
       "finaleddate_raw": ""
     },
     {
@@ -4221,7 +4221,7 @@
     },
     {
       "location": "7910 WOODMONT AVE\nBETHESDA, MD 20814\n(38.98931, -77.09629)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$704,570",
       "declaredvaluation_num": 704570.0,
@@ -4231,10 +4231,10 @@
       "description": "Customer Wants To Use ePlans,THIS PROJECT IS AN INTERION ALTERATION SUITE 400 IN AN EXESTING BUILDING",
       "addeddate": "2025-12-11T02:12:18.000",
       "issueddate": "2026-02-04T11:02:24.000",
-      "finaleddate": "",
+      "finaleddate": "2026-06-29T02:06:16.000",
       "addeddate_raw": "2025-12-11T02:12:18.000",
       "issueddate_raw": "2026-02-04T11:02:24.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-06-29T02:06:16.000"
     },
     {
       "location": "2 BETHESDA METRO CTR\nBETHESDA, MD 20814\n(38.98408, -77.09551)",
