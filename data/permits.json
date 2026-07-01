@@ -1,42 +1,8 @@
 {
-  "last_updated": "2026-06-30T17:14:58.522600+00:00",
+  "last_updated": "2026-07-01T17:23:07.488375+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10547,
+  "record_count": 10545,
   "permits": [
-    {
-      "location": "8401 CONNECTICUT AVE\nCHEVY CHASE, MD 20815\n(38.99414, -77.0764)",
-      "status": "Open",
-      "usecode": "BUSINESS BUILDING",
-      "declaredvaluation": "$0",
-      "declaredvaluation_num": 0,
-      "buildingarea": "1,796 sf",
-      "buildingarea_num": 1796.0,
-      "worktype": "COMMERCIAL CHANGE OF USE",
-      "description": "Customer Wants To Use ePlans,This is for  U&O permit . The building permit associated is COMBUILD-1152463",
-      "addeddate": "2026-06-26T08:06:05.000",
-      "issueddate": "",
-      "finaleddate": "",
-      "addeddate_raw": "2026-06-26T08:06:05.000",
-      "issueddate_raw": "",
-      "finaleddate_raw": ""
-    },
-    {
-      "location": "915 MEETING ST\nROCKVILLE, MD 20852\n(39.05064, -77.11564)",
-      "status": "Open",
-      "usecode": "BUSINESS BUILDING",
-      "declaredvaluation": "$48,982",
-      "declaredvaluation_num": 48982.0,
-      "buildingarea": "0 sf",
-      "buildingarea_num": 0,
-      "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,Low Voltage Security Access Control 6 Card Readers / 6 electric locks all allow free egress",
-      "addeddate": "2026-06-26T04:06:50.000",
-      "issueddate": "",
-      "finaleddate": "",
-      "addeddate_raw": "2026-06-26T04:06:50.000",
-      "issueddate_raw": "",
-      "finaleddate_raw": ""
-    },
     {
       "location": "7042 CARROLL AVE\nTAKOMA PARK, MD 20912\n(38.97525, -77.01128)",
       "status": "Open",
@@ -753,7 +719,7 @@
     },
     {
       "location": "7600 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98612, -77.09457)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$424,160",
       "declaredvaluation_num": 424160.0,
@@ -762,10 +728,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,INTERIOR ALTERATION. WORK CONSISTS OF NON STRUCTURAL DEMOLITION, NON STRUCTURAL CONSTRUCTION, GENERAL PLUMBING, ELECTRICAL, AND MECHANICAL WORK.",
       "addeddate": "2026-05-20T07:05:36.000",
-      "issueddate": "",
+      "issueddate": "2026-06-30T11:06:49.000",
       "finaleddate": "",
       "addeddate_raw": "2026-05-20T07:05:36.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-06-30T11:06:49.000",
       "finaleddate_raw": ""
     },
     {
@@ -4289,7 +4255,7 @@
     },
     {
       "location": "7500 OLD GEORGETOWN RD\nBETHESDA, MD 20814\n(38.98528, -77.09512)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$294,390",
       "declaredvaluation_num": 294390.0,
@@ -4299,10 +4265,10 @@
       "description": "Customer Wants To Use ePlans,SELECTIVE DEMOLITION OF EXISTING WALLS. DEMOLITION OF EXISTING CEILINGS, LIGHTING, AND WALL + FLOOR FINISHES AND REMOVAL OF EXISTING EQUIPMENT AND FIXTURES. NEW WORK INCLUDES A HALF HEIGHT WALL, PARTITIONS + DFH, CEILINGS + LIGHTING, FLOOR + WALL FINISHES, AND MILLWORK, FIXTURES + EQUIPMENT AT PANTRY AND CONFERENCE ROOM,",
       "addeddate": "2025-12-09T01:12:51.000",
       "issueddate": "2026-02-12T11:02:52.000",
-      "finaleddate": "",
+      "finaleddate": "2026-06-30T01:06:49.000",
       "addeddate_raw": "2025-12-09T01:12:51.000",
       "issueddate_raw": "2026-02-12T11:02:52.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-06-30T01:06:49.000"
     },
     {
       "location": "8787 SNOUFFER SCHOOL RD\nGAITHERSBURG, MD 20879\n(39.17899, -77.17956)",
@@ -7298,7 +7264,7 @@
     },
     {
       "location": "9911 BELWARD CAMPUS DR\nROCKVILLE, MD 20850\n(39.10453, -77.21046)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BIOSCIENCE",
       "declaredvaluation": "$400,000",
       "declaredvaluation_num": 400000.0,
@@ -7307,10 +7273,10 @@
       "worktype": "CONSTRUCT",
       "description": "Customer Wants To Use ePlans,Site has 5 failing MSE walls. 3 new gravity block walls will go in front of 3 walls. 1 MSE wall will be replaced in kind. 1 short wall will be buried. Pond modification.",
       "addeddate": "2025-07-24T10:07:13.000",
-      "issueddate": "",
+      "issueddate": "2026-06-30T11:06:14.000",
       "finaleddate": "",
       "addeddate_raw": "2025-07-24T10:07:13.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-06-30T11:06:14.000",
       "finaleddate_raw": ""
     },
     {
@@ -21849,23 +21815,6 @@
       "finaleddate_raw": "2023-11-17T01:11:33.000"
     },
     {
-      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
-      "status": "Finaled",
-      "usecode": "BUSINESS BUILDING",
-      "declaredvaluation": "$285,270",
-      "declaredvaluation_num": 285270.0,
-      "buildingarea": "8,082 sf",
-      "buildingarea_num": 8082.0,
-      "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans Interior work only,Deliver and install office furniture===SUITE 600",
-      "addeddate": "2023-07-26T10:07:49.000",
-      "issueddate": "2023-08-03T10:08:55.000",
-      "finaleddate": "2023-08-17T07:08:01.000",
-      "addeddate_raw": "2023-07-26T10:07:49.000",
-      "issueddate_raw": "2023-08-03T10:08:55.000",
-      "finaleddate_raw": "2023-08-17T07:08:01.000"
-    },
-    {
       "location": "20451 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.192795003, -77.256531975)",
       "status": "Finaled",
       "usecode": "BIOSCIENCE",
@@ -21881,6 +21830,23 @@
       "addeddate_raw": "2023-07-26T10:07:49.000",
       "issueddate_raw": "2023-11-07T10:11:44.000",
       "finaleddate_raw": "2024-02-05T01:02:22.000"
+    },
+    {
+      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
+      "status": "Finaled",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$285,270",
+      "declaredvaluation_num": 285270.0,
+      "buildingarea": "8,082 sf",
+      "buildingarea_num": 8082.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans Interior work only,Deliver and install office furniture===SUITE 600",
+      "addeddate": "2023-07-26T10:07:49.000",
+      "issueddate": "2023-08-03T10:08:55.000",
+      "finaleddate": "2023-08-17T07:08:01.000",
+      "addeddate_raw": "2023-07-26T10:07:49.000",
+      "issueddate_raw": "2023-08-03T10:08:55.000",
+      "finaleddate_raw": "2023-08-17T07:08:01.000"
     },
     {
       "location": "6169 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.049774003, -77.125105996)",
