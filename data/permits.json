@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T17:23:07.488375+00:00",
+  "last_updated": "2026-07-02T17:01:23.249490+00:00",
   "source_dataset": "i26v-w6bd",
   "record_count": 10545,
   "permits": [
@@ -1280,7 +1280,7 @@
     },
     {
       "location": "4819 ST ELMO AVE\nBETHESDA, MD 20814\n(38.98966, -77.09702)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$16,229",
       "declaredvaluation_num": 16229.0,
@@ -1290,10 +1290,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,This application is for the demolition of the existing interior conditions of this now vacant retail suite. The interior partitions and ceiling will be removed, a variety of building systems will remain.",
       "addeddate": "2026-04-27T07:04:59.000",
       "issueddate": "2026-05-18T02:05:24.000",
-      "finaleddate": "",
+      "finaleddate": "2026-07-01T12:07:18.000",
       "addeddate_raw": "2026-04-27T07:04:59.000",
       "issueddate_raw": "2026-05-18T02:05:24.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-07-01T12:07:18.000"
     },
     {
       "location": "7361 CALHOUN PL\nROCKVILLE, MD 20855\n(39.10818, -77.15126)",
@@ -4986,7 +4986,7 @@
     },
     {
       "location": "1100 WAYNE AVE\nSILVER SPRING, MD 20910\n(38.99451, -77.02863)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$1,660,000",
       "declaredvaluation_num": 1660000.0,
@@ -4996,10 +4996,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,Full floor interior alteration",
       "addeddate": "2025-11-16T03:11:48.000",
       "issueddate": "2026-03-02T08:03:15.000",
-      "finaleddate": "",
+      "finaleddate": "2026-07-01T12:07:32.000",
       "addeddate_raw": "2025-11-16T03:11:48.000",
       "issueddate_raw": "2026-03-02T08:03:15.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-07-01T12:07:32.000"
     },
     {
       "location": "6903 ROCKLEDGE DR\nBETHESDA, MD 20817\n(39.02835, -77.14038)",
@@ -14530,7 +14530,7 @@
       "buildingarea": "1,850 sf",
       "buildingarea_num": 1850.0,
       "worktype": "ALTER",
-      "description": "Revision ,1 - Changed details based on the inspector's on-site observation.,Customer Wants To Use ePlansRevision ,1 - Change construction type note from IIA to IIIB. No other changes.,Customer Wants To Use ePlansCustomer Wants To Use ePlans Interior work only,THIS PROJECT INVOLVES A SKATEBOARD SHOWROOM AND STORAGE SPACE REFURBISHING INTO TWO SEPARATE BARS WITH SEATINGS. RETAIN EXISTING HVAC SYSTEM. WORK IS STRICTLY NONSTRUCTURAL. FIT-OUT INCLUDE MODIFICATIONS TO CURRENT MEP SYSTEMS, AND ADDITION OF BATHROOMS.",
+      "description": "Revision ,2 - Changed details based on the inspector's on-site observation.,Customer Wants To Use ePlans Revision ,1 - Change construction type note from IIA to IIIB. No other changes.,Customer Wants To Use ePlans Customer Wants To Use ePlans Interior work only,THIS PROJECT INVOLVES A SKATEBOARD SHOWROOM AND STORAGE SPACE REFURBISHING INTO TWO SEPARATE BARS WITH SEATINGS. RETAIN EXISTING HVAC SYSTEM. WORK IS STRICTLY NONSTRUCTURAL. FIT-OUT INCLUDE MODIFICATIONS TO CURRENT MEP SYSTEMS, AND ADDITION OF BATHROOMS.",
       "addeddate": "2024-07-30T01:07:14.000",
       "issueddate": "2024-11-12T07:11:01.000",
       "finaleddate": "",
@@ -21815,23 +21815,6 @@
       "finaleddate_raw": "2023-11-17T01:11:33.000"
     },
     {
-      "location": "20451 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.192795003, -77.256531975)",
-      "status": "Finaled",
-      "usecode": "BIOSCIENCE",
-      "declaredvaluation": "$1,730,000",
-      "declaredvaluation_num": 1730000.0,
-      "buildingarea": "11,270 sf",
-      "buildingarea_num": 11270.0,
-      "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,Interior alterations to existing single tenant lab space, restrooms &amp; office spaces, including new ceilings, interior finishes, partitions, doors &amp; frames &amp; millwork. Tenant is supplying furniture &amp;, equipment. Work includes plumbing, mechanical &amp; electrical. No structural work.",
-      "addeddate": "2023-07-26T10:07:49.000",
-      "issueddate": "2023-11-07T10:11:44.000",
-      "finaleddate": "2024-02-05T01:02:22.000",
-      "addeddate_raw": "2023-07-26T10:07:49.000",
-      "issueddate_raw": "2023-11-07T10:11:44.000",
-      "finaleddate_raw": "2024-02-05T01:02:22.000"
-    },
-    {
       "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
@@ -21847,6 +21830,23 @@
       "addeddate_raw": "2023-07-26T10:07:49.000",
       "issueddate_raw": "2023-08-03T10:08:55.000",
       "finaleddate_raw": "2023-08-17T07:08:01.000"
+    },
+    {
+      "location": "20451 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.192795003, -77.256531975)",
+      "status": "Finaled",
+      "usecode": "BIOSCIENCE",
+      "declaredvaluation": "$1,730,000",
+      "declaredvaluation_num": 1730000.0,
+      "buildingarea": "11,270 sf",
+      "buildingarea_num": 11270.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,Interior alterations to existing single tenant lab space, restrooms &amp; office spaces, including new ceilings, interior finishes, partitions, doors &amp; frames &amp; millwork. Tenant is supplying furniture &amp;, equipment. Work includes plumbing, mechanical &amp; electrical. No structural work.",
+      "addeddate": "2023-07-26T10:07:49.000",
+      "issueddate": "2023-11-07T10:11:44.000",
+      "finaleddate": "2024-02-05T01:02:22.000",
+      "addeddate_raw": "2023-07-26T10:07:49.000",
+      "issueddate_raw": "2023-11-07T10:11:44.000",
+      "finaleddate_raw": "2024-02-05T01:02:22.000"
     },
     {
       "location": "6169 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.049774003, -77.125105996)",
