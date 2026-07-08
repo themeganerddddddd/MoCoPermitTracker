@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T17:25:31.845013+00:00",
+  "last_updated": "2026-07-08T16:49:23.499982+00:00",
   "source_dataset": "i26v-w6bd",
   "record_count": 10548,
   "permits": [
@@ -464,7 +464,7 @@
     },
     {
       "location": "9910 BELWARD CAMPUS DR\nROCKVILLE, MD 20850\n(39.10328, -77.20931)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$226,000",
       "declaredvaluation_num": 226000.0,
@@ -473,10 +473,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,EXISTING LEVEL 1 ALTERATION AND LOW ROOF, MODIFICATIONS TO THE MECHANICAL EXHAUST SYSTEMS INCLUDING NEW EXHAUST DUCTWORK, AND NEW ROOFTOP EXHAUST FAN. ARCHITECTURAL SCOPE IS LIMITED TO THE DETAILING AT A SINGLE ROOF PENETRATION.",
       "addeddate": "2026-06-04T11:06:05.000",
-      "issueddate": "",
+      "issueddate": "2026-07-08T09:07:54.000",
       "finaleddate": "",
       "addeddate_raw": "2026-06-04T11:06:05.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-07-08T09:07:54.000",
       "finaleddate_raw": ""
     },
     {
@@ -828,7 +828,7 @@
       "buildingarea": "3,515 sf",
       "buildingarea_num": 3515.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,DENTAL OFFICE, NON STRUCTURAL PARTITIONS, TWO RESTROOMS,\nMECHANICAL DISTRIBUTION SUPPLY/RETURNS, PLUMBING, T-BAR CEILING, LIGHTS,\nOUTLETS, SWITCHES",
+      "description": "Customer Wants To Use ePlans,DENTAL OFFICE, NON STRUCTURAL PARTITIONS, TWO RESTROOMS, MECHANICAL DISTRIBUTION SUPPLY/RETURNS, PLUMBING, T-BAR CEILING, LIGHTS, OUTLETS, SWITCHES",
       "addeddate": "2026-05-19T04:05:54.000",
       "issueddate": "",
       "finaleddate": "",
@@ -1763,7 +1763,7 @@
       "buildingarea": "2,643 sf",
       "buildingarea_num": 2643.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,INTERIOR ALTERATION OF EXISTING TENANT SUITE. TENANT FIT-OUT TO\nINCLUDE DEMOLITION OF EXISTING PARTITIONS; AND CONSTRUCTION OF NEW\nPARTITIONS, DOORS, AND MILLWORK. NEW ELECTRICAL WORK TO MODIFY\nLIGHTING AND POWER TO REFLECT NEW PLAN. ALL ELECTRICAL RUNS ARE TO\nCONNECT TO EXISTING BUILDING MAIN ELECTRICAL ROOM. EXISTING\nDUCTWORK WILL BE MODIFIED TO REFLECT NEW PLAN.\nSEE STRUCTURAL DRAWINGS FOR NEW LINTELS, NEW LIFT SUPPORTS, NEW\nSTAIR STRUCTURE, AND ADDITIONAL SLAB REQUIREMENTS.",
+      "description": "Customer Wants To Use ePlans,INTERIOR ALTERATION OF EXISTING TENANT SUITE. TENANT FIT-OUT TO INCLUDE DEMOLITION OF EXISTING PARTITIONS; AND CONSTRUCTION OF NEW PARTITIONS, DOORS, AND MILLWORK. NEW ELECTRICAL WORK TO MODIFY LIGHTING AND POWER TO REFLECT NEW PLAN. ALL ELECTRICAL RUNS ARE TO CONNECT TO EXISTING BUILDING MAIN ELECTRICAL ROOM. EXISTING DUCTWORK WILL BE MODIFIED TO REFLECT NEW PLAN. SEE STRUCTURAL DRAWINGS FOR NEW LINTELS, NEW LIFT SUPPORTS, NEW STAIR STRUCTURE, AND ADDITIONAL SLAB REQUIREMENTS.",
       "addeddate": "2026-04-02T12:04:57.000",
       "issueddate": "",
       "finaleddate": "",
@@ -1926,7 +1926,7 @@
     },
     {
       "location": "7600 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98612, -77.09457)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$120,000",
       "declaredvaluation_num": 120000.0,
@@ -1935,10 +1935,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,Interior renovations for fit-up of an existing vacant suite for a new office tenant.",
       "addeddate": "2026-03-31T02:03:09.000",
-      "issueddate": "",
+      "issueddate": "2026-07-07T02:07:01.000",
       "finaleddate": "",
       "addeddate_raw": "2026-03-31T02:03:09.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-07-07T02:07:01.000",
       "finaleddate_raw": ""
     },
     {
