@@ -1,8 +1,42 @@
 {
-  "last_updated": "2026-07-12T16:11:14.565064+00:00",
+  "last_updated": "2026-07-13T17:22:33.883909+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10551,
+  "record_count": 10553,
   "permits": [
+    {
+      "location": "19544 AMARANTH DR\nGERMANTOWN, MD 20874\n(39.17627, -77.25172)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$25,000",
+      "declaredvaluation_num": 25000.0,
+      "buildingarea": "500 sf",
+      "buildingarea_num": 500.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans  Interior work only,Remove and infill floor at an existing spiral stair",
+      "addeddate": "2026-07-10T03:07:54.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-07-10T03:07:54.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "6710 ROCKLEDGE DR\nBETHESDA, MD 20817\n(39.02921, -77.13481)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$500,000",
+      "declaredvaluation_num": 500000.0,
+      "buildingarea": "2,500 sf",
+      "buildingarea_num": 2500.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,Electrical upgrade for existing tenant",
+      "addeddate": "2026-07-10T02:07:25.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-07-10T02:07:25.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "7500 OLD GEORGETOWN RD\nBETHESDA, MD 20814\n(38.98528, -77.09512)",
       "status": "Open",
@@ -6839,7 +6873,7 @@
     },
     {
       "location": "7272 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98217, -77.09324)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$1,200,000",
       "declaredvaluation_num": 1200000.0,
@@ -6849,10 +6883,10 @@
       "description": "Revision ,1 - Minor updates to A, M, E, and P sheets,Customer Wants To Use ePlansCustomer Wants To Use ePlans Interior work only,Interior alterations for a first time tenant.",
       "addeddate": "2025-08-27T02:08:00.000",
       "issueddate": "2026-01-14T02:01:16.000",
-      "finaleddate": "",
+      "finaleddate": "2026-07-10T01:07:37.000",
       "addeddate_raw": "2025-08-27T02:08:00.000",
       "issueddate_raw": "2026-01-14T02:01:16.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-07-10T01:07:37.000"
     },
     {
       "location": "7272 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98217, -77.09324)",
@@ -21917,23 +21951,6 @@
       "finaleddate_raw": "2023-11-17T01:11:33.000"
     },
     {
-      "location": "20451 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.192795003, -77.256531975)",
-      "status": "Finaled",
-      "usecode": "BIOSCIENCE",
-      "declaredvaluation": "$1,730,000",
-      "declaredvaluation_num": 1730000.0,
-      "buildingarea": "11,270 sf",
-      "buildingarea_num": 11270.0,
-      "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,Interior alterations to existing single tenant lab space, restrooms &amp; office spaces, including new ceilings, interior finishes, partitions, doors &amp; frames &amp; millwork. Tenant is supplying furniture &amp;, equipment. Work includes plumbing, mechanical &amp; electrical. No structural work.",
-      "addeddate": "2023-07-26T10:07:49.000",
-      "issueddate": "2023-11-07T10:11:44.000",
-      "finaleddate": "2024-02-05T01:02:22.000",
-      "addeddate_raw": "2023-07-26T10:07:49.000",
-      "issueddate_raw": "2023-11-07T10:11:44.000",
-      "finaleddate_raw": "2024-02-05T01:02:22.000"
-    },
-    {
       "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
@@ -21949,6 +21966,23 @@
       "addeddate_raw": "2023-07-26T10:07:49.000",
       "issueddate_raw": "2023-08-03T10:08:55.000",
       "finaleddate_raw": "2023-08-17T07:08:01.000"
+    },
+    {
+      "location": "20451 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.192795003, -77.256531975)",
+      "status": "Finaled",
+      "usecode": "BIOSCIENCE",
+      "declaredvaluation": "$1,730,000",
+      "declaredvaluation_num": 1730000.0,
+      "buildingarea": "11,270 sf",
+      "buildingarea_num": 11270.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,Interior alterations to existing single tenant lab space, restrooms &amp; office spaces, including new ceilings, interior finishes, partitions, doors &amp; frames &amp; millwork. Tenant is supplying furniture &amp;, equipment. Work includes plumbing, mechanical &amp; electrical. No structural work.",
+      "addeddate": "2023-07-26T10:07:49.000",
+      "issueddate": "2023-11-07T10:11:44.000",
+      "finaleddate": "2024-02-05T01:02:22.000",
+      "addeddate_raw": "2023-07-26T10:07:49.000",
+      "issueddate_raw": "2023-11-07T10:11:44.000",
+      "finaleddate_raw": "2024-02-05T01:02:22.000"
     },
     {
       "location": "6169 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.049774003, -77.125105996)",
