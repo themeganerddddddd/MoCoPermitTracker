@@ -1,8 +1,25 @@
 {
-  "last_updated": "2026-07-13T17:22:33.883909+00:00",
+  "last_updated": "2026-07-14T16:37:51.513470+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10553,
+  "record_count": 10554,
   "permits": [
+    {
+      "location": "",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$1,000",
+      "declaredvaluation_num": 1000.0,
+      "buildingarea": "100 sf",
+      "buildingarea_num": 100.0,
+      "worktype": "RESTORE AND / OR REPAIR",
+      "description": "Customer Wants To Use ePlans,REPLACE LIGHTING AND SWITCHES, ALSO OUTLET.",
+      "addeddate": "2026-07-13T12:07:12.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-07-13T12:07:12.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "19544 AMARANTH DR\nGERMANTOWN, MD 20874\n(39.17627, -77.25172)",
       "status": "Open",
@@ -1117,7 +1134,7 @@
       "buildingarea": "32 sf",
       "buildingarea_num": 32.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,Install new non-structural hallway partition and door.",
+      "description": "Customer Wants To Use ePlans Interior work only,Install new non-structural hallway partition and door.",
       "addeddate": "2026-05-09T09:05:14.000",
       "issueddate": "",
       "finaleddate": "",
@@ -1178,7 +1195,7 @@
     },
     {
       "location": "8455 HELGERMAN CT\nGAITHERSBURG, MD 20877\n(39.13046, -77.17353)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$40,000",
       "declaredvaluation_num": 40000.0,
@@ -1187,10 +1204,10 @@
       "worktype": "RESTORE AND / OR REPAIR",
       "description": "Customer Wants To Use ePlans,Replace existing single pane storefront assembly with new double paned window assembly.",
       "addeddate": "2026-05-07T11:05:16.000",
-      "issueddate": "",
+      "issueddate": "2026-07-13T05:07:47.000",
       "finaleddate": "",
       "addeddate_raw": "2026-05-07T11:05:16.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-07-13T05:07:47.000",
       "finaleddate_raw": ""
     },
     {
@@ -1450,7 +1467,7 @@
     },
     {
       "location": "12125 VEIRS MILL RD\nSILVER SPRING, MD 20902\n(39.05552, -77.08132)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$15,000",
       "declaredvaluation_num": 15000.0,
@@ -1459,10 +1476,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,Interior Alterations for New Mechanical Closet for Bank HVAC unit, Refinishing Elevator Room and Elevator Lobby.",
       "addeddate": "2026-04-21T05:04:00.000",
-      "issueddate": "",
+      "issueddate": "2026-07-13T12:07:06.000",
       "finaleddate": "",
       "addeddate_raw": "2026-04-21T05:04:00.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-07-13T12:07:06.000",
       "finaleddate_raw": ""
     },
     {
@@ -2792,8 +2809,8 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "7676 STANDISH PL\nROCKVILLE, MD 20855\n(39.11001, -77.15554)",
-      "status": "Issued",
+      "location": "7676 STANDISH PL\nROCKVILLE, MD 20855\n(39.11076, -77.15676)",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$85,000",
       "declaredvaluation_num": 85000.0,
@@ -2803,10 +2820,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,new office construction for an existing tenant, minor electrical and mechanical",
       "addeddate": "2026-02-26T01:02:22.000",
       "issueddate": "2026-04-06T12:04:35.000",
-      "finaleddate": "",
+      "finaleddate": "2026-07-13T01:07:40.000",
       "addeddate_raw": "2026-02-26T01:02:22.000",
       "issueddate_raw": "2026-04-06T12:04:35.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-07-13T01:07:40.000"
     },
     {
       "location": "1029 GUDE DR\nROCKVILLE, MD 20850\n(39.09838, -77.13861)",
@@ -5326,7 +5343,7 @@
     },
     {
       "location": "5404 WISCONSIN AVE\nCHEVY CHASE, MD 20815\n(38.96159, -77.08659)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$25,000",
       "declaredvaluation_num": 25000.0,
@@ -5336,10 +5353,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,Interior Demolition to prepare space for future tenant fitout under separate permit.",
       "addeddate": "2025-11-05T11:11:21.000",
       "issueddate": "2025-11-25T11:11:30.000",
-      "finaleddate": "",
+      "finaleddate": "2026-07-13T12:07:33.000",
       "addeddate_raw": "2025-11-05T11:11:21.000",
       "issueddate_raw": "2025-11-25T11:11:30.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-07-13T12:07:33.000"
     },
     {
       "location": "7718 WOODMONT AVE\nBETHESDA, MD 20814\n(38.98716, -77.09614)",
@@ -21951,23 +21968,6 @@
       "finaleddate_raw": "2023-11-17T01:11:33.000"
     },
     {
-      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
-      "status": "Finaled",
-      "usecode": "BUSINESS BUILDING",
-      "declaredvaluation": "$285,270",
-      "declaredvaluation_num": 285270.0,
-      "buildingarea": "8,082 sf",
-      "buildingarea_num": 8082.0,
-      "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans Interior work only,Deliver and install office furniture===SUITE 600",
-      "addeddate": "2023-07-26T10:07:49.000",
-      "issueddate": "2023-08-03T10:08:55.000",
-      "finaleddate": "2023-08-17T07:08:01.000",
-      "addeddate_raw": "2023-07-26T10:07:49.000",
-      "issueddate_raw": "2023-08-03T10:08:55.000",
-      "finaleddate_raw": "2023-08-17T07:08:01.000"
-    },
-    {
       "location": "20451 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.192795003, -77.256531975)",
       "status": "Finaled",
       "usecode": "BIOSCIENCE",
@@ -21983,6 +21983,23 @@
       "addeddate_raw": "2023-07-26T10:07:49.000",
       "issueddate_raw": "2023-11-07T10:11:44.000",
       "finaleddate_raw": "2024-02-05T01:02:22.000"
+    },
+    {
+      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
+      "status": "Finaled",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$285,270",
+      "declaredvaluation_num": 285270.0,
+      "buildingarea": "8,082 sf",
+      "buildingarea_num": 8082.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans Interior work only,Deliver and install office furniture===SUITE 600",
+      "addeddate": "2023-07-26T10:07:49.000",
+      "issueddate": "2023-08-03T10:08:55.000",
+      "finaleddate": "2023-08-17T07:08:01.000",
+      "addeddate_raw": "2023-07-26T10:07:49.000",
+      "issueddate_raw": "2023-08-03T10:08:55.000",
+      "finaleddate_raw": "2023-08-17T07:08:01.000"
     },
     {
       "location": "6169 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.049774003, -77.125105996)",
