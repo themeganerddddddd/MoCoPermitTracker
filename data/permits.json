@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T16:37:51.513470+00:00",
+  "last_updated": "2026-07-15T16:44:33.386277+00:00",
   "source_dataset": "i26v-w6bd",
   "record_count": 10554,
   "permits": [
@@ -1790,19 +1790,19 @@
     },
     {
       "location": "11325 SEVEN LOCKS RD\nPOTOMAC, MD 20854\n(39.04244, -77.15825)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$150,000",
       "declaredvaluation_num": 150000.0,
       "buildingarea": "1,740 sf",
       "buildingarea_num": 1740.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,Interior retail fit out in an existing building. Work includes new partitions, doors, light fixtures, relocation of mechanical devices, and minor electrical, fire alarm, and sprinkler work.Applicant plans to provide bid estimate by the issuance of the permit.",
+      "description": "Customer Wants To Use ePlans,Interior retail fit out in an existing building. Work includes new partitions, doors, light fixtures, relocation of mechanical devices, and minor electrical, fire alarm, and sprinkler work.",
       "addeddate": "2026-04-07T12:04:01.000",
-      "issueddate": "",
+      "issueddate": "2026-07-14T04:07:54.000",
       "finaleddate": "",
       "addeddate_raw": "2026-04-07T12:04:01.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-07-14T04:07:54.000",
       "finaleddate_raw": ""
     },
     {
@@ -21968,23 +21968,6 @@
       "finaleddate_raw": "2023-11-17T01:11:33.000"
     },
     {
-      "location": "20451 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.192795003, -77.256531975)",
-      "status": "Finaled",
-      "usecode": "BIOSCIENCE",
-      "declaredvaluation": "$1,730,000",
-      "declaredvaluation_num": 1730000.0,
-      "buildingarea": "11,270 sf",
-      "buildingarea_num": 11270.0,
-      "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,Interior alterations to existing single tenant lab space, restrooms &amp; office spaces, including new ceilings, interior finishes, partitions, doors &amp; frames &amp; millwork. Tenant is supplying furniture &amp;, equipment. Work includes plumbing, mechanical &amp; electrical. No structural work.",
-      "addeddate": "2023-07-26T10:07:49.000",
-      "issueddate": "2023-11-07T10:11:44.000",
-      "finaleddate": "2024-02-05T01:02:22.000",
-      "addeddate_raw": "2023-07-26T10:07:49.000",
-      "issueddate_raw": "2023-11-07T10:11:44.000",
-      "finaleddate_raw": "2024-02-05T01:02:22.000"
-    },
-    {
       "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
@@ -22000,6 +21983,23 @@
       "addeddate_raw": "2023-07-26T10:07:49.000",
       "issueddate_raw": "2023-08-03T10:08:55.000",
       "finaleddate_raw": "2023-08-17T07:08:01.000"
+    },
+    {
+      "location": "20451 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.192795003, -77.256531975)",
+      "status": "Finaled",
+      "usecode": "BIOSCIENCE",
+      "declaredvaluation": "$1,730,000",
+      "declaredvaluation_num": 1730000.0,
+      "buildingarea": "11,270 sf",
+      "buildingarea_num": 11270.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,Interior alterations to existing single tenant lab space, restrooms &amp; office spaces, including new ceilings, interior finishes, partitions, doors &amp; frames &amp; millwork. Tenant is supplying furniture &amp;, equipment. Work includes plumbing, mechanical &amp; electrical. No structural work.",
+      "addeddate": "2023-07-26T10:07:49.000",
+      "issueddate": "2023-11-07T10:11:44.000",
+      "finaleddate": "2024-02-05T01:02:22.000",
+      "addeddate_raw": "2023-07-26T10:07:49.000",
+      "issueddate_raw": "2023-11-07T10:11:44.000",
+      "finaleddate_raw": "2024-02-05T01:02:22.000"
     },
     {
       "location": "6169 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.049774003, -77.125105996)",
