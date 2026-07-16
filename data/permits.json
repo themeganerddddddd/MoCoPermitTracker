@@ -1,8 +1,25 @@
 {
-  "last_updated": "2026-07-15T16:44:33.386277+00:00",
+  "last_updated": "2026-07-16T16:40:37.391870+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10554,
+  "record_count": 10555,
   "permits": [
+    {
+      "location": "23231 STRINGTOWN RD\nCLARKSBURG, MD 20871\n(39.23809, -77.27648)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$0",
+      "declaredvaluation_num": 0,
+      "buildingarea": "0 sf",
+      "buildingarea_num": 0,
+      "worktype": "COMMERCIAL CHANGE OF USE",
+      "description": "Customer Wants To Use ePlans,This will be Sales and Administrative office only.  No materials will be stored, mixed, or used on site.  No employees will work full time from the site.  Employees will periodically visit the site weekly to check on things.  Need Use and Occupancy Certificate.",
+      "addeddate": "2026-07-15T11:07:12.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-07-15T11:07:12.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "",
       "status": "Open",
@@ -1297,7 +1314,7 @@
     },
     {
       "location": "14012 BLAZER LN\nSILVER SPRING, MD 20906\n(39.08648, -77.05738)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$32,000",
       "declaredvaluation_num": 32000.0,
@@ -1306,10 +1323,10 @@
       "worktype": "COMMERCIAL CHANGE OF USE",
       "description": "Customer Wants To Use ePlans,Assisted living 8 beds.  Associated use and occupancy application No. 423880",
       "addeddate": "2026-05-01T02:05:06.000",
-      "issueddate": "",
+      "issueddate": "2026-07-15T11:07:31.000",
       "finaleddate": "",
       "addeddate_raw": "2026-05-01T02:05:06.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-07-15T11:07:31.000",
       "finaleddate_raw": ""
     },
     {
@@ -6890,7 +6907,7 @@
     },
     {
       "location": "7272 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98217, -77.09324)",
-      "status": "Finaled",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$1,200,000",
       "declaredvaluation_num": 1200000.0,
@@ -6900,10 +6917,10 @@
       "description": "Revision ,1 - Minor updates to A, M, E, and P sheets,Customer Wants To Use ePlansCustomer Wants To Use ePlans Interior work only,Interior alterations for a first time tenant.",
       "addeddate": "2025-08-27T02:08:00.000",
       "issueddate": "2026-01-14T02:01:16.000",
-      "finaleddate": "2026-07-10T01:07:37.000",
+      "finaleddate": "",
       "addeddate_raw": "2025-08-27T02:08:00.000",
       "issueddate_raw": "2026-01-14T02:01:16.000",
-      "finaleddate_raw": "2026-07-10T01:07:37.000"
+      "finaleddate_raw": ""
     },
     {
       "location": "7272 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98217, -77.09324)",
