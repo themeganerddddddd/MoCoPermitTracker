@@ -1,8 +1,42 @@
 {
-  "last_updated": "2026-07-16T16:40:37.391870+00:00",
+  "last_updated": "2026-07-17T16:34:22.052047+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10555,
+  "record_count": 10557,
   "permits": [
+    {
+      "location": "10801 LOCKWOOD DR\nSILVER SPRING, MD 20901\n(39.03305, -77.00258)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$129,700",
+      "declaredvaluation_num": 129700.0,
+      "buildingarea": "3,828 sf",
+      "buildingarea_num": 3828.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,INTERIOR ALTERATION OF EXISTING TENANT SUITE. TENANT FIT-OUT TO INCLUDE\nDEMOLITION OF EXISTING PARTITIONS; AND CONSTRUCTION OF NEW PARTITIONS,\nDOORS, MILLWORK, INSTALLATION OF NEW SYSTEM FURNITURE AND NEW\nMAMMOGRAPHY EQUIPMENT; SEE PROVIDED STRUCTURAL LETTER. NEW\nELECTRICAL WORK TO MODIFY LIGHTING AND POWER TO REFLECT NEW PLAN.\nALL ELECTRICAL RUNS ARE TO CONNECT TO EXISTING BUILDING MAIN ELECTRICAL\nROOM. EXISTING DUCTWORK WILL BE MODIFIED TO REFLECT NEW PLAN.",
+      "addeddate": "2026-07-16T03:07:20.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-07-16T03:07:20.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$180,000",
+      "declaredvaluation_num": 180000.0,
+      "buildingarea": "4,027 sf",
+      "buildingarea_num": 4027.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans  Interior work only,Interior tenant fit-out of an existing medical office suite. Work includes new interior partitions, doors, finishes, mechanical, electrical, plumbing, accessibility improvements, and associated life safety improvements. No change of occupancy or use.",
+      "addeddate": "2026-07-16T02:07:17.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-07-16T02:07:17.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "23231 STRINGTOWN RD\nCLARKSBURG, MD 20871\n(39.23809, -77.27648)",
       "status": "Open",
@@ -641,7 +675,7 @@
       "buildingarea": "3,174 sf",
       "buildingarea_num": 3174.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,ALTERTIONS TO FLOORS 1,4,5,6.  SCOPE TO INCLUDE, BUT NOT LIMITED TO, COMMON AREA, FITNESS ROOM, CO-WORKING SPACE, LEASING OFFICE,  CONFERENCE ROOM, ETC...",
+      "description": "Customer Wants To Use ePlans,ALTERTIONS TO FLOORS 1,4,5,6. SCOPE TO INCLUDE, BUT NOT LIMITED TO, COMMON AREA, FITNESS ROOM, CO-WORKING SPACE, LEASING OFFICE, CONFERENCE ROOM, ETC...",
       "addeddate": "2026-06-01T11:06:45.000",
       "issueddate": "",
       "finaleddate": "",
@@ -1212,7 +1246,7 @@
     },
     {
       "location": "8455 HELGERMAN CT\nGAITHERSBURG, MD 20877\n(39.13046, -77.17353)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$40,000",
       "declaredvaluation_num": 40000.0,
@@ -1222,10 +1256,10 @@
       "description": "Customer Wants To Use ePlans,Replace existing single pane storefront assembly with new double paned window assembly.",
       "addeddate": "2026-05-07T11:05:16.000",
       "issueddate": "2026-07-13T05:07:47.000",
-      "finaleddate": "",
+      "finaleddate": "2026-07-16T12:07:13.000",
       "addeddate_raw": "2026-05-07T11:05:16.000",
       "issueddate_raw": "2026-07-13T05:07:47.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-07-16T12:07:13.000"
     },
     {
       "location": "6010 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.04751, -77.12275)",
@@ -1321,7 +1355,7 @@
       "buildingarea": "2,930 sf",
       "buildingarea_num": 2930.0,
       "worktype": "COMMERCIAL CHANGE OF USE",
-      "description": "Customer Wants To Use ePlans,Assisted living 8 beds.  Associated use and occupancy application No. 423880",
+      "description": "Customer Wants To Use ePlans,Assisted living 8 beds. Associated use and occupancy application No. 423880",
       "addeddate": "2026-05-01T02:05:06.000",
       "issueddate": "2026-07-15T11:07:31.000",
       "finaleddate": "",
@@ -1840,8 +1874,8 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "6720B ROCKLEDGE DR\nROCKVILLE, MD 20817\n(39.02921, -77.13481)",
-      "status": "Open",
+      "location": "6720B ROCKLEDGE DR\nROCKVILLE, MD 20817\n(39.02905, -77.13795)",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$1,200,000",
       "declaredvaluation_num": 1200000.0,
@@ -1850,10 +1884,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,Interior alteration to existing space for a new tenant",
       "addeddate": "2026-04-07T02:04:15.000",
-      "issueddate": "",
+      "issueddate": "2026-07-16T09:07:37.000",
       "finaleddate": "",
       "addeddate_raw": "2026-04-07T02:04:15.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-07-16T09:07:37.000",
       "finaleddate_raw": ""
     },
     {
@@ -5411,7 +5445,7 @@
     },
     {
       "location": "7600 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98612, -77.09457)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$32,500",
       "declaredvaluation_num": 32500.0,
@@ -5421,10 +5455,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,Interior renovation of 10th floor elevator lobby, lighting and finishes only.",
       "addeddate": "2025-11-05T05:11:34.000",
       "issueddate": "2026-03-23T10:03:38.000",
-      "finaleddate": "",
+      "finaleddate": "2026-07-16T11:07:57.000",
       "addeddate_raw": "2025-11-05T05:11:34.000",
       "issueddate_raw": "2026-03-23T10:03:38.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-07-16T11:07:57.000"
     },
     {
       "location": "10211 LEWIS DR\nDAMASCUS, MD 20872\n(39.29098, -77.21247)",
@@ -7196,7 +7230,7 @@
     },
     {
       "location": "11821 PARKLAWN DR\nROCKVILLE, MD 20852\n(39.05071, -77.10332)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$775,000",
       "declaredvaluation_num": 775000.0,
@@ -7205,10 +7239,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,Interior renovations new full floor tenant space, third floor.",
       "addeddate": "2025-08-08T08:08:07.000",
-      "issueddate": "",
+      "issueddate": "2026-07-16T11:07:10.000",
       "finaleddate": "",
       "addeddate_raw": "2025-08-08T08:08:07.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-07-16T11:07:10.000",
       "finaleddate_raw": ""
     },
     {
@@ -21985,23 +22019,6 @@
       "finaleddate_raw": "2023-11-17T01:11:33.000"
     },
     {
-      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
-      "status": "Finaled",
-      "usecode": "BUSINESS BUILDING",
-      "declaredvaluation": "$285,270",
-      "declaredvaluation_num": 285270.0,
-      "buildingarea": "8,082 sf",
-      "buildingarea_num": 8082.0,
-      "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans Interior work only,Deliver and install office furniture===SUITE 600",
-      "addeddate": "2023-07-26T10:07:49.000",
-      "issueddate": "2023-08-03T10:08:55.000",
-      "finaleddate": "2023-08-17T07:08:01.000",
-      "addeddate_raw": "2023-07-26T10:07:49.000",
-      "issueddate_raw": "2023-08-03T10:08:55.000",
-      "finaleddate_raw": "2023-08-17T07:08:01.000"
-    },
-    {
       "location": "20451 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.192795003, -77.256531975)",
       "status": "Finaled",
       "usecode": "BIOSCIENCE",
@@ -22017,6 +22034,23 @@
       "addeddate_raw": "2023-07-26T10:07:49.000",
       "issueddate_raw": "2023-11-07T10:11:44.000",
       "finaleddate_raw": "2024-02-05T01:02:22.000"
+    },
+    {
+      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
+      "status": "Finaled",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$285,270",
+      "declaredvaluation_num": 285270.0,
+      "buildingarea": "8,082 sf",
+      "buildingarea_num": 8082.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans Interior work only,Deliver and install office furniture===SUITE 600",
+      "addeddate": "2023-07-26T10:07:49.000",
+      "issueddate": "2023-08-03T10:08:55.000",
+      "finaleddate": "2023-08-17T07:08:01.000",
+      "addeddate_raw": "2023-07-26T10:07:49.000",
+      "issueddate_raw": "2023-08-03T10:08:55.000",
+      "finaleddate_raw": "2023-08-17T07:08:01.000"
     },
     {
       "location": "6169 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.049774003, -77.125105996)",
