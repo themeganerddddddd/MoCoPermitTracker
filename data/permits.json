@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T16:08:56.783946+00:00",
+  "last_updated": "2026-07-20T16:43:27.268233+00:00",
   "source_dataset": "i26v-w6bd",
   "record_count": 10557,
   "permits": [
@@ -658,7 +658,7 @@
       "buildingarea": "3,832 sf",
       "buildingarea_num": 3832.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,MINOR DEMOLITION, TENANT IMPROVEMENT/ALTERATIONS TO INTERIOR BUILD OUT OF NON-LOAD BEARING PARTITIONS AND INSTALLATION OF\nFURNITURE IN EXISTING OCCUPIED SPACE FOR ATLANTIC UNION BANK",
+      "description": "Customer Wants To Use ePlans,MINOR DEMOLITION, TENANT IMPROVEMENT/ALTERATIONS TO INTERIOR BUILD OUT OF NON-LOAD BEARING PARTITIONS AND INSTALLATION OF FURNITURE IN EXISTING OCCUPIED SPACE FOR ATLANTIC UNION BANK",
       "addeddate": "2026-06-02T04:06:00.000",
       "issueddate": "",
       "finaleddate": "",
@@ -770,7 +770,7 @@
     },
     {
       "location": "7920 NORFOLK AVE\nBETHESDA, MD 20814\n(38.98931, -77.09795)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$220,000",
       "declaredvaluation_num": 220000.0,
@@ -779,10 +779,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,SUITE# 340 OFFICE RENOVATION CONSISTING OF COMBINING 2 EXITING SUITES INTO ONE SUITE. MODIFICATIONS TO EXISTING MEP SYSTEMS. NO SYSTEMS FURNITURE.",
       "addeddate": "2026-05-26T06:05:49.000",
-      "issueddate": "",
+      "issueddate": "2026-07-17T12:07:03.000",
       "finaleddate": "",
       "addeddate_raw": "2026-05-26T06:05:49.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-07-17T12:07:03.000",
       "finaleddate_raw": ""
     },
     {
@@ -1049,7 +1049,7 @@
       "buildingarea": "3,433 sf",
       "buildingarea_num": 3433.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,GI SUITE (# 123) WILL INCLUDE A WAITING LOBBY, 2 PROCEDURE ROOMS, 6 PREP AND RECOVERY ROOMS, AND ASSOCIATED STAFF SUPPORT AREAS",
+      "description": "Customer Wants To Use ePlans Interior work only,GI SUITE (# 123) WILL INCLUDE A WAITING LOBBY, 2 PROCEDURE ROOMS, 6 PREP AND RECOVERY ROOMS, AND ASSOCIATED STAFF SUPPORT AREAS within a none sprinkler building",
       "addeddate": "2026-05-14T02:05:25.000",
       "issueddate": "",
       "finaleddate": "",
@@ -2487,7 +2487,7 @@
     },
     {
       "location": "4504 WALSH ST\nCHEVY CHASE, MD 20815\n(38.9794, -77.09054)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$5,000",
       "declaredvaluation_num": 5000.0,
@@ -2497,10 +2497,10 @@
       "description": "Customer Wants To Use ePlans,REPLACE EXTERIOR DOOR AND REPAIR DAMAGED STUDS.",
       "addeddate": "2026-03-11T09:03:25.000",
       "issueddate": "2026-04-21T10:04:55.000",
-      "finaleddate": "",
+      "finaleddate": "2026-07-17T12:07:21.000",
       "addeddate_raw": "2026-03-11T09:03:25.000",
       "issueddate_raw": "2026-04-21T10:04:55.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-07-17T12:07:21.000"
     },
     {
       "location": "10301 GEORGIA AVE\nSILVER SPRING, MD 20902\n(39.02423, -77.04507)",
@@ -22019,23 +22019,6 @@
       "finaleddate_raw": "2023-11-17T01:11:33.000"
     },
     {
-      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
-      "status": "Finaled",
-      "usecode": "BUSINESS BUILDING",
-      "declaredvaluation": "$285,270",
-      "declaredvaluation_num": 285270.0,
-      "buildingarea": "8,082 sf",
-      "buildingarea_num": 8082.0,
-      "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans Interior work only,Deliver and install office furniture===SUITE 600",
-      "addeddate": "2023-07-26T10:07:49.000",
-      "issueddate": "2023-08-03T10:08:55.000",
-      "finaleddate": "2023-08-17T07:08:01.000",
-      "addeddate_raw": "2023-07-26T10:07:49.000",
-      "issueddate_raw": "2023-08-03T10:08:55.000",
-      "finaleddate_raw": "2023-08-17T07:08:01.000"
-    },
-    {
       "location": "20451 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.192795003, -77.256531975)",
       "status": "Finaled",
       "usecode": "BIOSCIENCE",
@@ -22051,6 +22034,23 @@
       "addeddate_raw": "2023-07-26T10:07:49.000",
       "issueddate_raw": "2023-11-07T10:11:44.000",
       "finaleddate_raw": "2024-02-05T01:02:22.000"
+    },
+    {
+      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
+      "status": "Finaled",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$285,270",
+      "declaredvaluation_num": 285270.0,
+      "buildingarea": "8,082 sf",
+      "buildingarea_num": 8082.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans Interior work only,Deliver and install office furniture===SUITE 600",
+      "addeddate": "2023-07-26T10:07:49.000",
+      "issueddate": "2023-08-03T10:08:55.000",
+      "finaleddate": "2023-08-17T07:08:01.000",
+      "addeddate_raw": "2023-07-26T10:07:49.000",
+      "issueddate_raw": "2023-08-03T10:08:55.000",
+      "finaleddate_raw": "2023-08-17T07:08:01.000"
     },
     {
       "location": "6169 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.049774003, -77.125105996)",
