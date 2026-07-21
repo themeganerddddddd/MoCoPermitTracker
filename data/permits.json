@@ -1,8 +1,59 @@
 {
-  "last_updated": "2026-07-20T16:43:27.268233+00:00",
+  "last_updated": "2026-07-21T16:40:23.360360+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10557,
+  "record_count": 10560,
   "permits": [
+    {
+      "location": "6931 ARLINGTON RD\nBETHESDA, MD 20814\n(38.97863, -77.09819)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$613,793",
+      "declaredvaluation_num": 613793.0,
+      "buildingarea": "6,934 sf",
+      "buildingarea_num": 6934.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,TENANT FIT-OUT RENOVATIONS FOR A PORTION (LESS THAN 50%) OF THE BUILDING INTO OFFICE SPACE FOR AN INTEGRATED AUTISM THERAPY CENTER FOR CHILDREN AGED 6 AND UNDER WHERE ONE-ON-ONE PLAY-BASED THERAPY TAKES PLACE. MINOR MODIFICATIONS TO EXISTING WALLS, DOORS AND CEILINGS WILL OCCUR TO ACCOMMODATE THE PROGRAM. NEW FINISHES WILL BE PROVIDED THROUGHOUT.",
+      "addeddate": "2026-07-20T04:07:36.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-07-20T04:07:36.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "23320 CLARKSBURG RD\nCLARKSBURG, MD 20871\n(39.23862, -77.28205)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$10,000",
+      "declaredvaluation_num": 10000.0,
+      "buildingarea": "1,435 sf",
+      "buildingarea_num": 1435.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans  Interior work only,Scope of Permit:\nInterior Alteration for selective demolition of non- bearing walls and\nremoval of existing Drywall to determine location of bearing elements\n(Bearing walls, Floor joists and Beam sizes) for future reinforcement\nfor future Assembly Use under a separate permit).",
+      "addeddate": "2026-07-20T02:07:06.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-07-20T02:07:06.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "10308 NEW HAMPSHIRE AVE\nSILVER SPRING, MD 20903\n(39.02516, -76.98023)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$5,000",
+      "declaredvaluation_num": 5000.0,
+      "buildingarea": "250 sf",
+      "buildingarea_num": 250.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,Install one new 120V, 20A dedicated circuit to power one LED cabinet sign and one illuminated medical cross, including conduit, wiring, electrical connections, and testing. For Angus Medical Associates.",
+      "addeddate": "2026-07-20T01:07:01.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-07-20T01:07:01.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "10801 LOCKWOOD DR\nSILVER SPRING, MD 20901\n(39.03305, -77.00258)",
       "status": "Open",
@@ -1263,7 +1314,7 @@
     },
     {
       "location": "6010 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.04751, -77.12275)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$14,307",
       "declaredvaluation_num": 14307.0,
@@ -1273,10 +1324,10 @@
       "description": "Customer Wants To Use ePlans,Systems Furniture",
       "addeddate": "2026-05-07T03:05:28.000",
       "issueddate": "2026-06-09T08:06:14.000",
-      "finaleddate": "",
+      "finaleddate": "2026-07-20T01:07:40.000",
       "addeddate_raw": "2026-05-07T03:05:28.000",
       "issueddate_raw": "2026-06-09T08:06:14.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-07-20T01:07:40.000"
     },
     {
       "location": "1400 SPRING ST\nSILVER SPRING, MD 20910\n(38.99843, -77.03352)",
@@ -2674,7 +2725,7 @@
     },
     {
       "location": "6010 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.04751, -77.12275)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$78,000",
       "declaredvaluation_num": 78000.0,
@@ -2684,10 +2735,10 @@
       "description": "Customer Wants To Use ePlans,THE WORK CONSISTS OF NEW CONSTRUCTION FOR A NEW OFFICE TENANT. THE EXISTING SUITE CONDITION IS A FULLY BUILT OUT OFFICE SPACE. NEW WORK WILL INCLUDE COMPLETE CONSTRUCTION OF PARTITIONS, CEILINGS AND MILLWORK AS SHOWN IN THE PLANS. THE SUITE SHALL RECEIVE NEW FINISHES. NEW LIGHTING FIXTURES WILL BE PROVIDED. NEW ELECTRICAL WORK WILL BE DONE. NEW PLUMBING WORK SHALL BE DONE. EXISTING MECHANICAL SYSTEMS SHALL BE MODIFIED AND NEW COMPONENTS PROVIDED TO SUPPORT THE NEW BUILD-OUT AS REQUIRED. EXISTING LIFE SAFETY SYSTEMS SHALL BE MODIFIED AND NEW COMPONENTS PROVIDED TO SUPPORT THE NEW BUILD OUT AS REQUIRED.",
       "addeddate": "2026-03-05T10:03:19.000",
       "issueddate": "2026-04-07T10:04:42.000",
-      "finaleddate": "",
+      "finaleddate": "2026-07-20T01:07:25.000",
       "addeddate_raw": "2026-03-05T10:03:19.000",
       "issueddate_raw": "2026-04-07T10:04:42.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-07-20T01:07:25.000"
     },
     {
       "location": "6710 ROCKLEDGE DR\nBETHESDA, MD 20817\n(39.02921, -77.13481)",
@@ -7144,8 +7195,8 @@
       "finaleddate_raw": "2025-09-24T09:09:43.000"
     },
     {
-      "location": "9200 WARREN ST\nSILVER SPRING, MD 20910\n(39.00624, -77.04992)",
-      "status": "Issued",
+      "location": "9200 WARREN ST\nSILVER SPRING, MD 20910\n(39.00615, -77.05002)",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$105,000",
       "declaredvaluation_num": 105000.0,
@@ -7155,10 +7206,10 @@
       "description": "Customer Wants To Use ePlans,INSTALLATION OF A 18'X153'-2\"\" CANTILEVER CANOPY INCLUDING THE FRAMING SYSTEM AND ROOFING MATERIALS, AND CONCRETE FOUNDATIONS.",
       "addeddate": "2025-08-12T12:08:58.000",
       "issueddate": "2026-06-01T11:06:53.000",
-      "finaleddate": "",
+      "finaleddate": "2026-07-20T03:07:52.000",
       "addeddate_raw": "2025-08-12T12:08:58.000",
       "issueddate_raw": "2026-06-01T11:06:53.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-07-20T03:07:52.000"
     },
     {
       "location": "6903 ROCKLEDGE DR\nBETHESDA, MD 20817\n(39.02835, -77.14038)",
@@ -22019,23 +22070,6 @@
       "finaleddate_raw": "2023-11-17T01:11:33.000"
     },
     {
-      "location": "20451 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.192795003, -77.256531975)",
-      "status": "Finaled",
-      "usecode": "BIOSCIENCE",
-      "declaredvaluation": "$1,730,000",
-      "declaredvaluation_num": 1730000.0,
-      "buildingarea": "11,270 sf",
-      "buildingarea_num": 11270.0,
-      "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,Interior alterations to existing single tenant lab space, restrooms &amp; office spaces, including new ceilings, interior finishes, partitions, doors &amp; frames &amp; millwork. Tenant is supplying furniture &amp;, equipment. Work includes plumbing, mechanical &amp; electrical. No structural work.",
-      "addeddate": "2023-07-26T10:07:49.000",
-      "issueddate": "2023-11-07T10:11:44.000",
-      "finaleddate": "2024-02-05T01:02:22.000",
-      "addeddate_raw": "2023-07-26T10:07:49.000",
-      "issueddate_raw": "2023-11-07T10:11:44.000",
-      "finaleddate_raw": "2024-02-05T01:02:22.000"
-    },
-    {
       "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
@@ -22051,6 +22085,23 @@
       "addeddate_raw": "2023-07-26T10:07:49.000",
       "issueddate_raw": "2023-08-03T10:08:55.000",
       "finaleddate_raw": "2023-08-17T07:08:01.000"
+    },
+    {
+      "location": "20451 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.192795003, -77.256531975)",
+      "status": "Finaled",
+      "usecode": "BIOSCIENCE",
+      "declaredvaluation": "$1,730,000",
+      "declaredvaluation_num": 1730000.0,
+      "buildingarea": "11,270 sf",
+      "buildingarea_num": 11270.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,Interior alterations to existing single tenant lab space, restrooms &amp; office spaces, including new ceilings, interior finishes, partitions, doors &amp; frames &amp; millwork. Tenant is supplying furniture &amp;, equipment. Work includes plumbing, mechanical &amp; electrical. No structural work.",
+      "addeddate": "2023-07-26T10:07:49.000",
+      "issueddate": "2023-11-07T10:11:44.000",
+      "finaleddate": "2024-02-05T01:02:22.000",
+      "addeddate_raw": "2023-07-26T10:07:49.000",
+      "issueddate_raw": "2023-11-07T10:11:44.000",
+      "finaleddate_raw": "2024-02-05T01:02:22.000"
     },
     {
       "location": "6169 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.049774003, -77.125105996)",
