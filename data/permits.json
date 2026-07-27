@@ -1,8 +1,127 @@
 {
-  "last_updated": "2026-07-26T16:13:51.007182+00:00",
+  "last_updated": "2026-07-27T17:06:43.485028+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10570,
+  "record_count": 10577,
   "permits": [
+    {
+      "location": "2 BETHESDA METRO CTR\nBETHESDA, MD 20814\n(38.98408, -77.09551)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$650,000",
+      "declaredvaluation_num": 650000.0,
+      "buildingarea": "15,718 sf",
+      "buildingarea_num": 15718.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans  Interior work only,SUITE 250, COMMON CORRIDOR & CONFERENCE CENTER. INTERIOR FIT OUT WITHIN NEWLY DEMISED CONFERENCE CTR AMENITY SUITE. FIT OUT OF CONF ROOMS W/ BREAKOUT SPACE, PANTRY, STORAGE, & MODS TO EXISTING MEP SYSTEMS. ADDITIONAL COMMON CORRIDOR CREATED TO MEET CODE REQUIREMENTS.",
+      "addeddate": "2026-07-26T07:07:51.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-07-26T07:07:51.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "14318 LAYHILL RD\nSILVER SPRING, MD 20906\n(39.0915, -77.04581)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$60,000",
+      "declaredvaluation_num": 60000.0,
+      "buildingarea": "1,400 sf",
+      "buildingarea_num": 1400.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,Interior renovation to convert the space into a takeout restaurant.",
+      "addeddate": "2026-07-24T09:07:08.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-07-24T09:07:08.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "1800 GREENPLACE TER\nROCKVILLE, MD 20850\n(39.07838, -77.17637)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$1",
+      "declaredvaluation_num": 1.0,
+      "buildingarea": "0 sf",
+      "buildingarea_num": 0,
+      "worktype": "CONSTRUCT",
+      "description": "—",
+      "addeddate": "2026-07-24T03:07:56.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-07-24T03:07:56.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "13881 HOPKINS RD\nGERMANTOWN, MD 20874\n(39.16953, -77.29028)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$1",
+      "declaredvaluation_num": 1.0,
+      "buildingarea": "0 sf",
+      "buildingarea_num": 0,
+      "worktype": "CONSTRUCT",
+      "description": "—",
+      "addeddate": "2026-07-24T03:07:50.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-07-24T03:07:50.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "1901 RANDOLPH RD\nSILVER SPRING, MD 20902\n(39.06611, -77.03827)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$1",
+      "declaredvaluation_num": 1.0,
+      "buildingarea": "0 sf",
+      "buildingarea_num": 0,
+      "worktype": "CONSTRUCT",
+      "description": "—",
+      "addeddate": "2026-07-24T03:07:46.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-07-24T03:07:46.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "7600 ARLINGTON RD\nBETHESDA, MD 20814\n(38.98654, -77.09954)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$1",
+      "declaredvaluation_num": 1.0,
+      "buildingarea": "0 sf",
+      "buildingarea_num": 0,
+      "worktype": "CONSTRUCT",
+      "description": "—",
+      "addeddate": "2026-07-24T03:07:15.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-07-24T03:07:15.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "19528 OLNEY MILL RD\nOLNEY, MD 20832\n(39.17814, -77.06662)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$1",
+      "declaredvaluation_num": 1.0,
+      "buildingarea": "0 sf",
+      "buildingarea_num": 0,
+      "worktype": "CONSTRUCT",
+      "description": "—",
+      "addeddate": "2026-07-24T03:07:03.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-07-24T03:07:03.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "19900 FISHER AVE\nPOOLESVILLE, MD 20837\n(39.14558, -77.41502)",
       "status": "Open",
@@ -192,7 +311,7 @@
     },
     {
       "location": "23320 CLARKSBURG RD\nCLARKSBURG, MD 20871\n(39.23862, -77.28205)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$10,000",
       "declaredvaluation_num": 10000.0,
@@ -201,10 +320,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,Scope of Permit: Interior Alteration for selective demolition of non- bearing walls and removal of existing Drywall to determine location of bearing elements (Bearing walls, Floor joists and Beam sizes) for future reinforcement for future Assembly Use under a separate permit).",
       "addeddate": "2026-07-20T02:07:06.000",
-      "issueddate": "",
+      "issueddate": "2026-07-24T03:07:14.000",
       "finaleddate": "",
       "addeddate_raw": "2026-07-20T02:07:06.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-07-24T03:07:14.000",
       "finaleddate_raw": ""
     },
     {
@@ -566,7 +685,7 @@
     },
     {
       "location": "915 MEETING ST\nROCKVILLE, MD 20852\n(39.05064, -77.11564)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$99,550",
       "declaredvaluation_num": 99550.0,
@@ -575,10 +694,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,INTERIOR ALTERATION OF EXISTING TENANT FIT-OUT TO INCLUDE ENCLOSED OFFICES, WITH MECHANICAL AND ELECTRICAL WORK.",
       "addeddate": "2026-06-16T01:06:09.000",
-      "issueddate": "",
+      "issueddate": "2026-07-24T02:07:30.000",
       "finaleddate": "",
       "addeddate_raw": "2026-06-16T01:06:09.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-07-24T02:07:30.000",
       "finaleddate_raw": ""
     },
     {
@@ -1178,7 +1297,7 @@
     },
     {
       "location": "10165 NEW HAMPSHIRE AVE\nSILVER SPRING, MD 20903\n(39.02164, -76.97631)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$228,475",
       "declaredvaluation_num": 228475.0,
@@ -1187,10 +1306,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,DENTAL OFFICE, NON STRUCTURAL PARTITIONS, TWO RESTROOMS, MECHANICAL DISTRIBUTION SUPPLY/RETURNS, PLUMBING, T-BAR CEILING, LIGHTS, OUTLETS, SWITCHES",
       "addeddate": "2026-05-19T04:05:54.000",
-      "issueddate": "",
+      "issueddate": "2026-07-24T08:07:39.000",
       "finaleddate": "",
       "addeddate_raw": "2026-05-19T04:05:54.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-07-24T08:07:39.000",
       "finaleddate_raw": ""
     },
     {
@@ -1926,7 +2045,7 @@
     },
     {
       "location": "6259 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.0503, -77.12529)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$1",
       "declaredvaluation_num": 1.0,
@@ -1936,10 +2055,10 @@
       "description": "Customer Wants To Use ePlans,No Work - for change of use only from Business - Office to Business - PT / Ambulatory Care / Outpatient Clinic",
       "addeddate": "2026-04-13T12:04:48.000",
       "issueddate": "2026-06-04T01:06:02.000",
-      "finaleddate": "",
+      "finaleddate": "2026-07-24T11:07:35.000",
       "addeddate_raw": "2026-04-13T12:04:48.000",
       "issueddate_raw": "2026-06-04T01:06:02.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-07-24T11:07:35.000"
     },
     {
       "location": "18600 BARNESVILLE RD\nDICKERSON, MD 20842\n(39.21993, -77.39376)",
@@ -5071,7 +5190,7 @@
     },
     {
       "location": "1300 SPRING ST\nSILVER SPRING, MD 20910\n(38.99904, -77.03246)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$800,000",
       "declaredvaluation_num": 800000.0,
@@ -5081,10 +5200,10 @@
       "description": "Revision ,3 - Address updated to be the correct street number and added suite ,Customer Wants To Use ePlansCustomer Wants To Use ePlans Interior work only,New tenant build-out including demolition of previous tenant's layout, installation of new partitions, doors &amp; frames, ceiling grid, lighting, HVAC distribution, plumbing fixtures, finishes and furniture &amp; equipment.",
       "addeddate": "2025-12-01T12:12:02.000",
       "issueddate": "2026-02-26T11:02:16.000",
-      "finaleddate": "",
+      "finaleddate": "2026-07-24T12:07:51.000",
       "addeddate_raw": "2025-12-01T12:12:02.000",
       "issueddate_raw": "2026-02-26T11:02:16.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-07-24T12:07:51.000"
     },
     {
       "location": "5404 WISCONSIN AVE\nCHEVY CHASE, MD 20815\n(38.96159, -77.08659)",
@@ -5326,7 +5445,7 @@
     },
     {
       "location": "7373 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.9835, -77.09371)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$5,358,275",
       "declaredvaluation_num": 5358275.0,
@@ -5336,10 +5455,10 @@
       "description": "Customer Wants To Use ePlans,New tenant layout",
       "addeddate": "2025-11-19T09:11:48.000",
       "issueddate": "2026-02-09T08:02:31.000",
-      "finaleddate": "",
+      "finaleddate": "2026-07-24T12:07:43.000",
       "addeddate_raw": "2025-11-19T09:11:48.000",
       "issueddate_raw": "2026-02-09T08:02:31.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-07-24T12:07:43.000"
     },
     {
       "location": "6835 OLNEY LAYTONSVILLE RD\nGAITHERSBURG, MD 20882\n(39.20473, -77.13891)",
@@ -6754,7 +6873,7 @@
     },
     {
       "location": "2507 UNIVERSITY BLVD\nSILVER SPRING, MD 20902\n(39.04138, -77.05236)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$55,000",
       "declaredvaluation_num": 55000.0,
@@ -6764,10 +6883,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,Interior tenant fit out for an H&amp;R Block tax office",
       "addeddate": "2025-09-09T02:09:24.000",
       "issueddate": "2025-11-04T12:11:06.000",
-      "finaleddate": "",
+      "finaleddate": "2026-07-24T11:07:49.000",
       "addeddate_raw": "2025-09-09T02:09:24.000",
       "issueddate_raw": "2025-11-04T12:11:06.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-07-24T11:07:49.000"
     },
     {
       "location": "8325 SNOUFFER SCHOOL RD\nGAITHERSBURG, MD 20879\n(39.16629, -77.1703)",
@@ -9311,7 +9430,7 @@
       "buildingarea": "3,690 sf",
       "buildingarea_num": 3690.0,
       "worktype": "COMMERCIAL CHANGE OF USE",
-      "description": "Customer Wants To Use ePlans,THIS PROJECT IS A 3,690 SQUARE FOOT INTERIOR FIT-OUT GOING INTO AN EXISTING BUILDING IN SILVER SPRING, MARYLAND. THE INTENDED USE GROUP IS \"\"B\"\" BUSINESS. NEW INTERIOR PARTITIONS, CEILINGS, MEP, FINISHES, AND FURNISHINGS ARE PROPOSED AS PART OF THIS ALTERATION. NO CHANGE TO CONSTRUCTION TYPE, BUILDING HEIGHT OR BUILDING AREA.THIS MEDICAL OFFICE DOES NOT MEET THE CRITERIA FOR EITHER AMBULATORY CARE OCCUPANCY OR HEALTH CARE OCCUPANCY AS DEFINED BY NFPA 1 &amp; 101/2021 CHAPTER 9. PATIENTS ARE CAPABLE OF SELF-PRESERVATION UNDER EMERGENCY CONDITIONS. BUILDING IS SPRINKLERED TOTAL OCCUPANT LOAD: 34",
+      "description": "Revision ,1 - Refer to enclosed description of changes document,Customer Wants To Use ePlansCustomer Wants To Use ePlans,THIS PROJECT IS A 3,690 SQUARE FOOT INTERIOR FIT-OUT GOING INTO AN EXISTING BUILDING IN SILVER SPRING, MARYLAND. THE INTENDED USE GROUP IS \"\"B\"\" BUSINESS. NEW INTERIOR PARTITIONS, CEILINGS, MEP, FINISHES, AND FURNISHINGS ARE PROPOSED AS PART OF THIS ALTERATION. NO CHANGE TO CONSTRUCTION TYPE, BUILDING HEIGHT OR BUILDING AREA.THIS MEDICAL OFFICE DOES NOT MEET THE CRITERIA FOR EITHER AMBULATORY CARE OCCUPANCY OR HEALTH CARE OCCUPANCY AS DEFINED BY NFPA 1 &amp; 101/2021 CHAPTER 9. PATIENTS ARE CAPABLE OF SELF-PRESERVATION UNDER EMERGENCY CONDITIONS. BUILDING IS SPRINKLERED TOTAL OCCUPANT LOAD: 34",
       "addeddate": "2025-05-08T08:05:54.000",
       "issueddate": "2026-06-25T03:06:53.000",
       "finaleddate": "",
@@ -22240,23 +22359,6 @@
       "finaleddate_raw": "2023-11-17T01:11:33.000"
     },
     {
-      "location": "20451 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.192795003, -77.256531975)",
-      "status": "Finaled",
-      "usecode": "BIOSCIENCE",
-      "declaredvaluation": "$1,730,000",
-      "declaredvaluation_num": 1730000.0,
-      "buildingarea": "11,270 sf",
-      "buildingarea_num": 11270.0,
-      "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,Interior alterations to existing single tenant lab space, restrooms &amp; office spaces, including new ceilings, interior finishes, partitions, doors &amp; frames &amp; millwork. Tenant is supplying furniture &amp;, equipment. Work includes plumbing, mechanical &amp; electrical. No structural work.",
-      "addeddate": "2023-07-26T10:07:49.000",
-      "issueddate": "2023-11-07T10:11:44.000",
-      "finaleddate": "2024-02-05T01:02:22.000",
-      "addeddate_raw": "2023-07-26T10:07:49.000",
-      "issueddate_raw": "2023-11-07T10:11:44.000",
-      "finaleddate_raw": "2024-02-05T01:02:22.000"
-    },
-    {
       "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
@@ -22272,6 +22374,23 @@
       "addeddate_raw": "2023-07-26T10:07:49.000",
       "issueddate_raw": "2023-08-03T10:08:55.000",
       "finaleddate_raw": "2023-08-17T07:08:01.000"
+    },
+    {
+      "location": "20451 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.192795003, -77.256531975)",
+      "status": "Finaled",
+      "usecode": "BIOSCIENCE",
+      "declaredvaluation": "$1,730,000",
+      "declaredvaluation_num": 1730000.0,
+      "buildingarea": "11,270 sf",
+      "buildingarea_num": 11270.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,Interior alterations to existing single tenant lab space, restrooms &amp; office spaces, including new ceilings, interior finishes, partitions, doors &amp; frames &amp; millwork. Tenant is supplying furniture &amp;, equipment. Work includes plumbing, mechanical &amp; electrical. No structural work.",
+      "addeddate": "2023-07-26T10:07:49.000",
+      "issueddate": "2023-11-07T10:11:44.000",
+      "finaleddate": "2024-02-05T01:02:22.000",
+      "addeddate_raw": "2023-07-26T10:07:49.000",
+      "issueddate_raw": "2023-11-07T10:11:44.000",
+      "finaleddate_raw": "2024-02-05T01:02:22.000"
     },
     {
       "location": "6169 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.049774003, -77.125105996)",
