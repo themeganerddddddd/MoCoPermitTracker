@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-28T16:49:29.796781+00:00",
+  "last_updated": "2026-07-29T16:38:12.757361+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10581,
+  "record_count": 10580,
   "permits": [
     {
       "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
@@ -38,7 +38,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "",
+      "location": "2180 INDUSTRIAL PKWY\nSILVER SPRING, MD 20904\n(39.05292, -76.96693)",
       "status": "Open",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$100,000",
@@ -255,23 +255,6 @@
       "issueddate": "",
       "finaleddate": "",
       "addeddate_raw": "2026-07-22T10:07:26.000",
-      "issueddate_raw": "",
-      "finaleddate_raw": ""
-    },
-    {
-      "location": "4611 SANGAMORE RD\nBETHESDA, MD 20816\n(38.94875, -77.11849)",
-      "status": "Open",
-      "usecode": "BUSINESS BUILDING",
-      "declaredvaluation": "$12,000",
-      "declaredvaluation_num": 12000.0,
-      "buildingarea": "280 sf",
-      "buildingarea_num": 280.0,
-      "worktype": "ADD",
-      "description": "Customer Wants To Use ePlans,Installation of kitchen exhaust hood",
-      "addeddate": "2026-07-22T05:07:51.000",
-      "issueddate": "",
-      "finaleddate": "",
-      "addeddate_raw": "2026-07-22T05:07:51.000",
       "issueddate_raw": "",
       "finaleddate_raw": ""
     },
@@ -1134,7 +1117,7 @@
       "buildingarea": "400 sf",
       "buildingarea_num": 400.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,Existing assisted living faculty with occupant load of 5 to be increased to 8. Change garage to bedrooms and a bathroom. Minor alteration at the basement level.",
+      "description": "Customer Wants To Use ePlans,Existing assisted living faculty with occupant load of 5 to be increased to 8. Change garage to bedrooms and a bathroom. Minor alteration at the basement level. Total resident count is 8, including 7 persons receiving care and 1 live-in staff.",
       "addeddate": "2026-05-29T02:05:11.000",
       "issueddate": "",
       "finaleddate": "",
@@ -1586,7 +1569,7 @@
     },
     {
       "location": "8807 COLESVILLE RD\nSILVER SPRING, MD 20910\n(38.99934, -77.02585)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$1,200",
       "declaredvaluation_num": 1200.0,
@@ -1595,10 +1578,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,Install new non-structural hallway partition and door.",
       "addeddate": "2026-05-09T09:05:14.000",
-      "issueddate": "",
+      "issueddate": "2026-07-28T11:07:00.000",
       "finaleddate": "",
       "addeddate_raw": "2026-05-09T09:05:14.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-07-28T11:07:00.000",
       "finaleddate_raw": ""
     },
     {
@@ -4187,7 +4170,7 @@
     },
     {
       "location": "915 MEETING ST\nROCKVILLE, MD 20852\n(39.05064, -77.11564)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$775,000",
       "declaredvaluation_num": 775000.0,
@@ -4197,10 +4180,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,Interior improvement build out of Suite 1250 on the 12th floor of 915 Meeting St. at Pike &amp; Rose. All work is interior improvement work including walls, plumbing, electrical, HVAC, finishes and furniture specific to creating Suite 1250. Systems furniture in the Open Area of the suite is included. NO structural improvements.",
       "addeddate": "2026-01-19T12:01:29.000",
       "issueddate": "2026-03-02T12:03:07.000",
-      "finaleddate": "",
+      "finaleddate": "2026-07-28T12:07:59.000",
       "addeddate_raw": "2026-01-19T12:01:29.000",
       "issueddate_raw": "2026-03-02T12:03:07.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-07-28T12:07:59.000"
     },
     {
       "location": "7200 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98152, -77.0935)",
@@ -5751,7 +5734,7 @@
     },
     {
       "location": "7600 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98612, -77.09457)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$2,116,253",
       "declaredvaluation_num": 2116253.0,
@@ -5761,10 +5744,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,INTERIOR ALTERATIONS ON 7TH, 8TH AND 10TH FLOORS",
       "addeddate": "2025-11-07T12:11:02.000",
       "issueddate": "2026-01-14T02:01:05.000",
-      "finaleddate": "",
+      "finaleddate": "2026-07-28T10:07:34.000",
       "addeddate_raw": "2025-11-07T12:11:02.000",
       "issueddate_raw": "2026-01-14T02:01:05.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-07-28T10:07:34.000"
     },
     {
       "location": "18109 PRINCE PHILLIP DR\nOLNEY, MD 20832\n(39.15281, -77.05668)",
