@@ -1,8 +1,25 @@
 {
-  "last_updated": "2026-07-29T16:38:12.757361+00:00",
+  "last_updated": "2026-07-30T16:49:03.642539+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10580,
+  "record_count": 10581,
   "permits": [
+    {
+      "location": "7826 BEECHCRAFT AVE\nGAITHERSBURG, MD 20879\n(39.16207, -77.16148)",
+      "status": "Open",
+      "usecode": "INDUSTRIAL BUILDING",
+      "declaredvaluation": "$0",
+      "declaredvaluation_num": 0,
+      "buildingarea": "1,400 sf",
+      "buildingarea_num": 1400.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,Establish U&O for specialized flooring contractor office and material storage.",
+      "addeddate": "2026-07-29T10:07:09.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-07-29T10:07:09.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Open",
@@ -675,7 +692,7 @@
       "buildingarea": "7,035 sf",
       "buildingarea_num": 7035.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,Interior demolition on 1st and 2nd floors in preparation of interior renovations under separate permits.",
+      "description": "Customer Wants To Use ePlans Interior work only,Interior demolition on 1st and 2nd floors in preparation of interior renovations under separate permits.",
       "addeddate": "2026-06-19T10:06:49.000",
       "issueddate": "",
       "finaleddate": "",
@@ -1620,7 +1637,7 @@
     },
     {
       "location": "12730 TWINBROOK PKWY\nROCKVILLE, MD 20852\n(39.06507, -77.11538)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$100",
       "declaredvaluation_num": 100.0,
@@ -1630,10 +1647,10 @@
       "description": "Customer Wants To Use ePlans,change of use from worship to wellness spa. no work done to space",
       "addeddate": "2026-05-07T11:05:46.000",
       "issueddate": "2026-06-18T11:06:35.000",
-      "finaleddate": "",
+      "finaleddate": "2026-07-29T02:07:07.000",
       "addeddate_raw": "2026-05-07T11:05:46.000",
       "issueddate_raw": "2026-06-18T11:06:35.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-07-29T02:07:07.000"
     },
     {
       "location": "8455 HELGERMAN CT\nGAITHERSBURG, MD 20877\n(39.13046, -77.17353)",
@@ -1824,7 +1841,7 @@
     },
     {
       "location": "9800 MEDICAL CENTER DR\nROCKVILLE, MD 20850\n(39.09623, -77.19735)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$101,310",
       "declaredvaluation_num": 101310.0,
@@ -1833,10 +1850,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,DEMOLITION OF INTERIOR PART WALLS IN OFFICE AREA FOR NEW WORKSTATIONS AND REFURBISHED FLOORS AND WAL",
       "addeddate": "2026-04-28T01:04:00.000",
-      "issueddate": "",
+      "issueddate": "2026-07-29T08:07:25.000",
       "finaleddate": "",
       "addeddate_raw": "2026-04-28T01:04:00.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-07-29T08:07:25.000",
       "finaleddate_raw": ""
     },
     {
@@ -2844,7 +2861,7 @@
     },
     {
       "location": "5530 WISCONSIN AVE\nCHEVY CHASE, MD 20815\n(38.965, -77.08787)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$129,300",
       "declaredvaluation_num": 129300.0,
@@ -2854,10 +2871,10 @@
       "description": "Customer Wants To Use ePlans,Interior renovations. All demising walls are existing. Several new interior partitions will be built. New doors will be installed, modifications to existing mechanical, electrical, and sprinkler systems.",
       "addeddate": "2026-03-12T05:03:13.000",
       "issueddate": "2026-04-16T11:04:39.000",
-      "finaleddate": "",
+      "finaleddate": "2026-07-29T02:07:57.000",
       "addeddate_raw": "2026-03-12T05:03:13.000",
       "issueddate_raw": "2026-04-16T11:04:39.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-07-29T02:07:57.000"
     },
     {
       "location": "7601 LINDBERGH DR\nGAITHERSBURG, MD 20879\n(39.16651, -77.15264)",
@@ -36664,7 +36681,7 @@
       "buildingarea": "3,700 sf",
       "buildingarea_num": 3700.0,
       "worktype": "RESTORE AND / OR REPAIR",
-      "description": "Revision ,4 - Revision to the building analysis information.,Customer Wants To Use ePlansRevision ,3 - Removal and relocation of exterior stairs.,Customer Wants To Use ePlans Revision ,1 - Bldg 1 framing change, foundation plan; Bldg 2 framing change; additonal details, foundation plan.,Customer Wants To Use ePlans Customer Wants To Use ePlans,ARCHITECTURAL ROUGH-INS. STRUCTURAL REPAIR FROM FIRE AND WATER DAMAGE.&nbsp;Damages&nbsp;to the adjacent building needs a separate permit. sister permit # 994072&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp",
+      "description": "Revision ,4 - Revision to the building analysis information.,Customer Wants To Use ePlans Revision ,3 - Removal and relocation of exterior stairs.,Customer Wants To Use ePlans Revision ,1 - Bldg 1 framing change, foundation plan; Bldg 2 framing change; additonal details, foundation plan.,Customer Wants To Use ePlans Customer Wants To Use ePlans,ARCHITECTURAL ROUGH-INS. STRUCTURAL REPAIR FROM FIRE AND WATER DAMAGE.&nbsp;Damages&nbsp;to the adjacent building needs a separate permit. sister permit # 994072&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
       "addeddate": "2022-02-01T05:02:41.000",
       "issueddate": "2022-07-27T02:07:30.000",
       "finaleddate": "",
