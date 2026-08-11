@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T16:08:28.061902+00:00",
+  "last_updated": "2026-08-11T16:09:54.406612+00:00",
   "source_dataset": "i26v-w6bd",
   "record_count": 10608,
   "permits": [
@@ -352,7 +352,7 @@
       "buildingarea": "1,290 sf",
       "buildingarea_num": 1290.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,Interior alteration of the existing training room and storage room into workstation areas.",
+      "description": "Customer Wants To Use ePlans Interior work only,Interior alteration of the existing training room and storage room into workstation areas.",
       "addeddate": "2026-08-03T02:08:58.000",
       "issueddate": "",
       "finaleddate": "",
@@ -1474,7 +1474,7 @@
       "buildingarea": "2,070 sf",
       "buildingarea_num": 2070.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,Sixth floor renovations including two new officles and demolish two existing officles to create two new workstation areas including 14 workstations. Furniture includes new demountable partitions with sliding doors to match existing elsewhere on the floor, modifications to interior finishes, mechanical modifications to an existing chilled beam and thermostats, electrical modifications to light fixtures, power and data, sprinkler head modifications as required by code for the new layout. Convert existing conference room 630 into an office replacing furniture with new and refreshing interior finishes.",
+      "description": "Revision ,1 - Deleting chilled beam relocation work shown in approved base permit. ,Customer Wants To Use ePlansCustomer Wants To Use ePlans,Sixth floor renovations including two new officles and demolish two existing officles to create two new workstation areas including 14 workstations. Furniture includes new demountable partitions with sliding doors to match existing elsewhere on the floor, modifications to interior finishes, mechanical modifications to an existing chilled beam and thermostats, electrical modifications to light fixtures, power and data, sprinkler head modifications as required by code for the new layout. Convert existing conference room 630 into an office replacing furniture with new and refreshing interior finishes.",
       "addeddate": "2026-06-05T10:06:29.000",
       "issueddate": "2026-08-07T08:08:33.000",
       "finaleddate": "",
@@ -1518,7 +1518,7 @@
     },
     {
       "location": "6903 ROCKLEDGE DR\nBETHESDA, MD 20817\n(39.02835, -77.14038)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$605,276",
       "declaredvaluation_num": 605276.0,
@@ -1527,10 +1527,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,11th-floor suite renovation with new layout, finishes, and MEP work",
       "addeddate": "2026-06-02T12:06:57.000",
-      "issueddate": "",
+      "issueddate": "2026-08-10T02:08:40.000",
       "finaleddate": "",
       "addeddate_raw": "2026-06-02T12:06:57.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-08-10T02:08:40.000",
       "finaleddate_raw": ""
     },
     {
@@ -6464,8 +6464,8 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "7712 WOODMONT AVE\nBETHESDA, MD 20814\n(38.9867, -77.09626)",
-      "status": "Issued",
+      "location": "7712 WOODMONT AVE\nBETHESDA, MD 20814\n(38.98671, -77.09625)",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$25,000",
       "declaredvaluation_num": 25000.0,
@@ -6475,10 +6475,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,New tenant alterations for new hair cut and grooming business. NO EXTERIOR WORK. U/O 421055Bid estimate submitted with a value&nbsp;of $469245.&nbsp;",
       "addeddate": "2025-10-28T02:10:38.000",
       "issueddate": "2026-03-23T08:03:11.000",
-      "finaleddate": "",
+      "finaleddate": "2026-08-10T01:08:03.000",
       "addeddate_raw": "2025-10-28T02:10:38.000",
       "issueddate_raw": "2026-03-23T08:03:11.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-08-10T01:08:03.000"
     },
     {
       "location": "6550 ROCKSPRING DR\nBETHESDA, MD 20817\n(39.02596, -77.13527)",
@@ -6890,7 +6890,7 @@
     },
     {
       "location": "17904 GEORGIA AVE\nOLNEY, MD 20832\n(39.15005, -77.06688)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$125,000",
       "declaredvaluation_num": 125000.0,
@@ -6900,10 +6900,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,Construct five (5) new office spaces, one (1) workroom, and one (1) storage.",
       "addeddate": "2025-10-03T08:10:10.000",
       "issueddate": "2025-11-12T07:11:27.000",
-      "finaleddate": "",
+      "finaleddate": "2026-08-10T10:08:55.000",
       "addeddate_raw": "2025-10-03T08:10:10.000",
       "issueddate_raw": "2025-11-12T07:11:27.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-08-10T10:08:55.000"
     },
     {
       "location": "7236 WOODMONT AVE\nBETHESDA, MD 20814\n(38.98155, -77.09583)",
@@ -22886,23 +22886,6 @@
       "finaleddate_raw": "2023-11-17T01:11:33.000"
     },
     {
-      "location": "20451 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.192795003, -77.256531975)",
-      "status": "Finaled",
-      "usecode": "BIOSCIENCE",
-      "declaredvaluation": "$1,730,000",
-      "declaredvaluation_num": 1730000.0,
-      "buildingarea": "11,270 sf",
-      "buildingarea_num": 11270.0,
-      "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,Interior alterations to existing single tenant lab space, restrooms &amp; office spaces, including new ceilings, interior finishes, partitions, doors &amp; frames &amp; millwork. Tenant is supplying furniture &amp;, equipment. Work includes plumbing, mechanical &amp; electrical. No structural work.",
-      "addeddate": "2023-07-26T10:07:49.000",
-      "issueddate": "2023-11-07T10:11:44.000",
-      "finaleddate": "2024-02-05T01:02:22.000",
-      "addeddate_raw": "2023-07-26T10:07:49.000",
-      "issueddate_raw": "2023-11-07T10:11:44.000",
-      "finaleddate_raw": "2024-02-05T01:02:22.000"
-    },
-    {
       "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
@@ -22918,6 +22901,23 @@
       "addeddate_raw": "2023-07-26T10:07:49.000",
       "issueddate_raw": "2023-08-03T10:08:55.000",
       "finaleddate_raw": "2023-08-17T07:08:01.000"
+    },
+    {
+      "location": "20451 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.192795003, -77.256531975)",
+      "status": "Finaled",
+      "usecode": "BIOSCIENCE",
+      "declaredvaluation": "$1,730,000",
+      "declaredvaluation_num": 1730000.0,
+      "buildingarea": "11,270 sf",
+      "buildingarea_num": 11270.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,Interior alterations to existing single tenant lab space, restrooms &amp; office spaces, including new ceilings, interior finishes, partitions, doors &amp; frames &amp; millwork. Tenant is supplying furniture &amp;, equipment. Work includes plumbing, mechanical &amp; electrical. No structural work.",
+      "addeddate": "2023-07-26T10:07:49.000",
+      "issueddate": "2023-11-07T10:11:44.000",
+      "finaleddate": "2024-02-05T01:02:22.000",
+      "addeddate_raw": "2023-07-26T10:07:49.000",
+      "issueddate_raw": "2023-11-07T10:11:44.000",
+      "finaleddate_raw": "2024-02-05T01:02:22.000"
     },
     {
       "location": "6169 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.049774003, -77.125105996)",
