@@ -1,8 +1,59 @@
 {
-  "last_updated": "2026-08-11T16:09:54.406612+00:00",
+  "last_updated": "2026-08-12T16:08:48.251201+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10608,
+  "record_count": 10611,
   "permits": [
+    {
+      "location": "8380 COLESVILLE RD\nSILVER SPRING, MD 20910\n(38.99297, -77.03312)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$100,000",
+      "declaredvaluation_num": 100000.0,
+      "buildingarea": "7,580 sf",
+      "buildingarea_num": 7580.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans  Interior work only,***TO INCLUDE SYSTEMS FURNITURE***\nISUITE 600 INTERIOR ALTERATIONS WITHIN A NEWLY DEMISED TENANT SPACE. NEW WORK TO INCLUDE NEW PARTITIONS, DEMISING WALLS, CONFERENCE ROOM, STORAGES, SYSTEMS FURNITURE & MODIFICATIONS TO EXISTING MEP SYSTEMS.",
+      "addeddate": "2026-08-11T12:08:53.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-08-11T12:08:53.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "7550 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98572, -77.09448)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$1,480,758",
+      "declaredvaluation_num": 1480758.0,
+      "buildingarea": "9,309 sf",
+      "buildingarea_num": 9309.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans  Interior work only,NTERIOR \"\"TI\"\" WORK, INCLUDING GENERAL ASSOCIATED MEP SCOPES OF WORK, WITHIN AN EXISTING BUILDING SHELL",
+      "addeddate": "2026-08-11T05:08:57.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-08-11T05:08:57.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "7550 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98572, -77.09448)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$148,075,800",
+      "declaredvaluation_num": 148075800.0,
+      "buildingarea": "9,309 sf",
+      "buildingarea_num": 9309.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans  Interior work only,NTERIOR \"\"TI\"\" WORK, INCLUDING GENERAL ASSOCIATED MEP SCOPES OF WORK, WITHIN AN EXISTING BUILDING SHELL",
+      "addeddate": "2026-08-11T05:08:28.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-08-11T05:08:28.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "",
       "status": "Open",
@@ -760,7 +811,7 @@
       "buildingarea": "1,340 sf",
       "buildingarea_num": 1340.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,Commercial alteration of an existing salon space, for new salon tenant. No change of use. Layout of existing salon stations to be the same as existing, 1 new restroom added to space to make 2 total restrooms.",
+      "description": "Customer Wants To Use ePlans Interior work only,Commercial alteration of an existing salon space, for new salon tenant. No change of use. Layout of existing salon stations to be the same as existing, 1 new restroom added to space to make 2 total restrooms.",
       "addeddate": "2026-07-22T10:07:26.000",
       "issueddate": "",
       "finaleddate": "",
@@ -1178,7 +1229,7 @@
     },
     {
       "location": "9708 MEDICAL CENTER DR\nROCKVILLE, MD 20850\n(39.0993, -77.19442)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$85,058",
       "declaredvaluation_num": 85058.0,
@@ -1187,10 +1238,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,Interior demolition on 1st and 2nd floors in preparation of interior renovations under separate permits.",
       "addeddate": "2026-06-19T10:06:49.000",
-      "issueddate": "",
+      "issueddate": "2026-08-11T12:08:54.000",
       "finaleddate": "",
       "addeddate_raw": "2026-06-19T10:06:49.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-08-11T12:08:54.000",
       "finaleddate_raw": ""
     },
     {
@@ -1943,7 +1994,7 @@
     },
     {
       "location": "18111 PRINCE PHILIP DR\nOLNEY, MD 20832\n(39.15389, -77.05605)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$1,281,461",
       "declaredvaluation_num": 1281461.0,
@@ -1952,10 +2003,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,GI SUITE (# 123) WILL INCLUDE A WAITING LOBBY, 2 PROCEDURE ROOMS, 6 PREP AND RECOVERY ROOMS, AND ASSOCIATED STAFF SUPPORT AREAS within a none sprinkler building",
       "addeddate": "2026-05-14T02:05:25.000",
-      "issueddate": "",
+      "issueddate": "2026-08-11T09:08:17.000",
       "finaleddate": "",
       "addeddate_raw": "2026-05-14T02:05:25.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-08-11T09:08:17.000",
       "finaleddate_raw": ""
     },
     {
@@ -6260,8 +6311,8 @@
       "finaleddate_raw": "2026-04-14T11:04:47.000"
     },
     {
-      "location": "7607 OLD GEORGETOWN RD\nBETHESDA, MD 20814\n(38.98581, -77.09597)",
-      "status": "Issued",
+      "location": "7607 OLD GEORGETOWN RD\nBETHESDA, MD 20814\n(38.98608, -77.09587)",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$500,000",
       "declaredvaluation_num": 500000.0,
@@ -6271,10 +6322,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,1,327 SF interior restaurant fit-out for PopUp Bagels with new MEP, finishes &amp; equipment.",
       "addeddate": "2025-11-06T04:11:36.000",
       "issueddate": "2026-03-31T02:03:19.000",
-      "finaleddate": "",
+      "finaleddate": "2026-08-11T10:08:09.000",
       "addeddate_raw": "2025-11-06T04:11:36.000",
       "issueddate_raw": "2026-03-31T02:03:19.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-08-11T10:08:09.000"
     },
     {
       "location": "5404 WISCONSIN AVE\nCHEVY CHASE, MD 20815\n(38.96159, -77.08659)",
@@ -22886,23 +22937,6 @@
       "finaleddate_raw": "2023-11-17T01:11:33.000"
     },
     {
-      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
-      "status": "Finaled",
-      "usecode": "BUSINESS BUILDING",
-      "declaredvaluation": "$285,270",
-      "declaredvaluation_num": 285270.0,
-      "buildingarea": "8,082 sf",
-      "buildingarea_num": 8082.0,
-      "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans Interior work only,Deliver and install office furniture===SUITE 600",
-      "addeddate": "2023-07-26T10:07:49.000",
-      "issueddate": "2023-08-03T10:08:55.000",
-      "finaleddate": "2023-08-17T07:08:01.000",
-      "addeddate_raw": "2023-07-26T10:07:49.000",
-      "issueddate_raw": "2023-08-03T10:08:55.000",
-      "finaleddate_raw": "2023-08-17T07:08:01.000"
-    },
-    {
       "location": "20451 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.192795003, -77.256531975)",
       "status": "Finaled",
       "usecode": "BIOSCIENCE",
@@ -22918,6 +22952,23 @@
       "addeddate_raw": "2023-07-26T10:07:49.000",
       "issueddate_raw": "2023-11-07T10:11:44.000",
       "finaleddate_raw": "2024-02-05T01:02:22.000"
+    },
+    {
+      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
+      "status": "Finaled",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$285,270",
+      "declaredvaluation_num": 285270.0,
+      "buildingarea": "8,082 sf",
+      "buildingarea_num": 8082.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans Interior work only,Deliver and install office furniture===SUITE 600",
+      "addeddate": "2023-07-26T10:07:49.000",
+      "issueddate": "2023-08-03T10:08:55.000",
+      "finaleddate": "2023-08-17T07:08:01.000",
+      "addeddate_raw": "2023-07-26T10:07:49.000",
+      "issueddate_raw": "2023-08-03T10:08:55.000",
+      "finaleddate_raw": "2023-08-17T07:08:01.000"
     },
     {
       "location": "6169 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.049774003, -77.125105996)",
@@ -37140,7 +37191,7 @@
       "buildingarea": "3,700 sf",
       "buildingarea_num": 3700.0,
       "worktype": "RESTORE AND / OR REPAIR",
-      "description": "Revision ,4 - Revision to the building analysis information.,Customer Wants To Use ePlans Revision ,3 - Removal and relocation of exterior stairs.,Customer Wants To Use ePlans Revision ,1 - Bldg 1 framing change, foundation plan; Bldg 2 framing change; additonal details, foundation plan.,Customer Wants To Use ePlans Customer Wants To Use ePlans,ARCHITECTURAL ROUGH-INS. STRUCTURAL REPAIR FROM FIRE AND WATER DAMAGE.&nbsp;Damages&nbsp;to the adjacent building needs a separate permit. sister permit # 994072&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "description": "Revision ,5 - REMOVE INSULATION, DRYWALL, FIRE RATING, PLUMBING FIXTURE, AND ALARM INFO FROM APPROVED DRAWINGS. ,Customer Wants To Use ePlansRevision ,4 - Revision to the building analysis information.,Customer Wants To Use ePlans Revision ,3 - Removal and relocation of exterior stairs.,Customer Wants To Use ePlans Revision ,1 - Bldg 1 framing change, foundation plan; Bldg 2 framing change; additonal details, foundation plan.,Customer Wants To Use ePlans Customer Wants To Use ePlans,ARCHITECTURAL ROUGH-INS. STRUCTURAL REPAIR FROM FIRE AND WATER DAMAGE.&nbsp;Damages&nbsp;to the adjacent building needs a separate permit. sister permit # 994072&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n",
       "addeddate": "2022-02-01T05:02:41.000",
       "issueddate": "2022-07-27T02:07:30.000",
       "finaleddate": "",
