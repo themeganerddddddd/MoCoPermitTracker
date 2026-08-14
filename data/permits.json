@@ -1,8 +1,42 @@
 {
-  "last_updated": "2026-08-13T16:08:46.661678+00:00",
+  "last_updated": "2026-08-14T16:05:29.993084+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10614,
+  "record_count": 10616,
   "permits": [
+    {
+      "location": "",
+      "status": "Open",
+      "usecode": "INDUSTRIAL BUILDING",
+      "declaredvaluation": "$1",
+      "declaredvaluation_num": 1.0,
+      "buildingarea": "1 sf",
+      "buildingarea_num": 1.0,
+      "worktype": "COMMERCIAL CHANGE OF USE",
+      "description": "Customer Wants To Use ePlans,Change of use from A-3 to F-2. No contruction or alteration.",
+      "addeddate": "2026-08-13T05:08:12.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-08-13T05:08:12.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$0",
+      "declaredvaluation_num": 0,
+      "buildingarea": "6,000 sf",
+      "buildingarea_num": 6000.0,
+      "worktype": "RESTORE AND / OR REPAIR",
+      "description": "Customer Wants To Use ePlans,AUTO COLLISION REPAIR/AUTO SALES",
+      "addeddate": "2026-08-13T02:08:30.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-08-13T02:08:30.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "11568 OLD GEORGETOWN RD\nROCKVILLE, MD 20852\n(39.04877, -77.11831)",
       "status": "Open",
@@ -667,7 +701,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "",
+      "location": "7373 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.9835, -77.09371)",
       "status": "Open",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$48,780",
@@ -1450,7 +1484,7 @@
     },
     {
       "location": "7600 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98612, -77.09457)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$50,000",
       "declaredvaluation_num": 50000.0,
@@ -1459,10 +1493,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,SCOPE OF WORK IS FOR THE RENOVATION OF COMMON CORRIDOR AREA AND ELEVATOR LOBBY ON THE SECOND FLOOR, CURRENTLY UNOCCUPIED.",
       "addeddate": "2026-06-12T01:06:54.000",
-      "issueddate": "",
+      "issueddate": "2026-08-13T10:08:53.000",
       "finaleddate": "",
       "addeddate_raw": "2026-06-12T01:06:54.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-08-13T10:08:53.000",
       "finaleddate_raw": ""
     },
     {
