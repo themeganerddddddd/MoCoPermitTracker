@@ -1,8 +1,42 @@
 {
-  "last_updated": "2026-08-24T15:54:36.502420+00:00",
+  "last_updated": "2026-08-25T15:59:14.886420+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10625,
+  "record_count": 10627,
   "permits": [
+    {
+      "location": "12114 GEORGIA AVE\nSILVER SPRING, MD 20902\n(39.05368, -77.05086)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$55,025",
+      "declaredvaluation_num": 55025.0,
+      "buildingarea": "2,450 sf",
+      "buildingarea_num": 2450.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,Create a White Box Shell Space for future tenant. New lights, power, mechanical, and plumbing work as required.",
+      "addeddate": "2026-08-24T11:08:48.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-08-24T11:08:48.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "8817 MONARD DR\nSILVER SPRING, MD 20910\n(39.00037, -77.05863)",
+      "status": "Open",
+      "usecode": "INDUSTRIAL BUILDING",
+      "declaredvaluation": "$250,000",
+      "declaredvaluation_num": 250000.0,
+      "buildingarea": "7,336 sf",
+      "buildingarea_num": 7336.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,Tenant fit out of an existing business to a modern commercial operation. The project will contain an employee break area, minor restroom work, new hand sinks, pre-packaged frozen and chilled food items will be stored in walk-in chiller and freezer. Install of shelving. No food production on site.",
+      "addeddate": "2026-08-24T09:08:48.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-08-24T09:08:48.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "4600 EAST WEST HWY\nBETHESDA, MD 20814\n(38.98478, -77.09304)",
       "status": "Open",
@@ -991,7 +1025,7 @@
     },
     {
       "location": "18221 FLOWER HILL WAY\nGAITHERSBURG, MD 20879\n(39.15617, -77.16309)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$8,000",
       "declaredvaluation_num": 8000.0,
@@ -1000,10 +1034,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,PROPOSED TENANT IS A SPECIALTY COSMETOLOGY BEAUTY SHOP/WIG FITTING. NO ARCHITECTURAL WORK. SCOPE OF WORK IS LIMITED TO INSTALLATION OF NEW EXHAUST INTAKE VENTILATION &amp; DUCTWORK. NO CHANGE OF USE.",
       "addeddate": "2026-07-23T04:07:57.000",
-      "issueddate": "",
+      "issueddate": "2026-08-24T09:08:02.000",
       "finaleddate": "",
       "addeddate_raw": "2026-07-23T04:07:57.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-08-24T09:08:02.000",
       "finaleddate_raw": ""
     },
     {
@@ -1865,7 +1899,7 @@
       "buildingarea": "3,174 sf",
       "buildingarea_num": 3174.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,ALTERTIONS TO FLOORS 1,4,5,6. SCOPE TO INCLUDE, BUT NOT LIMITED TO, COMMON AREA, FITNESS ROOM, CO-WORKING SPACE, LEASING OFFICE, CONFERENCE ROOM, ETC...",
+      "description": "Revision ,01 - MINOR REVISION DUE TO FIELD CONDITIONS,Customer Wants To Use ePlansCustomer Wants To Use ePlans,ALTERTIONS TO FLOORS 1,4,5,6. SCOPE TO INCLUDE, BUT NOT LIMITED TO, COMMON AREA, FITNESS ROOM, CO-WORKING SPACE, LEASING OFFICE, CONFERENCE ROOM, ETC...",
       "addeddate": "2026-06-01T11:06:45.000",
       "issueddate": "2026-07-21T11:07:09.000",
       "finaleddate": "",
@@ -2266,7 +2300,7 @@
     },
     {
       "location": "9600 BLACKWELL RD\nROCKVILLE, MD 20850\n(39.10104, -77.19326)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$405,800",
       "declaredvaluation_num": 405800.0,
@@ -2275,10 +2309,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,The work consists of new construction for a new medical office tenant. Work will include complete construction of partitions, ceilings and millwork as shown in the plans. The suite shall receive new finishes, new lighting fixtures, new electrical work, and new plumbing. Existing mechanical and life-safety systems shall be modified and new components provided to support the new build-out as required. The multi-tenant corridor construction is to be done under a separate permit",
       "addeddate": "2026-05-13T11:05:45.000",
-      "issueddate": "",
+      "issueddate": "2026-08-24T07:08:26.000",
       "finaleddate": "",
       "addeddate_raw": "2026-05-13T11:05:45.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-08-24T07:08:26.000",
       "finaleddate_raw": ""
     },
     {
@@ -2674,7 +2708,7 @@
     },
     {
       "location": "7361 CALHOUN PL\nROCKVILLE, MD 20855\n(39.10818, -77.15126)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$50,000",
       "declaredvaluation_num": 50000.0,
@@ -2684,10 +2718,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,Construct 2 new offices and a closet. Partial finish replacement, minor electrical and HVAC",
       "addeddate": "2026-04-23T10:04:19.000",
       "issueddate": "2026-05-15T01:05:28.000",
-      "finaleddate": "",
+      "finaleddate": "2026-08-24T02:08:04.000",
       "addeddate_raw": "2026-04-23T10:04:19.000",
       "issueddate_raw": "2026-05-15T01:05:28.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-08-24T02:08:04.000"
     },
     {
       "location": "12266 ROCKVILLE PIKE\nROCKVILLE, MD 20852\n(39.05729, -77.12168)",
@@ -3847,7 +3881,7 @@
     },
     {
       "location": "6100 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.04708, -77.12343)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$128,000",
       "declaredvaluation_num": 128000.0,
@@ -3857,10 +3891,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,MODIFICATION OF EXISTING VACANT TENANT SPACE. SOME DEMOLITION WORK. SOME NEW PARTITIONS, CEILING, AND ALL NEW LIGHTING. SOME NEW MECHANICAL, ELECTRICAL. ALL NEW FINISHES.",
       "addeddate": "2026-03-06T09:03:54.000",
       "issueddate": "2026-04-22T08:04:38.000",
-      "finaleddate": "",
+      "finaleddate": "2026-08-24T03:08:04.000",
       "addeddate_raw": "2026-03-06T09:03:54.000",
       "issueddate_raw": "2026-04-22T08:04:38.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-08-24T03:08:04.000"
     },
     {
       "location": "6010 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.04751, -77.12275)",
@@ -4883,8 +4917,8 @@
       "finaleddate_raw": "2026-04-02T11:04:22.000"
     },
     {
-      "location": "5550 FRIENDSHIP BLVD\nCHEVY CHASE, MD 20815\n(38.964038, -77.089536)",
-      "status": "Issued",
+      "location": "5550 FRIENDSHIP BLVD\nCHEVY CHASE, MD 20815\n(38.96407, -77.09013)",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$231,693",
       "declaredvaluation_num": 231693.0,
@@ -4894,10 +4928,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,LEVEL 2 INTERIOR ALTERATION OF EXISTING OFFICE TO ACCOMMODATE NEW AMBULATORY HEALTH CARE FACILITY (IBC) / AMBULATORY HEALTH CARE OCCUPANCY (NFPA). NEW PARTITIONS, FINISHES, AND RELATED HVAC, PLUMBING &amp; ELECTRICAL WORK. NO CHANGE IN USE. 5550 FRIENDSHIP BLVD 450 Chevy Chase, MD 20815-725",
       "addeddate": "2026-01-23T11:01:14.000",
       "issueddate": "2026-04-10T11:04:29.000",
-      "finaleddate": "",
+      "finaleddate": "2026-08-24T02:08:30.000",
       "addeddate_raw": "2026-01-23T11:01:14.000",
       "issueddate_raw": "2026-04-10T11:04:29.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-08-24T02:08:30.000"
     },
     {
       "location": "7500 OLD GEORGETOWN RD\nBETHESDA, MD 20814\n(38.98528, -77.09512)",
@@ -6635,7 +6669,7 @@
     },
     {
       "location": "10211 LEWIS DR\nDAMASCUS, MD 20872\n(39.29098, -77.21247)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$300,000",
       "declaredvaluation_num": 300000.0,
@@ -6644,10 +6678,10 @@
       "worktype": "ADD",
       "description": "Customer Wants To Use ePlans,TO CONSTRUCT NEW ADDITION AND CONNECTIONS TO THE EXISTING STRUCTURE. \nADDITION PROGRAM TO INCLUDE FIRE TRUCK DISPLAY ROOM, STORAGE AND OFFICE.",
       "addeddate": "2025-11-03T02:11:06.000",
-      "issueddate": "",
+      "issueddate": "2026-08-24T03:08:23.000",
       "finaleddate": "",
       "addeddate_raw": "2025-11-03T02:11:06.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-08-24T03:08:23.000",
       "finaleddate_raw": ""
     },
     {
@@ -6703,7 +6737,7 @@
     },
     {
       "location": "7700 OLD GEORGETOWN RD\nBETHESDA, MD 20814\n(38.98638, -77.09747)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$25,000",
       "declaredvaluation_num": 25000.0,
@@ -6713,10 +6747,10 @@
       "description": "Revision ,1 - Interior Renovation of commercial space. Revision narrative included. ,Customer Wants To Use ePlansCustomer Wants To Use ePlans  Interior work only,Office expansion into additional space.",
       "addeddate": "2025-10-29T04:10:09.000",
       "issueddate": "2025-12-31T02:12:40.000",
-      "finaleddate": "",
+      "finaleddate": "2026-08-24T07:08:41.000",
       "addeddate_raw": "2025-10-29T04:10:09.000",
       "issueddate_raw": "2025-12-31T02:12:40.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-08-24T07:08:41.000"
     },
     {
       "location": "5406 WISCONSIN AVE\nCHEVY CHASE, MD 20815\n(38.96126, -77.086)",
@@ -8648,7 +8682,7 @@
       "buildingarea": "900 sf",
       "buildingarea_num": 900.0,
       "worktype": "CONSTRUCT",
-      "description": "Customer Wants To Use ePlans,Site has 5 failing MSE walls. 3 new gravity block walls will go in front of 3 walls. 1 MSE wall will be replaced in kind. 1 short wall will be buried. Pond modification.",
+      "description": "Customer Wants To Use ePlans,Site has 5 failing MSE walls. This permit is for Retaining Wall #4, gravity wall.",
       "addeddate": "2025-07-24T10:07:13.000",
       "issueddate": "2026-06-30T11:06:14.000",
       "finaleddate": "",
