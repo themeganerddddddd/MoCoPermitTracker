@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T16:33:52.718888+00:00",
+  "last_updated": "2026-08-28T00:24:40.187526+00:00",
   "source_dataset": "i26v-w6bd",
   "record_count": 10628,
   "permits": [
@@ -420,7 +420,7 @@
       "buildingarea": "366 sf",
       "buildingarea_num": 366.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans, MODIFICATIONS TO THE EXISTING MECHANICAL EXHAUST\nSYSTEMS, INCLUDING NEW EXHAUST DUCTWORK WITH ASSOCIATED FLOOR AND ROOF PENETRATIONS. CURBS AND FIRESTOPPING ARE\nPROVIDED AT FLOOR PENETRATIONS ONLY.",
+      "description": "Customer Wants To Use ePlans, MODIFICATIONS TO THE EXISTING MECHANICAL EXHAUST SYSTEMS, INCLUDING NEW EXHAUST DUCTWORK WITH ASSOCIATED FLOOR AND ROOF PENETRATIONS. CURBS AND FIRESTOPPING ARE PROVIDED AT FLOOR PENETRATIONS ONLY.",
       "addeddate": "2026-08-06T12:08:07.000",
       "issueddate": "",
       "finaleddate": "",
@@ -879,7 +879,7 @@
       "buildingarea": "8,496 sf",
       "buildingarea_num": 8496.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans Interior work only,DETAILED DESCRIPTION OF SCOPE OF WORK: INTERIOR RENOVATIONS OF EXISTING CONDITIONS ON THE GROUND FLOOR AND MEZZANINE: - DEMOLITION OF EXISTING WAREHOUSE STORAGE FENCING, CEILING, LIGHTING. - MINIMAL TOUCH-UPS OF EXISTING WAREHOUSE FINISHES, AND REPLACEMENT WHERE REQUIRED. - SELECTIVE FINISH REPLACEMENT IN THE OFFICE MEZZANINE AREA. ALL OTHER MEZZANINE CONDITIONS SHALL REMAIN AS-IS. - RECONFIGURATION OF THE EXISTING TOILET ROOMS TO COMPLY WITH ACCESSIBILITY CODES AND REQUIREMENTS. - NO EXTERIOR WORK RELATED TO OVERHEAD DOORS, LOADING AREAS, ENTRIES, OR EXTERIOR SITE WORK IS IN OUR SCOPE OF WORK",
+      "description": "Customer Wants To Use ePlans Interior work only,DETAILED DESCRIPTION OF SCOPE OF WORK: INTERIOR RENOVATIONS OF EXISTING CONDITIONS ON THE GROUND FLOOR AND MEZZANINE: - DEMOLITION OF EXISTING WAREHOUSE STORAGE FENCING, CEILING, LIGHTING. - MINIMAL TOUCH-UPS OF EXISTING WAREHOUSE FINISHES, AND REPLACEMENT WHERE REQUIRED. - SELECTIVE FINISH REPLACEMENT IN THE OFFICE MEZZANINE AREA. ALL OTHER MEZZANINE CONDITIONS SHALL REMAIN AS-IS. - RECONFIGURATION OF THE EXISTING TOILET ROOMS TO COMPLY WITH ACCESSIBILITY CODES AND REQUIREMENTS. - NO EXTERIOR WORK RELATED TO OVERHEAD DOORS, LOADING AREAS, ENTRIES, OR EXTERIOR SITE WORK IS IN OUR SCOPE OF WORK. Other Applications and Cases: USE AND OCCUPANCY PERMIT APPLICATION# 425530",
       "addeddate": "2026-07-27T09:07:53.000",
       "issueddate": "",
       "finaleddate": "",
@@ -1892,7 +1892,7 @@
     },
     {
       "location": "17801 GEORGIA AVE\nOLNEY, MD 20832\n(39.14891, -77.06576)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$285,000",
       "declaredvaluation_num": 285000.0,
@@ -1901,10 +1901,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,MINOR DEMOLITION, TENANT IMPROVEMENT/ALTERATIONS TO INTERIOR BUILD OUT OF NON-LOAD BEARING PARTITIONS AND INSTALLATION OF FURNITURE IN EXISTING OCCUPIED SPACE FOR ATLANTIC UNION BANK",
       "addeddate": "2026-06-02T04:06:00.000",
-      "issueddate": "",
+      "issueddate": "2026-08-26T10:08:02.000",
       "finaleddate": "",
       "addeddate_raw": "2026-06-02T04:06:00.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-08-26T10:08:02.000",
       "finaleddate_raw": ""
     },
     {
@@ -6363,19 +6363,19 @@
     },
     {
       "location": "18109 PRINCE PHILIP DR\nOLNEY, MD 20832\n(39.15281, -77.05668)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$65,000",
       "declaredvaluation_num": 65000.0,
       "buildingarea": "1,893 sf",
       "buildingarea_num": 1893.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,Interior alteration of existing tenant suite. Work includes systems furniture.",
+      "description": "Customer Wants To Use ePlans Interior work only,Interior alteration of existing tenant suite. Work includes systems furniture.",
       "addeddate": "2025-11-18T01:11:00.000",
-      "issueddate": "",
+      "issueddate": "2026-08-26T03:08:09.000",
       "finaleddate": "",
       "addeddate_raw": "2025-11-18T01:11:00.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-08-26T03:08:09.000",
       "finaleddate_raw": ""
     },
     {
@@ -7798,7 +7798,7 @@
       "buildingarea": "1,749 sf",
       "buildingarea_num": 1749.0,
       "worktype": "CONSTRUCT",
-      "description": "Customer Wants To Use ePlans,Modular office building approx 27'W x 64'LU&amp;O 419151",
+      "description": "Customer Wants To Use ePlans,Modular office building approx 27'W x 64'L U&amp;O 419151",
       "addeddate": "2025-09-08T12:09:24.000",
       "issueddate": "",
       "finaleddate": "",
@@ -8029,7 +8029,7 @@
     },
     {
       "location": "7610 CARROLL AVE\nTAKOMA PARK, MD 20912\n(38.98454, -77.00026)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$65,565",
       "declaredvaluation_num": 65565.0,
@@ -8038,10 +8038,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,ALTERATIONS TO THE EXISTING TENANT SUITE 110 TO CREATE A OPERATING ROOM AND PACU AREA WITH CEILING MOUNTED CURTAIN TRACKS. DEMOLITION INCLUDES REMOVAL OF SOME PARTITIONS. NEW WORK INCLUDES, FINISHES, MINOR ELECTRICAL/ LIGHTING, MECHANICAL, AND FIRE ALARM COMPONENTS. ANY CHANGES OR ALTERATIONS TO THE FIRE PROTECTION SHALL BE UNDER SEPARATE PERMIT.",
       "addeddate": "2025-09-02T04:09:02.000",
-      "issueddate": "",
+      "issueddate": "2026-08-26T10:08:38.000",
       "finaleddate": "",
       "addeddate_raw": "2025-09-02T04:09:02.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-08-26T10:08:38.000",
       "finaleddate_raw": ""
     },
     {
@@ -23226,23 +23226,6 @@
       "finaleddate_raw": "2023-11-17T01:11:33.000"
     },
     {
-      "location": "20451 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.192795003, -77.256531975)",
-      "status": "Finaled",
-      "usecode": "BIOSCIENCE",
-      "declaredvaluation": "$1,730,000",
-      "declaredvaluation_num": 1730000.0,
-      "buildingarea": "11,270 sf",
-      "buildingarea_num": 11270.0,
-      "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,Interior alterations to existing single tenant lab space, restrooms &amp; office spaces, including new ceilings, interior finishes, partitions, doors &amp; frames &amp; millwork. Tenant is supplying furniture &amp;, equipment. Work includes plumbing, mechanical &amp; electrical. No structural work.",
-      "addeddate": "2023-07-26T10:07:49.000",
-      "issueddate": "2023-11-07T10:11:44.000",
-      "finaleddate": "2024-02-05T01:02:22.000",
-      "addeddate_raw": "2023-07-26T10:07:49.000",
-      "issueddate_raw": "2023-11-07T10:11:44.000",
-      "finaleddate_raw": "2024-02-05T01:02:22.000"
-    },
-    {
       "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
@@ -23258,6 +23241,23 @@
       "addeddate_raw": "2023-07-26T10:07:49.000",
       "issueddate_raw": "2023-08-03T10:08:55.000",
       "finaleddate_raw": "2023-08-17T07:08:01.000"
+    },
+    {
+      "location": "20451 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.192795003, -77.256531975)",
+      "status": "Finaled",
+      "usecode": "BIOSCIENCE",
+      "declaredvaluation": "$1,730,000",
+      "declaredvaluation_num": 1730000.0,
+      "buildingarea": "11,270 sf",
+      "buildingarea_num": 11270.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,Interior alterations to existing single tenant lab space, restrooms &amp; office spaces, including new ceilings, interior finishes, partitions, doors &amp; frames &amp; millwork. Tenant is supplying furniture &amp;, equipment. Work includes plumbing, mechanical &amp; electrical. No structural work.",
+      "addeddate": "2023-07-26T10:07:49.000",
+      "issueddate": "2023-11-07T10:11:44.000",
+      "finaleddate": "2024-02-05T01:02:22.000",
+      "addeddate_raw": "2023-07-26T10:07:49.000",
+      "issueddate_raw": "2023-11-07T10:11:44.000",
+      "finaleddate_raw": "2024-02-05T01:02:22.000"
     },
     {
       "location": "6169 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.049774003, -77.125105996)",
