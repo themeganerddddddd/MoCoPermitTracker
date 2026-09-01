@@ -1,8 +1,25 @@
 {
-  "last_updated": "2026-08-31T20:49:40.069567+00:00",
+  "last_updated": "2026-09-01T18:30:19.713700+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10632,
+  "record_count": 10633,
   "permits": [
+    {
+      "location": "",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$90,000",
+      "declaredvaluation_num": 90000.0,
+      "buildingarea": "1,417 sf",
+      "buildingarea_num": 1417.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans  Interior work only,Interior alteration of existing 1,417 SF hair salon for Great Clips; no change of use",
+      "addeddate": "2026-08-31T05:08:41.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-08-31T05:08:41.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "7029 ARLINGTON RD\nBETHESDA, MD 20814\n(38.98027, -77.09812)",
       "status": "Open",
@@ -63,7 +80,7 @@
       "buildingarea": "225 sf",
       "buildingarea_num": 225.0,
       "worktype": "RESTORE AND / OR REPAIR",
-      "description": "Customer Wants To Use ePlans,Masonry Wall Repairs at Loading Dock Area",
+      "description": "Customer Wants To Use ePlans,Masonry Wall Repairs at Loading Dock Area- requesting FAST TRACK",
       "addeddate": "2026-08-28T04:08:59.000",
       "issueddate": "",
       "finaleddate": "",
@@ -1942,8 +1959,8 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "6720 ROCKLEDGE DR\nROCKVILLE, MD 20817\n(39.02921, -77.13481)",
-      "status": "Open",
+      "location": "6720 ROCKLEDGE DR\nROCKVILLE, MD 20817\n(39.02905, -77.13795)",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$450,000",
       "declaredvaluation_num": 450000.0,
@@ -1952,10 +1969,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,Office renovation/expansion with MEP updates; no change of use or structural work.",
       "addeddate": "2026-06-02T11:06:00.000",
-      "issueddate": "",
+      "issueddate": "2026-08-31T03:08:53.000",
       "finaleddate": "",
       "addeddate_raw": "2026-06-02T11:06:00.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-08-31T03:08:53.000",
       "finaleddate_raw": ""
     },
     {
@@ -4833,7 +4850,7 @@
     },
     {
       "location": "12211 PLUM ORCHARD DR\nSILVER SPRING, MD 20904\n(39.05798, -76.95635)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$340,727",
       "declaredvaluation_num": 340727.0,
@@ -4843,10 +4860,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,Interior alterations and repair to part of the first floor for the Tech Hill Training Room fit out.",
       "addeddate": "2026-01-30T09:01:30.000",
       "issueddate": "2026-04-27T08:04:43.000",
-      "finaleddate": "",
+      "finaleddate": "2026-08-31T11:08:42.000",
       "addeddate_raw": "2026-01-30T09:01:30.000",
       "issueddate_raw": "2026-04-27T08:04:43.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-08-31T11:08:42.000"
     },
     {
       "location": "5404 WISCONSIN AVE\nCHEVY CHASE, MD 20815\n(38.96159, -77.08659)",
