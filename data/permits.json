@@ -1,8 +1,25 @@
 {
-  "last_updated": "2026-09-13T18:12:11.201492+00:00",
+  "last_updated": "2026-09-14T19:50:20.752211+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10651,
+  "record_count": 10652,
   "permits": [
+    {
+      "location": "",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$365,000",
+      "declaredvaluation_num": 365000.0,
+      "buildingarea": "4,018 sf",
+      "buildingarea_num": 4018.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans  Interior work only,INTERIOR ALTERATION OF SUITE 250. NON STRUCTURAL DEMOLITION, AND NEW GENERAL PLUMBING, ELECTRICAL, AND MECHANICAL WORK.",
+      "addeddate": "2026-09-14T12:09:21.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-09-14T12:09:21.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "1010 WAYNE AVE\nSILVER SPRING, MD 20910\n(38.9945, -77.02768)",
       "status": "Open",
@@ -481,7 +498,7 @@
     },
     {
       "location": "4800 HAMPDEN LN\nBETHESDA, MD 20814\n(38.98274, -77.09483)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$393,000",
       "declaredvaluation_num": 393000.0,
@@ -490,10 +507,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,11TH &amp; 12TH FLOOR VAV REPLACEMENT REPLACEMENT OF VAV BOXES WITH EXISTING TENANT SUITES/MODIFICATIONS TO EXISTING MECHANICAL &amp; ELECTRICAL SYSTEMS. WORK TO BE DONE IN PHASES. SUITES 1100 &amp; 1200 WERE BUILT UNDER BUILDING PERMIT # 1118613, WHICH HAS BEEN FINALED.",
       "addeddate": "2026-08-21T08:08:41.000",
-      "issueddate": "",
+      "issueddate": "2026-09-11T04:09:34.000",
       "finaleddate": "",
       "addeddate_raw": "2026-08-21T08:08:41.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-09-11T04:09:34.000",
       "finaleddate_raw": ""
     },
     {
@@ -624,7 +641,7 @@
       "buildingarea": "2,313 sf",
       "buildingarea_num": 2313.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,Fitness studio interior build out in a demised retail space. Work to include demolition, the installation of ceilings, partitions, doors, interior finishes, mechanical work, electrical work, and plumbing work for a fitness studio.",
+      "description": "Customer Wants To Use ePlans,Fitness studio interior build out in a demised retail space. Work to include demolition, the installation of ceilings, partitions, doors, interior finishes, mechanical work, electrical work, and plumbing work for a fitness studio..",
       "addeddate": "2026-08-12T11:08:31.000",
       "issueddate": "",
       "finaleddate": "",
@@ -855,7 +872,7 @@
     },
     {
       "location": "15839 CRABBS BRANCH WAY\nROCKVILLE, MD 20855\n(39.11394, -77.15674)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$167,000",
       "declaredvaluation_num": 167000.0,
@@ -864,10 +881,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,Interior alteration of an existing business office to be a dental office. Associated USE AND OCCUPANCY PERMIT #425499",
       "addeddate": "2026-08-06T03:08:27.000",
-      "issueddate": "",
+      "issueddate": "2026-09-11T12:09:02.000",
       "finaleddate": "",
       "addeddate_raw": "2026-08-06T03:08:27.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-09-11T12:09:02.000",
       "finaleddate_raw": ""
     },
     {
@@ -5003,7 +5020,7 @@
     },
     {
       "location": "8404 GEORGIA AVE\nSILVER SPRING, MD 20910\n(38.99367, -77.02727)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$594,330",
       "declaredvaluation_num": 594330.0,
@@ -5013,10 +5030,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,NEW TENANT LAYOUT FOR A DENTAL OFFICE IN THE EXISTING BUILDING",
       "addeddate": "2026-02-06T04:02:06.000",
       "issueddate": "2026-04-16T02:04:31.000",
-      "finaleddate": "",
+      "finaleddate": "2026-09-11T03:09:21.000",
       "addeddate_raw": "2026-02-06T04:02:06.000",
       "issueddate_raw": "2026-04-16T02:04:31.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-09-11T03:09:21.000"
     },
     {
       "location": "6001 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.05012, -77.12054)",
@@ -23617,23 +23634,6 @@
       "finaleddate_raw": "2023-11-17T01:11:33.000"
     },
     {
-      "location": "20451 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.192795003, -77.256531975)",
-      "status": "Finaled",
-      "usecode": "BIOSCIENCE",
-      "declaredvaluation": "$1,730,000",
-      "declaredvaluation_num": 1730000.0,
-      "buildingarea": "11,270 sf",
-      "buildingarea_num": 11270.0,
-      "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,Interior alterations to existing single tenant lab space, restrooms &amp; office spaces, including new ceilings, interior finishes, partitions, doors &amp; frames &amp; millwork. Tenant is supplying furniture &amp;, equipment. Work includes plumbing, mechanical &amp; electrical. No structural work.",
-      "addeddate": "2023-07-26T10:07:49.000",
-      "issueddate": "2023-11-07T10:11:44.000",
-      "finaleddate": "2024-02-05T01:02:22.000",
-      "addeddate_raw": "2023-07-26T10:07:49.000",
-      "issueddate_raw": "2023-11-07T10:11:44.000",
-      "finaleddate_raw": "2024-02-05T01:02:22.000"
-    },
-    {
       "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
@@ -23649,6 +23649,23 @@
       "addeddate_raw": "2023-07-26T10:07:49.000",
       "issueddate_raw": "2023-08-03T10:08:55.000",
       "finaleddate_raw": "2023-08-17T07:08:01.000"
+    },
+    {
+      "location": "20451 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.192795003, -77.256531975)",
+      "status": "Finaled",
+      "usecode": "BIOSCIENCE",
+      "declaredvaluation": "$1,730,000",
+      "declaredvaluation_num": 1730000.0,
+      "buildingarea": "11,270 sf",
+      "buildingarea_num": 11270.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,Interior alterations to existing single tenant lab space, restrooms &amp; office spaces, including new ceilings, interior finishes, partitions, doors &amp; frames &amp; millwork. Tenant is supplying furniture &amp;, equipment. Work includes plumbing, mechanical &amp; electrical. No structural work.",
+      "addeddate": "2023-07-26T10:07:49.000",
+      "issueddate": "2023-11-07T10:11:44.000",
+      "finaleddate": "2024-02-05T01:02:22.000",
+      "addeddate_raw": "2023-07-26T10:07:49.000",
+      "issueddate_raw": "2023-11-07T10:11:44.000",
+      "finaleddate_raw": "2024-02-05T01:02:22.000"
     },
     {
       "location": "6169 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.049774003, -77.125105996)",
