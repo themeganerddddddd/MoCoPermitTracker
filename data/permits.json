@@ -1,8 +1,25 @@
 {
-  "last_updated": "2026-09-21T19:58:51.569815+00:00",
+  "last_updated": "2026-09-22T18:53:57.828922+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10657,
+  "record_count": 10658,
   "permits": [
+    {
+      "location": "7500 OLD GEORGETOWN RD\nBETHESDA, MD 20814\n(38.98528, -77.09512)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$234,500",
+      "declaredvaluation_num": 234500.0,
+      "buildingarea": "3,866 sf",
+      "buildingarea_num": 3866.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,REMODEL INTERIOR AREA INTO NEW RECREATION SPACE.",
+      "addeddate": "2026-09-21T02:09:52.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-09-21T02:09:52.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "1010 WAYNE AVE\nSILVER SPRING, MD 20910\n(38.9945, -77.02768)",
       "status": "Open",
@@ -46,7 +63,7 @@
       "buildingarea": "100 sf",
       "buildingarea_num": 100.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,THIS PROJECT IS WITHIN AN EXISTING 3 STORY COMMERCIAL BUILDING. THE SCOPE OF WORK IS LIMITED TO THE FOLLOWING: 1) REPLACE ONE EXISTING EXTERIOR HVAC CONDENSING UNIT, 2) ADD TWO NEW INTERIOR HVAC CASSETTES.10401 OLD GEORGETOWN RD 210\nBETHESDA, MD 20814",
+      "description": "Customer Wants To Use ePlans,THIS PROJECT IS WITHIN AN EXISTING 3 STORY COMMERCIAL BUILDING. THE SCOPE OF WORK IS LIMITED TO THE FOLLOWING: 1) REPLACE ONE EXISTING EXTERIOR HVAC CONDENSING UNIT, 2) ADD TWO NEW INTERIOR HVAC CASSETTES.10401 OLD GEORGETOWN RD 210 BETHESDA, MD 20814",
       "addeddate": "2026-09-16T02:09:26.000",
       "issueddate": "",
       "finaleddate": "",
@@ -583,7 +600,7 @@
     },
     {
       "location": "4600 EAST WEST HWY\nBETHESDA, MD 20814\n(38.98478, -77.09304)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$25,000",
       "declaredvaluation_num": 25000.0,
@@ -592,10 +609,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,MINOR NON-STRUCTURAL INTERIOR ALTERATION WITHIN AN EXISTING, FULLY CONDITIONED GROUP B CORPORATE OFFICE SUITE. CREATE A SINGLE DEDICATED CONFERENCE ROOM.",
       "addeddate": "2026-08-21T10:08:17.000",
-      "issueddate": "",
+      "issueddate": "2026-09-21T01:09:47.000",
       "finaleddate": "",
       "addeddate_raw": "2026-08-21T10:08:17.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-09-21T01:09:47.000",
       "finaleddate_raw": ""
     },
     {
@@ -1219,7 +1236,7 @@
       "buildingarea": "458 sf",
       "buildingarea_num": 458.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,INTERIOR ALTERATION OF EXISTING FULL FLOOR TENANT. TENANT\nMODIFICATIONS TO INCLUDE DEMOLITION OF EXISTING PARTITIONS; AND\nCONSTRUCTION OF NEW PARTITIONS AND DOORS. NEW ELECTRICAL WORK TO\nMODIFY LIGHTING AND POWER TO REFLECT NEW PLAN. ALL ELECTRICAL RUNS\nARE TO CONNECT TO EXISTING BUILDING MAIN ELECTRICAL ROOM. EXISTING\nDUCTWORK TO REMAIN.\n\nTHERE IS NO STRUCTURAL WORK IN THIS PROJECT.\n\nTHERE IS NO SYSTEM FURNITURE INSTALLATION IN THIS PROJECT.\nSPRINKLER, FIRE DETECTION, AND FIRE ALARM WORK WILL BE DONE ON A\nDESIGN BUILD BASIS BY THE CONTRACTOR HIRED VENDOR. THESE VENDORS\nWILL OBTAIN THEIR OWN PERMITS BY PRODUCING THEIR OWN CODE\nCONFORMING DESIGN USING THEIR OWN STAMPED AND SIGNED DRAWINGS.",
+      "description": "Customer Wants To Use ePlans,INTERIOR ALTERATION OF EXISTING FULL FLOOR TENANT. TENANT MODIFICATIONS TO INCLUDE DEMOLITION OF EXISTING PARTITIONS; AND CONSTRUCTION OF NEW PARTITIONS AND DOORS. NEW ELECTRICAL WORK TO MODIFY LIGHTING AND POWER TO REFLECT NEW PLAN. ALL ELECTRICAL RUNS ARE TO CONNECT TO EXISTING BUILDING MAIN ELECTRICAL ROOM. EXISTING DUCTWORK TO REMAIN. THERE IS NO STRUCTURAL WORK IN THIS PROJECT. THERE IS NO SYSTEM FURNITURE INSTALLATION IN THIS PROJECT. SPRINKLER, FIRE DETECTION, AND FIRE ALARM WORK WILL BE DONE ON A DESIGN BUILD BASIS BY THE CONTRACTOR HIRED VENDOR. THESE VENDORS WILL OBTAIN THEIR OWN PERMITS BY PRODUCING THEIR OWN CODE CONFORMING DESIGN USING THEIR OWN STAMPED AND SIGNED DRAWINGS.",
       "addeddate": "2026-07-31T11:07:01.000",
       "issueddate": "",
       "finaleddate": "",
@@ -1593,7 +1610,7 @@
       "buildingarea": "2,875 sf",
       "buildingarea_num": 2875.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,Interior build out of tenant office space.  There is no change of use associated with this work.",
+      "description": "Customer Wants To Use ePlans Interior work only,Interior build out of tenant office space. There is no change of use associated with this work.",
       "addeddate": "2026-07-22T01:07:47.000",
       "issueddate": "",
       "finaleddate": "",
@@ -3133,7 +3150,7 @@
     },
     {
       "location": "1110 SPRING ST\nSILVER SPRING, MD 20910\n(38.99986, -77.02837)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$200,000",
       "declaredvaluation_num": 200000.0,
@@ -3143,10 +3160,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,LEVEL 2 ALTERATION TO COMBINE TWO EXISTING OFFICES INTO ONE LARGER PRIVATE OFFICE (#701)",
       "addeddate": "2026-04-28T03:04:36.000",
       "issueddate": "2026-06-03T02:06:16.000",
-      "finaleddate": "",
+      "finaleddate": "2026-09-21T12:09:13.000",
       "addeddate_raw": "2026-04-28T03:04:36.000",
       "issueddate_raw": "2026-06-03T02:06:16.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-09-21T12:09:13.000"
     },
     {
       "location": "6480 SLIGO MILL RD\nTAKOMA PARK, MD 20912\n(38.96883, -77.00156)",
@@ -3684,7 +3701,7 @@
       "buildingarea": "10,064 sf",
       "buildingarea_num": 10064.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans Interior work only,INTERIOR ALTERATION OF THE PARTIAL 7TH FLOOR. THE WORK CONSISTS OF NON STRUCTURAL DEMOLITION, AND NEW GENERAL PLUMBING, ELECTRICAL, AND MECHANICAL WORK. STRUCTURAL WORK IS REQUIRED. FURNITURE PERMIT WILL BE RUN SEPARATELY. THERE IS NO CHANGE OF USE.",
+      "description": "Revision ,1 - Revised  M207, reflecting updated ductwork and relocated controls based on as-built. ,Customer Wants To Use ePlansCustomer Wants To Use ePlans Interior work only,INTERIOR ALTERATION OF THE PARTIAL 7TH FLOOR. THE WORK CONSISTS OF NON STRUCTURAL DEMOLITION, AND NEW GENERAL PLUMBING, ELECTRICAL, AND MECHANICAL WORK. STRUCTURAL WORK IS REQUIRED. FURNITURE PERMIT WILL BE RUN SEPARATELY. THERE IS NO CHANGE OF USE.",
       "addeddate": "2026-04-02T04:04:04.000",
       "issueddate": "2026-06-29T07:06:34.000",
       "finaleddate": "",
