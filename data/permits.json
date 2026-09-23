@@ -1,8 +1,25 @@
 {
-  "last_updated": "2026-09-22T18:53:57.828922+00:00",
+  "last_updated": "2026-09-23T19:03:05.860412+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10658,
+  "record_count": 10659,
   "permits": [
+    {
+      "location": "8913 BROOKVILLE RD\nSILVER SPRING, MD 20910\n(39.00213, -77.05328)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$500,000",
+      "declaredvaluation_num": 500000.0,
+      "buildingarea": "5,179 sf",
+      "buildingarea_num": 5179.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,Interior only tenant alteration to existing vacant tenant space.  Prior tenant was believed to be an HVAC sales vendor.  New tenant will be \"\"Dogtopia\"\" a nationally franchised dog daycare and boarding facility.  There will be no exterior dog play area/boarding.  New interior walls and all associated mechanical, electrical, and plumbing work needed to complete the fit-out.",
+      "addeddate": "2026-09-22T03:09:47.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-09-22T03:09:47.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "7500 OLD GEORGETOWN RD\nBETHESDA, MD 20814\n(38.98528, -77.09512)",
       "status": "Open",
@@ -369,7 +386,7 @@
       "buildingarea": "1,884 sf",
       "buildingarea_num": 1884.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,THE SCOPE OF WORK REPRESENTED ON THESE DRAWINGS HAS BEEN PROVIDED IN ORDER TO\nCONSTRUCT A NEW SPEC SUITE ON THE 6TH FLOOR, APPROXIMATELY 1,884 SQUARE FEET. SCOPE\nOF WORK INCLUDES NEW PARTITIONS, ELECTRICAL, PLUMBING, FINISHES AND MODIFICATIONS TO\nTHE EXISTING HVAC SYSTEM. GC TO FURNISH LABOR, MATERIALS, TOOLS, EQUIPMENT, AND\nSERVICES FOR WORK AS INDICATED OR INFERRED BY THE DOCUMENTS TO COMPLETE TO\nDESIGN INTENT. GC SHALL COMPLETELY COORDINATE WORK AND SHALL ASSUME THE BURDEN\nOF ADDITIONAL COST IF SEQUENCING RESULTS IN WORK HAVING TO BE REMOVED OR IF HIS\nCOSTS INCREASE BECAUSE OF POOR SEQUENCING OF WORK. CONTRACTOR RESPONSIBLE FOR\nINCIDENTAL LOCAL JURISDICTION'S INTERPRETATIONS OF INTERNATIONAL BUILDING CODE.",
+      "description": "Customer Wants To Use ePlans Interior work only,THE SCOPE OF WORK REPRESENTED ON THESE DRAWINGS HAS BEEN PROVIDED IN ORDER TO CONSTRUCT A NEW SPEC SUITE ON THE 6TH FLOOR, APPROXIMATELY 1,884 SQUARE FEET. SCOPE OF WORK INCLUDES NEW PARTITIONS, ELECTRICAL, PLUMBING, FINISHES AND MODIFICATIONS TO THE EXISTING HVAC SYSTEM. GC TO FURNISH LABOR, MATERIALS, TOOLS, EQUIPMENT, AND SERVICES FOR WORK AS INDICATED OR INFERRED BY THE DOCUMENTS TO COMPLETE TO DESIGN INTENT. GC SHALL COMPLETELY COORDINATE WORK AND SHALL ASSUME THE BURDEN OF ADDITIONAL COST IF SEQUENCING RESULTS IN WORK HAVING TO BE REMOVED OR IF HIS COSTS INCREASE BECAUSE OF POOR SEQUENCING OF WORK. CONTRACTOR RESPONSIBLE FOR INCIDENTAL LOCAL JURISDICTION'S INTERPRETATIONS OF INTERNATIONAL BUILDING CODE.",
       "addeddate": "2026-09-01T02:09:46.000",
       "issueddate": "",
       "finaleddate": "",
@@ -1484,7 +1501,7 @@
     },
     {
       "location": "1901 RANDOLPH RD\nSILVER SPRING, MD 20902\n(39.06611, -77.03827)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$1",
       "declaredvaluation_num": 1.0,
@@ -1493,10 +1510,10 @@
       "worktype": "CONSTRUCT",
       "description": "—",
       "addeddate": "2026-07-24T03:07:46.000",
-      "issueddate": "",
+      "issueddate": "2026-09-22T01:09:37.000",
       "finaleddate": "",
       "addeddate_raw": "2026-07-24T03:07:46.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-09-22T01:09:37.000",
       "finaleddate_raw": ""
     },
     {
@@ -1637,7 +1654,7 @@
     },
     {
       "location": "9707 KEY WEST AVE\nROCKVILLE, MD 20850\n(39.10613, -77.20396)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$700,000",
       "declaredvaluation_num": 700000.0,
@@ -1646,10 +1663,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,SUITE# 300-SELECT INTERIOR ALTERATION WITHIN AN EXISTING FULL FLOOR TENANT SUITE. EXISTING SYSTEMS FURNITURE TO REMAIN. MODIFCATIONS TO EXITING MEP SYSTEMS.",
       "addeddate": "2026-07-21T09:07:47.000",
-      "issueddate": "",
+      "issueddate": "2026-09-22T10:09:46.000",
       "finaleddate": "",
       "addeddate_raw": "2026-07-21T09:07:47.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-09-22T10:09:46.000",
       "finaleddate_raw": ""
     },
     {
@@ -1841,7 +1858,7 @@
     },
     {
       "location": "7500 OLD GEORGETOWN RD\nBETHESDA, MD 20814\n(38.98528, -77.09512)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$325,440",
       "declaredvaluation_num": 325440.0,
@@ -1850,10 +1867,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,SELECTIVE DEMOLITION OF EXISTING WALLS. DEMOLITION OF EXISTING CEILINGS, LIGHTING, AND WALL + FLOOR FINISHES AND REMOVAL OF EXISTING EQUIPMENT AND FIXTUES. NEW WORK INCLUDES PARTITIONS + DFH, CEILINGS",
       "addeddate": "2026-07-08T04:07:55.000",
-      "issueddate": "",
+      "issueddate": "2026-09-22T10:09:05.000",
       "finaleddate": "",
       "addeddate_raw": "2026-07-08T04:07:55.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-09-22T10:09:05.000",
       "finaleddate_raw": ""
     },
     {
@@ -2096,7 +2113,7 @@
     },
     {
       "location": "915 MEETING ST\nROCKVILLE, MD 20852\n(39.05064, -77.11564)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$99,550",
       "declaredvaluation_num": 99550.0,
@@ -2106,10 +2123,10 @@
       "description": "Customer Wants To Use ePlans,INTERIOR ALTERATION OF EXISTING TENANT FIT-OUT TO INCLUDE ENCLOSED OFFICES, WITH MECHANICAL AND ELECTRICAL WORK.",
       "addeddate": "2026-06-16T01:06:09.000",
       "issueddate": "2026-07-24T02:07:30.000",
-      "finaleddate": "",
+      "finaleddate": "2026-09-22T12:09:25.000",
       "addeddate_raw": "2026-06-16T01:06:09.000",
       "issueddate_raw": "2026-07-24T02:07:30.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-09-22T12:09:25.000"
     },
     {
       "location": "7871 BEECHCRAFT AVE\nGAITHERSBURG, MD 20879\n(39.16336, -77.161)",
@@ -6115,7 +6132,7 @@
       "buildingarea": "1,044 sf",
       "buildingarea_num": 1044.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,New tenant layout, 8 barber station, 3 shampoo sink, new office and breakroom",
+      "description": "Revision ,1 - Revise the mechanical plan only. The HVAC system is existing and was already identified as existing in the mechanical schedule. However, the mechanical layout incorrectly labeled the HVAC equipment as (N) New.\n\nRevise the mechanical layout to correctly indicate the HVAC equipment as (E) Existing.\n\nNo changes are being made to the existing HVAC system.,Customer Wants To Use ePlansCustomer Wants To Use ePlans,New tenant layout, 8 barber station, 3 shampoo sink, new office and breakroom",
       "addeddate": "2025-12-14T09:12:32.000",
       "issueddate": "2026-05-15T02:05:44.000",
       "finaleddate": "",
@@ -9950,7 +9967,7 @@
     },
     {
       "location": "7500 OLD GEORGETOWN RD\nBETHESDA, MD 20814\n(38.98528, -77.09512)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$1,589,252",
       "declaredvaluation_num": 1589252.0,
@@ -9960,10 +9977,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,Interior alterations to an existing tenant space for a new Radiology Clinic.",
       "addeddate": "2025-06-20T01:06:43.000",
       "issueddate": "2025-10-08T10:10:38.000",
-      "finaleddate": "",
+      "finaleddate": "2026-09-22T02:09:55.000",
       "addeddate_raw": "2025-06-20T01:06:43.000",
       "issueddate_raw": "2025-10-08T10:10:38.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-09-22T02:09:55.000"
     },
     {
       "location": "15400 CALHOUN DR\nROCKVILLE, MD 20855\n(39.107296, -77.149181)",
@@ -11283,7 +11300,7 @@
       "buildingarea": "5,277 sf",
       "buildingarea_num": 5277.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans Interior work only,This level 2 alteration to the 7th floor reconfigures two existing office suites into a single office space.",
+      "description": "Revision ,1 - VE reductions (removed entry reception desk) and new huddle room next to kitchenette,Customer Wants To Use ePlansCustomer Wants To Use ePlans Interior work only,This level 2 alteration to the 7th floor reconfigures two existing office suites into a single office space.",
       "addeddate": "2025-04-23T02:04:32.000",
       "issueddate": "2025-06-17T11:06:34.000",
       "finaleddate": "",
@@ -14216,8 +14233,8 @@
       "finaleddate_raw": "2025-10-15T01:10:44.000"
     },
     {
-      "location": "10408 MONTGOMERY AVE\nKENSINGTON, MD 20895\n(39.02626, -77.07268)",
-      "status": "Issued",
+      "location": "10408 MONTGOMERY AVE\nKENSINGTON, MD 20895\n(39.02625, -77.07264)",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$332,147",
       "declaredvaluation_num": 332147.0,
@@ -14227,10 +14244,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,INTERIOR ALTERATION OF EXISTING OFFICE: OPEN OFFICE AREA TO BE CONVERTED INTO A TRAINING ROOM, ENLARGE EXISTING TRAINING ROOM BY REMOVING EXISTING VESTIBULE, CONVERTING EXISTING CONFERENCE AREA INTO A TEACHINGKITCHEN (NOT FOR PUBLIC OR COMMERCIAL USE), NEW FINISHES, NEW RECEPTION DESK, CONVERTING (2) STORAGE ROOMS INTO QUIET ROOMS. NO CHANGE OF USE, INCREASE IN OCCUPANT LOAD; FULL ADA COMPLIANCE.",
       "addeddate": "2024-11-08T09:11:04.000",
       "issueddate": "2025-07-30T11:07:27.000",
-      "finaleddate": "",
+      "finaleddate": "2026-09-22T11:09:10.000",
       "addeddate_raw": "2024-11-08T09:11:04.000",
       "issueddate_raw": "2025-07-30T11:07:27.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-09-22T11:09:10.000"
     },
     {
       "location": "7634 STANDISH PL\nROCKVILLE, MD 20855\n(39.11012, -77.15667)",
@@ -23736,23 +23753,6 @@
       "finaleddate_raw": "2023-11-17T01:11:33.000"
     },
     {
-      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
-      "status": "Finaled",
-      "usecode": "BUSINESS BUILDING",
-      "declaredvaluation": "$285,270",
-      "declaredvaluation_num": 285270.0,
-      "buildingarea": "8,082 sf",
-      "buildingarea_num": 8082.0,
-      "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans Interior work only,Deliver and install office furniture===SUITE 600",
-      "addeddate": "2023-07-26T10:07:49.000",
-      "issueddate": "2023-08-03T10:08:55.000",
-      "finaleddate": "2023-08-17T07:08:01.000",
-      "addeddate_raw": "2023-07-26T10:07:49.000",
-      "issueddate_raw": "2023-08-03T10:08:55.000",
-      "finaleddate_raw": "2023-08-17T07:08:01.000"
-    },
-    {
       "location": "20451 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.192795003, -77.256531975)",
       "status": "Finaled",
       "usecode": "BIOSCIENCE",
@@ -23768,6 +23768,23 @@
       "addeddate_raw": "2023-07-26T10:07:49.000",
       "issueddate_raw": "2023-11-07T10:11:44.000",
       "finaleddate_raw": "2024-02-05T01:02:22.000"
+    },
+    {
+      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
+      "status": "Finaled",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$285,270",
+      "declaredvaluation_num": 285270.0,
+      "buildingarea": "8,082 sf",
+      "buildingarea_num": 8082.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans Interior work only,Deliver and install office furniture===SUITE 600",
+      "addeddate": "2023-07-26T10:07:49.000",
+      "issueddate": "2023-08-03T10:08:55.000",
+      "finaleddate": "2023-08-17T07:08:01.000",
+      "addeddate_raw": "2023-07-26T10:07:49.000",
+      "issueddate_raw": "2023-08-03T10:08:55.000",
+      "finaleddate_raw": "2023-08-17T07:08:01.000"
     },
     {
       "location": "6169 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.049774003, -77.125105996)",
