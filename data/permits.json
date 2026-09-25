@@ -1,8 +1,25 @@
 {
-  "last_updated": "2026-09-24T19:09:12.995921+00:00",
+  "last_updated": "2026-09-25T19:14:31.552573+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10660,
+  "record_count": 10661,
   "permits": [
+    {
+      "location": "31 RANDOLPH RD\nSILVER SPRING, MD 20904\n(39.07673, -77.00398)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$25,000",
+      "declaredvaluation_num": 25000.0,
+      "buildingarea": "1,039 sf",
+      "buildingarea_num": 1039.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans  Interior work only,INTERIOR ALTERATIONS AND TENANT BUILD-OUT OF AN EXISTING EMPTY COMMERCIAL SHELL SPACE INTO A NEW BEAUTY SALON. WORK INCLUDES MINOR NON-BEARING METAL STUD PARTITION WALLS, INSTALLATION OF 3 EYEBROW STATIONS, 1 WAXING UNIT, 1 FACIAL UNIT AND 1 DEDICATED ADA-COMPLIANT CLIENT RESTROOM, MODIFICATIONS TO EXISTING ELECTRICAL DISTRIBUTION, AND PLUMBING CONNECTIONS TO THE BUILDING'S MAIN LINES IN ACCORDANCE WITH WSSC GUIDELINES.",
+      "addeddate": "2026-09-24T05:09:02.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-09-24T05:09:02.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "7910 WOODMONT AVE\nBETHESDA, MD 20814\n(38.98931, -77.09629)",
       "status": "Open",
@@ -12,7 +29,7 @@
       "buildingarea": "2,151 sf",
       "buildingarea_num": 2151.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,INTERIORALTERATIONTHAT IIJCLUDESNEW PARTITION LAYOUT WITHMJ ADDED ACCESSIBLERESTROOM \nREQUIRINGMODIFICATIONSTO THE EXISTINGMECHANICALAND ELECTRICALAND NEW PLUMBING. NO STRUCTURAL SCOPE \nOF WORK IS REQUIRED.",
+      "description": "Customer Wants To Use ePlans Interior work only,INTERIORALTERATIONTHAT IIJCLUDESNEW PARTITION LAYOUT WITHMJ ADDED ACCESSIBLERESTROOM REQUIRINGMODIFICATIONSTO THE EXISTINGMECHANICALAND ELECTRICALAND NEW PLUMBING. NO STRUCTURAL SCOPE OF WORK IS REQUIRED.  Other Applications and Cases: USE AND OCCUPANCY PERMIT APPLICATION# 426260",
       "addeddate": "2026-09-23T07:09:21.000",
       "issueddate": "",
       "finaleddate": "",
@@ -23770,23 +23787,6 @@
       "finaleddate_raw": "2023-11-17T01:11:33.000"
     },
     {
-      "location": "20451 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.192795003, -77.256531975)",
-      "status": "Finaled",
-      "usecode": "BIOSCIENCE",
-      "declaredvaluation": "$1,730,000",
-      "declaredvaluation_num": 1730000.0,
-      "buildingarea": "11,270 sf",
-      "buildingarea_num": 11270.0,
-      "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,Interior alterations to existing single tenant lab space, restrooms &amp; office spaces, including new ceilings, interior finishes, partitions, doors &amp; frames &amp; millwork. Tenant is supplying furniture &amp;, equipment. Work includes plumbing, mechanical &amp; electrical. No structural work.",
-      "addeddate": "2023-07-26T10:07:49.000",
-      "issueddate": "2023-11-07T10:11:44.000",
-      "finaleddate": "2024-02-05T01:02:22.000",
-      "addeddate_raw": "2023-07-26T10:07:49.000",
-      "issueddate_raw": "2023-11-07T10:11:44.000",
-      "finaleddate_raw": "2024-02-05T01:02:22.000"
-    },
-    {
       "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
@@ -23802,6 +23802,23 @@
       "addeddate_raw": "2023-07-26T10:07:49.000",
       "issueddate_raw": "2023-08-03T10:08:55.000",
       "finaleddate_raw": "2023-08-17T07:08:01.000"
+    },
+    {
+      "location": "20451 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.192795003, -77.256531975)",
+      "status": "Finaled",
+      "usecode": "BIOSCIENCE",
+      "declaredvaluation": "$1,730,000",
+      "declaredvaluation_num": 1730000.0,
+      "buildingarea": "11,270 sf",
+      "buildingarea_num": 11270.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,Interior alterations to existing single tenant lab space, restrooms &amp; office spaces, including new ceilings, interior finishes, partitions, doors &amp; frames &amp; millwork. Tenant is supplying furniture &amp;, equipment. Work includes plumbing, mechanical &amp; electrical. No structural work.",
+      "addeddate": "2023-07-26T10:07:49.000",
+      "issueddate": "2023-11-07T10:11:44.000",
+      "finaleddate": "2024-02-05T01:02:22.000",
+      "addeddate_raw": "2023-07-26T10:07:49.000",
+      "issueddate_raw": "2023-11-07T10:11:44.000",
+      "finaleddate_raw": "2024-02-05T01:02:22.000"
     },
     {
       "location": "6169 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.049774003, -77.125105996)",
