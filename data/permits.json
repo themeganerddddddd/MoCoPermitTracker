@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T21:13:39.742825+00:00",
+  "last_updated": "2026-09-29T19:58:47.464880+00:00",
   "source_dataset": "i26v-w6bd",
   "record_count": 10664,
   "permits": [
@@ -199,7 +199,7 @@
       "buildingarea": "4,018 sf",
       "buildingarea_num": 4018.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,INTERIOR ALTERATION OF SUITE 250. NON STRUCTURAL DEMOLITION, AND NEW GENERAL PLUMBING, ELECTRICAL, AND MECHANICAL WORK.",
+      "description": "Customer Wants To Use ePlans Interior work only,INTERIOR ALTERATION OF SUITE 250. NON STRUCTURAL DEMOLITION, AND NEW GENERAL PLUMBING, ELECTRICAL, AND MECHANICAL WORK.",
       "addeddate": "2026-09-14T12:09:21.000",
       "issueddate": "",
       "finaleddate": "",
@@ -570,8 +570,8 @@
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$25,000",
       "declaredvaluation_num": 25000.0,
-      "buildingarea": "60 sf",
-      "buildingarea_num": 60.0,
+      "buildingarea": "0 sf",
+      "buildingarea_num": 0,
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,Electrical service upgrade for future Electrical Vehicle Charger only no other work. All work performed outside of the building.",
       "addeddate": "2026-08-28T12:08:50.000",
@@ -1144,7 +1144,7 @@
     },
     {
       "location": "11119 ROCKVILLE PIKE\nKENSINGTON, MD 20895\n(39.04084, -77.10977)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$338,000",
       "declaredvaluation_num": 338000.0,
@@ -1153,10 +1153,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,TENANT: NEUROLOGY, HEADACHE &amp; PAIN INSTITUTE EXPANSION SUITE 500 INTERIOR ALTERATIONS OF AN EXPANSION AREA OUTSIDE THE EXISTING TENANT SUITE TO ACCOMODATE A NEW OFFICE LAYOUT INCORPORATING THE REMAINING FLOOR AREA.",
       "addeddate": "2026-08-05T09:08:07.000",
-      "issueddate": "",
+      "issueddate": "2026-09-28T12:09:45.000",
       "finaleddate": "",
       "addeddate_raw": "2026-08-05T09:08:07.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-09-28T12:09:45.000",
       "finaleddate_raw": ""
     },
     {
@@ -4765,7 +4765,7 @@
     },
     {
       "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$365,000",
       "declaredvaluation_num": 365000.0,
@@ -4775,10 +4775,10 @@
       "description": "Customer Wants To Use ePlans,INTERIOR OFFICE TENANT FIT-OUT CONSISTING OF A LEVEL 2 INTERIOR ALTERATION WITHIN AN EXISTING MULTI-TENANT OFFICE FLOOR. NO CHANGE IN USE, OCCUPANCY, OR STRUCTURAL COMPONENTS IS INCLUDED IN THIS PROJECT. THE SCOPE OF WORK INCLUDES: INSTALLATION AND MODIFICATION OF NON-BEARING INTERIOR PARTITIONS, NEW AND MODIFIED ACOUSTICAL CEILINGSYSTEMS, LIGHTING INSTALLATION AND ALTERATIONS, ASSOCIATED ELECTRICAL, MECHANICAL,AND LOW-VOLTAGE WORK NECESSARY TO SUPPORT THE REVISED LAYOUT ALL WORK IS LIMITED TO THE INTERIOR AND DOES NOT IMPACT THE BUILDING�S STRUCTURAL SYSTEMS, LIFE-SAFETY SYSTEMS BEYOND NORMAL DEVICE RELOCATION, OR ANY EXTERIOR COMPONENTS.",
       "addeddate": "2026-02-24T09:02:33.000",
       "issueddate": "2026-04-06T10:04:37.000",
-      "finaleddate": "",
+      "finaleddate": "2026-09-28T11:09:56.000",
       "addeddate_raw": "2026-02-24T09:02:33.000",
       "issueddate_raw": "2026-04-06T10:04:37.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-09-28T11:09:56.000"
     },
     {
       "location": "1945 SEMINARY RD\nSILVER SPRING, MD 20910\n(39.00882, -77.04209)",
@@ -8403,7 +8403,7 @@
     },
     {
       "location": "21230 MARTINSBURG RD\nDICKERSON, MD 20842\n(39.20505, -77.44098)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$500,000",
       "declaredvaluation_num": 500000.0,
@@ -8412,10 +8412,10 @@
       "worktype": "CONSTRUCT",
       "description": "Customer Wants To Use ePlans,Modular office building approx 27'W x 64'L U&amp;O 419151",
       "addeddate": "2025-09-08T12:09:24.000",
-      "issueddate": "",
+      "issueddate": "2026-09-28T10:09:38.000",
       "finaleddate": "",
       "addeddate_raw": "2025-09-08T12:09:24.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-09-28T10:09:38.000",
       "finaleddate_raw": ""
     },
     {
@@ -23838,23 +23838,6 @@
       "finaleddate_raw": "2023-11-17T01:11:33.000"
     },
     {
-      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
-      "status": "Finaled",
-      "usecode": "BUSINESS BUILDING",
-      "declaredvaluation": "$285,270",
-      "declaredvaluation_num": 285270.0,
-      "buildingarea": "8,082 sf",
-      "buildingarea_num": 8082.0,
-      "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans Interior work only,Deliver and install office furniture===SUITE 600",
-      "addeddate": "2023-07-26T10:07:49.000",
-      "issueddate": "2023-08-03T10:08:55.000",
-      "finaleddate": "2023-08-17T07:08:01.000",
-      "addeddate_raw": "2023-07-26T10:07:49.000",
-      "issueddate_raw": "2023-08-03T10:08:55.000",
-      "finaleddate_raw": "2023-08-17T07:08:01.000"
-    },
-    {
       "location": "20451 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.192795003, -77.256531975)",
       "status": "Finaled",
       "usecode": "BIOSCIENCE",
@@ -23870,6 +23853,23 @@
       "addeddate_raw": "2023-07-26T10:07:49.000",
       "issueddate_raw": "2023-11-07T10:11:44.000",
       "finaleddate_raw": "2024-02-05T01:02:22.000"
+    },
+    {
+      "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
+      "status": "Finaled",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$285,270",
+      "declaredvaluation_num": 285270.0,
+      "buildingarea": "8,082 sf",
+      "buildingarea_num": 8082.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans Interior work only,Deliver and install office furniture===SUITE 600",
+      "addeddate": "2023-07-26T10:07:49.000",
+      "issueddate": "2023-08-03T10:08:55.000",
+      "finaleddate": "2023-08-17T07:08:01.000",
+      "addeddate_raw": "2023-07-26T10:07:49.000",
+      "issueddate_raw": "2023-08-03T10:08:55.000",
+      "finaleddate_raw": "2023-08-17T07:08:01.000"
     },
     {
       "location": "6169 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.049774003, -77.125105996)",
