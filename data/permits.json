@@ -1,8 +1,25 @@
 {
-  "last_updated": "2026-09-29T19:58:47.464880+00:00",
+  "last_updated": "2026-09-30T20:00:19.041594+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10664,
+  "record_count": 10665,
   "permits": [
+    {
+      "location": "25901 FREDERICK RD\nCLARKSBURG, MD 20871\n(39.28094, -77.3146)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$1",
+      "declaredvaluation_num": 1.0,
+      "buildingarea": "0 sf",
+      "buildingarea_num": 0,
+      "worktype": "CONSTRUCT",
+      "description": "—",
+      "addeddate": "2026-09-29T08:09:27.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-09-29T08:09:27.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "6425 ROCK FOREST DR\nBETHESDA, MD 20817\n(39.03024, -77.12961)",
       "status": "Open",
@@ -400,8 +417,8 @@
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$350,000",
       "declaredvaluation_num": 350000.0,
-      "buildingarea": "35,379 sf",
-      "buildingarea_num": 35379.0,
+      "buildingarea": "0 sf",
+      "buildingarea_num": 0,
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans  Interior work only,Systems Furniture",
       "addeddate": "2026-09-04T02:09:10.000",
