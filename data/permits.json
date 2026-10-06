@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-05T22:00:38.411701+00:00",
+  "last_updated": "2026-10-06T20:18:22.752072+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10671,
+  "record_count": 10670,
   "permits": [
     {
       "location": "12331 GEORGIA AVE\nSILVER SPRING, MD 20906\n(39.05932, -77.04983)",
@@ -182,7 +182,7 @@
       "buildingarea": "1,039 sf",
       "buildingarea_num": 1039.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,INTERIOR ALTERATIONS AND TENANT BUILD-OUT OF AN EXISTING EMPTY COMMERCIAL SHELL SPACE INTO A NEW BEAUTY SALON. WORK INCLUDES MINOR NON-BEARING METAL STUD PARTITION WALLS, INSTALLATION OF 3 EYEBROW STATIONS, 1 WAXING UNIT, 1 FACIAL UNIT AND 1 DEDICATED ADA-COMPLIANT CLIENT RESTROOM, MODIFICATIONS TO EXISTING ELECTRICAL DISTRIBUTION, AND PLUMBING CONNECTIONS TO THE BUILDING'S MAIN LINES IN ACCORDANCE WITH WSSC GUIDELINES.",
+      "description": "Customer Wants To Use ePlans Interior work only,INTERIOR ALTERATIONS AND TENANT BUILD-OUT OF AN EXISTING EMPTY COMMERCIAL SHELL SPACE INTO A NEW BEAUTY SALON. WORK INCLUDES MINOR NON-BEARING METAL STUD PARTITION WALLS, INSTALLATION OF 3 EYEBROW STATIONS, 1 WAXING UNIT, 1 FACIAL UNIT AND 1 DEDICATED ADA-COMPLIANT CLIENT RESTROOM, MODIFICATIONS TO EXISTING ELECTRICAL DISTRIBUTION, AND PLUMBING CONNECTIONS TO THE BUILDING'S MAIN LINES IN ACCORDANCE WITH WSSC GUIDELINES.",
       "addeddate": "2026-09-24T05:09:02.000",
       "issueddate": "",
       "finaleddate": "",
@@ -352,7 +352,7 @@
       "buildingarea": "100 sf",
       "buildingarea_num": 100.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only, REPLACEMENT OF THE BUILDING DOMESTIC HOT WATER HEATER SYSTEM AND STORAGE TANK SERVING THE EMPLOYEE KITCHEN. No structural or architectural disturbance except piping",
+      "description": "Customer Wants To Use ePlans Interior work only, REPLACEMENT OF THE BUILDING DOMESTIC HOT WATER HEATER SYSTEM AND STORAGE TANK SERVING THE EMPLOYEE KITCHEN. No structural or architectural disturbance except piping",
       "addeddate": "2026-09-14T02:09:45.000",
       "issueddate": "",
       "finaleddate": "",
@@ -442,23 +442,6 @@
       "issueddate": "",
       "finaleddate": "",
       "addeddate_raw": "2026-09-09T11:09:29.000",
-      "issueddate_raw": "",
-      "finaleddate_raw": ""
-    },
-    {
-      "location": "9800 MEDICAL CENTER DR\nROCKVILLE, MD 20850\n(39.09623, -77.19735)",
-      "status": "Open",
-      "usecode": "BIOSCIENCE",
-      "declaredvaluation": "$71,000",
-      "declaredvaluation_num": 71000.0,
-      "buildingarea": "96 sf",
-      "buildingarea_num": 96.0,
-      "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,project to replace an existing exhaust fan with a bigger exhaust fan and duct work will be ran with a HEPA filter installed",
-      "addeddate": "2026-09-09T09:09:15.000",
-      "issueddate": "",
-      "finaleddate": "",
-      "addeddate_raw": "2026-09-09T09:09:15.000",
       "issueddate_raw": "",
       "finaleddate_raw": ""
     },
@@ -1382,7 +1365,7 @@
     },
     {
       "location": "9911 BELWARD CAMPUS DR\nROCKVILLE, MD 20850\n(39.10453, -77.21046)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BIOSCIENCE",
       "declaredvaluation": "$1,800,000",
       "declaredvaluation_num": 1800000.0,
@@ -1391,10 +1374,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,THE SCOPE OF WORK IS LIMITED TO PROCESS WASTEWATER SYSTEM UPGRADES INCLUDING EQUIPMENT REPLACEMENT IN KIND, EQUIPMENT UPGRADES, PROCESS PIPING MODIFICATIONS, VALVE REPLACEMENTS, AND ASSOCIATED MECHANICAL AND UTILITY MODIFICATIONS",
       "addeddate": "2026-08-03T04:08:58.000",
-      "issueddate": "",
+      "issueddate": "2026-10-05T02:10:18.000",
       "finaleddate": "",
       "addeddate_raw": "2026-08-03T04:08:58.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-10-05T02:10:18.000",
       "finaleddate_raw": ""
     },
     {
@@ -3021,7 +3004,7 @@
       "buildingarea": "3,433 sf",
       "buildingarea_num": 3433.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans Interior work only,GI SUITE (# 123) WILL INCLUDE A WAITING LOBBY, 2 PROCEDURE ROOMS, 6 PREP AND RECOVERY ROOMS, AND ASSOCIATED STAFF SUPPORT AREAS within a none sprinkler building",
+      "description": "Revision ,01 - REVISION PER FIELD CHANGES AND CUSTOMER REQUEST.  SEE NARRATIVE FOR DETAILS.,Customer Wants To Use ePlansCustomer Wants To Use ePlans Interior work only,GI SUITE (# 123) WILL INCLUDE A WAITING LOBBY, 2 PROCEDURE ROOMS, 6 PREP AND RECOVERY ROOMS, AND ASSOCIATED STAFF SUPPORT AREAS within a none sprinkler building",
       "addeddate": "2026-05-14T02:05:25.000",
       "issueddate": "2026-08-11T09:08:17.000",
       "finaleddate": "",
@@ -3530,8 +3513,8 @@
       "declaredvaluation_num": 8000.0,
       "buildingarea": "60 sf",
       "buildingarea_num": 60.0,
-      "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,This permit is for a new ADA Ramp and new enter stair in the front of the building. Ther permit # associate to the building interior renovation is\nPermit# 1149444",
+      "worktype": "ADD",
+      "description": "Customer Wants To Use ePlans: This permit is for a new ADA Ramp and new enter stair in the front of the building. Ther permit # associate to the building interior renovation is Permit# 1149444",
       "addeddate": "2026-04-21T02:04:10.000",
       "issueddate": "",
       "finaleddate": "",
@@ -4033,8 +4016,8 @@
       "finaleddate_raw": "2026-05-06T07:05:45.000"
     },
     {
-      "location": "6720 ROCKLEDGE DR\nROCKVILLE, MD 20817\n(39.02921, -77.13481)",
-      "status": "Issued",
+      "location": "6720 ROCKLEDGE DR\nROCKVILLE, MD 20817\n(39.02905, -77.13795)",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$226,685",
       "declaredvaluation_num": 226685.0,
@@ -4044,10 +4027,10 @@
       "description": "Revision ,1 - Adding (1) single user toilet room.,Customer Wants To Use ePlans ***&nbsp;The&nbsp;additional toilet room will be for staff and the&nbsp;Provider's Office will become the Staff Lounge. *** Customer Wants To Use ePlans Interior work only,Interior alteration of existing office shell space for an existing medical office tenant expansion. Demo work for new corridor openings. New work includes new partitions, ceilings, millwork, lighting, and finishes. New electrical and plumbing work throughout. Existing mechanical to be modified and new components to support new build-out.",
       "addeddate": "2026-03-31T03:03:17.000",
       "issueddate": "2026-05-27T07:05:08.000",
-      "finaleddate": "",
+      "finaleddate": "2026-10-05T03:10:12.000",
       "addeddate_raw": "2026-03-31T03:03:17.000",
       "issueddate_raw": "2026-05-27T07:05:08.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-10-05T03:10:12.000"
     },
     {
       "location": "7600 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98612, -77.09457)",
@@ -10714,8 +10697,8 @@
       "finaleddate_raw": "2026-02-06T11:02:42.000"
     },
     {
-      "location": "7101 DEMOCRACY BLVD\nBETHESDA, MD 20817\n(39.0242, -77.1459)",
-      "status": "Issued",
+      "location": "7101 DEMOCRACY BLVD\nBETHESDA, MD 20817\n(39.02311, -77.14703)",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$200,000",
       "declaredvaluation_num": 200000.0,
@@ -10725,10 +10708,10 @@
       "description": "Revision ,2 - Revision to approve permit # COMBUILD-1118324. Changing the location of the remote dry storage area.,Customer Wants To Use ePlansCustomer Wants To Use ePlans,Conversion of existing retail space for construction of Wetzel's Pretzels store   Bid estimate was not provided.",
       "addeddate": "2025-05-21T01:05:42.000",
       "issueddate": "2025-10-30T09:10:43.000",
-      "finaleddate": "",
+      "finaleddate": "2026-10-05T03:10:23.000",
       "addeddate_raw": "2025-05-21T01:05:42.000",
       "issueddate_raw": "2025-10-30T09:10:43.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-10-05T03:10:23.000"
     },
     {
       "location": "1110 SPRING ST\nSILVER SPRING, MD 20910\n(38.99986, -77.02837)",
