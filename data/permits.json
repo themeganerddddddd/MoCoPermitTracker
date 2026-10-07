@@ -1,8 +1,42 @@
 {
-  "last_updated": "2026-10-06T20:18:22.752072+00:00",
+  "last_updated": "2026-10-07T20:36:54.013968+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10670,
+  "record_count": 10672,
   "permits": [
+    {
+      "location": "18905 KINGSVIEW RD\nGERMANTOWN, MD 20874\n(39.16533, -77.28556)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$1",
+      "declaredvaluation_num": 1.0,
+      "buildingarea": "0 sf",
+      "buildingarea_num": 0,
+      "worktype": "CONSTRUCT",
+      "description": "—",
+      "addeddate": "2026-10-06T08:10:37.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-10-06T08:10:37.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "",
+      "status": "Open",
+      "usecode": "INDUSTRIAL BUILDING",
+      "declaredvaluation": "$40,000",
+      "declaredvaluation_num": 40000.0,
+      "buildingarea": "1,521 sf",
+      "buildingarea_num": 1521.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,Tenant fit-out for FASTSIGNS, a sign design and production business, located at 8905 Brookville Road",
+      "addeddate": "2026-10-06T02:10:18.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-10-06T02:10:18.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "12331 GEORGIA AVE\nSILVER SPRING, MD 20906\n(39.05932, -77.04983)",
       "status": "Open",
@@ -964,7 +998,7 @@
       "buildingarea": "2,313 sf",
       "buildingarea_num": 2313.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,Fitness studio interior build out in a demised retail space. Work to include demolition, the installation of ceilings, partitions, doors, interior finishes, mechanical work, electrical work, and plumbing work for a fitness studio..",
+      "description": "Customer Wants To Use ePlans,Fitness studio interior build out in a demised retail space. Work to include demolition, the installation of ceilings, partitions, doors, interior finishes, mechanical work, electrical work, and plumbing work for a fitness studio.. USE AND OCCUPANCY PERMIT INFORMATION - APPLICATION# 426459",
       "addeddate": "2026-08-12T11:08:31.000",
       "issueddate": "",
       "finaleddate": "",
@@ -3507,7 +3541,7 @@
     },
     {
       "location": "10101 LORAIN AVE\nSILVER SPRING, MD 20901\n(39.022, -77.01477)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$8,000",
       "declaredvaluation_num": 8000.0,
@@ -3516,10 +3550,10 @@
       "worktype": "ADD",
       "description": "Customer Wants To Use ePlans: This permit is for a new ADA Ramp and new enter stair in the front of the building. Ther permit # associate to the building interior renovation is Permit# 1149444",
       "addeddate": "2026-04-21T02:04:10.000",
-      "issueddate": "",
+      "issueddate": "2026-10-06T09:10:26.000",
       "finaleddate": "",
       "addeddate_raw": "2026-04-21T02:04:10.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-10-06T09:10:26.000",
       "finaleddate_raw": ""
     },
     {
@@ -6465,7 +6499,7 @@
     },
     {
       "location": "8403 COLESVILLE RD\nSILVER SPRING, MD 20910\n(38.99437, -77.03087)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$25,000",
       "declaredvaluation_num": 25000.0,
@@ -6475,10 +6509,10 @@
       "description": "Customer Wants To Use ePlans,In-fill of existing tenant communicating stair between the 15th and 16th floor. This stair was used for convenience purposes only and does not serve as a means of egress. Scope includes selective demolition, structural infill framing, installation of new floor decking and finishes to match adjacent conditions, and any associated mechanical, electrical, or life-safety adjustments required to maintain code compliance. 8403 Colesville RD FLS-15/16 Silver Spring, MD 20190",
       "addeddate": "2025-12-08T01:12:36.000",
       "issueddate": "2026-02-19T09:02:47.000",
-      "finaleddate": "",
+      "finaleddate": "2026-10-06T02:10:52.000",
       "addeddate_raw": "2025-12-08T01:12:36.000",
       "issueddate_raw": "2026-02-19T09:02:47.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-10-06T02:10:52.000"
     },
     {
       "location": "9711 MEDICAL CENTER DR\nROCKVILLE, MD 20850\n(39.0996, -77.19752)",
@@ -7502,7 +7536,7 @@
     },
     {
       "location": "12601 TWINBROOK PKWY\nROCKVILLE, MD 20852\n(39.06343, -77.11627)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$96,563",
       "declaredvaluation_num": 96563.0,
@@ -7512,10 +7546,10 @@
       "description": "Customer Wants To Use ePlans Interior work only---INTERIOR ONLY DEMOLITION OF AN EXISTING LAB &amp; MECHANICAL SPACE. LEVEL 1 AND G.",
       "addeddate": "2025-10-29T01:10:45.000",
       "issueddate": "2025-12-02T09:12:17.000",
-      "finaleddate": "",
+      "finaleddate": "2026-10-06T03:10:36.000",
       "addeddate_raw": "2025-10-29T01:10:45.000",
       "issueddate_raw": "2025-12-02T09:12:17.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-10-06T03:10:36.000"
     },
     {
       "location": "7712 WOODMONT AVE\nBETHESDA, MD 20814\n(38.98671, -77.09625)",
@@ -23940,23 +23974,6 @@
       "finaleddate_raw": "2023-11-17T01:11:33.000"
     },
     {
-      "location": "20451 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.192795003, -77.256531975)",
-      "status": "Finaled",
-      "usecode": "BIOSCIENCE",
-      "declaredvaluation": "$1,730,000",
-      "declaredvaluation_num": 1730000.0,
-      "buildingarea": "11,270 sf",
-      "buildingarea_num": 11270.0,
-      "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,Interior alterations to existing single tenant lab space, restrooms &amp; office spaces, including new ceilings, interior finishes, partitions, doors &amp; frames &amp; millwork. Tenant is supplying furniture &amp;, equipment. Work includes plumbing, mechanical &amp; electrical. No structural work.",
-      "addeddate": "2023-07-26T10:07:49.000",
-      "issueddate": "2023-11-07T10:11:44.000",
-      "finaleddate": "2024-02-05T01:02:22.000",
-      "addeddate_raw": "2023-07-26T10:07:49.000",
-      "issueddate_raw": "2023-11-07T10:11:44.000",
-      "finaleddate_raw": "2024-02-05T01:02:22.000"
-    },
-    {
       "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
@@ -23972,6 +23989,23 @@
       "addeddate_raw": "2023-07-26T10:07:49.000",
       "issueddate_raw": "2023-08-03T10:08:55.000",
       "finaleddate_raw": "2023-08-17T07:08:01.000"
+    },
+    {
+      "location": "20451 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.192795003, -77.256531975)",
+      "status": "Finaled",
+      "usecode": "BIOSCIENCE",
+      "declaredvaluation": "$1,730,000",
+      "declaredvaluation_num": 1730000.0,
+      "buildingarea": "11,270 sf",
+      "buildingarea_num": 11270.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,Interior alterations to existing single tenant lab space, restrooms &amp; office spaces, including new ceilings, interior finishes, partitions, doors &amp; frames &amp; millwork. Tenant is supplying furniture &amp;, equipment. Work includes plumbing, mechanical &amp; electrical. No structural work.",
+      "addeddate": "2023-07-26T10:07:49.000",
+      "issueddate": "2023-11-07T10:11:44.000",
+      "finaleddate": "2024-02-05T01:02:22.000",
+      "addeddate_raw": "2023-07-26T10:07:49.000",
+      "issueddate_raw": "2023-11-07T10:11:44.000",
+      "finaleddate_raw": "2024-02-05T01:02:22.000"
     },
     {
       "location": "6169 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.049774003, -77.125105996)",
