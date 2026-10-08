@@ -1,8 +1,25 @@
 {
-  "last_updated": "2026-10-07T20:36:54.013968+00:00",
+  "last_updated": "2026-10-08T20:41:30.683760+00:00",
   "source_dataset": "i26v-w6bd",
   "record_count": 10672,
   "permits": [
+    {
+      "location": "7373 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.9835, -77.09371)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$30,500",
+      "declaredvaluation_num": 30500.0,
+      "buildingarea": "624 sf",
+      "buildingarea_num": 624.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,NEW POCKET RENOVATION WITHIN EXISTING SUITE. SCOPE INCLUDES (1) NEW WORK CAFE WITH NEW MILLWORK, ELECTRICAL, PLUMBING, AND MECHANICAL. NO STRUCTURAL.",
+      "addeddate": "2026-10-07T11:10:51.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-10-07T11:10:51.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "18905 KINGSVIEW RD\nGERMANTOWN, MD 20874\n(39.16533, -77.28556)",
       "status": "Open",
@@ -51,23 +68,6 @@
       "issueddate": "",
       "finaleddate": "",
       "addeddate_raw": "2026-10-02T09:10:02.000",
-      "issueddate_raw": "",
-      "finaleddate_raw": ""
-    },
-    {
-      "location": "7519 STANDISH PL\nROCKVILLE, MD 20855\n(39.10904, -77.15486)",
-      "status": "Open",
-      "usecode": "BUSINESS BUILDING",
-      "declaredvaluation": "$50,000",
-      "declaredvaluation_num": 50000.0,
-      "buildingarea": "45,000 sf",
-      "buildingarea_num": 45000.0,
-      "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,Removal of All Non-Load Bearing Walls, Ceiling, and Flooring in preparation to Razing of Structure- To Gain Access to Abestos Building Materials for abatement. Building Raze to be filed under COMDEMO-1156964",
-      "addeddate": "2026-10-02T03:10:50.000",
-      "issueddate": "",
-      "finaleddate": "",
-      "addeddate_raw": "2026-10-02T03:10:50.000",
       "issueddate_raw": "",
       "finaleddate_raw": ""
     },
@@ -1909,7 +1909,7 @@
     },
     {
       "location": "2310 PRICE AVE\nSILVER SPRING, MD 20902\n(39.03997, -77.05003)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$1",
       "declaredvaluation_num": 1.0,
@@ -1918,10 +1918,10 @@
       "worktype": "CONSTRUCT",
       "description": "HHS Plan Review only",
       "addeddate": "2026-07-21T03:07:00.000",
-      "issueddate": "",
+      "issueddate": "2026-10-07T02:10:05.000",
       "finaleddate": "",
       "addeddate_raw": "2026-07-21T03:07:00.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-10-07T02:10:05.000",
       "finaleddate_raw": ""
     },
     {
@@ -3154,8 +3154,8 @@
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$7,400,000",
       "declaredvaluation_num": 7400000.0,
-      "buildingarea": "19,600 sf",
-      "buildingarea_num": 19600.0,
+      "buildingarea": "1,400 sf",
+      "buildingarea_num": 1400.0,
       "worktype": "ADD",
       "description": "Customer Wants To Use ePlans,THE PROJECT INCLUDES A 1,400 SF ADDITION TO THE EXISTING SCHOOL AND RENOVATION OF EXISTING SHELL SPACE FOR A NEW MULTIPURPOSE ROOM, A NEW CLASSROOM, KITCHEN/SERVERY, AND AUXILARY MULTIPURPOSE SPACE, ALONG WITH NEW LOBBY SPACES AT LEVEL 1 AND 2, NEW RESTROOMS, RENOVATION OF CLASSROOM AND ADMINISTRATIVE SPACES. CLASSROOMS ON LEVEL 2 WILL BE CONVERTED TO ART ROOMS, AND A TOILET ROOM AND SINKS WILL BE REMOVED ON LEVEL 3. EXISTING CRANE STRUCTURE WILL BE REMOVED. EXTERIOR SECOND FLOOR WINDOWS ARE ADDED. SITE WORK INCLUDES A NEW PEDESTRIAN RAMP AND STAIR ALONG WITH A MODIFIED VEHICULAR DRIVE AISLE. RENOVATION WORK IS CONSIDERED A LEVEL 2 ALTERATION BY IEBC 603. BUILDING USE REMAINS THE SAME AS EXISTING: EDUCATION (E) FOR GRADES PK THROUGH 8. The alterations to the existing school are under the child permit #1171795.",
       "addeddate": "2026-05-11T12:05:37.000",
@@ -5887,7 +5887,7 @@
     },
     {
       "location": "6100 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.04708, -77.12343)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$419,500",
       "declaredvaluation_num": 419500.0,
@@ -5897,10 +5897,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,SUITE 600. INTERIOR ALTERATION FOR A DENTAL OFFICE.",
       "addeddate": "2026-01-10T10:01:23.000",
       "issueddate": "2026-02-19T11:02:24.000",
-      "finaleddate": "",
+      "finaleddate": "2026-10-07T02:10:33.000",
       "addeddate_raw": "2026-01-10T10:01:23.000",
       "issueddate_raw": "2026-02-19T11:02:24.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-10-07T02:10:33.000"
     },
     {
       "location": "915 MEETING ST\nROCKVILLE, MD 20852\n(39.05064, -77.11564)",
@@ -11259,7 +11259,7 @@
     },
     {
       "location": "4725 CHELTENHAM DR\nBETHESDA, MD 20814\n(38.98861, -77.09421)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$135,000",
       "declaredvaluation_num": 135000.0,
@@ -11269,10 +11269,10 @@
       "description": "Customer Wants To Use ePlans,SOE plans for permit #994264",
       "addeddate": "2025-05-04T04:05:35.000",
       "issueddate": "2025-07-16T12:07:43.000",
-      "finaleddate": "",
+      "finaleddate": "2026-10-07T03:10:52.000",
       "addeddate_raw": "2025-05-04T04:05:35.000",
       "issueddate_raw": "2025-07-16T12:07:43.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-10-07T03:10:52.000"
     },
     {
       "location": "12200 TECH RD\nSILVER SPRING, MD 20904\n(39.05548, -76.96789)",
