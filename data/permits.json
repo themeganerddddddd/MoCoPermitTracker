@@ -1,8 +1,42 @@
 {
-  "last_updated": "2026-10-12T22:29:32.797421+00:00",
+  "last_updated": "2026-10-13T20:40:22.605748+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10675,
+  "record_count": 10677,
   "permits": [
+    {
+      "location": "7550 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98572, -77.09448)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$31,240",
+      "declaredvaluation_num": 31240.0,
+      "buildingarea": "500 sf",
+      "buildingarea_num": 500.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,SPEC SUITES 310, 320 & 330. TENANT IMPROVEMENT INCLUDING: SELECTIVE PARTITION, ELECTRICAL, CEILING, FINISHES, & LIFE SAFETY",
+      "addeddate": "2026-10-12T11:10:29.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-10-12T11:10:29.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "12401 PROSPERITY DR\nSILVER SPRING, MD 20904\n(39.05833, -76.96518)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$2,344,000",
+      "declaredvaluation_num": 2344000.0,
+      "buildingarea": "2,500 sf",
+      "buildingarea_num": 2500.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans  Interior work only,New multiple cooling tower install for existing tenant",
+      "addeddate": "2026-10-12T01:10:24.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-10-12T01:10:24.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "4800 HAMPDEN LN\nBETHESDA, MD 20814\n(38.98274, -77.09483)",
       "status": "Open",
@@ -352,7 +386,7 @@
       "buildingarea": "3,117 sf",
       "buildingarea_num": 3117.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,Interior tenant improvement for a Back Nine golf facility. Work includes construction of non-load-bearing partitions, finishes, lighting, and installation of golf simulator bays, restrooms, and staff areas. Security cameras will be installed. No exterior work or structural modifications beyond interior framing are included.",
+      "description": "Customer Wants To Use ePlans Interior work only,Interior tenant improvement for a Back Nine golf facility. Work includes construction of non-load-bearing partitions, finishes, lighting, and installation of golf simulator bays, restrooms, and staff areas. Security cameras will be installed. No exterior work or structural modifications beyond interior framing are included.",
       "addeddate": "2026-09-17T04:09:13.000",
       "issueddate": "",
       "finaleddate": "",
@@ -1518,7 +1552,7 @@
     },
     {
       "location": "5601 FISHERS LN\nROCKVILLE, MD 20852\n(39.06279, -77.11187)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$141,554",
       "declaredvaluation_num": 141554.0,
@@ -1527,10 +1561,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,INTERIOR ALTERATION OF EXISTING FULL FLOOR TENANT. TENANT MODIFICATIONS TO INCLUDE DEMOLITION OF EXISTING PARTITIONS; AND CONSTRUCTION OF NEW PARTITIONS AND DOORS. NEW ELECTRICAL WORK TO MODIFY LIGHTING AND POWER TO REFLECT NEW PLAN. ALL ELECTRICAL RUNS ARE TO CONNECT TO EXISTING BUILDING MAIN ELECTRICAL ROOM. EXISTING DUCTWORK TO REMAIN. THERE IS NO STRUCTURAL WORK IN THIS PROJECT. THERE IS NO SYSTEM FURNITURE INSTALLATION IN THIS PROJECT. SPRINKLER, FIRE DETECTION, AND FIRE ALARM WORK WILL BE DONE ON A DESIGN BUILD BASIS BY THE CONTRACTOR HIRED VENDOR. THESE VENDORS WILL OBTAIN THEIR OWN PERMITS BY PRODUCING THEIR OWN CODE CONFORMING DESIGN USING THEIR OWN STAMPED AND SIGNED DRAWINGS.",
       "addeddate": "2026-07-31T11:07:01.000",
-      "issueddate": "",
+      "issueddate": "2026-10-12T10:10:10.000",
       "finaleddate": "",
       "addeddate_raw": "2026-07-31T11:07:01.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-10-12T10:10:10.000",
       "finaleddate_raw": ""
     },
     {
@@ -24025,23 +24059,6 @@
       "finaleddate_raw": "2023-11-17T01:11:33.000"
     },
     {
-      "location": "20451 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.192795003, -77.256531975)",
-      "status": "Finaled",
-      "usecode": "BIOSCIENCE",
-      "declaredvaluation": "$1,730,000",
-      "declaredvaluation_num": 1730000.0,
-      "buildingarea": "11,270 sf",
-      "buildingarea_num": 11270.0,
-      "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,Interior alterations to existing single tenant lab space, restrooms &amp; office spaces, including new ceilings, interior finishes, partitions, doors &amp; frames &amp; millwork. Tenant is supplying furniture &amp;, equipment. Work includes plumbing, mechanical &amp; electrical. No structural work.",
-      "addeddate": "2023-07-26T10:07:49.000",
-      "issueddate": "2023-11-07T10:11:44.000",
-      "finaleddate": "2024-02-05T01:02:22.000",
-      "addeddate_raw": "2023-07-26T10:07:49.000",
-      "issueddate_raw": "2023-11-07T10:11:44.000",
-      "finaleddate_raw": "2024-02-05T01:02:22.000"
-    },
-    {
       "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
@@ -24057,6 +24074,23 @@
       "addeddate_raw": "2023-07-26T10:07:49.000",
       "issueddate_raw": "2023-08-03T10:08:55.000",
       "finaleddate_raw": "2023-08-17T07:08:01.000"
+    },
+    {
+      "location": "20451 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.192795003, -77.256531975)",
+      "status": "Finaled",
+      "usecode": "BIOSCIENCE",
+      "declaredvaluation": "$1,730,000",
+      "declaredvaluation_num": 1730000.0,
+      "buildingarea": "11,270 sf",
+      "buildingarea_num": 11270.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,Interior alterations to existing single tenant lab space, restrooms &amp; office spaces, including new ceilings, interior finishes, partitions, doors &amp; frames &amp; millwork. Tenant is supplying furniture &amp;, equipment. Work includes plumbing, mechanical &amp; electrical. No structural work.",
+      "addeddate": "2023-07-26T10:07:49.000",
+      "issueddate": "2023-11-07T10:11:44.000",
+      "finaleddate": "2024-02-05T01:02:22.000",
+      "addeddate_raw": "2023-07-26T10:07:49.000",
+      "issueddate_raw": "2023-11-07T10:11:44.000",
+      "finaleddate_raw": "2024-02-05T01:02:22.000"
     },
     {
       "location": "6169 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.049774003, -77.125105996)",
