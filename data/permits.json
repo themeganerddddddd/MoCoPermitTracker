@@ -1,8 +1,25 @@
 {
-  "last_updated": "2026-10-19T20:34:49.836287+00:00",
+  "last_updated": "2026-10-20T19:15:21.161259+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10688,
+  "record_count": 10689,
   "permits": [
+    {
+      "location": "5550 FRIENDSHIP BLVD\nCHEVY CHASE, MD 20815\n(38.96407, -77.09013)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$603,390",
+      "declaredvaluation_num": 603390.0,
+      "buildingarea": "7,069 sf",
+      "buildingarea_num": 7069.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,LEVEL 2 INTERIOR ALTERATION OF EXISTING SUITE TO ACCOMMODATE NEW TENANT. RELATED MECHANICAL, PLUMBING, AND ELECTRICAL WORK. NO CHANGE IN USE. NO STRUCTURAL CHANGES",
+      "addeddate": "2026-10-19T03:10:29.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-10-19T03:10:29.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "20680 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.19968, -77.25446)",
       "status": "Open",
@@ -624,7 +641,7 @@
       "buildingarea": "1,806 sf",
       "buildingarea_num": 1806.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,REMOVAL OF EXISTING WORKSTATIONS REPLACED WITH COMPUTER WORK STATIONS, CHAIRS & ACCESSORIES.",
+      "description": "Customer Wants To Use ePlans Interior work only,REMOVAL OF EXISTING WORKSTATIONS REPLACED WITH COMPUTER WORK STATIONS, CHAIRS &amp; ACCESSORIES.",
       "addeddate": "2026-09-14T11:09:05.000",
       "issueddate": "",
       "finaleddate": "",
@@ -1947,8 +1964,8 @@
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$60,000",
       "declaredvaluation_num": 60000.0,
-      "buildingarea": "1,400 sf",
-      "buildingarea_num": 1400.0,
+      "buildingarea": "800 sf",
+      "buildingarea_num": 800.0,
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,Interior renovation to convert the space into a takeout restaurant. 426551-USE AND OCCUPANCY PERMIT",
       "addeddate": "2026-07-24T09:07:08.000",
@@ -20048,7 +20065,7 @@
     },
     {
       "location": "7732 MACARTHUR BLVD\nCABIN JOHN, MD 20818\n(38.97374, -77.15994)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$80,000",
       "declaredvaluation_num": 80000.0,
@@ -20058,10 +20075,10 @@
       "description": "Revision ,1 - Mechanical revision only to&nbsp; ductwork --&nbsp;One mechanical drawing only &nbsp;,Customer Wants To Use ePlans Customer Wants To Use ePlans,FIRST FLOOR: INTERIOR RENOVATION, INCLUDES: � REMOVING DOORS ENTIRELY � NEW FRONT DESK &amp; RECEPTION BACK WALL � NEW LIGHTING THROUGH-OUT � RECONFIG. OF SPACES BASEMENT FLOOR: INTERIOR RENOVATION, INCLUDES: � REMOVING EXISTING NON-LOAD BEARING WALLS TO CREATE NEW EXAM ROOM, OFFICE AREA, ADA BATHROOM. � REMOVING APPLIANCES IN THE KITCHEN FOR THE NEW TREATMENT AREA. � REMOVING GROOMING AREA FOR NEW BREAKROOM. PERMIT EXTENDED TO 1/10/2026",
       "addeddate": "2024-02-21T02:02:48.000",
       "issueddate": "2024-07-23T03:07:23.000",
-      "finaleddate": "",
+      "finaleddate": "2026-10-19T01:10:42.000",
       "addeddate_raw": "2024-02-21T02:02:48.000",
       "issueddate_raw": "2024-07-23T03:07:23.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-10-19T01:10:42.000"
     },
     {
       "location": "9800 MEDICAL CENTER DR\nROCKVILLE, MD 20850\n(39.09621, -77.19735)",
