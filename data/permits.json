@@ -1,8 +1,42 @@
 {
-  "last_updated": "2026-10-22T19:12:42.289601+00:00",
+  "last_updated": "2026-10-23T19:12:05.377731+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10694,
+  "record_count": 10696,
   "permits": [
+    {
+      "location": "4600 EAST WEST HWY\nBETHESDA, MD 20814\n(38.98478, -77.09304)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$185,000",
+      "declaredvaluation_num": 185000.0,
+      "buildingarea": "20,210 sf",
+      "buildingarea_num": 20210.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,CONSTRUCT NEW ELEVATOR LOBBY AND PUBLIC CORRIDORS & WHITE BOX AT 9TH FLOOR",
+      "addeddate": "2026-10-22T03:10:43.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-10-22T03:10:43.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "6116 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.04758, -77.12626)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$717,700",
+      "declaredvaluation_num": 717700.0,
+      "buildingarea": "27,026 sf",
+      "buildingarea_num": 27026.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,RENOVATION / TENANT BUILD-OUT PROJECT INCLUDING INTERIOR SPACE AND WALL RECONFIGURATION, NEW CONFERENCE ROOMS, OFFICES, BREAK ROOM, PHONE ROOMS, SUPPORT SPACES, AND ASSOCIATED MEP MODIFICATIONS. PROJECT INCLUDES LIMITED PLUMBING UPDATES, AND FINISH IMPROVEMENTS. NO EXTERIOR WALL MODIFICATIONS PROPOSED",
+      "addeddate": "2026-10-22T01:10:10.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-10-22T01:10:10.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "12201 PLUM ORCHARD DR\nSILVER SPRING, MD 20904\n(39.05637, -76.95597)",
       "status": "Open",
@@ -165,7 +199,7 @@
       "buildingarea": "5,091 sf",
       "buildingarea_num": 5091.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,Interior renovation of Suite 300W on the third floor of an office building. The footprint of the building will not be changed. The scope of work will include the alteration and reconfiguration of interior non-load bearing partitions, mechanical, electrical, plumbing, and fire suppression systems.",
+      "description": "Customer Wants To Use ePlans Interior work only,Interior renovation of Suite 300W on the third floor of an office building. The footprint of the building will not be changed. The scope of work will include the alteration and reconfiguration of interior non-load bearing partitions, mechanical, electrical, plumbing, and fire suppression systems.",
       "addeddate": "2026-10-15T10:10:21.000",
       "issueddate": "",
       "finaleddate": "",
@@ -352,7 +386,7 @@
       "buildingarea": "2,013 sf",
       "buildingarea_num": 2013.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,3RD FLOOR- COMMON AREAS\nLEVEL 2 ALTERATION OF EXISTING 3RD FL CORE RESTROOMS & COMMON CORRIDOR.",
+      "description": "Customer Wants To Use ePlans,3RD FLOOR- COMMON AREAS LEVEL 2 ALTERATION OF EXISTING 3RD FL CORE RESTROOMS &amp; COMMON CORRIDOR.",
       "addeddate": "2026-10-08T09:10:51.000",
       "issueddate": "",
       "finaleddate": "",
@@ -488,7 +522,7 @@
       "buildingarea": "0 sf",
       "buildingarea_num": 0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,Interior demolition only on 3rd floor",
+      "description": "Customer Wants To Use ePlans,Interior demolition only on 3rd floor Total Square Footage per Sheet A100 = 6,220sf",
       "addeddate": "2026-09-30T04:09:21.000",
       "issueddate": "",
       "finaleddate": "",
@@ -811,7 +845,7 @@
       "buildingarea": "9,947 sf",
       "buildingarea_num": 9947.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,NTERIOR RENOVATION OF 4 SUITES ON THE\n2ND, 5TH, 9TH, AND 11TH FLOORS INCLUDING NEW PARTITIONS & DOORS, LIGHTING\n& CEILING, SINK & ASSOCIATED PLUMBING, MILLWORK, AND FINISHES. WORK\nINCLUDES NEW ELECTRICAL, PLUMBING, AND MECHANICAL AS REQUIRED PER THE\nNEW LAYOUT. TENANT",
+      "description": "Customer Wants To Use ePlans,NTERIOR RENOVATION OF 4 SUITES ON THE 2ND, 5TH, 9TH, AND 11TH FLOORS INCLUDING NEW PARTITIONS &amp; DOORS, LIGHTING &amp; CEILING, SINK &amp; ASSOCIATED PLUMBING, MILLWORK, AND FINISHES. WORK INCLUDES NEW ELECTRICAL, PLUMBING, AND MECHANICAL AS REQUIRED PER THE NEW LAYOUT. TENANT",
       "addeddate": "2026-09-09T12:09:24.000",
       "issueddate": "",
       "finaleddate": "",
@@ -1015,7 +1049,7 @@
       "buildingarea": "4,223 sf",
       "buildingarea_num": 4223.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,THE SCOPE OF WORK REPRESENTED ON THESE DRAWINGS HAS BEEN PROVIDED IN ORDER TO\nRENOVATE AN EXISTING SUITE, APPROXIMATELY 4,223 SQUARE FEET. SCOPE OF WORK\nINCLUDES NEW PARTITIONS, ELECTRICAL, LIGHTING AND FINISHES AT THE SUITE ENTRY AND\nMODIFICATIONS TO THE EXISTING HVAC SYSTEM AND FINISHES THROUGHOUT THE SUITE. GC TO\nFURNISH LABOR, MATERIALS, TOOLS, EQUIPMENT, AND SERVICES FOR WORK AS INDICATED OR\nINFERRED BY THE DOCUMENTS TO COMPLETE TO DESIGN INTENT. GC SHALL COMPLETELY\nCOORDINATE WORK AND SHALL ASSUME THE BURDEN OF ADDITIONAL COST IF SEQUENCING\nRESULTS IN WORK HAVING TO BE REMOVED OR IF HIS COSTS INCREASE BECAUSE OF POOR\nSEQUENCING OF WORK. CONTRACTOR RESPONSIBLE FOR INCIDENTAL LOCAL JURISDICTION'S\nINTERPRETATIONS OF INTERNATIONAL BUILDING CODE.",
+      "description": "Customer Wants To Use ePlans Interior work only,THE SCOPE OF WORK REPRESENTED ON THESE DRAWINGS HAS BEEN PROVIDED IN ORDER TO RENOVATE AN EXISTING SUITE, APPROXIMATELY 4,223 SQUARE FEET. SCOPE OF WORK INCLUDES NEW PARTITIONS, ELECTRICAL, LIGHTING AND FINISHES AT THE SUITE ENTRY AND MODIFICATIONS TO THE EXISTING HVAC SYSTEM AND FINISHES THROUGHOUT THE SUITE. GC TO FURNISH LABOR, MATERIALS, TOOLS, EQUIPMENT, AND SERVICES FOR WORK AS INDICATED OR INFERRED BY THE DOCUMENTS TO COMPLETE TO DESIGN INTENT. GC SHALL COMPLETELY COORDINATE WORK AND SHALL ASSUME THE BURDEN OF ADDITIONAL COST IF SEQUENCING RESULTS IN WORK HAVING TO BE REMOVED OR IF HIS COSTS INCREASE BECAUSE OF POOR SEQUENCING OF WORK. CONTRACTOR RESPONSIBLE FOR INCIDENTAL LOCAL JURISDICTION'S INTERPRETATIONS OF INTERNATIONAL BUILDING CODE.",
       "addeddate": "2026-09-01T01:09:59.000",
       "issueddate": "",
       "finaleddate": "",
@@ -1032,7 +1066,7 @@
       "buildingarea": "4,486 sf",
       "buildingarea_num": 4486.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,THE SCOPE OF WORK REPRESENTED ON THESE DRAWINGS HAS BEEN PROVIDED IN ORDER TO\nCONSTRUCT 4,486 SQUARE FOOT AMENITY SPACE. GC TO FURNISH LABOR, MATERIALS, TOOLS,\nEQUIPMENT, AND SERVICES FOR WORK AS INDICATED OR INFERRED BY THE DOCUMENTS TO\nCOMPLETE TO DESIGN INTENT. GC SHALL COMPLETELY COORDINATE WORK AND SHALL\nASSUME THE BURDEN OF ADDITIONAL COST IF SEQUENCING RESULTS IN WORK HAVING TO BE\nREMOVED OR IF HIS COSTS INCREASE BECAUSE OF POOR SEQUENCING OF WORK. CONTRACTOR\nRESPONSIBLE FOR INCIDENTAL LOCAL JURISDICTION'S INTERPRETATIONS OF INTERNATIONAL\nBUILDING CODE. TENANT WORK TO BE PROVIDED UNDER SEPARATE SUBMISSION.",
+      "description": "Customer Wants To Use ePlans Interior work only,THE SCOPE OF WORK REPRESENTED ON THESE DRAWINGS HAS BEEN PROVIDED IN ORDER TO CONSTRUCT 4,486 SQUARE FOOT AMENITY SPACE. GC TO FURNISH LABOR, MATERIALS, TOOLS, EQUIPMENT, AND SERVICES FOR WORK AS INDICATED OR INFERRED BY THE DOCUMENTS TO COMPLETE TO DESIGN INTENT. GC SHALL COMPLETELY COORDINATE WORK AND SHALL ASSUME THE BURDEN OF ADDITIONAL COST IF SEQUENCING RESULTS IN WORK HAVING TO BE REMOVED OR IF HIS COSTS INCREASE BECAUSE OF POOR SEQUENCING OF WORK. CONTRACTOR RESPONSIBLE FOR INCIDENTAL LOCAL JURISDICTION'S INTERPRETATIONS OF INTERNATIONAL BUILDING CODE. TENANT WORK TO BE PROVIDED UNDER SEPARATE SUBMISSION.",
       "addeddate": "2026-09-01T01:09:04.000",
       "issueddate": "",
       "finaleddate": "",
@@ -1143,7 +1177,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "",
+      "location": "11617 OLD GEORGETOWN RD\nROCKVILLE, MD 20852\n(39.04931, -77.11544)",
       "status": "Open",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$5,500,000",
@@ -1229,7 +1263,7 @@
     },
     {
       "location": "6101 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.04957, -77.12276)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$519,000",
       "declaredvaluation_num": 519000.0,
@@ -1238,10 +1272,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,THE WORK CONSISTS OF A PARTIAL RENOVATION FOR AN EXISTING OFFICE TENANT. THE EXISTING SUITE CONDITION IS A FULLY BUILT OUT OFFICE SPACE. NEW WORK WILL INCLUDE SELECTIVE CONSTRUCTION OF PARTITIONS, CEILINGS AND MILLWORK AS SHOWN IN THE PLANS. THE SUITE SHALL RECEIVE NEW FINISHES THROUGHOUT. SELECTIVE NEW LIGHTING FIXTURES WILL BE PROVIDED AS SHOWN IN THE PLANS. SELECTIVE ELECTRICAL WORK WILL BE DONE AS REQUIRED TO SUPPORT THE NEW LAYOUT. SELECTIVE PLUMBING WORK SHALL BE DONE AS REQUIRED TO SUPPORT THE NEW LAYOUT. EXISTING MECHANICAL SYSTEMS SHALL BE MODIFIED AND NEW COMPONENTS PROVIDED TO SUPPORT THE NEW BUILD-OUT AS REQUIRED THROUGHOUT. EXISTING LIFE SAFETY SYSTEMS WILL BE MODIFIED AS REQUIRED TO SUPPORT THE NEW LAYOUT.",
       "addeddate": "2026-08-19T02:08:15.000",
-      "issueddate": "",
+      "issueddate": "2026-10-22T11:10:41.000",
       "finaleddate": "",
       "addeddate_raw": "2026-08-19T02:08:15.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-10-22T11:10:41.000",
       "finaleddate_raw": ""
     },
     {
@@ -1569,7 +1603,7 @@
     },
     {
       "location": "4701 SANGAMORE RD\nBETHESDA, MD 20816\n(38.94952, -77.11972)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$32,000",
       "declaredvaluation_num": 32000.0,
@@ -1578,10 +1612,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,THE PROJECT IS AN ALTERATION OF OPEN SPACE (area = 3451 sq. ft ) TO BECOME A FENCING SPORT TRAINING HALL.",
       "addeddate": "2026-08-06T11:08:21.000",
-      "issueddate": "",
+      "issueddate": "2026-10-22T11:10:04.000",
       "finaleddate": "",
       "addeddate_raw": "2026-08-06T11:08:21.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-10-22T11:10:04.000",
       "finaleddate_raw": ""
     },
     {
@@ -2045,7 +2079,7 @@
     },
     {
       "location": "14318 LAYHILL RD\nSILVER SPRING, MD 20906\n(39.0915, -77.04581)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$60,000",
       "declaredvaluation_num": 60000.0,
@@ -2054,10 +2088,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,Interior renovation to convert the space into a takeout restaurant. 426551-USE AND OCCUPANCY PERMIT",
       "addeddate": "2026-07-24T09:07:08.000",
-      "issueddate": "",
+      "issueddate": "2026-10-22T03:10:45.000",
       "finaleddate": "",
       "addeddate_raw": "2026-07-24T09:07:08.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-10-22T03:10:45.000",
       "finaleddate_raw": ""
     },
     {
@@ -2368,7 +2402,7 @@
     },
     {
       "location": "14800 PHYSICIANS LN\nROCKVILLE, MD 20850\n(39.09963, -77.21081)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$180,000",
       "declaredvaluation_num": 180000.0,
@@ -2377,10 +2411,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,Interior tenant fit-out of an existing medical office suite. Work includes new interior partitions, doors, finishes, mechanical, electrical, plumbing, accessibility improvements, and associated life safety improvements. No change of occupancy or use.",
       "addeddate": "2026-07-16T02:07:17.000",
-      "issueddate": "",
+      "issueddate": "2026-10-22T12:10:40.000",
       "finaleddate": "",
       "addeddate_raw": "2026-07-16T02:07:17.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-10-22T12:10:40.000",
       "finaleddate_raw": ""
     },
     {
@@ -3252,7 +3286,7 @@
     },
     {
       "location": "6710 ROCKLEDGE DR\nBETHESDA, MD 20817\n(39.02921, -77.13481)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$37,000",
       "declaredvaluation_num": 37000.0,
@@ -3262,10 +3296,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,installing (6) Level 2 chargers. (4) stations mounted on (2) dual pedestals behind column , protected by column no bollards. (2) stations mounted on column wall. Accompanying conduits, cable, panels, breakers, etc to provide a complete installation.",
       "addeddate": "2026-05-20T12:05:07.000",
       "issueddate": "2026-09-01T08:09:52.000",
-      "finaleddate": "",
+      "finaleddate": "2026-10-22T02:10:28.000",
       "addeddate_raw": "2026-05-20T12:05:07.000",
       "issueddate_raw": "2026-09-01T08:09:52.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-10-22T02:10:28.000"
     },
     {
       "location": "7600 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98612, -77.09457)",
