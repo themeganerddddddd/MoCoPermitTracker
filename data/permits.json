@@ -1,8 +1,42 @@
 {
-  "last_updated": "2026-10-25T18:23:59.095386+00:00",
+  "last_updated": "2026-10-26T20:28:54.426457+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10696,
+  "record_count": 10698,
   "permits": [
+    {
+      "location": "20511 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.19588, -77.25736)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$2,302,400",
+      "declaredvaluation_num": 2302400.0,
+      "buildingarea": "36,306 sf",
+      "buildingarea_num": 36306.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,THIS PROJECT IS SPLIT INTO DIFFERENT PHASES OF PERMITTED DESIGN DRAWINGS FOR CONSTRUCTION. PHASE 1 & 3 (2ND FLOOR) COMBINES INTERIOR ALTERATION WORK FOR THE TENANT FIT-OUT ON THE UPPER LEVEL CONSISTING OF OFFICE SPACE. TENANT FIT-OUT TO INCLUDE DEMOLITION OF EXISTING PARTITIONS; AND CONSTRUCTION OF NEW PARTITIONS, DOORS AND MILLWORK. NEW ELECTRICAL WORK TO MODIFY LIGHTING AND POWER TO REFLECT NEW PLAN. EXISTING DUCTWORK WILL BE MODIFIED TO REFLECT NEW PLAN. NEW MECHANICAL ROOF TOP UNITS WILL BE PROVIDED.\n\nSTRUCTURAL WORK IS LIMITED TO PROVIDING ADEQUATE SUPPORT OF THE NEW ROOF TOP EQUIPMENT AND NEW OPERABLE PARTITIONS.",
+      "addeddate": "2026-10-23T06:10:15.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-10-23T06:10:15.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$1,743,021",
+      "declaredvaluation_num": 1743021.0,
+      "buildingarea": "11,061 sf",
+      "buildingarea_num": 11061.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,INTERIOR BUILD-OUT (BUSINESS USE OCCUPANCY) OF THE EXISTING SUITE 200",
+      "addeddate": "2026-10-23T01:10:25.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-10-23T01:10:25.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "4600 EAST WEST HWY\nBETHESDA, MD 20814\n(38.98478, -77.09304)",
       "status": "Open",
@@ -1797,7 +1831,7 @@
       "buildingarea": "3,100 sf",
       "buildingarea_num": 3100.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,LEVEL II INTERIOR BUILDING ALTERATION INCLUDES CONSTRUCTION OF NEW WALLS, DOORS, CEILINGS, MILLWORK, FINISHES, AND SERVICES TO SUPPORT THE NEW TENANT FUNCTIONS, INCLUDING: ELECTRICAL, MECHANICAL, PLUMBING, AND FIRE PROTECTION. ALTERED AREAS TOTAL 3,100 SF",
+      "description": "Customer Wants To Use ePlans,LEVEL II INTERIOR BUILDING ALTERATION INCLUDES CONSTRUCTION OF NEW WALLS, DOORS, CEILINGS, MILLWORK, FINISHES, AND SERVICES TO SUPPORT THE NEW TENANT FUNCTIONS, INCLUDING: ELECTRICAL, MECHANICAL, PLUMBING, AND FIRE PROTECTION. ALTERED AREAS TOTAL 3,100 SFBid estimate document submitted with a value of $2,827,224.00.",
       "addeddate": "2026-08-03T10:08:47.000",
       "issueddate": "",
       "finaleddate": "",
@@ -2861,7 +2895,7 @@
     },
     {
       "location": "6010 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.04751, -77.12275)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$200,000",
       "declaredvaluation_num": 200000.0,
@@ -2871,10 +2905,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,RENOVATION FOR A SPEC NEW SUITE, INCLUDE SELECTIVE CONSTRUCTION AND DEMO OF PARTITIONS, CEILINGS AND MILLWORK. NEW FINISHES,LIGHTING FIXTURES,ELECTRICAL, PLUMBING WORK",
       "addeddate": "2026-06-11T08:06:04.000",
       "issueddate": "2026-08-28T09:08:53.000",
-      "finaleddate": "",
+      "finaleddate": "2026-10-23T11:10:22.000",
       "addeddate_raw": "2026-06-11T08:06:04.000",
       "issueddate_raw": "2026-08-28T09:08:53.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-10-23T11:10:22.000"
     },
     {
       "location": "9600 BLACKWELL RD\nROCKVILLE, MD 20850\n(39.10104, -77.19326)",
@@ -4823,7 +4857,7 @@
       "buildingarea": "10,759 sf",
       "buildingarea_num": 10759.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,Installation of new HVAC system for Existing 2nd floor layout.",
+      "description": "Revision ,1 - INTERIOR ALTERATION OF THE 2nd FLOOR, INCLUDING COMMON AREAS AND 5 WARM WHITE BOX TENANT SUITES.,Customer Wants To Use ePlansCustomer Wants To Use ePlans,Installation of new HVAC system for Existing 2nd floor layout.",
       "addeddate": "2026-03-13T12:03:28.000",
       "issueddate": "2026-07-09T03:07:22.000",
       "finaleddate": "",
@@ -24382,23 +24416,6 @@
       "finaleddate_raw": "2023-11-17T01:11:33.000"
     },
     {
-      "location": "20451 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.192795003, -77.256531975)",
-      "status": "Finaled",
-      "usecode": "BIOSCIENCE",
-      "declaredvaluation": "$1,730,000",
-      "declaredvaluation_num": 1730000.0,
-      "buildingarea": "11,270 sf",
-      "buildingarea_num": 11270.0,
-      "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,Interior alterations to existing single tenant lab space, restrooms &amp; office spaces, including new ceilings, interior finishes, partitions, doors &amp; frames &amp; millwork. Tenant is supplying furniture &amp;, equipment. Work includes plumbing, mechanical &amp; electrical. No structural work.",
-      "addeddate": "2023-07-26T10:07:49.000",
-      "issueddate": "2023-11-07T10:11:44.000",
-      "finaleddate": "2024-02-05T01:02:22.000",
-      "addeddate_raw": "2023-07-26T10:07:49.000",
-      "issueddate_raw": "2023-11-07T10:11:44.000",
-      "finaleddate_raw": "2024-02-05T01:02:22.000"
-    },
-    {
       "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
@@ -24414,6 +24431,23 @@
       "addeddate_raw": "2023-07-26T10:07:49.000",
       "issueddate_raw": "2023-08-03T10:08:55.000",
       "finaleddate_raw": "2023-08-17T07:08:01.000"
+    },
+    {
+      "location": "20451 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.192795003, -77.256531975)",
+      "status": "Finaled",
+      "usecode": "BIOSCIENCE",
+      "declaredvaluation": "$1,730,000",
+      "declaredvaluation_num": 1730000.0,
+      "buildingarea": "11,270 sf",
+      "buildingarea_num": 11270.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,Interior alterations to existing single tenant lab space, restrooms &amp; office spaces, including new ceilings, interior finishes, partitions, doors &amp; frames &amp; millwork. Tenant is supplying furniture &amp;, equipment. Work includes plumbing, mechanical &amp; electrical. No structural work.",
+      "addeddate": "2023-07-26T10:07:49.000",
+      "issueddate": "2023-11-07T10:11:44.000",
+      "finaleddate": "2024-02-05T01:02:22.000",
+      "addeddate_raw": "2023-07-26T10:07:49.000",
+      "issueddate_raw": "2023-11-07T10:11:44.000",
+      "finaleddate_raw": "2024-02-05T01:02:22.000"
     },
     {
       "location": "6169 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.049774003, -77.125105996)",
