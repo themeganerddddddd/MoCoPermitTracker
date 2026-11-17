@@ -1,0 +1,35 @@
+name: IEDC patent-to-industry exploratory crosswalk
+on:
+  push:
+    branches: ['research/iedc-patent-permit-analysis']
+    paths: ['research/iedc_patent_naics.py', '.github/workflows/iedc-naics.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: research/iedc-patent-permit-analysis
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install pandas numpy scikit-learn
+      - name: Run patent-NAICS robustness comparison
+        run: python research/iedc_patent_naics.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: iedc-patent-naics
+          path: research/iedc_results/patent_naics*
+      - name: Commit results
+        run: |
+          git config user.name research-bot
+          git config user.email research-bot@users.noreply.github.com
+          git add research/iedc_results/patent_naics* research/iedc_results/technology_naics* || true
+          git commit -m "Save patent NAICS research robustness check" || true
+          git pull --rebase origin research/iedc-patent-permit-analysis || true
+          git push || true
