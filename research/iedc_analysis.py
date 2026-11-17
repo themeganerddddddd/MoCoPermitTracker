@@ -10,6 +10,7 @@ from sklearn.ensemble import HistGradientBoostingRegressor
 from sklearn.linear_model import Ridge
 from sklearn.metrics import mean_absolute_error
 from sklearn.preprocessing import StandardScaler
+from sklearn.impute import SimpleImputer
 from sklearn.pipeline import make_pipeline
 
 ROOT=Path("research/iedc_results"); ROOT.mkdir(parents=True,exist_ok=True)
@@ -122,7 +123,7 @@ def evaluate(q):
   X=train[feats].replace([np.inf,-np.inf],np.nan)
   T=testy[feats].replace([np.inf,-np.inf],np.nan)
   models={"persistence":None,
-          "ridge":make_pipeline(__import__("sklearn").impute.SimpleImputer(strategy="median"),StandardScaler(),Ridge(alpha=20)),
+          "ridge":make_pipeline(SimpleImputer(strategy="median"),StandardScaler(),Ridge(alpha=20)),
           "gbdt":HistGradientBoostingRegressor(max_iter=150,max_leaf_nodes=12,min_samples_leaf=25,l2_regularization=20,learning_rate=.04,random_state=42)}
   for name,m in models.items():
    if m is None:pr=testy.growth_1y.to_numpy()
