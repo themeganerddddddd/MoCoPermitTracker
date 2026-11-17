@@ -1,0 +1,80 @@
+{
+  "source": "https://ncses.nsf.gov/pubs/nsb20241/assets/data/swbinv-1.xlsx",
+  "extracted": {
+    "rows": 7200,
+    "n_counties": 8,
+    "n_years": 25,
+    "technologies": {
+      "Table SWBINV1-2": "USPTO utility patents granted to U.S. inventors",
+      "Table SWBINV1-3": "electrical machinery, apparatus, energy",
+      "Table SWBINV1-4": "audio-visual technology",
+      "Table SWBINV1-5": "telecommunications",
+      "Table SWBINV1-6": "digital communication",
+      "Table SWBINV1-7": "basic communication processes",
+      "Table SWBINV1-8": "computer technology",
+      "Table SWBINV1-9": "IT methods for management",
+      "Table SWBINV1-10": "semiconductors",
+      "Table SWBINV1-11": "optics",
+      "Table SWBINV1-12": "measurement",
+      "Table SWBINV1-13": "analysis of biological materials",
+      "Table SWBINV1-14": "control",
+      "Table SWBINV1-15": "medical technology",
+      "Table SWBINV1-16": "organic fine chemistry",
+      "Table SWBINV1-17": "biotechnology",
+      "Table SWBINV1-18": "pharmaceuticals",
+      "Table SWBINV1-19": "macromolecular chemistry, polymers",
+      "Table SWBINV1-20": "food chemistry",
+      "Table SWBINV1-21": "basic materials chemistry",
+      "Table SWBINV1-22": "materials, metallurgy",
+      "Table SWBINV1-23": "surface technology, coating",
+      "Table SWBINV1-24": "microstructural technology and nanotechnology",
+      "Table SWBINV1-25": "chemical engineering",
+      "Table SWBINV1-26": "environmental technology",
+      "Table SWBINV1-27": "handling",
+      "Table SWBINV1-28": "machine tools",
+      "Table SWBINV1-29": "engines, pumps, turbines",
+      "Table SWBINV1-30": "textile and paper machines",
+      "Table SWBINV1-31": "other special machines",
+      "Table SWBINV1-32": "thermal processes and apparatus",
+      "Table SWBINV1-33": "mechanical elements",
+      "Table SWBINV1-34": "transport",
+      "Table SWBINV1-35": "furniture, games",
+      "Table SWBINV1-36": "other consumer goods",
+      "Table SWBINV1-37": "civil engineering"
+    }
+  },
+  "model_comparison": [
+    {
+      "method": "gbdt_econ",
+      "n": 407,
+      "mae_pp": 9.368140179032606,
+      "rmse_pp": 13.873335245772362,
+      "actual_emergence_rate": 0.16461916461916462,
+      "precision_top25": 0.25333333333333335
+    },
+    {
+      "method": "gbdt_patents",
+      "n": 407,
+      "mae_pp": 9.505304953380358,
+      "rmse_pp": 13.848286193723409,
+      "actual_emergence_rate": 0.16461916461916462,
+      "precision_top25": 0.3333333333333333
+    },
+    {
+      "method": "ridge_econ",
+      "n": 407,
+      "mae_pp": 10.109398759469329,
+      "rmse_pp": 15.204545799465679,
+      "actual_emergence_rate": 0.16461916461916462,
+      "precision_top25": 0.13333333333333333
+    },
+    {
+      "method": "ridge_patents",
+      "n": 407,
+      "mae_pp": 10.588919685015354,
+      "rmse_pp": 15.640323009272404,
+      "actual_emergence_rate": 0.16461916461916462,
+      "precision_top25": 0.18666666666666668
+    }
+  ]
+}
