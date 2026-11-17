@@ -1,0 +1,69 @@
+{
+  "caveat": "Illustrative WIPO technology-related-to-NAICS hypotheses; not the USPTO ALP patent-industry concordance.",
+  "map": {
+    "22": [
+      "electrical machinery",
+      "environmental technology",
+      "thermal processes"
+    ],
+    "23": [
+      "civil engineering",
+      "environmental technology",
+      "handling"
+    ],
+    "31-33": [
+      "semiconductors",
+      "materials, metallurgy",
+      "machine tools",
+      "chemical engineering",
+      "engines, pumps",
+      "macromolecular chemistry",
+      "electrical machinery",
+      "mechanical elements",
+      "transport",
+      "surface technology",
+      "food chemistry",
+      "biotechnology",
+      "pharmaceuticals"
+    ],
+    "51": [
+      "telecommunications",
+      "digital communication",
+      "computer technology",
+      "audio-visual",
+      "basic communication",
+      "IT methods"
+    ],
+    "52": [
+      "IT methods for management",
+      "computer technology"
+    ],
+    "54": [
+      "computer technology",
+      "IT methods",
+      "biotechnology",
+      "pharmaceuticals",
+      "medical technology",
+      "measurement",
+      "analysis of biological materials",
+      "civil engineering",
+      "semiconductors",
+      "environmental technology"
+    ],
+    "62": [
+      "medical technology",
+      "biotechnology",
+      "pharmaceuticals",
+      "analysis of biological materials"
+    ],
+    "56": [
+      "control",
+      "IT methods for management"
+    ],
+    "48-49": [
+      "transport",
+      "engines, pumps",
+      "mechanical elements"
+    ]
+  }
+}
