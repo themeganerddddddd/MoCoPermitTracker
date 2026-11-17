@@ -2,7 +2,7 @@ name: IEDC independent public data research
 on:
   push:
     branches: ['research/iedc-patent-permit-analysis']
-    paths: ['research/iedc_analysis.py', '.github/workflows/iedc-research.yml']
+    paths: ['research/iedc_analysis.py', 'research/iedc_patent_analysis.py', '.github/workflows/iedc-research.yml']
   workflow_dispatch:
 permissions:
   contents: write
@@ -19,7 +19,9 @@ jobs:
           python-version: '3.11'
       - run: pip install pandas numpy requests scikit-learn openpyxl
       - name: Run historical public data evaluation
-        run: python research/iedc_analysis.py
+        run: |
+          python research/iedc_analysis.py
+          python research/iedc_patent_analysis.py
       - uses: actions/upload-artifact@v4
         if: always()
         with:
@@ -31,6 +33,6 @@ jobs:
         run: |
           git config user.name research-bot
           git config user.email research-bot@users.noreply.github.com
-          git add research/iedc_results/*.csv research/iedc_results/status.json research/iedc_results/patent_workbook_sheets_preview.json || true
+          git add research/iedc_results/*.csv research/iedc_results/status.json research/iedc_results/patent_workbook_sheets_preview.json research/iedc_results/patent_analysis_status.json || true
           git commit -m "Add IEDC historical analysis outputs" || true
           git push || true
