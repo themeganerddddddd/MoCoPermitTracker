@@ -1,0 +1,174 @@
+{
+  "started": "2026-11-17T23:42:57.535274+00:00",
+  "data_sources": {
+    "qcew": {
+      "rows": 1702,
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "counties": 8
+    },
+    "permits": {
+      "all_rows": 10703,
+      "issued_intervals": 10137,
+      "median_days": 52.250856481481485
+    },
+    "patent_workbook_discovery": {
+      "candidate_urls": [
+        "https://ncses.nsf.gov/pubs/nsb20241/assets/data/swbinv-1.xlsx",
+        "https://ncses.nsf.gov/pubs/nsb20241/assets/data/swbinv-2.xlsx",
+        "https://ncses.nsf.gov/pubs/nsb20241/assets/data/swbinv-3.xlsx",
+        "https://ncses.nsf.gov/pubs/nsb20241/assets/data/swbinv-4.xlsx"
+      ],
+      "html_bytes": 339695,
+      "sheets": [
+        "Index",
+        "Table SWBINV1-1",
+        "Table SWBINV1-2",
+        "Table SWBINV1-3",
+        "Table SWBINV1-4",
+        "Table SWBINV1-5",
+        "Table SWBINV1-6",
+        "Table SWBINV1-7",
+        "Table SWBINV1-8",
+        "Table SWBINV1-9",
+        "Table SWBINV1-10",
+        "Table SWBINV1-11",
+        "Table SWBINV1-12",
+        "Table SWBINV1-13",
+        "Table SWBINV1-14",
+        "Table SWBINV1-15",
+        "Table SWBINV1-16",
+        "Table SWBINV1-17",
+        "Table SWBINV1-18",
+        "Table SWBINV1-19"
+      ]
+    },
+    "patents": {
+      "path": "patent_workbook_downloaded.xlsx",
+      "source": "https://ncses.nsf.gov/pubs/nsb20241/assets/data/swbinv-1.xlsx",
+      "sheets": [
+        "Index",
+        "Table SWBINV1-1",
+        "Table SWBINV1-2",
+        "Table SWBINV1-3",
+        "Table SWBINV1-4",
+        "Table SWBINV1-5",
+        "Table SWBINV1-6",
+        "Table SWBINV1-7",
+        "Table SWBINV1-8",
+        "Table SWBINV1-9",
+        "Table SWBINV1-10",
+        "Table SWBINV1-11",
+        "Table SWBINV1-12",
+        "Table SWBINV1-13",
+        "Table SWBINV1-14",
+        "Table SWBINV1-15",
+        "Table SWBINV1-16",
+        "Table SWBINV1-17",
+        "Table SWBINV1-18",
+        "Table SWBINV1-19",
+        "Table SWBINV1-20",
+        "Table SWBINV1-21",
+        "Table SWBINV1-22",
+        "Table SWBINV1-23",
+        "Table SWBINV1-24",
+        "Table SWBINV1-25",
+        "Table SWBINV1-26",
+        "Table SWBINV1-27",
+        "Table SWBINV1-28",
+        "Table SWBINV1-29",
+        "Table SWBINV1-30",
+        "Table SWBINV1-31",
+        "Table SWBINV1-32",
+        "Table SWBINV1-33",
+        "Table SWBINV1-34",
+        "Table SWBINV1-35",
+        "Table SWBINV1-36",
+        "Table SWBINV1-37",
+        "Table SWBINV1-38"
+      ]
+    }
+  },
+  "errors": [
+    "https://data.bls.gov/cew/data/api/2012/a/area/24031.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2012/a/area/24031.csv",
+    "https://data.bls.gov/cew/data/api/2009/a/area/24031.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2009/a/area/24031.csv",
+    "https://data.bls.gov/cew/data/api/2010/a/area/24031.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2010/a/area/24031.csv",
+    "https://data.bls.gov/cew/data/api/2011/a/area/24031.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2011/a/area/24031.csv",
+    "https://data.bls.gov/cew/data/api/2013/a/area/24031.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2013/a/area/24031.csv",
+    "https://data.bls.gov/cew/data/api/2009/a/area/24021.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2009/a/area/24021.csv",
+    "https://data.bls.gov/cew/data/api/2010/a/area/24021.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2010/a/area/24021.csv",
+    "https://data.bls.gov/cew/data/api/2011/a/area/24021.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2011/a/area/24021.csv",
+    "https://data.bls.gov/cew/data/api/2012/a/area/24021.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2012/a/area/24021.csv",
+    "https://data.bls.gov/cew/data/api/2013/a/area/24021.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2013/a/area/24021.csv",
+    "https://data.bls.gov/cew/data/api/2009/a/area/24027.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2009/a/area/24027.csv",
+    "https://data.bls.gov/cew/data/api/2010/a/area/24027.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2010/a/area/24027.csv",
+    "https://data.bls.gov/cew/data/api/2012/a/area/24027.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2012/a/area/24027.csv",
+    "https://data.bls.gov/cew/data/api/2011/a/area/24027.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2011/a/area/24027.csv",
+    "https://data.bls.gov/cew/data/api/2013/a/area/24027.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2013/a/area/24027.csv",
+    "https://data.bls.gov/cew/data/api/2011/a/area/24033.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2011/a/area/24033.csv",
+    "https://data.bls.gov/cew/data/api/2009/a/area/24033.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2009/a/area/24033.csv",
+    "https://data.bls.gov/cew/data/api/2010/a/area/24033.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2010/a/area/24033.csv",
+    "https://data.bls.gov/cew/data/api/2012/a/area/24033.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2012/a/area/24033.csv",
+    "https://data.bls.gov/cew/data/api/2013/a/area/24033.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2013/a/area/24033.csv",
+    "https://data.bls.gov/cew/data/api/2009/a/area/51059.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2009/a/area/51059.csv",
+    "https://data.bls.gov/cew/data/api/2010/a/area/51059.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2010/a/area/51059.csv",
+    "https://data.bls.gov/cew/data/api/2011/a/area/51059.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2011/a/area/51059.csv",
+    "https://data.bls.gov/cew/data/api/2012/a/area/51059.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2012/a/area/51059.csv",
+    "https://data.bls.gov/cew/data/api/2013/a/area/51059.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2013/a/area/51059.csv",
+    "https://data.bls.gov/cew/data/api/2010/a/area/51107.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2010/a/area/51107.csv",
+    "https://data.bls.gov/cew/data/api/2009/a/area/51107.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2009/a/area/51107.csv",
+    "https://data.bls.gov/cew/data/api/2011/a/area/51107.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2011/a/area/51107.csv",
+    "https://data.bls.gov/cew/data/api/2012/a/area/51107.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2012/a/area/51107.csv",
+    "https://data.bls.gov/cew/data/api/2013/a/area/51107.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2013/a/area/51107.csv",
+    "https://data.bls.gov/cew/data/api/2011/a/area/37183.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2011/a/area/37183.csv",
+    "https://data.bls.gov/cew/data/api/2010/a/area/37183.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2010/a/area/37183.csv",
+    "https://data.bls.gov/cew/data/api/2013/a/area/37183.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2013/a/area/37183.csv",
+    "https://data.bls.gov/cew/data/api/2012/a/area/37183.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2012/a/area/37183.csv",
+    "https://data.bls.gov/cew/data/api/2009/a/area/37183.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2009/a/area/37183.csv",
+    "https://data.bls.gov/cew/data/api/2009/a/area/25017.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2009/a/area/25017.csv",
+    "https://data.bls.gov/cew/data/api/2010/a/area/25017.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2010/a/area/25017.csv",
+    "https://data.bls.gov/cew/data/api/2011/a/area/25017.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2011/a/area/25017.csv",
+    "https://data.bls.gov/cew/data/api/2012/a/area/25017.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2012/a/area/25017.csv",
+    "https://data.bls.gov/cew/data/api/2013/a/area/25017.csv => 404 Client Error: Not Found for url: https://data.bls.gov/cew/data/api/2013/a/area/25017.csv"
+  ],
+  "industry_results": [
+    {
+      "method": "gbdt",
+      "test_predictions": 696.0,
+      "weighted_mae_pp": 9.897293765025157
+    },
+    {
+      "method": "persistence",
+      "test_predictions": 696.0,
+      "weighted_mae_pp": 11.518709250839994
+    },
+    {
+      "method": "ridge",
+      "test_predictions": 696.0,
+      "weighted_mae_pp": 9.490805311735631
+    }
+  ],
+  "permit_forecast_results": {
+    "employment_only": {
+      "n": 4,
+      "mae_pp": 1.3801242196623384
+    },
+    "employment_plus_permits": {
+      "n": 4,
+      "mae_pp": 1.3053664174613322
+    }
+  },
+  "finished": "2026-11-17T23:43:29.103303+00:00"
+}

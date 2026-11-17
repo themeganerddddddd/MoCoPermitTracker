@@ -1,0 +1,4 @@
+method,test_predictions,weighted_mae_pp
+gbdt,696.0,9.897293765025157
+persistence,696.0,11.518709250839994
+ridge,696.0,9.490805311735631
