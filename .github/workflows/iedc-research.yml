@@ -31,6 +31,6 @@ jobs:
         run: |
           git config user.name research-bot
           git config user.email research-bot@users.noreply.github.com
-          git add research/iedc_results/*.csv research/iedc_results/status.json || true
+          git add research/iedc_results/*.csv research/iedc_results/status.json research/iedc_results/patent_workbook_sheets_preview.json || true
           git commit -m "Add IEDC historical analysis outputs" || true
           git push || true
