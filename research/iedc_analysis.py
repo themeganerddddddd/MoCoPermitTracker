@@ -90,6 +90,11 @@ def patent_source():
     if len(res.content)<20000:continue
     exc=pd.ExcelFile(io.BytesIO(res.content))
     status["data_sources"]["patent_workbook_discovery"]["sheets"]=exc.sheet_names[:20]
+    previews={}
+    for sh in exc.sheet_names:
+     p=pd.read_excel(exc,sheet_name=sh,header=None,nrows=9)
+     previews[sh]={"columns":p.shape[1],"sample":p.fillna("").astype(str).iloc[:9,:12].values.tolist()}
+    (ROOT/"patent_workbook_sheets_preview.json").write_text(json.dumps(previews,indent=2))
     for sheet in exc.sheet_names:
      sample=pd.read_excel(exc,sheet_name=sheet,nrows=12,header=None)
      s=sample.astype(str).to_string(index=False,header=False).lower()
@@ -117,7 +122,7 @@ def evaluate(q):
  test=d[(d.year>=2019)&(d.year<=2023)].copy()
  results=[];predictions=[]
  for y in sorted(test.year.unique()):
-  train=d[(d.year<y)&(d.year<=y-1)].copy()
+  train=d[d.year<=y-3].copy()
   testy=test[test.year==y].copy()
   if len(train)<200 or len(testy)<15:continue
   X=train[feats].replace([np.inf,-np.inf],np.nan)
@@ -155,7 +160,7 @@ def evaluate_permit_addition(q,annual):
  x=x.dropna(subset=["growth_future","growth_lag","median_days","issued"])
  preds=[]
  for y in range(2018,2025):
-  train=x[x.year<y];test=x[x.year==y]
+  train=x[x.year<=y-2];test=x[x.year==y]
   if len(train)<6 or len(test)!=1:continue
   base=["growth_lag"];plus=["growth_lag","issued","median_days", "valuation"]
   for name,cols in [("employment_only",base),("employment_plus_permits",plus)]:
