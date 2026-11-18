@@ -1,10 +1,418 @@
 {
-  "last_updated": "2026-11-17T22:52:34.244650+00:00",
+  "last_updated": "2026-11-18T22:35:13.046882+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10703,
+  "record_count": 10727,
   "permits": [
     {
-      "location": "",
+      "location": "831 UNIVERSITY BLVD E\nTAKOMA PARK, MD 20912\n(38.99357, -76.99235)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$11,100",
+      "declaredvaluation_num": 11100.0,
+      "buildingarea": "81,824 sf",
+      "buildingarea_num": 81824.0,
+      "worktype": "INSTALL",
+      "description": "Customer Wants To Use ePlans,Putting up a temporary chain-link fence for construction, Customer would like to use Epans.",
+      "addeddate": "2026-11-17T09:11:43.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-11-17T09:11:43.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "8120 WOODMONT AVE\nBETHESDA, MD 20814\n(38.99152, -77.09679)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$45,000",
+      "declaredvaluation_num": 45000.0,
+      "buildingarea": "2,184 sf",
+      "buildingarea_num": 2184.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans  Interior work only,Salon suite alteration: 6-ft open-top metal stud/drywall partitions, doors, flooring, paint.",
+      "addeddate": "2026-11-16T10:11:20.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-11-16T10:11:20.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "6125 MONTROSE RD\nROCKVILLE, MD 20852\n(39.05322, -77.1248)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$794,685",
+      "declaredvaluation_num": 794685.0,
+      "buildingarea": "1,000 sf",
+      "buildingarea_num": 1000.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans  Interior work only,THE PROJECT INVOLVES THE REPLACEMENT/REMOVAL OF GAS-FIRED HVAC SYSTEMS AND THEIR REPLACEMENT WITH ALL ELECTRICAL SYSTEMS",
+      "addeddate": "2026-11-16T03:11:35.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-11-16T03:11:35.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "7811 MONTROSE RD\nPOTOMAC, MD 20854\n(39.05756, -77.15986)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$77,875",
+      "declaredvaluation_num": 77875.0,
+      "buildingarea": "2,225 sf",
+      "buildingarea_num": 2225.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans  Interior work only,Existing business tenant expanding into adjacent vacant suite",
+      "addeddate": "2026-11-13T08:11:21.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-11-13T08:11:21.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "4500 EAST WEST HWY\nBETHESDA, MD 20814\n(38.98503, -77.09126)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$50,000",
+      "declaredvaluation_num": 50000.0,
+      "buildingarea": "4,184 sf",
+      "buildingarea_num": 4184.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans  Interior work only,DESCRIPTION: INTERIOR DEMOLITION OF PORTION OF 5TH FLOOR TENANT SUITE",
+      "addeddate": "2026-11-12T09:11:59.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-11-12T09:11:59.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "6259 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.0503, -77.12529)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$9,000",
+      "declaredvaluation_num": 9000.0,
+      "buildingarea": "37 sf",
+      "buildingarea_num": 37.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,Construct an entry vestibule (8'1\"\" x 4'7\"\") in existing unit.",
+      "addeddate": "2026-11-11T11:11:20.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-11-11T11:11:20.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "5454 WISCONSIN AVE\nCHEVY CHASE, MD 20815\n(38.96285, -77.08677)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$475,300",
+      "declaredvaluation_num": 475300.0,
+      "buildingarea": "805 sf",
+      "buildingarea_num": 805.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans  Interior work only,ALTERATIONS OF EXISTING PARKING DECK, NEW WORK TO INCLUDE REPLACEMENT OF EXISTING RAILINGS W/ NEW & ADDITION OF NEW RAILINGS & VEHICLE BARRIERS.",
+      "addeddate": "2026-11-10T06:11:16.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-11-10T06:11:16.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "7811 MONTROSE RD\nPOTOMAC, MD 20854\n(39.05756, -77.15986)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$94,056",
+      "declaredvaluation_num": 94056.0,
+      "buildingarea": "3,232 sf",
+      "buildingarea_num": 3232.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,THE WORK CONSISTS OF THE SUBDIVISION OF AN EXISTING, FULLY BUILT-OUT OFFICE SUITE INTO TWO SEPARATE SUITES, INCLUDING THE INTERIOR BUILD-OUT OF ONE SUITE FOR A NEW PHYSICAL THERAPY TENANT. NEW WORK SHALL INCLUDE PARTITIONS, CEILINGS, MILLWORK, AND FINISHES AS SHOWN ON THE PLANS. EXISTING LIGHTING FIXTURES SHALL BE REUSED AND RELOCATED AS REQUIRED. ELECTRICAL SYSTEMS SHALL BE MODIFIED TO SUPPORT THE NEW LAYOUT. EXISTING PANTRY PLUMBING CONNECTIONS SHALL REMAIN. NEW PLUMBING WORK SHALL INCLUDE THE ADDITION OF A SINK IN THE OPEN PHYSICAL THERAPY AREA. EXISTING MECHANICAL AND LIFE SAFETY SYSTEMS SHALL BE MODIFIED, AND NEW COMPONENTS PROVIDED AS REQUIRED TO SUPPORT THE SUITE SUBDIVISION AND NEW BUILD-OUT.",
+      "addeddate": "2026-11-10T03:11:17.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-11-10T03:11:17.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "18111 PRINCE PHILIP DR\nOLNEY, MD 20832\n(39.15389, -77.05605)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$100,000",
+      "declaredvaluation_num": 100000.0,
+      "buildingarea": "6,955 sf",
+      "buildingarea_num": 6955.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans  Interior work only,MINOR DEMOLITION, TENANT IMPROVEMENT/ALTERATIONS TO\nINTERIOR BUILD OUT OF NON-LOAD BEARING PARTITIONS AND\nINSTALLATION OF FURNITURE IN EXISTING OCCUPIED SPACE. NO\nSTRUCTURAL MODIFICATIONS REQUIRED",
+      "addeddate": "2026-11-10T01:11:16.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-11-10T01:11:16.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "7830 OLD GEORGETOWN RD\nBETHESDA, MD 20814\n(38.98815, -77.09988)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$800,000",
+      "declaredvaluation_num": 800000.0,
+      "buildingarea": "4,134 sf",
+      "buildingarea_num": 4134.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,THE WORK CONSISTS OF ALL NEW CONSTRUCTION FOR A NEW OFFICE TENANT. THE EXISTING SUITE CONDITION IS A WARM LIT SHELL. NEW WORK WILL INCLUDE COMPLETE CONSTRUCTION OF PARTITIONS, CEILINGS AND MILLWORK AS SHOW IN THE PLANS. THE SUITE SHALL RECEIVE NEW FINISHES THROUGHOUT. NEW LIGHTING FIXTURES WILL BE PROVIDED THROUGHOUT. NEW ELECTRICAL WORK WILL BE DONE THROUGHOUT. NEW PLUMBING WORK SHALL BE DONE THROUGHOUT. EXISTING MECHANICAL SYSTEMS SHALL BE MODIFIED AND NEW COMPONENTS PROVIDED TO SUPPORT THE NEW BUILD-OUT AS REQUIRED THROUGHOUT. NEW LIFE SAFETY SYSTEMS WILL BE PROVIDED THROUGHOUT.",
+      "addeddate": "2026-11-09T11:11:04.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-11-09T11:11:04.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "909 ROSE AVE\nROCKVILLE, MD 20852\n(39.05107, -77.11626)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$175,000",
+      "declaredvaluation_num": 175000.0,
+      "buildingarea": "415 sf",
+      "buildingarea_num": 415.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans Interior work only,Removal of communicating stair (not required for egress) &amp; decor steel and concrete infill of void.",
+      "addeddate": "2026-11-08T12:11:22.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-11-08T12:11:22.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "935 PROSE ST\nROCKVILLE, MD 20852\n(39.0516, -77.1172)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$850,000",
+      "declaredvaluation_num": 850000.0,
+      "buildingarea": "856 sf",
+      "buildingarea_num": 856.0,
+      "worktype": "CONSTRUCT",
+      "description": "Customer Wants To Use ePlans,Ground Improvements Only permit for the installation of 218 vibro-piers 30\"\" in diameter for a total of 856 SF.",
+      "addeddate": "2026-11-08T11:11:02.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-11-08T11:11:02.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "8500 RIVER RD\nBETHESDA, MD 20817\n(38.99993, -77.17609)",
+      "status": "Issued",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$16,230",
+      "declaredvaluation_num": 16230.0,
+      "buildingarea": "0 sf",
+      "buildingarea_num": 0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,FURNITURE ONLY - INSTALL MODULAR FURNITURE",
+      "addeddate": "2026-11-07T01:11:55.000",
+      "issueddate": "2026-11-10T12:11:29.000",
+      "finaleddate": "",
+      "addeddate_raw": "2026-11-07T01:11:55.000",
+      "issueddate_raw": "2026-11-10T12:11:29.000",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "15867 GAITHER DR\nGAITHERSBURG, MD 20877\n(39.11722, -77.19191)",
+      "status": "Open",
+      "usecode": "INDUSTRIAL BUILDING",
+      "declaredvaluation": "$237,500",
+      "declaredvaluation_num": 237500.0,
+      "buildingarea": "11,568 sf",
+      "buildingarea_num": 11568.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,New tenant Layout on the 1st Floor for New tenant candy company factory.  Work to include mechanical, electrical, plumbing and structural",
+      "addeddate": "2026-11-06T06:11:24.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-11-06T06:11:24.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "4949 DEL RAY AVE\nBETHESDA, MD 20814\n(38.98858, -77.10006)",
+      "status": "Open",
+      "usecode": "INDUSTRIAL BUILDING",
+      "declaredvaluation": "$1,300,000",
+      "declaredvaluation_num": 1300000.0,
+      "buildingarea": "298 sf",
+      "buildingarea_num": 298.0,
+      "worktype": "ADD",
+      "description": "Customer Wants To Use ePlans,Add new enclosed exit stair tower at west end of existing 13kV control house, Bethesda Substation.",
+      "addeddate": "2026-11-04T12:11:00.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-11-04T12:11:00.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "5425 WISCONSIN AVE\nCHEVY CHASE, MD 20815\n(38.9622, -77.08627)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$100,000",
+      "declaredvaluation_num": 100000.0,
+      "buildingarea": "3,950 sf",
+      "buildingarea_num": 3950.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans  Interior work only,MODIFICATION (per CHAPTER 43 NFPA 101) INTERIOR BUILD-OUT OF NEW\nMEDICAL OFFICE / SURGERY CENTER (OBS). WORK INCLUDES ALL RELATED\nMECHANICAL, ELECTRICAL, AND PLUMBING WORK. THERE ARE NO\nSTRUCTURAL MODIFICATIONS.\nAN INTERIOR DEMOLITION PERMIT HAS BEEN SUBMITTED 1176348",
+      "addeddate": "2026-11-02T09:11:43.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-11-02T09:11:43.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "5425 WISCONSIN AVE\nCHEVY CHASE, MD 20815\n(38.9622, -77.08627)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$50,000",
+      "declaredvaluation_num": 50000.0,
+      "buildingarea": "3,950 sf",
+      "buildingarea_num": 3950.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans  Interior work only,Interior demolition to prepare for interior alteration for new tenant.",
+      "addeddate": "2026-11-02T09:11:33.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-11-02T09:11:33.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "10231 OLD GEORGETOWN RD\nBETHESDA, MD 20814\n(39.02377, -77.12374)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$120,000",
+      "declaredvaluation_num": 120000.0,
+      "buildingarea": "723 sf",
+      "buildingarea_num": 723.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans  Interior work only,FAST TRACK** Tenant remodel to existing tenant space to include electrical work.",
+      "addeddate": "2026-11-02T07:11:02.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-11-02T07:11:02.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "6550 ROCK SPRING DR\nBETHESDA, MD 20817\n(39.02596, -77.13527)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$922,082",
+      "declaredvaluation_num": 922082.0,
+      "buildingarea": "14,868 sf",
+      "buildingarea_num": 14868.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans Interior work only,Level 2 Alteration - interior Renovation for a new single tenant build out on the 3rd floor (Unoccupied Space). New work to include mechanical electrical and Plumbing",
+      "addeddate": "2026-11-02T03:11:15.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-11-02T03:11:15.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "7750 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98765, -77.09492)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$451,635",
+      "declaredvaluation_num": 451635.0,
+      "buildingarea": "6,500 sf",
+      "buildingarea_num": 6500.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans  Interior work only,INTERIOR ALTERATION TO EXISTING TENAT W/CHANGE OF USE",
+      "addeddate": "2026-10-30T11:10:28.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-10-30T11:10:28.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "17617 REDLAND RD\nROCKVILLE, MD 20855\n(39.14455, -77.14416)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$1",
+      "declaredvaluation_num": 1.0,
+      "buildingarea": "0 sf",
+      "buildingarea_num": 0,
+      "worktype": "CONSTRUCT",
+      "description": "HHS REVIEW FOR EUROPEAN MARKET NEW EQUIPMENT",
+      "addeddate": "2026-10-30T03:10:21.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-10-30T03:10:21.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "5480 WISCONSIN AVE\nCHEVY CHASE, MD 20815\n(38.96349, -77.0871)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$50,358",
+      "declaredvaluation_num": 50358.0,
+      "buildingarea": "797 sf",
+      "buildingarea_num": 797.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans  Interior work only,The project is the interior alteration of an existing tenant suite to accommodate the needs of a new tenant.  It consists of limited demolition of non-structural interior partitions, the construction of one new partition, new LED lighting, new finishes, and the redistribution of the existing heating, cooling, and ventilation system.",
+      "addeddate": "2026-10-30T02:10:49.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-10-30T02:10:49.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "8403 COLESVILLE RD\nSILVER SPRING, MD 20910\n(38.99437, -77.03087)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$408,000",
+      "declaredvaluation_num": 408000.0,
+      "buildingarea": "25,000 sf",
+      "buildingarea_num": 25000.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,Flat roof re-cover. Install .060 white TPO over insulation, mechanically fastening to roof using #15 fasteners and\nbarbed plates and heat-welding seams",
+      "addeddate": "2026-10-29T04:10:33.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-10-29T04:10:33.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "7220 WISCONSIN AVE S\nBETHESDA, MD 20814\n(38.98177, -77.09333)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$2,100,000",
+      "declaredvaluation_num": 2100000.0,
+      "buildingarea": "5,520 sf",
+      "buildingarea_num": 5520.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,Interior upfit, full gut and renovation combining suites 200 and 205 into a single suite for business use.",
+      "addeddate": "2026-10-29T01:10:00.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-10-29T01:10:00.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "1300 SPRING ST\nSILVER SPRING, MD 20910\n(38.99904, -77.03246)",
       "status": "Open",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$25,000",
@@ -12,7 +420,7 @@
       "buildingarea": "981 sf",
       "buildingarea_num": 981.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,New tenant fit-out including selective demolition, new partitions, new power distribution, and relocation of existing light fixtures. Scope also includes installation of equipment within the parking garage and repainting of an existing wall.",
+      "description": "Customer Wants To Use ePlans Interior work only,New tenant fit-out including selective demolition, new partitions, new power distribution, and relocation of existing light fixtures. Scope also includes installation of equipment within the parking garage and repainting of an existing wall.",
       "addeddate": "2026-10-28T10:10:06.000",
       "issueddate": "",
       "finaleddate": "",
@@ -106,7 +514,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "",
+      "location": "11921 BOURNEFIELD WAY\nSILVER SPRING, MD 20904\n(39.05115, -76.9627)",
       "status": "Open",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$1,743,021",
@@ -165,7 +573,7 @@
       "buildingarea": "19,750 sf",
       "buildingarea_num": 19750.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,Replacement of the existing TPO roof membrane, cover board and insulation and flashing",
+      "description": "Customer Wants To Use ePlans Interior work only,Replacement of the existing TPO roof membrane, cover board and insulation and flashing",
       "addeddate": "2026-10-21T10:10:10.000",
       "issueddate": "",
       "finaleddate": "",
@@ -250,7 +658,7 @@
       "buildingarea": "1,725 sf",
       "buildingarea_num": 1725.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,THE TENANT DECIDE TO EXPAND THEIR SUITE BY ADDING VACANT SPACE BETWEEN (2) CURRENTLY SPACES. ADDING ADA DOOR WITH AUTOMATIC DOOR OPEN.  ALSO, PROVIDE NEW OPENING IN WALL, WITH PARTIAL DEMOLITION OF MILLWORK TO CONNECT ADJACENT SUITE.",
+      "description": "Customer Wants To Use ePlans,THE TENANT DECIDE TO EXPAND THEIR SUITE BY ADDING VACANT SPACE BETWEEN (2) CURRENTLY SPACES. ADDING ADA DOOR WITH AUTOMATIC DOOR OPEN. ALSO, PROVIDE NEW OPENING IN WALL, WITH PARTIAL DEMOLITION OF MILLWORK TO CONNECT ADJACENT SUITE.",
       "addeddate": "2026-10-16T10:10:59.000",
       "issueddate": "",
       "finaleddate": "",
@@ -277,24 +685,24 @@
     },
     {
       "location": "9715 MEDICAL CENTER DR\nROCKVILLE, MD 20850\n(39.09914, -77.19759)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$100,000",
       "declaredvaluation_num": 100000.0,
       "buildingarea": "3,810 sf",
       "buildingarea_num": 3810.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,Interior alterations to expand existing medical office, partitions, hvac and electrical",
+      "description": "Customer Wants To Use ePlans Interior work only,Interior alterations to expand existing medical office, partitions, hvac and electrical",
       "addeddate": "2026-10-16T01:10:55.000",
-      "issueddate": "",
+      "issueddate": "2026-11-17T10:11:06.000",
       "finaleddate": "",
       "addeddate_raw": "2026-10-16T01:10:55.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-11-17T10:11:06.000",
       "finaleddate_raw": ""
     },
     {
       "location": "11300 ROCKVILLE PIKE\nROCKVILLE, MD 20852\n(39.04109, -77.11056)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$88,000",
       "declaredvaluation_num": 88000.0,
@@ -303,10 +711,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,ALTERATION TO EXISTING STRUCTURE. EXPANDING EXISTING SUITE 404 TO TAKE PARTIAL SUITE 407. WORK INCLUDES ADDING A FEW OFFICES, NEW LAYOUT OF LAB AREA, AND NEW STAFF ONLY RESTROOM.",
       "addeddate": "2026-10-15T11:10:25.000",
-      "issueddate": "",
+      "issueddate": "2026-11-10T08:11:21.000",
       "finaleddate": "",
       "addeddate_raw": "2026-10-15T11:10:25.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-11-10T08:11:21.000",
       "finaleddate_raw": ""
     },
     {
@@ -328,19 +736,19 @@
     },
     {
       "location": "12500 PARK POTOMAC AVE\nPOTOMAC, MD 20854\n(39.06077, -77.15795)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$131,842",
       "declaredvaluation_num": 131842.0,
       "buildingarea": "2,053 sf",
       "buildingarea_num": 2053.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,interior alterations to excisting commercial space for H&R Block",
+      "description": "Customer Wants To Use ePlans Interior work only,interior alterations to excisting commercial space for H&amp;R Block",
       "addeddate": "2026-10-15T09:10:29.000",
-      "issueddate": "",
+      "issueddate": "2026-11-13T01:11:30.000",
       "finaleddate": "",
       "addeddate_raw": "2026-10-15T09:10:29.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-11-13T01:11:30.000",
       "finaleddate_raw": ""
     },
     {
@@ -369,7 +777,7 @@
       "buildingarea": "680 sf",
       "buildingarea_num": 680.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,ADA Bathroom Renovation at Department of Health\nand Human Services",
+      "description": "Customer Wants To Use ePlans,ADA Bathroom Renovation at Department of Health and Human Services",
       "addeddate": "2026-10-15T01:10:05.000",
       "issueddate": "",
       "finaleddate": "",
@@ -454,12 +862,29 @@
       "buildingarea": "500 sf",
       "buildingarea_num": 500.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,SPEC SUITES 310, 320 & 330. TENANT IMPROVEMENT INCLUDING: SELECTIVE PARTITION, ELECTRICAL, CEILING, FINISHES, & LIFE SAFETY",
+      "description": "Customer Wants To Use ePlans,SPEC SUITES 310, 320 &amp; 330. TENANT IMPROVEMENT INCLUDING: SELECTIVE PARTITION, ELECTRICAL, CEILING, FINISHES, &amp; LIFE SAFETY *** this permit covers a partial-floor interior tenant fit-out on the 3rd floor (SUITE 310)&nbsp;including construction of a new demising partition to separate the incoming tenant�s premises from the remaining floor area. Work also includes selectivemodifications to interior partitions, electrical systems, ceilings and life safety systems. The remaining vacant space will be subject to a separate permit submission upon identification of a future tenant.&nbsp;***",
       "addeddate": "2026-10-12T11:10:29.000",
       "issueddate": "",
       "finaleddate": "",
       "addeddate_raw": "2026-10-12T11:10:29.000",
       "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "8002 FLOWER AVE\nTAKOMA PARK, MD 20912\n(38.98896, -77.00113)",
+      "status": "Issued",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$1",
+      "declaredvaluation_num": 1.0,
+      "buildingarea": "0 sf",
+      "buildingarea_num": 0,
+      "worktype": "ALTER",
+      "description": "HHS REVIEW",
+      "addeddate": "2026-10-12T01:10:48.000",
+      "issueddate": "2026-11-05T02:11:53.000",
+      "finaleddate": "",
+      "addeddate_raw": "2026-10-12T01:10:48.000",
+      "issueddate_raw": "2026-11-05T02:11:53.000",
       "finaleddate_raw": ""
     },
     {
@@ -485,10 +910,10 @@
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$550,000",
       "declaredvaluation_num": 550000.0,
-      "buildingarea": "7,409 sf",
-      "buildingarea_num": 7409.0,
+      "buildingarea": "4,180 sf",
+      "buildingarea_num": 4180.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,***TO INCLUDE SYSTEMS FURNITURE***\nSUITE# 700 = 4,180 SF (ECONOMETRIC A INC)\nSUITE# 720 = 2,325 SF (VACANT)\nCOMMOM CORRIDOR= 904 SF",
+      "description": "Customer Wants To Use ePlans Interior work only,***TO INCLUDE SYSTEMS FURNITURE*** SUITE# 700 = 4,180 SF (ECONOMETRIC A INC) SUITE# 720 = 2,325 SF (VACANT) COMMOM CORRIDOR= 904 SF",
       "addeddate": "2026-10-09T03:10:58.000",
       "issueddate": "",
       "finaleddate": "",
@@ -505,7 +930,7 @@
       "buildingarea": "3,770 sf",
       "buildingarea_num": 3770.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,EXPANSION AND INTERIOR ALTERATION FOR AN EXISTING TENANT'S RECEPTION AREA AND\nSUITE ENTRY LOCATION. MINOR MODIFICATION TO EXISTING MECHANICAL AND FIRE\nPROTECTIONS TO ACCOMMODATE THE NEW LAYOUT. NO STRUCTURAL SCOPE OF WORK IS\nREQUIRED.",
+      "description": "Customer Wants To Use ePlans Interior work only,EXPANSION AND INTERIOR ALTERATION FOR AN EXISTING TENANT'S RECEPTION AREA AND SUITE ENTRY LOCATION. MINOR MODIFICATION TO EXISTING MECHANICAL AND FIRE PROTECTIONS TO ACCOMMODATE THE NEW LAYOUT. NO STRUCTURAL SCOPE OF WORK IS REQUIRED.",
       "addeddate": "2026-10-08T12:10:12.000",
       "issueddate": "",
       "finaleddate": "",
@@ -651,7 +1076,7 @@
     },
     {
       "location": "912 THAYER AVE\nSILVER SPRING, MD 20910\n(38.99274, -77.02527)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$0",
       "declaredvaluation_num": 0,
@@ -660,10 +1085,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,Interior demolition only on 3rd floor Total Square Footage per Sheet A100 = 6,220sf",
       "addeddate": "2026-09-30T04:09:21.000",
-      "issueddate": "",
+      "issueddate": "2026-10-29T04:10:01.000",
       "finaleddate": "",
       "addeddate_raw": "2026-09-30T04:09:21.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-10-29T04:10:01.000",
       "finaleddate_raw": ""
     },
     {
@@ -777,7 +1202,7 @@
       "buildingarea": "5,179 sf",
       "buildingarea_num": 5179.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,Interior only tenant alteration to existing vacant tenant space.  Prior tenant was believed to be an HVAC sales vendor.  New tenant will be \"\"Dogtopia\"\" a nationally franchised dog daycare and boarding facility.  There will be no exterior dog play area/boarding.  New interior walls and all associated mechanical, electrical, and plumbing work needed to complete the fit-out.",
+      "description": "Customer Wants To Use ePlans,Interior only tenant alteration to existing vacant tenant space. Prior tenant was believed to be an HVAC sales vendor. New tenant will be \"\"Dogtopia\"\" a nationally franchised dog daycare and boarding facility. There will be no exterior dog play area/boarding. New interior walls and all associated mechanical, electrical, and plumbing work needed to complete the fit-out.",
       "addeddate": "2026-09-22T03:09:47.000",
       "issueddate": "",
       "finaleddate": "",
@@ -862,7 +1287,7 @@
       "buildingarea": "6,400 sf",
       "buildingarea_num": 6400.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,SCOPE OF WORK INCLUDES GROUND &amp; LEVEL 3 ALTERATIONS TO AN EXISTING COMMERCIAL OFFICE AND WAREHOUSE BUILDING",
+      "description": "SCOPE OF WORK INCLUDES GROUND &amp; LEVEL 3 ALTERATIONS TO AN EXISTING COMMERCIAL OFFICE AND WAREHOUSE BUILDING. THE APPROVED SEPTIC DESIGN FLOW IS 850 GALLONS PER DAY. THE BUILDING IS APPROVED FOR OCCUPANCY OF 24 KENNELS ONLY.",
       "addeddate": "2026-09-16T01:09:29.000",
       "issueddate": "",
       "finaleddate": "",
@@ -889,7 +1314,7 @@
     },
     {
       "location": "9800 MEDICAL CENTER DR\nROCKVILLE, MD 20850\n(39.09623, -77.19735)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$101,310",
       "declaredvaluation_num": 101310.0,
@@ -898,10 +1323,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,REMOVAL OF EXISTING WORKSTATIONS REPLACED WITH COMPUTER WORK STATIONS, CHAIRS &amp; ACCESSORIES.",
       "addeddate": "2026-09-14T11:09:05.000",
-      "issueddate": "",
+      "issueddate": "2026-11-03T02:11:10.000",
       "finaleddate": "",
       "addeddate_raw": "2026-09-14T11:09:05.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-11-03T02:11:10.000",
       "finaleddate_raw": ""
     },
     {
@@ -913,7 +1338,7 @@
       "buildingarea": "100 sf",
       "buildingarea_num": 100.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans Interior work only, REPLACEMENT OF THE BUILDING DOMESTIC HOT WATER HEATER SYSTEM AND STORAGE TANK SERVING THE EMPLOYEE KITCHEN. No structural or architectural disturbance except piping",
+      "description": "Customer Wants To Use ePlans Interior work only, REPLACEMENT OF THE BUILDING DOMESTIC HOT WATER HEATER SYSTEM AND STORAGE TANK SERVING THE EMPLOYEE KITCHEN. No structural or architectural disturbance except pipingBid estimate submitted with a value of $533.909.00",
       "addeddate": "2026-09-14T02:09:45.000",
       "issueddate": "",
       "finaleddate": "",
@@ -998,7 +1423,7 @@
       "buildingarea": "7,049 sf",
       "buildingarea_num": 7049.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,INTERIOR RENOVATION OF 1 SUITE ON THE 8TH\nFLOOR INCLUDING NEW PARTITIONS & DOORS, LIGHTING & CEILING, SINK &\nASSOCIATED PLUMBING, MILLWORK, AND FINISHES. WORK INCLUDES NEW\nELECTRICAL, PLUMBING, AND MECHANICAL AS REQUIRED PER THE NEW LAYOUT.\nTENANT SHALL APPLY FOR U&O PRIOR TO OCCUPANCY",
+      "description": "Customer Wants To Use ePlans,INTERIOR RENOVATION OF 1 SUITE ON THE 8TH FLOOR INCLUDING NEW PARTITIONS &amp; DOORS, LIGHTING &amp; CEILING, SINK &amp; ASSOCIATED PLUMBING, MILLWORK, AND FINISHES. WORK INCLUDES NEW ELECTRICAL, PLUMBING, AND MECHANICAL AS REQUIRED PER THE NEW LAYOUT. TENANT SHALL APPLY FOR U&amp;O PRIOR TO OCCUPANCY",
       "addeddate": "2026-09-09T11:09:29.000",
       "issueddate": "",
       "finaleddate": "",
@@ -1083,7 +1508,7 @@
       "buildingarea": "1,000 sf",
       "buildingarea_num": 1000.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,Replacing two 400 ton chillers, 3 chilled water pumps and 3 condenser water pumps as well as adding temporary chiller connections to the building infrastructure",
+      "description": "Customer Wants To Use ePlans Interior work only,Replacing two 400 ton chillers, 3 chilled water pumps and 3 condenser water pumps as well as adding temporary chiller connections to the building infrastructure",
       "addeddate": "2026-09-02T07:09:50.000",
       "issueddate": "",
       "finaleddate": "",
@@ -1279,23 +1704,6 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "7200 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98152, -77.0935)",
-      "status": "Open",
-      "usecode": "BUSINESS BUILDING",
-      "declaredvaluation": "$50,982",
-      "declaredvaluation_num": 50982.0,
-      "buildingarea": "225 sf",
-      "buildingarea_num": 225.0,
-      "worktype": "RESTORE AND / OR REPAIR",
-      "description": "Customer Wants To Use ePlans,Masonry Wall Repairs at Loading Dock Area",
-      "addeddate": "2026-08-28T04:08:59.000",
-      "issueddate": "",
-      "finaleddate": "",
-      "addeddate_raw": "2026-08-28T04:08:59.000",
-      "issueddate_raw": "",
-      "finaleddate_raw": ""
-    },
-    {
       "location": "12125 VEIRS MILL RD\nSILVER SPRING, MD 20902\n(39.05552, -77.08132)",
       "status": "Open",
       "usecode": "BUSINESS BUILDING",
@@ -1365,7 +1773,7 @@
     },
     {
       "location": "4600 EAST WEST HWY\nBETHESDA, MD 20814\n(38.98478, -77.09304)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$25,000",
       "declaredvaluation_num": 25000.0,
@@ -1375,10 +1783,10 @@
       "description": "Customer Wants To Use ePlans Interior work only,MINOR NON-STRUCTURAL INTERIOR ALTERATION WITHIN AN EXISTING, FULLY CONDITIONED GROUP B CORPORATE OFFICE SUITE. CREATE A SINGLE DEDICATED CONFERENCE ROOM.",
       "addeddate": "2026-08-21T10:08:17.000",
       "issueddate": "2026-09-21T01:09:47.000",
-      "finaleddate": "",
+      "finaleddate": "2026-11-12T12:11:25.000",
       "addeddate_raw": "2026-08-21T10:08:17.000",
       "issueddate_raw": "2026-09-21T01:09:47.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-11-12T12:11:25.000"
     },
     {
       "location": "4800 HAMPDEN LN\nBETHESDA, MD 20814\n(38.98274, -77.09483)",
@@ -1484,7 +1892,7 @@
     },
     {
       "location": "4701 SANGAMORE RD\nBETHESDA, MD 20816\n(38.94952, -77.11972)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$384,980",
       "declaredvaluation_num": 384980.0,
@@ -1493,10 +1901,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,INCREASING THE SQUARE FOOTAGE OF THE TENANT SPACE NEW WALL CONFIGURATION IN EXPANSION AREAS. NEW MECHANICAL, ELECTRICAL, AND PLUMBING IN EXPANDED TENANT SPACE",
       "addeddate": "2026-08-14T03:08:34.000",
-      "issueddate": "",
+      "issueddate": "2026-11-05T10:11:44.000",
       "finaleddate": "",
       "addeddate_raw": "2026-08-14T03:08:34.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-11-05T10:11:44.000",
       "finaleddate_raw": ""
     },
     {
@@ -1552,7 +1960,7 @@
     },
     {
       "location": "4800 HAMPDEN LN\nBETHESDA, MD 20814\n(38.98274, -77.09483)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$15,403",
       "declaredvaluation_num": 15403.0,
@@ -1562,10 +1970,10 @@
       "description": "Customer Wants To Use ePlans,***FAST TRACK*** SUITE 510-MINIMUM RENOVATION WITHIN EXISTING TENANT SUITE, DEMOLITION OF WALL TO COMBINE TWO OFFICES, INFILL OF DOOR OPENING. MODIFICATIONS TO EXISTING MECHANICAL &amp; ELECTRICAL SYSTEMS.",
       "addeddate": "2026-08-12T04:08:02.000",
       "issueddate": "2026-09-09T03:09:32.000",
-      "finaleddate": "",
+      "finaleddate": "2026-10-30T02:10:02.000",
       "addeddate_raw": "2026-08-12T04:08:02.000",
       "issueddate_raw": "2026-09-09T03:09:32.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-10-30T02:10:02.000"
     },
     {
       "location": "8380 COLESVILLE RD\nSILVER SPRING, MD 20910\n(38.99297, -77.03312)",
@@ -1637,7 +2045,7 @@
     },
     {
       "location": "11802 ROCKVILLE PIKE\nROCKVILLE, MD 20852\n(39.04997, -77.11501)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$180,000",
       "declaredvaluation_num": 180000.0,
@@ -1646,10 +2054,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans, TENANT FIT OUT FOR A NEW ICE CREAM SHOP",
       "addeddate": "2026-08-07T05:08:09.000",
-      "issueddate": "",
+      "issueddate": "2026-11-16T08:11:50.000",
       "finaleddate": "",
       "addeddate_raw": "2026-08-07T05:08:09.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-11-16T08:11:50.000",
       "finaleddate_raw": ""
     },
     {
@@ -1841,19 +2249,19 @@
     },
     {
       "location": "8401 CONNECTICUT AVE\nCHEVY CHASE, MD 20815\n(38.99414, -77.0764)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$60,000",
       "declaredvaluation_num": 60000.0,
       "buildingarea": "2,550 sf",
       "buildingarea_num": 2550.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,NEW TENANT LAYOUT",
+      "description": "Customer Wants To Use ePlans Interior work only,NEW TENANT LAYOUT",
       "addeddate": "2026-08-05T02:08:32.000",
-      "issueddate": "",
+      "issueddate": "2026-11-04T03:11:36.000",
       "finaleddate": "",
       "addeddate_raw": "2026-08-05T02:08:32.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-11-04T03:11:36.000",
       "finaleddate_raw": ""
     },
     {
@@ -2154,7 +2562,7 @@
       "buildingarea": "1,661 sf",
       "buildingarea_num": 1661.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans Interior work only,SELECTIVE INTERIOR DEMOLITION TO AN EXISTING OFFICE SPACE WITHIN AN EXISTING RETAIL FLOOR OF AN EXISTING BUILDING. THERE WILL BE NO OCCUPANCY SOUGHT AS A RESULT OF THIS PERMIT - ONLY DEMOLITION AND CLEAN-UP OF EXISTING SPACES WILL BE LEFT IN \"\"WARM-WHITE BOX\"\" CONDITION FOR FUTURE TENANTS.",
+      "description": "Revision 1,1 -  7700-N & 7700-M spaces as one suite of 1,661 sf in lieu of two spaces,Customer Wants To Use ePlansCustomer Wants To Use ePlans Interior work only,SELECTIVE INTERIOR DEMOLITION TO AN EXISTING OFFICE SPACE WITHIN AN EXISTING RETAIL FLOOR OF AN EXISTING BUILDING. THERE WILL BE NO OCCUPANCY SOUGHT AS A RESULT OF THIS PERMIT - ONLY DEMOLITION AND CLEAN-UP OF EXISTING SPACES WILL BE LEFT IN \"\"WARM-WHITE BOX\"\" CONDITION FOR FUTURE TENANTS.",
       "addeddate": "2026-07-27T12:07:56.000",
       "issueddate": "2026-10-08T09:10:53.000",
       "finaleddate": "",
@@ -2459,7 +2867,7 @@
       "declaredvaluation_num": 1.0,
       "buildingarea": "1 sf",
       "buildingarea_num": 1.0,
-      "worktype": "CONSTRUCT",
+      "worktype": "INSTALL",
       "description": "HHS Plan Review only",
       "addeddate": "2026-07-21T03:07:00.000",
       "issueddate": "2026-10-07T02:10:05.000",
@@ -2817,7 +3225,7 @@
       "buildingarea": "7,035 sf",
       "buildingarea_num": 7035.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans Interior work only,Interior demolition on 1st and 2nd floors in preparation of interior renovations under separate permits.",
+      "description": "Revision ,1 - REVISION #1: ADDITIONAL DEMO REQUIRED DUE TO DESIGN CHANGES IN THE FIELD.,Customer Wants To Use ePlansCustomer Wants To Use ePlans Interior work only,Interior demolition on 1st and 2nd floors in preparation of interior renovations under separate permits.",
       "addeddate": "2026-06-19T10:06:49.000",
       "issueddate": "2026-08-11T12:08:54.000",
       "finaleddate": "",
@@ -2980,7 +3388,7 @@
     },
     {
       "location": "7600 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98612, -77.09457)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$50,000",
       "declaredvaluation_num": 50000.0,
@@ -2990,10 +3398,10 @@
       "description": "Customer Wants To Use ePlans,SCOPE OF WORK IS FOR THE RENOVATION OF COMMON CORRIDOR AREA AND ELEVATOR LOBBY ON THE SECOND FLOOR, CURRENTLY UNOCCUPIED.",
       "addeddate": "2026-06-12T01:06:54.000",
       "issueddate": "2026-08-13T10:08:53.000",
-      "finaleddate": "",
+      "finaleddate": "2026-11-13T02:11:40.000",
       "addeddate_raw": "2026-06-12T01:06:54.000",
       "issueddate_raw": "2026-08-13T10:08:53.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-11-13T02:11:40.000"
     },
     {
       "location": "6010 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.04751, -77.12275)",
@@ -3455,7 +3863,7 @@
       "finaleddate_raw": "2026-10-15T01:10:13.000"
     },
     {
-      "location": "14808 PHYSICIANS LN\nROCKVILLE, MD 20850\n(39.09976, -77.21163)",
+      "location": "14804 PHYSICIANS LN\nROCKVILLE, MD 20850\n(39.09957, -77.21116)",
       "status": "Open",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$15,000",
@@ -3523,7 +3931,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "11160 VEIRS MILL\nWHEATON, MD 20902\n(39.03748, -77.05329)",
+      "location": "11160 VEIRS MILL RD\nWHEATON, MD 20902\n(39.03753, -77.05335)",
       "status": "Open",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$1",
@@ -3660,7 +4068,7 @@
     },
     {
       "location": "5550 FRIENDSHIP BLVD\nCHEVY CHASE, MD 20815\n(38.96407, -77.09013)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$175,000",
       "declaredvaluation_num": 175000.0,
@@ -3669,10 +4077,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,LEVEL 1 ALTERATION. INTERIOR WORK ONLY. NO PARTITION CHANGES. NO CHANGE TO DEMISED AREA. REPLACE SERVICE COUNTER AND APPLIANCES. NEW FINISHES. REPLACE LIGHTING. RELATED MECHANICAL, PLUMBING, AND ELECTRICAL WORK",
       "addeddate": "2026-05-13T09:05:34.000",
-      "issueddate": "",
+      "issueddate": "2026-11-02T03:11:59.000",
       "finaleddate": "",
       "addeddate_raw": "2026-05-13T09:05:34.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-11-02T03:11:59.000",
       "finaleddate_raw": ""
     },
     {
@@ -3990,7 +4398,7 @@
       "buildingarea": "49 sf",
       "buildingarea_num": 49.0,
       "worktype": "ALTER",
-      "description": "Revision ,1 - TENANT FIT OUT, SPACE TO BE A BARBERSHOP. U&O APPLICATION WILL BE UPLOADED,Customer Wants To Use ePlansCustomer Wants To Use ePlans,Add bathroom to existing building shell space.",
+      "description": "Revision ,1 - TENANT FIT OUT, SPACE TO BE A BARBERSHOP. U&amp;O APPLICATION WILL BE UPLOADED,Customer Wants To Use ePlans Customer Wants To Use ePlans,Add bathroom to existing building shell space.",
       "addeddate": "2026-04-27T12:04:57.000",
       "issueddate": "2026-05-26T12:05:44.000",
       "finaleddate": "",
@@ -4051,7 +4459,7 @@
     },
     {
       "location": "12125 VEIRS MILL RD\nSILVER SPRING, MD 20902\n(39.05552, -77.08132)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$15,000",
       "declaredvaluation_num": 15000.0,
@@ -4061,10 +4469,10 @@
       "description": "Customer Wants To Use ePlans,Interior Alterations for New Mechanical Closet for Bank HVAC unit, Refinishing Elevator Room and Elevator Lobby.",
       "addeddate": "2026-04-21T05:04:00.000",
       "issueddate": "2026-07-13T12:07:06.000",
-      "finaleddate": "",
+      "finaleddate": "2026-11-12T12:11:58.000",
       "addeddate_raw": "2026-04-21T05:04:00.000",
       "issueddate_raw": "2026-07-13T12:07:06.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-11-12T12:11:58.000"
     },
     {
       "location": "6480 SLIGO MILL RD\nTAKOMA PARK, MD 20912\n(38.96883, -77.00156)",
@@ -4476,7 +4884,7 @@
     },
     {
       "location": "7501 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98516, -77.09434)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$864,121",
       "declaredvaluation_num": 864121.0,
@@ -4486,10 +4894,10 @@
       "description": "Revision ,1 - Revised  M207, reflecting updated ductwork and relocated controls based on as-built. ,Customer Wants To Use ePlansCustomer Wants To Use ePlans Interior work only,INTERIOR ALTERATION OF THE PARTIAL 7TH FLOOR. THE WORK CONSISTS OF NON STRUCTURAL DEMOLITION, AND NEW GENERAL PLUMBING, ELECTRICAL, AND MECHANICAL WORK. STRUCTURAL WORK IS REQUIRED. FURNITURE PERMIT WILL BE RUN SEPARATELY. THERE IS NO CHANGE OF USE.",
       "addeddate": "2026-04-02T04:04:04.000",
       "issueddate": "2026-06-29T07:06:34.000",
-      "finaleddate": "",
+      "finaleddate": "2026-11-16T10:11:29.000",
       "addeddate_raw": "2026-04-02T04:04:04.000",
       "issueddate_raw": "2026-06-29T07:06:34.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-11-16T10:11:29.000"
     },
     {
       "location": "7236 WOODMONT AVE\nBETHESDA, MD 20814\n(38.98155, -77.09583)",
@@ -5938,7 +6346,7 @@
     },
     {
       "location": "14119 TRAVILAH RD\nROCKVILLE, MD 20850\n(39.08612, -77.21938)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$200,000",
       "declaredvaluation_num": 200000.0,
@@ -5948,10 +6356,10 @@
       "description": "Customer Wants To Use ePlans,First Tenant built out of part of the building. New interior walls, doors, ceilings, millwork and finishes. New restrooms. New HVAC and associated electrical and plumbing related to the new layout. 426127-USE AND OCCUPANCY PERMIT",
       "addeddate": "2026-02-04T10:02:27.000",
       "issueddate": "2026-05-26T09:05:59.000",
-      "finaleddate": "",
+      "finaleddate": "2026-10-30T10:10:46.000",
       "addeddate_raw": "2026-02-04T10:02:27.000",
       "issueddate_raw": "2026-05-26T09:05:59.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-10-30T10:10:46.000"
     },
     {
       "location": "7811 MONTROSE RD\nPOTOMAC, MD 20854\n(39.05756, -77.15986)",
@@ -6346,7 +6754,7 @@
     },
     {
       "location": "4800 HAMPDEN LN\nBETHESDA, MD 20814\n(38.98274, -77.09483)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$875,000",
       "declaredvaluation_num": 875000.0,
@@ -6356,10 +6764,10 @@
       "description": "Revision ,1 - The plan changes issued under Bulletin #3 - Clouded Delta 3 dated 6/03/26 have been made due to hidden conditions \nfound in the field during construction. They include changes to the Architectural, Mechanical, Electrical Plans.  ,Customer Wants To Use ePlansCustomer Wants To Use ePlans Interior work only,SUITE 210 - 4,800 SF COMMON AREA - 943 SF INTERIOR FIT OUT OF SPEC SUITE WITHIN EXISTING DEMISED WHITEBOX SUITES. RENOVATION OF CORE RESTROOMS &amp; ELEVATOR LOBBY. INCLUDES MODIFICATIONS TO EXISTING MEP SYSTEMS.",
       "addeddate": "2026-01-16T03:01:26.000",
       "issueddate": "2026-03-16T12:03:57.000",
-      "finaleddate": "",
+      "finaleddate": "2026-11-06T01:11:59.000",
       "addeddate_raw": "2026-01-16T03:01:26.000",
       "issueddate_raw": "2026-03-16T12:03:57.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-11-06T01:11:59.000"
     },
     {
       "location": "4800 HAMPDEN LN\nBETHESDA, MD 20814\n(38.98274, -77.09483)",
@@ -6567,7 +6975,7 @@
     },
     {
       "location": "8025 CESSNA AVE\nGAITHERSBURG, MD 20879\n(39.17274, -77.16391)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "INDUSTRIAL BUILDING",
       "declaredvaluation": "$250,000",
       "declaredvaluation_num": 250000.0,
@@ -6577,10 +6985,10 @@
       "description": "Revision ,1 - The building inspector advised that we need to submit mechanical drawings,Customer Wants To Use ePlansCustomer Wants To Use ePlans,Smoke damage throughout unit. Replacement of sheetrock walls, ceiling and insulation. Electrical and HVAC repairs.Bid estimate submitted with a value of $259,318.24",
       "addeddate": "2025-12-29T12:12:47.000",
       "issueddate": "2026-03-23T08:03:24.000",
-      "finaleddate": "",
+      "finaleddate": "2026-10-30T02:10:15.000",
       "addeddate_raw": "2025-12-29T12:12:47.000",
       "issueddate_raw": "2026-03-23T08:03:24.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-10-30T02:10:15.000"
     },
     {
       "location": "6903 ROCKLEDGE DR\nBETHESDA, MD 20817\n(39.02835, -77.14038)",
@@ -6744,7 +7152,7 @@
       "buildingarea": "4,435 sf",
       "buildingarea_num": 4435.0,
       "worktype": "ALTER",
-      "description": "Revision ,1 - Revision to add 2-hour rated wall and 90-minute rated door assemblies.,Customer Wants To Use ePlans Revision ,1 - Owner changes,Customer Wants To Use ePlans  This COMMERCIAL BUILDING application is associated with the following related applications: COMMERCIAL BUILDING &nbsp;APPLICATION# 1143921, USE AND OCCUPANCY PERMIT 421666 (RC, 12/17/2025) Customer Wants To Use ePlans,INTERIOR BUILDOUT OF EXISTING WHITE BOX FOR NEW OFFICE SPACE. PROJECT INCLUDES NEW MECHANICAL, ELECTRICAL AND PLUMBING. NO STRUCTURAL WORK AS PART OF THIS APPLICATION. SYSTEMS FURNITURE WILL BE ON SEPARATE PERMIT, HOWEVER SHARING THESE PLANS. 7901 Wisconsin AVE Fl-3 Bethesda, MD 20814",
+      "description": "Revision ,1 - Revision to add 2-hour rated wall and 90-minute rated door assemblies.,Customer Wants To Use ePlans Revision ,1 - Owner changes,Customer Wants To Use ePlans This COMMERCIAL BUILDING application is associated with the following related applications: COMMERCIAL BUILDING &nbsp;APPLICATION# 1143921, USE AND OCCUPANCY PERMIT 421666 (RC, 12/17/2025) Customer Wants To Use ePlans,INTERIOR BUILDOUT OF EXISTING WHITE BOX FOR NEW OFFICE SPACE. PROJECT INCLUDES NEW MECHANICAL, ELECTRICAL AND PLUMBING. NO STRUCTURAL WORK AS PART OF THIS APPLICATION. SYSTEMS FURNITURE WILL BE ON SEPARATE PERMIT, HOWEVER SHARING THESE PLANS. 7901 Wisconsin AVE Fl-3 Bethesda, MD 20814",
       "addeddate": "2025-12-16T09:12:53.000",
       "issueddate": "2026-03-13T08:03:01.000",
       "finaleddate": "",
@@ -6873,7 +7281,7 @@
     },
     {
       "location": "7030 WISCONSIN AVE\nCHEVY CHASE, MD 20815\n(38.97977, -77.09214)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$25,000",
       "declaredvaluation_num": 25000.0,
@@ -6883,10 +7291,10 @@
       "description": "Revision ,1 - Revise the mechanical plan only. The HVAC system is existing and was already identified as existing in the mechanical schedule. However, the mechanical layout incorrectly labeled the HVAC equipment as (N) New.\n\nRevise the mechanical layout to correctly indicate the HVAC equipment as (E) Existing.\n\nNo changes are being made to the existing HVAC system.,Customer Wants To Use ePlansCustomer Wants To Use ePlans,New tenant layout, 8 barber station, 3 shampoo sink, new office and breakroom",
       "addeddate": "2025-12-14T09:12:32.000",
       "issueddate": "2026-05-15T02:05:44.000",
-      "finaleddate": "",
+      "finaleddate": "2026-11-16T11:11:22.000",
       "addeddate_raw": "2025-12-14T09:12:32.000",
       "issueddate_raw": "2026-05-15T02:05:44.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-11-16T11:11:22.000"
     },
     {
       "location": "7700 OLD GEORGETOWN RD\nBETHESDA, MD 20814\n(38.98638, -77.09747)",
@@ -9303,7 +9711,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "7610 CARROLL AVE\nTAKOMA PARK, MD 20912\n(38.98454, -77.00026)",
+      "location": "7610 CARROLL AVE\nTAKOMA PARK, MD 20912\n(38.98453, -77.00029)",
       "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$65,565",
@@ -9311,7 +9719,7 @@
       "buildingarea": "1,457 sf",
       "buildingarea_num": 1457.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans Interior work only,ALTERATIONS TO THE EXISTING TENANT SUITE 110 TO CREATE A OPERATING ROOM AND PACU AREA WITH CEILING MOUNTED CURTAIN TRACKS. DEMOLITION INCLUDES REMOVAL OF SOME PARTITIONS. NEW WORK INCLUDES, FINISHES, MINOR ELECTRICAL/ LIGHTING, MECHANICAL, AND FIRE ALARM COMPONENTS. ANY CHANGES OR ALTERATIONS TO THE FIRE PROTECTION SHALL BE UNDER SEPARATE PERMIT.",
+      "description": "Revision ,1 - Addendum to approved permit, added waiting room, some plumbing and electrical changes,Customer Wants To Use ePlansCustomer Wants To Use ePlans Interior work only,ALTERATIONS TO THE EXISTING TENANT SUITE 110 TO CREATE A OPERATING ROOM AND PACU AREA WITH CEILING MOUNTED CURTAIN TRACKS. DEMOLITION INCLUDES REMOVAL OF SOME PARTITIONS. NEW WORK INCLUDES, FINISHES, MINOR ELECTRICAL/ LIGHTING, MECHANICAL, AND FIRE ALARM COMPONENTS. ANY CHANGES OR ALTERATIONS TO THE FIRE PROTECTION SHALL BE UNDER SEPARATE PERMIT.",
       "addeddate": "2025-09-02T04:09:02.000",
       "issueddate": "2026-08-26T10:08:38.000",
       "finaleddate": "",
@@ -10902,7 +11310,7 @@
     },
     {
       "location": "14900 BROSCHART RD\nROCKVILLE, MD 20850\n(39.09965, -77.20152)",
-      "status": "Issued",
+      "status": "Stop Work",
       "usecode": "INDUSTRIAL BUILDING",
       "declaredvaluation": "$130,420",
       "declaredvaluation_num": 130420.0,
@@ -10952,7 +11360,7 @@
       "finaleddate_raw": "2026-02-25T01:02:20.000"
     },
     {
-      "location": "1 DISCOVERY PL\nSILVER SPRING, MD 20910\n(38.9948, -77.02801)",
+      "location": "1 INVENTA PL\nSILVER SPRING, MD 20910",
       "status": "Open",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$500,000",
@@ -11385,7 +11793,7 @@
       "buildingarea": "7,774 sf",
       "buildingarea_num": 7774.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,Interior spec suites 8th floor. This COMMERCIAL BUILDING application is associated with the following related applications: ELECTRICAL PERMIT 1132140.",
+      "description": "Revision ,1117235 - this project has to do with correcting the previous use group it should be B for Business ,Customer Wants To Use ePlans Customer Wants To Use ePlans,Interior spec suites 8th floor.  This COMMERCIAL BUILDING application is associated with the following related applications: ELECTRICAL PERMIT 1132140.",
       "addeddate": "2025-05-15T02:05:06.000",
       "issueddate": "2025-12-12T10:12:35.000",
       "finaleddate": "",
@@ -12949,7 +13357,7 @@
       "buildingarea": "732 sf",
       "buildingarea_num": 732.0,
       "worktype": "ALTER",
-      "description": "Revision ,1 - Second floor demolition eliminated, 2nd floor retained, new egress stair provided.,Customer Wants To Use ePlansCustomer Wants To Use ePlans Interior work only,Demolish 2nd floor of single family house, convert/renovate to one story with basement office.",
+      "description": "Revision ,1 - Second floor demolition eliminated, 2nd floor retained, new egress stair provided.,Customer Wants To Use ePlans Customer Wants To Use ePlans Interior work only,Demolish 2nd floor of single family house, convert/renovate to one story with basement office.",
       "addeddate": "2025-03-03T10:03:12.000",
       "issueddate": "2025-07-24T10:07:52.000",
       "finaleddate": "",
@@ -14488,7 +14896,7 @@
       "finaleddate_raw": "2025-06-03T06:06:23.000"
     },
     {
-      "location": "15400 CALHOUN DR\nROCKVILLE, MD 20855\n(39.107296, -77.149181)",
+      "location": "15400 CALHOUN DR\nROCKVILLE, MD 20855\n(39.10706, -77.15028)",
       "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$10,000,000",
@@ -14496,7 +14904,7 @@
       "buildingarea": "100,854 sf",
       "buildingarea_num": 100854.0,
       "worktype": "CONSTRUCT",
-      "description": "Revision ,1 - Revision to building permit 1094804. ,Customer Wants To Use ePlansCustomer Wants To Use ePlans,SINGLE STORY, 100,854 SQUARE FOOT WAREHOUSE WHICH INCLUDES A 2,530 S.F. OFFICE SPACE FOR FUTURE TENANT USE.",
+      "description": "Revision ,1 - Revision to building permit 1094804. ,Customer Wants To Use ePlans Customer Wants To Use ePlans,SINGLE STORY, 100,854 SQUARE FOOT WAREHOUSE WHICH INCLUDES A 2,530 S.F. OFFICE SPACE FOR FUTURE TENANT USE.",
       "addeddate": "2024-11-26T01:11:29.000",
       "issueddate": "2025-09-18T12:09:17.000",
       "finaleddate": "",
@@ -30468,7 +30876,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "11160 VEIRS MILL\nWHEATON, MD 20902\n(39.03895, -77.05369)",
+      "location": "11160 VEIRS MILL RD\nWHEATON, MD 20902\n(39.03753, -77.05335)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$478,147",
@@ -31624,7 +32032,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "11160 VEIRS MILL\nWHEATON, MD 20902\n(39.036804013, -77.05508299)",
+      "location": "11160 VEIRS MILL RD\nWHEATON, MD 20902\n(39.03753, -77.05335)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$107,000",
@@ -32015,7 +32423,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "11160 VEIRS MILL\nWHEATON, MD 20902\n(39.036804013, -77.05508299)",
+      "location": "11160 VEIRS MILL RD\nWHEATON, MD 20902\n(39.03753, -77.05335)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$6,900,000",
@@ -43847,7 +44255,7 @@
       "finaleddate_raw": "2021-12-28T04:12:45.000"
     },
     {
-      "location": "11160 VEIRS MILL\nWHEATON, MD 20902\n(39.038338, -77.052937)",
+      "location": "11160 VEIRS MILL RD\nWHEATON, MD 20902\n(39.03753, -77.05335)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$146,288",
@@ -47417,7 +47825,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "7101 DEMOCRACY\nBETHESDA, MD 20817\n(39.0242, -77.1459)",
+      "location": "7101 DEMOCRACY BLVD\nBETHESDA, MD 20817\n(39.02311, -77.14703)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$870,000",
@@ -51922,7 +52330,7 @@
       "finaleddate_raw": "2021-02-12T12:02:38.000"
     },
     {
-      "location": "12712 ROCK CREEK MILL\nROCKVILLE, MD 20852\n(39.063831, -77.112801)",
+      "location": "12712 ROCK CREEK MILL RD\nROCKVILLE, MD 20852\n(39.06397, -77.11363)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$30,000",
@@ -60167,7 +60575,7 @@
       "finaleddate_raw": "2020-03-04T06:03:50.000"
     },
     {
-      "location": "1 DISCOVERY PL\nSILVER SPRING, MD 20910\n(38.995233001, -77.028596009)",
+      "location": "1 INVENTA PL\nSILVER SPRING, MD 20910",
       "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$1,000,000",
@@ -61527,7 +61935,7 @@
       "finaleddate_raw": "2019-12-19T03:12:34.000"
     },
     {
-      "location": "6011 EXECUTIVE\nROCKVILLE,  20854\n(39.048842, -77.122051)",
+      "location": "6011 EXECUTIVE BLVD\nROCKVILLE,  20852\n(39.05008, -77.12073)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$250,000",
@@ -78187,7 +78595,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "1 DISCOVERY PL\nSILVER SPRING, MD 20910\n(38.994829, -77.027997)",
+      "location": "1 INVENTA PL\nSILVER SPRING, MD 20910",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$750,000",
@@ -78731,7 +79139,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "6420 ROCKLEDGE\nBETHESDA, MD 20817\n(39.024646, -77.13269)",
+      "location": "6420 ROCKLEDGE DR\nBETHESDA, MD 20817\n(39.02498, -77.13332)",
       "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$168,000",
@@ -83678,7 +84086,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "5411 MCGRATH BLVD\nROCKVILLE, MD 20852\n(39.049014, -77.108142)",
+      "location": "5411 MC GRATH BLVD\nROCKVILLE, MD 20852\n(39.04898, -77.10884)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$166,000",
@@ -86891,7 +87299,7 @@
       "finaleddate_raw": "2017-08-31T08:08:32.000"
     },
     {
-      "location": "11917 MAPLE AVE\nROCKVILLE, MD 20852\n(39.052412, -77.113186)",
+      "location": "11917 CHAPMAN AVE\nROCKVILLE, MD 20852\n(39.05281, -77.11296)",
       "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$56,840",
@@ -119072,7 +119480,7 @@
       "finaleddate_raw": "2013-02-06T05:02:33.000"
     },
     {
-      "location": "1 DISCOVERY PL\nSILVER SPRING, MD 20910\n(38.994796, -77.028019)",
+      "location": "1 INVENTA PL\nSILVER SPRING, MD 20910",
       "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$650,000",
@@ -119837,7 +120245,7 @@
       "finaleddate_raw": "2012-10-16T05:10:26.000"
     },
     {
-      "location": "12500 PARK POTOMAC\nPOTOMAC, MD 20854\n(39.060141, -77.157789)",
+      "location": "12500 PARK POTOMAC AVE\nPOTOMAC, MD 20854\n(39.06077, -77.15795)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$296,072",
@@ -121928,7 +122336,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "15901 COLUMBIA PIKE\nBURTONSVILLE, MD 20866\n(39.118714, -76.931619)",
+      "location": "15901 OLD COLUMBIA PIKE\nBURTONSVILLE, MD 20866\n(39.11926, -76.9312)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$15,000",
@@ -123951,7 +124359,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "1 DISCOVERY PL\nSILVER SPRING, MD 20910\n(38.994796, -77.028019)",
+      "location": "1 INVENTA PL\nSILVER SPRING, MD 20910",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$170,500",
@@ -127436,7 +127844,7 @@
       "finaleddate_raw": "2011-11-15T02:11:29.000"
     },
     {
-      "location": "1 DISCOVERY PL\nSILVER SPRING, MD 20910\n(38.994796, -77.028019)",
+      "location": "1 INVENTA PL\nSILVER SPRING, MD 20910",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$85,000",
@@ -130241,7 +130649,7 @@
       "finaleddate_raw": "2011-07-29T12:07:00.000"
     },
     {
-      "location": "1 DISCOVERY PL\nSILVER SPRING, MD 20910\n(38.994796, -77.028019)",
+      "location": "1 INVENTA PL\nSILVER SPRING, MD 20910",
       "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$100,000",
@@ -131805,7 +132213,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "1 DISCOVERY PL\nSILVER SPRING, MD 20910\n(38.994796, -77.028019)",
+      "location": "1 INVENTA PL\nSILVER SPRING, MD 20910",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$55,000",
@@ -133403,7 +133811,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "1 DISCOVERY PL\nSILVER SPRING, MD 20910\n(38.994796, -77.028019)",
+      "location": "1 INVENTA PL\nSILVER SPRING, MD 20910",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$500,000",
@@ -137857,7 +138265,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "1 DISCOVERY PL\nSILVER SPRING, MD 20910\n(38.994796, -77.028019)",
+      "location": "1 INVENTA PL\nSILVER SPRING, MD 20910",
       "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$136,500",
@@ -147445,7 +147853,7 @@
       "finaleddate_raw": "2008-12-23T10:12:00.000"
     },
     {
-      "location": "1 DISCOVERY PL\nSILVER SPRING, MD 20910\n(38.994796, -77.028019)",
+      "location": "1 INVENTA PL\nSILVER SPRING, MD 20910",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$121,697",
@@ -149213,7 +149621,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "1 DISCOVERY PL\nSILVER SPRING, MD 20910\n(38.994796, -77.028019)",
+      "location": "1 INVENTA PL\nSILVER SPRING, MD 20910",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$1,500,000",
@@ -150811,7 +151219,7 @@
       "finaleddate_raw": "2007-09-20T02:09:00.000"
     },
     {
-      "location": "11916 MAPLE AVE\nROCKVILLE, MD 20852\n(39.052527, -77.113243)",
+      "location": "11916 CHAPMAN AVE\nROCKVILLE, MD 20852\n(39.05043, -77.11121)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "—",
@@ -162881,7 +163289,7 @@
       "finaleddate_raw": "2004-06-03T10:06:00.000"
     },
     {
-      "location": "11912 MAPLE AVE\nROCKVILLE, MD 20852\n(39.052338, -77.113149)",
+      "location": "11912 CHAPMAN AVE\nROCKVILLE, MD 20852\n(39.05042, -77.11121)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "—",
@@ -167505,7 +167913,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "1 DISCOVERY PL\nSILVER SPRING, MD 20910\n(38.994796, -77.028019)",
+      "location": "1 INVENTA PL\nSILVER SPRING, MD 20910",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$20,000",
@@ -167794,7 +168202,7 @@
       "finaleddate_raw": "2003-05-06T01:05:00.000"
     },
     {
-      "location": "1 DISCOVERY PL\nSILVER SPRING, MD 20910\n(38.994796, -77.028019)",
+      "location": "1 INVENTA PL\nSILVER SPRING, MD 20910",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$50,000",
@@ -168151,7 +168559,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "1 DISCOVERY PL\nSILVER SPRING, MD 20910\n(38.994796, -77.028019)",
+      "location": "1 INVENTA PL\nSILVER SPRING, MD 20910",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$20,000",
@@ -169732,7 +170140,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "1 DISCOVERY PL\nSILVER SPRING, MD 20910\n(38.994796, -77.028019)",
+      "location": "1 INVENTA PL\nSILVER SPRING, MD 20910",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$200,000",
@@ -171058,7 +171466,7 @@
       "finaleddate_raw": "2004-03-11T01:03:00.000"
     },
     {
-      "location": "11920 MAPLE AVE\nROCKVILLE, MD 20852\n(39.052654, -77.113307)",
+      "location": "11920 CHAPMAN AVE\nROCKVILLE, MD 20852\n(39.05044, -77.11121)",
       "status": "Stop Work",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$100,000",
@@ -171075,7 +171483,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "11916 MAPLE AVE\nROCKVILLE, MD 20852\n(39.052527, -77.113243)",
+      "location": "11916 CHAPMAN AVE\nROCKVILLE, MD 20852\n(39.05043, -77.11121)",
       "status": "Stop Work",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$100,000",
@@ -172095,7 +172503,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "1 DISCOVERY PL\nSILVER SPRING, MD 20910\n(38.994796, -77.028019)",
+      "location": "1 INVENTA PL\nSILVER SPRING, MD 20910",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$18,000,000",
