@@ -1,8 +1,25 @@
 {
-  "last_updated": "2026-11-19T22:39:40.159658+00:00",
+  "last_updated": "2026-11-20T22:14:42.777824+00:00",
   "source_dataset": "i26v-w6bd",
   "record_count": 10730,
   "permits": [
+    {
+      "location": "9707 KEY WEST AVE\nROCKVILLE, MD 20850\n(39.10613, -77.20396)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$94,000",
+      "declaredvaluation_num": 94000.0,
+      "buildingarea": "16,831 sf",
+      "buildingarea_num": 16831.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,BUILD OUT OF A COMMON CORRIDOR WITHIN A CURRENT WHITEBOX SPACE. INCLUDES MODIFICATIONS TO EXSITING  MECHANICAL & ELECTRICAL SYSTEMS. SUITE # 210- 15,730 SF, COMMON CORRIDOR- 1,101 SF",
+      "addeddate": "2026-11-19T11:11:29.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-11-19T11:11:29.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "11832 COAKLEY CIR\nROCKVILLE, MD 20852\n(39.04966, -77.10291)",
       "status": "Open",
@@ -131,7 +148,7 @@
       "buildingarea": "4,184 sf",
       "buildingarea_num": 4184.0,
       "worktype": "ALTER",
-      "description": "**OVERTIME APPROVED**Customer Wants To Use ePlans Interior work only,DESCRIPTION: INTERIOR DEMOLITION OF PORTION OF 5TH FLOOR TENANT SUITE",
+      "description": "**OVERTIME APPROVED** Customer Wants To Use ePlans Interior work only,DESCRIPTION: INTERIOR DEMOLITION OF PORTION OF 5TH FLOOR TENANT SUITE",
       "addeddate": "2026-11-12T09:11:59.000",
       "issueddate": "",
       "finaleddate": "",
@@ -352,7 +369,7 @@
       "buildingarea": "723 sf",
       "buildingarea_num": 723.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,FAST TRACK** Tenant remodel to existing tenant space to include electrical work.",
+      "description": "Customer Wants To Use ePlans Interior work only,FAST TRACK** Tenant remodel to existing tenant space to include electrical work.",
       "addeddate": "2026-11-02T07:11:02.000",
       "issueddate": "",
       "finaleddate": "",
@@ -854,8 +871,8 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "",
-      "status": "Open",
+      "location": "7750 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98765, -77.09492)",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$47,741",
       "declaredvaluation_num": 47741.0,
@@ -864,10 +881,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,INTERIOR DEMOLITION ONLY, IN PREPARATION FOR WHITE BOX",
       "addeddate": "2026-10-13T11:10:54.000",
-      "issueddate": "",
+      "issueddate": "2026-11-19T12:11:23.000",
       "finaleddate": "",
       "addeddate_raw": "2026-10-13T11:10:54.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-11-19T12:11:23.000",
       "finaleddate_raw": ""
     },
     {
@@ -1178,7 +1195,7 @@
     },
     {
       "location": "11119 ROCKVILLE PIKE\nKENSINGTON, MD 20895\n(39.04084, -77.10977)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$160,000",
       "declaredvaluation_num": 160000.0,
@@ -1187,10 +1204,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only, SUITE # 500 PHASE 2: INTERIOR ALTERATIONS OF EXISTING TENANT SUITE TO ACCOMODATE A NEW WAITING AREA. SCOPE INCLUDES NEW EXAM ROOMS, WAITING ROOM &amp; ASSOCIATED MECHANICAL &amp; ELECTRICAL SYSTEMS. (PHASE 1 TENANT FIT OUT PERMIT # 1167258)",
       "addeddate": "2026-09-25T10:09:46.000",
-      "issueddate": "",
+      "issueddate": "2026-11-19T12:11:53.000",
       "finaleddate": "",
       "addeddate_raw": "2026-09-25T10:09:46.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-11-19T12:11:53.000",
       "finaleddate_raw": ""
     },
     {
@@ -2664,7 +2681,7 @@
       "buildingarea": "15,718 sf",
       "buildingarea_num": 15718.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,SUITE 250, COMMON CORRIDOR & CONFERENCE CENTER. INTERIOR FIT OUT WITHIN NEWLY DEMISED CONFERENCE CTR AMENITY SUITE. FIT OUT OF CONF ROOMS W/ BREAKOUT SPACE, PANTRY, STORAGE, & MODS TO EXISTING MEP SYSTEMS. ADDITIONAL COMMON CORRIDOR CREATED TO MEET CODE REQUIREMENTS.",
+      "description": "Customer Wants To Use ePlans Interior work only,SUITE 250, COMMON CORRIDOR &amp; CONFERENCE CENTER. INTERIOR FIT OUT WITHIN NEWLY DEMISED CONFERENCE CTR AMENITY SUITE. FIT OUT OF CONF ROOMS W/ BREAKOUT SPACE, PANTRY, STORAGE, &amp; MODS TO EXISTING MEP SYSTEMS. ADDITIONAL COMMON CORRIDOR CREATED TO MEET CODE REQUIREMENTS.",
       "addeddate": "2026-07-26T07:07:51.000",
       "issueddate": "",
       "finaleddate": "",
@@ -4738,7 +4755,7 @@
       "buildingarea": "2,389 sf",
       "buildingarea_num": 2389.0,
       "worktype": "CONSTRUCT",
-      "description": "Customer Wants To Use ePlans,Construction of a 2389 1-story building which is to serve as a vistor center and offices.",
+      "description": "Revision ,1 - Removal of Fire Alarm System and Correction of Outlet/Data Drop Quantity & Locations.,Customer Wants To Use ePlansCustomer Wants To Use ePlans,Construction of a 2389 1-story building which is to serve as a vistor center and offices.",
       "addeddate": "2026-04-13T10:04:27.000",
       "issueddate": "2026-10-02T11:10:47.000",
       "finaleddate": "",
@@ -10575,23 +10592,6 @@
       "finaleddate": "",
       "addeddate_raw": "2025-07-18T11:07:06.000",
       "issueddate_raw": "2025-11-04T08:11:33.000",
-      "finaleddate_raw": ""
-    },
-    {
-      "location": "5454 WISCONSIN AVE\nCHEVY CHASE, MD 20815\n(38.96285, -77.08677)",
-      "status": "Open",
-      "usecode": "BUSINESS BUILDING",
-      "declaredvaluation": "$400,000",
-      "declaredvaluation_num": 400000.0,
-      "buildingarea": "805 sf",
-      "buildingarea_num": 805.0,
-      "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans Interior work only,ALTERATION OF EXISTING PARKING DECK. NEW WORK TO INCLUDE REPLACEMENT OF EXISTING RAILING WITH NEW &amp; ADDITION OF NEW RAILINGS &amp; VEHICLE BARRIERS. NO CHANGES TO THE EXISTING PATH OF EGRESS.",
-      "addeddate": "2025-07-18T03:07:55.000",
-      "issueddate": "",
-      "finaleddate": "",
-      "addeddate_raw": "2025-07-18T03:07:55.000",
-      "issueddate_raw": "",
       "finaleddate_raw": ""
     },
     {
