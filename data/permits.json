@@ -1,8 +1,25 @@
 {
-  "last_updated": "2026-11-24T02:12:12.426726+00:00",
+  "last_updated": "2026-11-24T23:53:11.775437+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10732,
+  "record_count": 10733,
   "permits": [
+    {
+      "location": "6720 ROCKLEDGE DR\nROCKVILLE, MD 20817\n(39.02905, -77.13795)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$50,000",
+      "declaredvaluation_num": 50000.0,
+      "buildingarea": "4,120 sf",
+      "buildingarea_num": 4120.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans  Interior work only,Interior Expansion Buildout of new office space. No change in use. Scope of work is 4,120 SF including the (1) huddle room, (2) phone rooms, a copy print area with storage, open work areas, & a coffee station. All fire alarm and life safety requirements will be maintained as needed after work is completed. Modular furniture is included in this permit.",
+      "addeddate": "2026-11-23T10:11:44.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-11-23T10:11:44.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "18050 GEORGIA AVE\nOLNEY, MD 20832\n(39.15254, -77.06722)",
       "status": "Open",
@@ -553,8 +570,8 @@
       "usecode": "BIOSCIENCE",
       "declaredvaluation": "$181,150",
       "declaredvaluation_num": 181150.0,
-      "buildingarea": "200 sf",
-      "buildingarea_num": 200.0,
+      "buildingarea": "0 sf",
+      "buildingarea_num": 0,
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,This project involves the installation of 23 new 120V, 20A electrical circuits, primarily to refeed existing loads from a different source panel. The only new load is heat tracing on compressed air piping (one circuit). No new electrical distribution equipment is provided. No life safety loads are involved.",
       "addeddate": "2026-10-28T09:10:14.000",
@@ -753,7 +770,7 @@
     },
     {
       "location": "20680 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.19968, -77.25446)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$28,847",
       "declaredvaluation_num": 28847.0,
@@ -762,10 +779,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,THE TENANT DECIDE TO EXPAND THEIR SUITE BY ADDING VACANT SPACE BETWEEN (2) CURRENTLY SPACES. ADDING ADA DOOR WITH AUTOMATIC DOOR OPEN. ALSO, PROVIDE NEW OPENING IN WALL, WITH PARTIAL DEMOLITION OF MILLWORK TO CONNECT ADJACENT SUITE.",
       "addeddate": "2026-10-16T10:10:59.000",
-      "issueddate": "",
+      "issueddate": "2026-11-23T03:11:57.000",
       "finaleddate": "",
       "addeddate_raw": "2026-10-16T10:10:59.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-11-23T03:11:57.000",
       "finaleddate_raw": ""
     },
     {
@@ -1008,7 +1025,7 @@
     },
     {
       "location": "4800 HAMPDEN LN\nBETHESDA, MD 20814\n(38.98274, -77.09483)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$550,000",
       "declaredvaluation_num": 550000.0,
@@ -1017,10 +1034,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,***TO INCLUDE SYSTEMS FURNITURE*** SUITE# 700 = 4,180 SF (ECONOMETRIC A INC) SUITE# 720 = 2,325 SF (VACANT) COMMOM CORRIDOR= 904 SF",
       "addeddate": "2026-10-09T03:10:58.000",
-      "issueddate": "",
+      "issueddate": "2026-11-23T11:11:03.000",
       "finaleddate": "",
       "addeddate_raw": "2026-10-09T03:10:58.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-11-23T11:11:03.000",
       "finaleddate_raw": ""
     },
     {
@@ -1365,19 +1382,19 @@
     },
     {
       "location": "10401 OLD GEORGETOWN RD\nBETHESDA, MD 20814\n(39.02634, -77.12485)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$60,000",
       "declaredvaluation_num": 60000.0,
       "buildingarea": "100 sf",
       "buildingarea_num": 100.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,THIS PROJECT IS WITHIN AN EXISTING 3 STORY COMMERCIAL BUILDING. THE SCOPE OF WORK IS LIMITED TO THE FOLLOWING: 1) REPLACE ONE EXISTING EXTERIOR HVAC CONDENSING UNIT, 2) ADD TWO NEW INTERIOR HVAC CASSETTES.10401 OLD GEORGETOWN RD 210 BETHESDA, MD 20814Base Bid is: $148,922",
+      "description": "Customer Wants To Use ePlans,THIS PROJECT IS WITHIN AN EXISTING 3 STORY COMMERCIAL BUILDING. THE SCOPE OF WORK IS LIMITED TO THE FOLLOWING: 1) REPLACE ONE EXISTING EXTERIOR HVAC CONDENSING UNIT, 2) ADD TWO NEW INTERIOR HVAC CASSETTES.10401 OLD GEORGETOWN RD 210 BETHESDA, MD 20814",
       "addeddate": "2026-09-16T02:09:26.000",
-      "issueddate": "",
+      "issueddate": "2026-11-23T03:11:33.000",
       "finaleddate": "",
       "addeddate_raw": "2026-09-16T02:09:26.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-11-23T03:11:33.000",
       "finaleddate_raw": ""
     },
     {
@@ -1398,7 +1415,7 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "",
+      "location": "1 INVENTA PL\nSILVER SPRING, MD 20910",
       "status": "Open",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$365,000",
@@ -2171,7 +2188,7 @@
       "buildingarea": "6,500 sf",
       "buildingarea_num": 6500.0,
       "worktype": "BUILD FOUNDATION",
-      "description": "Customer Wants To Use ePlans,Foundation Only permit including geo-piers and slabs on grade",
+      "description": "Customer Wants To Use ePlans,Foundation Only permit including slabs on grade.&nbsp; Ground improvements under separate permit.",
       "addeddate": "2026-08-07T03:08:59.000",
       "issueddate": "",
       "finaleddate": "",
@@ -3099,19 +3116,19 @@
     },
     {
       "location": "19544 AMARANTH DR\nGERMANTOWN, MD 20874\n(39.17627, -77.25172)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$25,000",
       "declaredvaluation_num": 25000.0,
       "buildingarea": "0 sf",
       "buildingarea_num": 0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,Remove and infill floor at an existing spiral stair",
+      "description": "Customer Wants To Use ePlans Interior work only,Remove and infill floor at an existing spiral stair",
       "addeddate": "2026-07-10T03:07:54.000",
-      "issueddate": "",
+      "issueddate": "2026-11-23T10:11:50.000",
       "finaleddate": "",
       "addeddate_raw": "2026-07-10T03:07:54.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-11-23T10:11:50.000",
       "finaleddate_raw": ""
     },
     {
@@ -4051,7 +4068,7 @@
     },
     {
       "location": "12210 PLUM ORCHARD DR\nSILVER SPRING, MD 20904\n(39.05757, -76.95738)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$250,000",
       "declaredvaluation_num": 250000.0,
@@ -4061,10 +4078,10 @@
       "description": "Customer Wants To Use ePlans,SUITE 217 � THE WORK CONSISTS OF NEW CONSTRUCTION FOR A NEW MEDICAL OFFICE TENANT. THE EXISTING SUITE CONDITION IS A FULLY BUILT OUT OFFICE SPACE. NEW WORK WILL INCLUDE COMPLETE CONSTRUCTION OF PARTITIONS, CEILINGS AND MILLWORK AS SHOWN IN THE PLANS. THE SUITE SHALL RECEIVE NEW FINISHES AND LIGHTING FIXTURES. NEW ELECTRICAL AND PLUMBING WORK WILL BE DONE. EXISTING MECHANICAL SYSTEMS SHALL BE MODIFIED AND NEW COMPONENTS PROVIDED TO SUPPORT THE NEW BUILD-OUT AS REQUIRED. U&amp;O #424202",
       "addeddate": "2026-05-14T10:05:51.000",
       "issueddate": "2026-07-06T11:07:55.000",
-      "finaleddate": "",
+      "finaleddate": "2026-11-23T12:11:17.000",
       "addeddate_raw": "2026-05-14T10:05:51.000",
       "issueddate_raw": "2026-07-06T11:07:55.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-11-23T12:11:17.000"
     },
     {
       "location": "13038 MIDDLEBROOK RD\nGERMANTOWN, MD 20874\n(39.18117, -77.27179)",
