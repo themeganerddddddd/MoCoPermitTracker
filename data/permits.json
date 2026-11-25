@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T23:53:11.775437+00:00",
+  "last_updated": "2026-11-25T23:36:30.326468+00:00",
   "source_dataset": "i26v-w6bd",
   "record_count": 10733,
   "permits": [
@@ -12,7 +12,7 @@
       "buildingarea": "4,120 sf",
       "buildingarea_num": 4120.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,Interior Expansion Buildout of new office space. No change in use. Scope of work is 4,120 SF including the (1) huddle room, (2) phone rooms, a copy print area with storage, open work areas, & a coffee station. All fire alarm and life safety requirements will be maintained as needed after work is completed. Modular furniture is included in this permit.",
+      "description": "Customer Wants To Use ePlans Interior work only,Interior Expansion Buildout of new office space. No change in use. Scope of work is 4,120 SF including the (1) huddle room, (2) phone rooms, a copy print area with storage, open work areas, &amp; a coffee station. All fire alarm and life safety requirements will be maintained as needed after work is completed. Modular furniture is included in this permit.",
       "addeddate": "2026-11-23T10:11:44.000",
       "issueddate": "",
       "finaleddate": "",
@@ -97,7 +97,7 @@
       "buildingarea": "6,810 sf",
       "buildingarea_num": 6810.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans  Interior work only,INTERIOR RENOVATION OF EXISTING SUITE 1100 ON THE 11TH FLOOR. NON STRUCTURAL DEMOLITION, AND NEW ELECTRICAL, AND MECHANICAL WORK",
+      "description": "Customer Wants To Use ePlans Interior work only,INTERIOR RENOVATION OF EXISTING SUITE 1100 ON THE 11TH FLOOR. NON STRUCTURAL DEMOLITION, AND NEW ELECTRICAL, AND MECHANICAL WORK",
       "addeddate": "2026-11-18T11:11:04.000",
       "issueddate": "",
       "finaleddate": "",
@@ -981,7 +981,7 @@
       "buildingarea": "500 sf",
       "buildingarea_num": 500.0,
       "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,SPEC SUITES 310, 320 &amp; 330. TENANT IMPROVEMENT INCLUDING: SELECTIVE PARTITION, ELECTRICAL, CEILING, FINISHES, &amp; LIFE SAFETY *** this permit covers a partial-floor interior tenant fit-out on the 3rd floor (SUITE 310)&nbsp;including construction of a new demising partition to separate the incoming tenant�s premises from the remaining floor area. Work also includes selectivemodifications to interior partitions, electrical systems, ceilings and life safety systems. The remaining vacant space will be subject to a separate permit submission upon identification of a future tenant.&nbsp;***",
+      "description": "Customer Wants To Use ePlans,SPEC SUITES 310, 320 &amp; 330. TENANT IMPROVEMENT INCLUDING: SELECTIVE PARTITION, ELECTRICAL, CEILING, FINISHES, &amp; LIFE SAFETY *** this permit covers a partial-floor interior tenant fit-out on the 3rd floor (SUITE 310)&nbsp;including construction of a new demising partition to separate the incoming tenant�s premises from the remaining floor area. Work also includes selective modifications to interior partitions, electrical systems, ceilings and life safety systems. The remaining vacant space will be subject to a separate permit submission upon identification of a future tenant.&nbsp;***",
       "addeddate": "2026-10-12T11:10:29.000",
       "issueddate": "",
       "finaleddate": "",
@@ -3184,7 +3184,7 @@
     },
     {
       "location": "4401 EAST WEST HWY\nBETHESDA, MD 20814\n(38.98526, -77.0896)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$37,000",
       "declaredvaluation_num": 37000.0,
@@ -3194,10 +3194,10 @@
       "description": "Customer Wants To Use ePlans,PLEASE SUBMIT THIS PROJECT TO COMMERICAL FAST TRACK FOR REVIEW NO CHANGE IN USE (WAS &amp; WILL REMAIN BUSINESS USE)",
       "addeddate": "2026-07-02T11:07:17.000",
       "issueddate": "2026-08-25T02:08:37.000",
-      "finaleddate": "",
+      "finaleddate": "2026-11-24T10:11:32.000",
       "addeddate_raw": "2026-07-02T11:07:17.000",
       "issueddate_raw": "2026-08-25T02:08:37.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-11-24T10:11:32.000"
     },
     {
       "location": "11119 ROCKVILLE PIKE\nKENSINGTON, MD 20895\n(39.04084, -77.10977)",
@@ -16613,8 +16613,8 @@
       "finaleddate_raw": ""
     },
     {
-      "location": "8615 GEORGIA AVE\nSILVER SPRING, MD 20910\n(38.99621, -77.02836)",
-      "status": "Issued",
+      "location": "8615 GEORGIA AVE\nSILVER SPRING, MD 20910\n(38.99703, -77.0285)",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$299,793",
       "declaredvaluation_num": 299793.0,
@@ -16624,10 +16624,10 @@
       "description": "Customer Wants To Use ePlans,This is the retail core-shell section of&nbsp;the open parking garage,&nbsp;which is under&nbsp;parent permit# 1081393, in the front area of the first floor.",
       "addeddate": "2024-09-12T08:09:45.000",
       "issueddate": "2025-03-17T02:03:51.000",
-      "finaleddate": "",
+      "finaleddate": "2026-11-24T08:11:10.000",
       "addeddate_raw": "2024-09-12T08:09:45.000",
       "issueddate_raw": "2025-03-17T02:03:51.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-11-24T08:11:10.000"
     },
     {
       "location": "11564 OLD GEORGETOWN RD\nROCKVILLE, MD 20852\n(39.04708, -77.11973)",
@@ -25011,23 +25011,6 @@
       "finaleddate_raw": "2023-11-17T01:11:33.000"
     },
     {
-      "location": "20451 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.192795003, -77.256531975)",
-      "status": "Finaled",
-      "usecode": "BIOSCIENCE",
-      "declaredvaluation": "$1,730,000",
-      "declaredvaluation_num": 1730000.0,
-      "buildingarea": "11,270 sf",
-      "buildingarea_num": 11270.0,
-      "worktype": "ALTER",
-      "description": "Customer Wants To Use ePlans,Interior alterations to existing single tenant lab space, restrooms &amp; office spaces, including new ceilings, interior finishes, partitions, doors &amp; frames &amp; millwork. Tenant is supplying furniture &amp;, equipment. Work includes plumbing, mechanical &amp; electrical. No structural work.",
-      "addeddate": "2023-07-26T10:07:49.000",
-      "issueddate": "2023-11-07T10:11:44.000",
-      "finaleddate": "2024-02-05T01:02:22.000",
-      "addeddate_raw": "2023-07-26T10:07:49.000",
-      "issueddate_raw": "2023-11-07T10:11:44.000",
-      "finaleddate_raw": "2024-02-05T01:02:22.000"
-    },
-    {
       "location": "7700 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98679, -77.09474)",
       "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
@@ -25043,6 +25026,23 @@
       "addeddate_raw": "2023-07-26T10:07:49.000",
       "issueddate_raw": "2023-08-03T10:08:55.000",
       "finaleddate_raw": "2023-08-17T07:08:01.000"
+    },
+    {
+      "location": "20451 SENECA MEADOWS PKWY\nGERMANTOWN, MD 20876\n(39.192795003, -77.256531975)",
+      "status": "Finaled",
+      "usecode": "BIOSCIENCE",
+      "declaredvaluation": "$1,730,000",
+      "declaredvaluation_num": 1730000.0,
+      "buildingarea": "11,270 sf",
+      "buildingarea_num": 11270.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,Interior alterations to existing single tenant lab space, restrooms &amp; office spaces, including new ceilings, interior finishes, partitions, doors &amp; frames &amp; millwork. Tenant is supplying furniture &amp;, equipment. Work includes plumbing, mechanical &amp; electrical. No structural work.",
+      "addeddate": "2023-07-26T10:07:49.000",
+      "issueddate": "2023-11-07T10:11:44.000",
+      "finaleddate": "2024-02-05T01:02:22.000",
+      "addeddate_raw": "2023-07-26T10:07:49.000",
+      "issueddate_raw": "2023-11-07T10:11:44.000",
+      "finaleddate_raw": "2024-02-05T01:02:22.000"
     },
     {
       "location": "6169 EXECUTIVE BLVD\nROCKVILLE, MD 20852\n(39.049774003, -77.125105996)",
