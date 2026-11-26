@@ -1,8 +1,42 @@
 {
-  "last_updated": "2026-11-25T23:36:30.326468+00:00",
+  "last_updated": "2026-11-26T23:50:43.686838+00:00",
   "source_dataset": "i26v-w6bd",
-  "record_count": 10733,
+  "record_count": 10735,
   "permits": [
+    {
+      "location": "3211 AUTOMOBILE BLVD\nSILVER SPRING, MD 20904\n(39.07918, -76.94582)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$112,000",
+      "declaredvaluation_num": 112000.0,
+      "buildingarea": "1,600 sf",
+      "buildingarea_num": 1600.0,
+      "worktype": "ADD",
+      "description": "Customer Wants To Use ePlans,Install new BGE service to power (3) new electric car chargers with foundation and bollards..",
+      "addeddate": "2026-11-25T09:11:03.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-11-25T09:11:03.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
+    {
+      "location": "6400 GOLDSBORO RD\nBETHESDA, MD 20816\n(38.97023, -77.12939)",
+      "status": "Open",
+      "usecode": "BUSINESS BUILDING",
+      "declaredvaluation": "$250,000",
+      "declaredvaluation_num": 250000.0,
+      "buildingarea": "3,407 sf",
+      "buildingarea_num": 3407.0,
+      "worktype": "ALTER",
+      "description": "Customer Wants To Use ePlans,New interior alteration including MEP, no structural",
+      "addeddate": "2026-11-25T05:11:00.000",
+      "issueddate": "",
+      "finaleddate": "",
+      "addeddate_raw": "2026-11-25T05:11:00.000",
+      "issueddate_raw": "",
+      "finaleddate_raw": ""
+    },
     {
       "location": "6720 ROCKLEDGE DR\nROCKVILLE, MD 20817\n(39.02905, -77.13795)",
       "status": "Open",
@@ -90,7 +124,7 @@
     },
     {
       "location": "915 MEETING ST\nROCKVILLE, MD 20852\n(39.05064, -77.11562)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$160,397",
       "declaredvaluation_num": 160397.0,
@@ -99,10 +133,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,INTERIOR RENOVATION OF EXISTING SUITE 1100 ON THE 11TH FLOOR. NON STRUCTURAL DEMOLITION, AND NEW ELECTRICAL, AND MECHANICAL WORK",
       "addeddate": "2026-11-18T11:11:04.000",
-      "issueddate": "",
+      "issueddate": "2026-11-25T07:11:14.000",
       "finaleddate": "",
       "addeddate_raw": "2026-11-18T11:11:04.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-11-25T07:11:14.000",
       "finaleddate_raw": ""
     },
     {
@@ -1824,7 +1858,7 @@
     },
     {
       "location": "12125 VEIRS MILL RD\nSILVER SPRING, MD 20902\n(39.05552, -77.08132)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$199,241",
       "declaredvaluation_num": 199241.0,
@@ -1833,10 +1867,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans,INTERIOR ALTERATIONS TO 1ST FLOOR AREA (SUITE A), INCLUDING TENANT FIT OUT INTO BEAUTY SALON SUITES. MEP AS REQUIRED. TOTAL SCOPE OF WORK: 3,432 SF",
       "addeddate": "2026-08-28T03:08:06.000",
-      "issueddate": "",
+      "issueddate": "2026-11-25T03:11:07.000",
       "finaleddate": "",
       "addeddate_raw": "2026-08-28T03:08:06.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-11-25T03:11:07.000",
       "finaleddate_raw": ""
     },
     {
@@ -2402,7 +2436,7 @@
     },
     {
       "location": "7272 WISCONSIN AVE\nBETHESDA, MD 20814\n(38.98217, -77.09324)",
-      "status": "Open",
+      "status": "Issued",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$3,760,640",
       "declaredvaluation_num": 3760640.0,
@@ -2411,10 +2445,10 @@
       "worktype": "ALTER",
       "description": "Customer Wants To Use ePlans Interior work only,FULL FLOOR INTERIOR FIT-OUT IN AN EXISTING OFFICE BUILDING. DEMOLITION SCOPE IS PERMITTED BY LANDLORD UNDER A SEPARATE PERMIT SUBMISSION.",
       "addeddate": "2026-08-04T07:08:00.000",
-      "issueddate": "",
+      "issueddate": "2026-11-25T11:11:29.000",
       "finaleddate": "",
       "addeddate_raw": "2026-08-04T07:08:00.000",
-      "issueddate_raw": "",
+      "issueddate_raw": "2026-11-25T11:11:29.000",
       "finaleddate_raw": ""
     },
     {
@@ -3133,7 +3167,7 @@
     },
     {
       "location": "6710 ROCKLEDGE DR\nBETHESDA, MD 20817\n(39.02921, -77.13481)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$500,000",
       "declaredvaluation_num": 500000.0,
@@ -3143,10 +3177,10 @@
       "description": "Customer Wants To Use ePlans,Electrical upgrade for existing tenant",
       "addeddate": "2026-07-10T02:07:25.000",
       "issueddate": "2026-09-08T02:09:35.000",
-      "finaleddate": "",
+      "finaleddate": "2026-11-25T12:11:45.000",
       "addeddate_raw": "2026-07-10T02:07:25.000",
       "issueddate_raw": "2026-09-08T02:09:35.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-11-25T12:11:45.000"
     },
     {
       "location": "7500 OLD GEORGETOWN RD\nBETHESDA, MD 20814\n(38.98528, -77.09512)",
@@ -4034,7 +4068,7 @@
     },
     {
       "location": "5413 CEDAR LN\nBETHESDA, MD 20814\n(39.00568, -77.10847)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$0",
       "declaredvaluation_num": 0,
@@ -4044,10 +4078,10 @@
       "description": "Revision ,1 - The ductwork on the mechanical plan was revised due to ceiling and plenum heights in the space.,Customer Wants To Use ePlansCustomer Wants To Use ePlans,INTERIOR ALTERATION FOR A NEW TENANT TO THE BUILDING. *** TENANT SUITE NUMBER IS (106-C) ON THE FIRST FLOOR ***",
       "addeddate": "2026-05-15T11:05:29.000",
       "issueddate": "2026-07-21T08:07:17.000",
-      "finaleddate": "",
+      "finaleddate": "2026-11-25T10:11:09.000",
       "addeddate_raw": "2026-05-15T11:05:29.000",
       "issueddate_raw": "2026-07-21T08:07:17.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-11-25T10:11:09.000"
     },
     {
       "location": "11160 VEIRS MILL RD\nWHEATON, MD 20902\n(39.03753, -77.05335)",
@@ -6890,7 +6924,7 @@
     },
     {
       "location": "4800 HAMPDEN LN\nBETHESDA, MD 20814\n(38.98274, -77.09483)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$463,000",
       "declaredvaluation_num": 463000.0,
@@ -6900,10 +6934,10 @@
       "description": "Revision ,2 - REVISION #2- BASED ON FIELD CONDITIONS,Customer Wants To Use ePlansRevision ,1 - The plan changes issued under Bulletin #1 - Clouded Delta 1 dated 7/02/26 have been made at the request of the future tenants. Suite 1120 (currently shell space) is to be demised to create Suite 1140. They include changes to the Architectural, Mechanical, Electrical Plans. *** (SUITE 1120 =&nbsp;1,183 SF; SUITE 1140 = 996 SF;&nbsp;SUITE 1160 = 797 SF) ***&nbsp;,Customer Wants To Use ePlans Customer Wants To Use ePlans Interior work only,SUITE 1120 = 2,190 SF SUITE 1160 = 797 SF TENANT FITOUT OF SPEC SUITES WITHIN EXISTING DEMISED WHITEBOX SUITES. RENOVATIONS INCLUDE MODIFICATIONS TO EXISTING MEP SYSTEMS.",
       "addeddate": "2026-01-15T05:01:57.000",
       "issueddate": "2026-02-24T11:02:09.000",
-      "finaleddate": "",
+      "finaleddate": "2026-11-25T10:11:59.000",
       "addeddate_raw": "2026-01-15T05:01:57.000",
       "issueddate_raw": "2026-02-24T11:02:09.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-11-25T10:11:59.000"
     },
     {
       "location": "7500 MAPLE AVE\nTAKOMA PARK, MD 20912\n(38.98189, -77.01021)",
@@ -11888,7 +11922,7 @@
     },
     {
       "location": "4520 EAST WEST HWY\nBETHESDA, MD 20814\n(38.98492, -77.09204)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$1,020,000",
       "declaredvaluation_num": 1020000.0,
@@ -11898,10 +11932,10 @@
       "description": "Revision ,1117235 - this project has to do with correcting the previous use group it should be B for Business ,Customer Wants To Use ePlans Customer Wants To Use ePlans,Interior spec suites 8th floor.  This COMMERCIAL BUILDING application is associated with the following related applications: ELECTRICAL PERMIT 1132140.",
       "addeddate": "2025-05-15T02:05:06.000",
       "issueddate": "2025-12-12T10:12:35.000",
-      "finaleddate": "",
+      "finaleddate": "2026-11-25T11:11:49.000",
       "addeddate_raw": "2025-05-15T02:05:06.000",
       "issueddate_raw": "2025-12-12T10:12:35.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-11-25T11:11:49.000"
     },
     {
       "location": "1308 EAST WEST HWY\nSILVER SPRING, MD 20910\n(38.99277, -77.03195)",
@@ -19232,7 +19266,7 @@
     },
     {
       "location": "11430 FALLS RD\nPOTOMAC, MD 20854\n(39.04397, -77.19338)",
-      "status": "Issued",
+      "status": "Finaled",
       "usecode": "BUSINESS BUILDING",
       "declaredvaluation": "$293,750",
       "declaredvaluation_num": 293750.0,
@@ -19242,10 +19276,10 @@
       "description": "Revision ,2 - Updates to MEP work.,Customer Wants To Use ePlansRevision ,1 - Architectural & MEP updates including HVAC, layouts, controls, and schedules,Customer Wants To Use ePlansCustomer Wants To Use ePlans,The scope of this project is to renovate approximately 1,330 square feet of Rockville Fire Station #33 to include five single-user shower/restroom spaces, a locker room, a janitor�s closet, a laundry room, and the renovation of two offices. The building, constructed circa 1970, has locker rooms that have not changed much since the initial construction. The intent of the renovation is to support the current fire station program. The MEP systems will be reconfigured to accommodate the proposed layout.",
       "addeddate": "2024-05-22T02:05:23.000",
       "issueddate": "2025-06-30T02:06:43.000",
-      "finaleddate": "",
+      "finaleddate": "2026-11-25T11:11:14.000",
       "addeddate_raw": "2024-05-22T02:05:23.000",
       "issueddate_raw": "2025-06-30T02:06:43.000",
-      "finaleddate_raw": ""
+      "finaleddate_raw": "2026-11-25T11:11:14.000"
     },
     {
       "location": "9809 MAIN ST\nDAMASCUS, MD 20872\n(39.28788, -77.20233)",
